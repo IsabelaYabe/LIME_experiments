@@ -1,0 +1,1082 @@
+[p] 
+Slate    
+Sign In Sign Up
+Bad Astronomy
+The entire universe in blog form
+[nh_charon_]
+
+Jan. 23 2016 9:30 AM
+
+Charon by Plutolight
+
+By Phil Plait
+
+In a long list of really unusual images of Pluto’s big moon Charon taken by the
+New Horizons spacecraft, the one above may be the unusualest. And most poetic.
+
+It’s Charon, lit by Plutolight.
+
+Advertisement
+
+Let me explain.
+
+Pluto is so far from the Sun — three billion kilometers — that to it, the Earth
+and Sun are basically in the same direction. Even though the probe picked up a
+boost by swinging past Jupiter, it still is on a trajectory that’s basically
+pointing away from the Sun.
+
+So it passed through the Pluto system nearly perpendicular to the orbital plane
+of the moons, like a dart thrown at a dartboard. Here’s a diagram showing its
+path:
+
+probe path The trajectory of New Horizons through the Pluto system.
+
+Photo by NASA / JHUAPL / SwRI
+
+Once it passed Pluto and Charon, New Horizons spun around to see them backlit
+by the Sun (that’s how the phenomenal images of Pluto’s atmosphere and haze
+layers were taken). That was on July 15, 2015. Two days later the spacecraft
+was over two million kilometers past the system, five times the distance of the
+Earth to the Moon. From that angle, both objects looked like thin crescents
+from New Horizons. In the Charon picture, you can see the bright slice of the
+moon lit by the Sun.
+
+However, if you were standing on Charon’s surface on the night side facing
+Pluto, the sky would have been dominated by Pluto itself, looking roughly half
+full. Even though the Sun is far away, and only feebly illuminates Pluto, the
+tiny world is highly reflective. The sunlight bounced off its surface and lit
+up the night side of Charon. That light was then reflected into space, with
+some of it collected by New Horizons’ camera. That’s why the night side of
+Charon is faintly aglow. That’s Plutolight!
+
+The same thing happens with our Earth and Moon, when you see the dark side of
+the new Moon faintly glowing. That’s Earthlight, sunlight reflected off Earth,
+which hits the Moon, and then reflects back to us on Earth (it happens with
+Saturn’s moons, too). This phenomenon is sometimes called “the old Moon in the
+New Moon’s arms”.
+
+Incidentally, this is a view of Charon we can never get from Earth. We always
+see it and Pluto fully lit, their dark sides facing away from us, hidden away.
+
+So here we have the old Charon in the new Charon’s arms, due to the gentle and
+whisper-thin light from Pluto aiding the brighter but still cold light from the
+far distant Sun, a visage never before seen by those of us on our warm, blue
+world, so far in toward the light.
+
+The New Horizons mission was all about science. But it comes with a bonus of
+poetry, as all science does.
+
+  
+ 
+[crashcours]
+
+Jan. 22 2016 9:15 AM
+
+Crash Course Astronomy: Everything, the Universe … and Life
+
+By Phil Plait
+
+So.
+
+Forty-eight episodes, more than eight hours of content, 100,000 words, a year
+and a half of work, topics ranging from quantum fluctuations to the death of
+the Universe, and 12 million views … finally, here we are.
+
+Advertisement
+
+The final episode of Crash Course Astronomy.
+
+When I put together the syllabus for the show, I found it helped to be flexible
+as the scripts got written; galaxies got split into two episodes, as did
+cosmology (at least, dark matter and energy). We had 45 episodes listed for a
+long time, and I left one slot open Just in Case. And then, last summer, I
+figured out what it should cover and placed it as the final one in the series,
+because that’s where it should be.
+
+So I present to you the final episode of Crash Course Astronomy: Everything,
+the Universe ... and Life.
+
+I think I pretty much covered how I feel about UFOs in this episode—that is,
+dismissive until actual evidence shows up. If you want more, I’ve written about
+this before, and answered a question during a public talk about it, too.
+
+Still, it’s fun to think about alien life, and while I wrote about it in my
+book Death From the Skies! (in the context of how aliens might attack us,
+including the likelihood of infestation of alien viruses and bacteria), it’s a
+rich vein, and I really enjoyed writing this episode, especially since I could
+include a bit about my old friend Seth Shostak.
+
+If there’s life in space, we may know soon, whether it’s from intelligent
+species who want to chat, or being able to detect biological signatures in the
+atmospheres of exoplanets. I expect that it won’t be a big, sudden announcement
+like it usually is in the movies, but more of a “what have we got here” kind of
+thing, slowly building more evidence over time.
+
+Either way, what a time that will be.
+
+But my time, Crash Course speaking, is up. With a full series behind me, it’s
+time to move on to whatever’s next for me (I’m working on some ideas; stay
+tuned). And if I may indulge myself …
+
+I want to thank everyone involved in making Crash Course Astronomy. That means
+Hank Green, who invited me to host; Derek Muller, who relayed the question; my
+editors Nicole Sweeney and Blake De Pastino; director Nick Jenkins; sound
+designer Michael Aranda (he scored the music based on the CC music from other
+series); my wonderful friend and science consultant Michelle Thaller; the folks
+at Thought Cafe' for their wonderful animations; and all the nerds at Sci Show 
+who put up with me sitting in their room muttering and eating up their Wi-Fi
+after we’d finish recording for the day.
+
+My biggest thanks goes out to all of you who watched the show. I hope you got
+to see a bigger picture of the Universe from it, and found a new way to
+appreciate it.
+
+Being a part of Crash Course has been an extraordinary honor, and one that I
+cherish. Thank you.
+
+  
+ 
+[roberthurt]
+
+Jan. 21 2016 9:00 AM
+
+More (and Best Yet) Evidence That Another Planet Lurks in the Dark Depths of
+Our Solar System
+
+By Phil Plait
+
+Wednesday, a pair of astronomers announced potentially very exciting news: They
+have found evidence that another, massive planet may exist in the outer solar
+system. If it exists, it is likely to have roughly 10 times the mass of Earth,
+maybe something like Neptune in size, and orbits the Sun on a tipped,
+elliptical path that never brings it any closer to the Sun than 30 billion
+kilometers (translation: It’s very far away).
+
+If it exists. This is pretty dramatic news, and a lot’s going on here. So let
+me be clear up front: The evidence they present is indirect; that is, we don’t
+have photos of the alleged planet (I’ve seen social media posts and the like
+saying a new planet has been “discovered,” and that’s simply not true). Still,
+while it’s not conclusive, the evidence is pretty compelling, and to be honest
+I think it’s far and away the best yet we’ve seen that such a planet might
+exist.^*
+
+Advertisement
+
+So. What’s going on?
+
+Neptune is the most distant known large planet from the Sun. Out past Neptune
+there’s a huge population of icy objects on various kinds of orbits. These
+objects are difficult to observe because they’re not very big and they’re very
+far away, so they’re faint. Still, quite a few have been found. The region is
+called the Kuiper belt, so we call these bodies Kuiper belt objects, or KBOs.
+
+A couple of years ago, a pair of astronomers (Chad Trujillo and Scott Sheppard)
+noticed something peculiar about the most distant of these objects we’ve been
+able to find. You’d expect them to have randomly oriented orbits, pointing in
+different directions. However, what they found instead is that they seem to all
+be oriented in a similar fashion.
+
+orbits The orbits of six KBOs, and the possible orbit of the alleged planet.
+Note how the KBOs all have roughly aligned orbits.
+
+Drawing by Batygin and Brown
+
+The drawing above shows the orbits of six of these KBOs (in purple), and you
+can see they all have their long axes roughly aligned. Moreover, several other
+aspects of their orbits also seem to be suspiciously similar (for people who
+want gory details, their arguments of perihelia are all clustered around a
+value of 0). This is incredibly unlikely to happen randomly.
+
+So another pair of astronomers, Konstantin Batygin and Mike Brown (full
+disclosure: Mike’s a friend of mine), looked into this. There are a few ways to
+get orbits to align like this, but the most likely given what’s seen is—you
+guessed it—the presence of a massive planet out beyond Neptune. They've even
+nicknamed it: Planet Nine. The idea is that the objects started out with random
+orbits, but repeated close encounters with this purported planet nudged them
+into paths that all had similar characteristics. UPDATE, Jan. 21, 2015: To be
+clear: Trujillo and Sheppard postulated a planet in their paper, with some
+preliminary analysis; Batygin and Brown carried out the analysis much further.
+
+Batygin and Brown simulated what would happen to a population of the icy
+objects as they got tossed around by the planet’s gravity. Then, by changing
+the characteristics of the planet they could try to reproduce the current
+orbital alignments seen.
+
+The best fit was for a planet that never got closer than 200 AU from the Sun (1
+AU is the average distance of the Earth from the Sun, about 150 million
+kilometers; Neptune is roughly 30 AU out form the Sun). The orbit of this
+planet would be highly elliptical, but it’s not clear how elliptical; that’s
+less well constrained. At its most distant, it could be between 500 and 1,200
+AU out (75 to 180 billion kilometers). The most likely mass of the planet is
+about 10 times Earth’s mass (for comparison, Neptune is a little more than 17
+times our mass), though it could be somewhat less or more.
+
+Interestingly, the planet is anti-aligned with the icy bodies (again, see the
+diagram above that has the orbits drawn, including the likely one for the
+purported planet). That is, its perihelion point (when it’s closest to the Sun)
+is on the opposite side of the Sun from the perihelia of the other objects. The
+way orbital mechanics works out, this actually keeps the bodies from colliding
+with it; when they’re closest to the Sun the planet is far away from them, and
+vice-versa.
+
+There are some side benefits of this possible planet, too; it may explain the
+peculiar orbits of the two KBOs Sedna and 2012 VP 113; both have perihelia that
+are farther from the Sun than expected. This planet would also fling objects
+into orbits nearly perpendicular to the other planets’, and we do see a few
+objects like that which are very hard to explain otherwise. It’s always nice
+when a hypothesis predicts phenomena we actually see.
+
+Planet Nine from Outer Space You are interested in the unknown, the mysterious,
+the unexplainable. That is why you are here. And now, for the first time, we
+are bringing to you the full story of what happened on that fateful day. We are
+bringing you all the evidence, based only on the secret testimony of the
+miserable souls who survived this terrifying ordeal. The incidents, the places.
+My friend, we cannot keep this a secret any longer.
+
+Drawing by Mike Wong, words by Criswell
+
+OK, so, great! A previously undiscovered planet might be out there, poking and
+prodding icy bodies and fiddling with their orbits. But … is it possible to
+even get a planet that far out from the Sun?
+
+Yes!
+
+When the solar system was first forming, 4.5 or so billion years ago, there
+were probably quite a few planetary-sized objects that coalesced. But close
+encounters with other largish objects would’ve tossed some of them into the
+Sun, or out to the nether regions of the solar system, with some being ejected
+entirely. Right now, we have two so-called ice giants out there: Uranus and
+Neptune. But models of the early solar system show that more planets that size
+should have formed. Where are they? Gone, mostly. But maybe one, with roughly
+half the mass of Neptune, survived…
+
+It could’ve been thrown out a few dozen billion kilometers. It would’ve
+initially been on an extremely elliptical orbit that brought it back to the
+inner solar system. However, over time, the gravity of stars and the galaxy
+itself could have altered the shape of its orbit to what it is now.
+
+OK, so it could be out there. If it is, can we find it?
+
+Yes again! Well, kinda.
+
+Batygin and Brown crunched the numbers, and found where the planet is likely to
+be in the sky at various parts of its orbit. When it’s closest to the Sun—and
+easiest to find, because it’ll be brighter and moving the fastest—it’s likely
+to be in the same part of the sky as the Milky Way, meaning it’ll be tough to
+spot among the many thousands of background stars. Odds are we won’t find it
+then anyway, because it spends the least amount of time nearer to the Sun
+(because it’s moving faster). But when it’s farther away and in a less crowded
+region of the sky, it’s fainter and harder to spot.
+
+That may be why we haven’t seen it yet. There have been several surveys of the
+sky, but none has spotted it. (I’ll note that an infrared survey by the WISE
+spacecraft eliminated a Jupiter or even Saturn-sized planet out to quite a
+distance, but one the size of Neptune would probably not have been seen by
+WISE.)
+
+The planet isn’t as faint as I might have expected, ranging from a magnitude of
+18 to 24 or so. That’s faint, but at its brightest it’d be visible to smaller
+‘scopes, and even when it’s fainter it should be within range of upcoming sky
+surveys. If this planet exists, we may yet find it, and maybe in the next few
+years.
+
+I feel I should note that there have been a few claims like this before, even
+using similar ideas, but none has really panned out. One, using an unusual
+alignment in the orbits of comets, was proposed in 2011. The evidence was a bit
+shaky, so I was always skeptical, and now I doubt this works due to the WISE
+survey I mentioned above.
+
+Given all this, though, the evidence presented in this new case is much better.
+Again, it’s not proof, but I think it’s good enough that we need to follow up
+on it. More models need to be run to see what else this planet could do,
+effects that might help nail down both its physical characteristics and orbit.
+That will aid in finding it.
+
+To be honest, this is pretty exciting. I’m cautiously optimistic. It’s good to
+be skeptical, but from what I can tell, this stands the best chance of being
+real of any idea I’ve seen so far. It’s worth a look.
+
+And one more thing, because I can’t resist. Mike Brown was the leader of the
+team that discovered Eris, a large Kuiper belt object that is actually roughly
+the same size as Pluto. Its discovery eventually led to the International
+Astronomical Union’s “demotion” of Pluto to minor planet status (Mike’s Twitter
+handle is PlutoKiller). Whether you think Pluto is a planet or not (and I don’t
+even think that’s the right question), the irony of this is pretty funny. If
+this planet exists, it’s big, and there’s no doubt it would be classified as a
+planet. If Mike’s prediction works out, he’ll have both killed and discovered
+the ninth planet.
+
+In that order.
+
+^*Geez, I hate to even have to say this, but I know a lot of crackpots will run
+away with this announcement—so: This has nothing to do with Nibiru, a silly
+conspiracy-theory-based non-existent planet that I’ve had to spend way too much
+time debunking multiple times in the past. Read that link if you’d like, but I
+won’t spare this another thought here.
+
+  
+ 
+[cantu_Moon]
+
+Jan. 20 2016 11:30 AM
+
+See Five Naked-Eye Planets in the Sky at the Same Time!
+
+By Phil Plait
+
+If you get up very early over the next couple of weeks, there’s a treat waiting
+for you outside: All five naked-eye planets known since antiquity are visible
+in the dawn sky at once.
+
+This is actually pretty cool, and it’s visible from anywhere in the world. Very
+generally, if you go outside well before dawn (5:30–6 a.m. local time) and look
+south (in the Northern Hemisphere; face north if you’re in the upside-down part
+of the world), you’ll see the planets lined up across the sky.
+
+Advertisement
+
+Mind you, that’s “very generally.” Here are some specifics:
+
+In order from their apparent positions from the Sun in the sky, the planets are
+Mercury, Venus, Saturn, Mars, and Jupiter.^* They scoot around a bit over the
+next few weeks, changing their positions and distances from each other, but
+stay in that order. Venus is the brightest by far, with Jupiter next. Saturn
+and Mars are about the same brightness as each other (compare them with the red
+supergiant star Antares which shines near Saturn), but Saturn will appear
+yellowish, while Mars will be rust-colored (because it’s rusty).
+
+Cesar Cantu Venus Jupiter Moon César Cantú captured this gorgeous shot of the
+Moon, Venus, Jupiter, and the star Regulus in July 2015. Try your hand at
+photographing the lineup this month!
+
+Photo by César Cantú, used by permission
+
+Probably the best time to go out to do this is around Feb. 1 or 2^. That’s
+because Mercury is pretty close to the Sun right now and doesn’t clear the
+horizon until the sky gets light. During the first week of February it reaches
+what astronomers call greatest western elongation, when it’s farthest from the
+Sun in the sky before dawn. Even so, you’ll probably want binoculars to help
+you find it. It’s an irritating little planet sometimes and can hide in even
+thin clouds or twilight. Find Venus first, which should be pretty easy to spot,
+then look to its lower left for Mercury.
+
+The planets all lie in a line because they orbit the Sun more or less in the
+same plane, called the ecliptic. The Earth’s in that plane, too (technically,
+the Earth’s orbit defines the ecliptic), so we see the other planets following
+that line across the sky. In the Northern Hemisphere, at my latitude of 40DEG,
+before dawn the ecliptic appears to angle away from the Sun to the upper right
+if you face east. But it’s different at different latitudes; near the equator
+that line is nearly vertical to the horizon, and in the Southern Hemisphere it
+tilts the other way, to the left if you face east before dawn. Folks near the
+equator get the best view of this event, then, because Mercury rises straight
+up from the horizon, so it’s up higher by the time the Sun rises and ruins the
+view. I talk about the motions of these objects in the sky in Episode 3 of
+Crash Course Astronomy:
+
+The Moon moves around the sky far faster than the planets do and enters the
+scene near Jupiter on the morning of Jan. 27; over the next few days it’ll pass
+the planets one by one, becoming a thinner and thinner crescent as it does.
+It’ll be just 2DEG from Jupiter on Jan. 27, pretty close to Mars on the morning
+of Feb. 1, Saturn on Feb. 3, and then a difficult-to-spot fingernail Moon will
+be near Mercury and Venus on Feb. 6.
+
+If you have a telescope, these are all fine objects to look at. Jupiter has its
+moons, Saturn displays its rings (and a moon or two), Venus will be nearly
+full, and Mercury will go from crescent to gibbous (a bit more than half full)
+over the next couple of weeks. Mars, however, won’t look like much; it’s nearly
+as far from Earth as it gets and will be very small even through a decent
+‘scope. But don’t let me discourage you from taking a look! The color is still
+amazing to see. And of course our Moon is always a joy to see up close.
+
+This view of the naked-eye planets isn’t common; the last time they were all
+visible at the same time was 10 years ago. They orbit the Sun at different
+speeds, like clocks all out of sync with each other, so sometimes you can see
+one or two together, sometimes more. This event really is a treat (and nothing
+to worry about doomsday-wise).
+
+I’ll note that Pluto is very close to Mercury in the sky during this period,
+too. However, it’s far smaller and much, much, much farther away from us, so
+it’s a teeny bit fainter: Mercury is actually 400,000 brighter than Pluto in
+the sky right now.
+
+And finally, of course there’s another naked-eye planet I’ve neglected to add
+to this list. But for that one, looking up won’t help. Look down. You’re
+standing on it! Bundle up, go out, look down, look up, and take in the view.
+It’s a good one.
+
+^*Technically, Uranus is just barely visible to the naked eye, sometimes, under
+good conditions. That’s why I added “known since antiquity” in the first
+paragraph, to ward off pedants. 
+
+  
+ 
+[alphacen_p]
+
+Jan. 20 2016 9:15 AM
+
+Does Alpha Centauri Have a Planet or Not? Well …
+
+By Phil Plait
+
+Back in 2012, astronomers made a huge announcement: They had found a planet
+orbiting one of the two stars making up the binary star Alpha Centauri. This
+made it the closest exoplanet found—as it must be, since Alpha Centauri is the
+closest star system to the Sun—and not only that, it had a mass only a hair
+more than Earth’s.
+
+There’s only one problem: The planet almost certainly doesn’t exist.
+
+Advertisement
+
+As problems go, that’s a big one.
+
+Last year, a different group of astronomers examined the same data used to find
+the planet and showed pretty convincingly the planet is spurious, unreal. The
+details are complicated, but in the end it’s a product of the way the
+observations were made and analyzed.
+
+The original observations used what’s called the reflex motion or radial
+velocity method to look for a planet. A planet orbits a star because of the
+star’s gravity, of course. But a planet has mass and gravity too, so while the
+planet makes a big circle around the star, the star makes a little circle at
+the same time. This means that sometimes the star moves toward us, and
+sometimes away. That affects its light, shifting it toward the red a tiny bit
+when it heads away from us, and toward the blue when it moves toward us.
+
+As a planet orbits its star, the star moves, too. As a planet orbits its star,
+the star moves, too.
+
+llustration by NASA/Spaceplace
+
+So if you see this periodic shift in the star light, you can detect a planet …
+theoretically. It’s hard to see that effect from a planet, because it can be
+swamped by much larger effects. Alpha Cen is a binary, so the two stars revolve
+around each other at hundreds of meters per second. The stars rotate, smearing
+out the signal. And stellar activity (star spots and the like) can also produce
+a similar effect as a planet.
+
+You have to account for all these factors and see what’s left over to look for
+a planet, and in the end a purported planet’s signal would be very small. If
+any error creeps in, it can easily wipe out a planet’s signal … or make a false
+signal look real.
+
+That’s what appears to have happened. The first group found a signal that
+looked like it was coming from a 1.13 Earth-mass planet orbiting Alpha Centauri
+B in 3.24 days. The second group reproduced the first group’s work and found
+that same signal claimed to be a planet. But what they also found was that the
+way the first group took and analyzed the data may have introduced the signal
+in the first place; it was like an echo of a real signal (for those who want
+gnarly details: The time between observations introduced a spike in the power
+spectrum of the data at 3.24 days; it’s a window function relic of taking
+discrete observations of a continuous series).
+
+Mind you, this wasn’t a direct error on the part of the first group; the way
+they analyzed the data was fine. It was an error of omission in a way; they
+neglected to account for the ways their observational methods might give them
+false positives. One of them slipped through and made it look like a planet was
+there when it wasn’t.
+
+I’ll note that not long after the original announcement was made it was called
+into question, but in my opinion at the time the discussion going back and
+forth wasn’t conclusive either way, so I waited to write anything. I prefer not
+to dive in when things are still unsettled in a case like this because it can
+be harder for the reader to follow along in the long run. I know that happens
+to me when I read about some medical research, for example, which gets called
+into question. Media report on every single bit of the back-and-forth, and
+after a half-dozen of those I can get confused as to what’s what.
+
+In this case, though, the new study looks pretty solid. If I were a betting man
+(and really, I am) then I’d wager the planet doesn’t exist.
+
+That, to be blunt, sucks. I was very excited when the announcement was made (I
+rarely use ALL CAPS in a headline), and so finding out it’s wrong is a blow.
+Scientifically that’s just the way things go sometimes; results on the hairy
+edge of what can be detected need to be examined with more skepticality than
+usual, and if they’re found to be spurious, well, there you go.
+
+Still, this one hits home. I love science fiction; I’ve been reading and
+watching it for my whole life. Alpha Centauri is an icon, a touchstone for
+alien civilizations; it was used so much that in the aliens-from-Alpha-Centauri
+book Footfall, authors Larry Niven and Jerry Pournelle actually had their
+characters joke that an invasion from that star is hard to believe because it’s
+so cliche'.
+
+I mean, c’mon: Zefram Cochrane retired to Alpha Centauri after inventing warp
+drive in the Star Trek mythos. So yeah, finding an actual planet there was a
+big deal, and so is losing it.
+
+The good news, such as it is, is that just because these observations didn’t
+pan out doesn’t mean a planet isn’t there. One or both of those stars in Alpha
+Cen may very well still have planets, it’s just that this particular
+observation didn’t root them out. It’s still very much worth looking for them
+there. Science is full of discoveries made after false detections—this happened
+with the very first exoplanets ever found, in fact—and I still hold out hope
+that the nearest star to our own may yet still yield the closest planets to
+ours as well.
+
+Tip o’ the thermal exhaust port to Brian Koberlein.
+
+  
+ 
+[GRB_beams_]
+
+Jan. 19 2016 9:15 AM
+
+How Turbulence Fuels the Most Violent Explosions in the Universe
+
+By Phil Plait
+
+In the final seconds of a massive star’s life, a lot happens all at once. But
+the outcome is inevitable: BOOM.
+
+Just how big a boom depends on the details of everything going on. The core of
+a star is where the action is; that’s where lighter elements are fused into
+heavier ones, creating energy that holds the star up against its own powerful
+gravity. Eventually, though, iron is created in the core, and iron absorbs
+energy. Once enough is made, the star is doomed.
+
+Advertisement
+
+Without the release of energy to support it, the core collapses. It happens
+incredibly rapidly, falling at a large fraction of the speed of light. Stars
+spin, though, and as the core collapses that spin increases monumentally, just
+like an ice skater’s spin increases when they bring their arms in to their
+bodies. Not only that, the core has a magnetic field too, and that also
+magnifies in strength hugely as the core collapses.
+
+What happens next is that … well, the star explodes. We know in general why
+that happens, but some of the details have been hard to pin down. And in some
+stars, the star doesn’t just explode: Instead of a normal supernova explosion
+(which, c’mon, is a ridiculously mind-crushingly catastrophic event) you get a
+hypernova, an extra-big explosion.
+
+In a hypernova, the collapsing core generates a pair of beams, twin death rays
+that blast outward from the spin poles of the core. The amount of energy in
+them is beyond anything our puny minds can adequately grasp; in a few seconds
+they can blast out as much energy as the Sun does over its entire 12 billion
+year lifetime.
+
+The problem is, no one knows just how these beams get made. The physics is
+fiercely complicated, and it’s hard to model just how the increasing spin and
+strengthening magnetic field of the collapsing core generate them.
+
+At least, until now. A new study shows that the key to the beams being made is
+turbulence. This has long thought to be behind the beams’ creation, but this
+new work shows how it’s possible.
+
+In a nutshell, the core of the star is layered, and rotating at different
+speeds. At the boundaries of these layers the different speeds of the gases
+create turbulence, swirls and eddies of gas. Some of these dissipate, just like
+sometimes a spinning cloud on Earth doesn’t quite get the kick it needs to
+becomes a tornado.
+
+But if conditions are right, some of those swirls get amplified as the core
+collapses and the magnetic fields guide them. As the swirls get stronger, their
+embedded magnetic fields get stronger too, which amplifies the swirls more …
+this is a positive feedback loop called a dynamo. We use a similar technique to
+generate electricity here on Earth! The energy of the motion of the rotating
+gas is what feeds the dynamo.
+
+In a flash, these swirls become highly organized, forming a tightly collimated
+spinning mass aligned with the core’s rotational axis. As the core collapses,
+the vortices focus up and away from the poles of the rotating mass, and the
+vast energies of the event find a conduit along which they can travel. When
+they do … well, like I said before. BOOM.
+
+Most of the energy of the newly born supernova flows along these beams, eating
+their way out of the star, creating the hypernova, and generating what we call
+a gamma-ray burst, the most violent explosion known in the Universe today.
+
+There are two things about these new results that really burrow into my brain.
+One is how it’s been known for some time that turbulence must be responsible
+for the beams being created; without it the models are never able to generate
+the beams. But getting it right is incredibly difficult due to the complexity
+of the calculations. So for years it’s been a matter of knowing what the answer
+must be, but not being able to prove it.
+
+The other bit is the length of tine it takes for the collapsing gas in the
+center of the star to go from a chaotic, turbulent mess to a highly organized
+death-ray maker. In the video above, note the clock ticking: It’s measuring
+time in milliseconds, and the whole thing takes less than a hundredth of a
+second to form. Mind you, we’re talking about events spanning a region a dozens
+of kilometers across, deep in the heart of a star where the densities are
+billions of times higher than lead and temperatures are measured in the
+billions of degrees!
+
+Massive stars are many things, but subtle they are not. They are so violent, so
+bright that they can be seen for billions of light-years, more than halfway
+across the observable Universe.
+
+And now, finally, we are starting to really understand how they work. We may be
+stuck on this planet, but our imagination and scientific tools allow us to
+wander the stars, even plunge deep within them, and know how they work. That to
+me is incredibly uplifting … even more so in these turbulent times.
+
+  
+ 
+[spacex_bar]
+
+Jan. 18 2016 12:54 PM
+
+SpaceX Almost Lands the Falcon 9 Rocket Booster at Sea. Almost. 
+
+By Phil Plait
+
+Sunday, SpaceX successfully launched a Falcon 9 rocket into space, carrying the
+critically important Jason-3 Earth-observing satellite into orbit. That was the
+primary mission of the launch, and it went smoothly and perfectly.
+
+Not surprisingly, most people were more excited for the secondary mission,
+which was to bring the first stage booster back down to Earth. This went pretty
+well in December, when the booster was brought back down to a landing pad at
+Cape Canaveral, Florida.
+
+Advertisement
+
+This time, though, they had to land on a floating platform out to sea, on an
+automated drone ship the size of an American football field, 300 kilometers
+west of San Diego. Despite heaving waters with 3 to 4 meter waves (!), the
+booster found the platform, centered itself, came in to land … and then this
+happened.
+
+    Falcon lands on droneship, but the lockout collet doesn't latch on one the
+    four legs, causing it to tip over post landing. Root cause may have been
+    ice buildup due to condensation from heavy fog at liftoff.
+
+    A video posted by Elon Musk (@elonmusk) on Jan 17, 2016 at 7:07pm PST
+
+Oof. Elon Musk speculated that a collet (a rotating clamp similar to a chuck on
+a drill that attaches telescoping rods together) on one of the landing legs
+didn’t secure it tightly enough. When the booster put weight on the leg, it
+collapsed, and down she went. The root cause may be condensation that got in
+there from the thick fog at launch, which then froze in the upper atmosphere.
+Mind you, this is speculation! I’m sure SpaceX will examine the debris very
+closely to see what’s what.
+
+Like the other two at-sea landings, this one was heartbreaking close, and still
+an astonishing achievement. Why?
+
+Boosting a satellite into orbit takes a lot of speed. It needs to be moving at
+about 8 km/sec, or nearly 30,000 kph (18,000 mph) to reach orbit. The first
+stage booster gets the whole rocket moving as rapidly as possible, then is
+dropped as dead weight. This lightens the load, so the second stage is pushing
+much less mass, meaning it can accelerate harder.
+
+That first stage booster has to flip over in space, use the little bit of fuel
+left over to slow from more than 6,000 kph, fall back to Earth from more than
+100 kilometers in altitude, find the floating platform, guide itself there
+using steerable fins on its sides, deploy the landing legs, then ignite the
+engine again to slow for the final touchdown.
+
+It’s a freakin’ technological triumph that they can get anywhere near a
+landing. And as any engineer will tell you, a failure is just a lesson in the
+steps to getting it right. Yes, this didn’t work, and the booster exploded. But
+once the reason for that is found, it’ll be fixed and hopefully it won’t happen
+again (at least for that reason).
+
+The booster that landed successfully in December has been examined, including
+fueling it up and test-firing it while strapped down. It performed well, though
+one engine had a fluctuating thrust (the cause of which is still being
+investigated). It’s hard to say how much work will go into reusing these first
+stage boosters, but given they cost $60 million to build from scratch, reusing
+them will save a big chunk of launch cost. That’s why I’m so excited for this
+work. Reducing launch cost means making access to space easier, and that’s
+incredibly important.
+
+And again, don’t lose sight of the successful launch of Jason-3, which will
+measure the effects of climate change on sea level rise and ocean currents. We
+have another set of eyes in the sky observing our planet, and the more of
+those, the better.
+
+  
+ 
+[itsaliens]
+
+Jan. 18 2016 9:15 AM
+
+I’m STILL Not Sayin’ Aliens. But This Star Is Really Weird.
+
+By Phil Plait
+
+OK, this is getting pretty weird.
+
+First, a little background: You’ve probably heard of the star KIC 8462852
+(though maybe by it’s nickname, Tabby’s Star, after Tabetha Boyajian, the woman
+who led the team that discovered its behavior). It’s the star that got a lot of
+press late last year because it was acting funny. Astronomers poking through
+the observations of the star by the Kepler spacecraft found it was undergoing a
+series of apparently random dips in brightness. Some of these dips were
+serious, with the amount of starlight dropping a staggering 22 percent.
+
+Advertisement
+
+That’s a lot. It couldn’t be a planet passing in front of the star, because the
+dips weren’t periodic, and the amount of starlight blocked is different every
+time. Plus, even a planet as big as Jupiter (which is about as big as planets
+can get) would block less than 1 percent of the star’s light at best.
+
+In the original paper, Boyajian and her team make a good case that the dips are
+not caused by some odd thing going on in the data themselves or in their
+analysis of them. Whatever is going on, it’s real. They go through a bunch of
+possible scenarios that might be causing the dips and wind up eliminating most
+of them. The most likely scenario, they conclude, is that there is a huge
+family of comets orbiting the star, and some of them collide to create huge
+debris clouds that block the starlight. As I explained in my original post,
+that explanation has problems, too.
+
+Belt of Dust Debris left over from comet collisions does a decent (but not
+complete) job of explaining the Kepler observations. But those aren't the ONLY
+observations...
+
+Artist drawing by NASA/JPL-Caltech/T. Pyle (SSC)
+
+That left some speculation about, um, aliens. While it’s incredibly unlikely,
+it does kinda fit what we’re seeing. An advanced civilization would have big
+energy requirements, and it would make sense to build huge structures around
+their star to capture as much light as possible for solar power. The dips in
+light we see are then these “megastructures” passing in front of the star (some
+people call this a Dyson swarm, a collection of enormous solar panels enclosing
+the star).
+
+Because why not, some follow-up looking for alien signals was made, but no dice
+. That’s not terribly surprising. The idea that this is all due to aliens is a
+bit, um, out there.
+
+But still, the star is weird. And we just found out it’s even weirder than we
+thought.
+
+Bradley Schaefer is an astronomer at Louisiana State University. He’s a clever
+fellow and has a habit of thinking outside the box when it comes to
+astronomical mysteries. When it came to Tabby’s Star, Schaefer realized there
+might be older observations of it that could help inform its study.
+
+He found that Tabby’s Star has been photographed more than 1,200 times as part
+of a repeated all-sky survey between the years 1890 and 1989. Using two
+different methods, he examined those observations and measured the star’s
+brightness over time.
+
+fading star Tabby’s Star is fading over time. The blue diamonds are
+measurements made between 1890 and 1989. The solid line is a linear
+(straight-line) fit to all the data while the dashed line is just a fit to the
+starting and ending points. The gray points are from two other stars as
+controls; they don't fade over the same period.
+
+Graph from Schaefer, 2016
+
+What he found is rather astonishing: The star has been fading in brightness
+over that period, dropping by about 20 percent!
+
+That’s … bizarre. Tabby’s Star is, by all appearances, a normal F-type star:
+hotter, slightly more massive, and bigger than our Sun. These stars basically
+just sit there and steadily turn hydrogen into helium. If they change, it’s
+usually on a timescale of millions of years, not centuries. Schaefer examined
+two other similar stars in the survey, and they remained constant in brightness
+over the same time period.
+
+The long-term fading isn’t constant, either. There have been times where the
+star has dimmed quite a bit, then brightened up again in the following years.
+On average, the star is fading about 16 percent per century, but that’s hardly
+steady.
+
+So it appears Tabby’s Star dims and brightens again on all kinds of timescales:
+hours, days, weeks, even decades and centuries.
+
+Again. That’s bizarre. Nothing like this has ever been seen.
+
+So what’s causing this? Well, think Occam’s razor. The simplest explanation is
+probably the best place to start, and in this case that means one thing is
+probably behind all this weird behavior. Schaefer looks into this in his paper
+and concludes that the comet family idea doesn’t explain all the behavior. It
+might explain the short-term dips (maybe, kinda) but are hugely unlikely to be
+behind the long-term fading. You’d need truly vast numbers of comets, and
+they’d have to be huge, much larger than reasonable. And they’d have to be
+slamming into each other just as we happen to be looking.
+
+So, yeah. Unlikely.
+
+Now, again, let me be clear. I am NOT saying aliens here. But, I’d be remiss if
+I didn’t note that this general fading is sort of what you’d expect if aliens
+were building a Dyson swarm. As they construct more of the panels orbiting the
+star, they block more of its light bit by bit, so a distant observer sees the
+star fade over time.
+
+However, this doesn’t work well either. Why did the star dip so much in the
+1910s, then regain brightness a few years later, for example? Also, blocking
+that much of the star over a century would mean they’d have to be cranking out
+solar panels. The star has a diameter about 1.6 times the Sun’s. To block 20
+percent of its light would take solar panels equaling an area of over 750
+billion square kilometers.
+
+That’s 1,500 times the area of the entire Earth. Yikes.
+
+And that’s only if they happened to place those panels perfectly between their
+star and us. More likely they would be in a ring or a sphere, so the actual
+area would be far, far larger. Several trillion square kilometers at least for
+a ring, and much more than that for a sphere.
+
+That’s a heckuva long-term project.
+
+So I’m still not saying aliens. But whatever it is behind this star’s peculiar
+behavior, it’s either something we’ve never seen before, something we have but
+that is on the extreme edge of what it can do, or perhaps more than one
+phenomenon acting together. I’ll admit, I’m scratching my head over this one.
+
+The only thing I’m sure of? We need to keep observing this star. If there’s one
+thing scientists love, it’s a mystery.
+
+Update, Jan. 18, 2016, at 19:00 UTC: This just occurred to me. In an earlier
+post I talked about and linked to an idea that the star is a rapid rotator, so
+it's squished through the poles. That can affect the light we see from it. If
+the star is also precessing—changing the direction in space where its axis is
+pointing—that would cause a slow change in brightness over time, too. Hmmm. I
+may have to email a few folks and see if this idea has some stickiness to it.
+EDITED TO ADD: The conversation is ongoing, but astronomer Jason Wright points
+out that my ideas probably don't work. Drat.
+
+  
+ 
+[cointoss_a]
+
+Jan. 17 2016 4:53 PM
+
+A Game Is Lost on the Torque and Parabola of an Isotropic Disk
+
+By Phil Plait
+
+Over the weekend, the Green Bay Packers lost in a heartbreaking overtime
+(American) football game to the Arizona Cardinals. In a game filled with a lot
+of odd events (a Hail Mary pass to the end zone that led to a tie-making point
+with literally zero seconds left on the clock?!), both teams were so evenly
+matched that whoever won would be, really, a coin toss.
+
+Literally.
+
+Advertisement
+
+In the NFL, if two teams are tied at the end of the regulation game, they go
+into overtime. A ceremonial coin is flipped, and one team picks heads or tails.
+If they win, they get to choose either to kick or receive the ball, or which
+goal they wish to defend at the start of overtime.
+
+At the end of the regulation game, the ref flipped the coin. Aaron Rodgers, of
+the Packers, called “tails.” This is when things got weird: The coin didn’t
+flip end-over-end. Instead of tumbling, it went up and down flat, parallel to
+the ground, landing on heads. Watch this video, especially the last ten seconds
+or so for a close-up.
+
+Odd, eh? The ref immediately picked the coin up, said it didn’t actually flip,
+and tossed it up again. It again came down heads, and the Packers lost the
+toss. Because of this, the Cardinals got the choice, opted to receive, and
+seconds later ran the ball into the end zone for a touchdown, winning the game.
+
+At this point, of course, there were complaints. Was the toss fair? Could the
+coin have been weighted? A Packers linebacker said, "… there was a little
+protective case that might have been weighted in the heads [sic] favor."
+
+It’s possible, but I doubt it would have made a difference. The coin is heavy,
+so a bit of plastic on one side seems like it wouldn’t do much. I don’t see how
+that would’ve prevented it from tumbling end-over-end anyway; it tumbled fine
+in the second toss. Plus, landing twice on heads in a row is a 1 in 4 chance,
+not unlikely. And Aaron Rodgers, who called the toss for the Packers, had the
+freedom of choice to pick heads or tails. So it’s unlikely collusion or
+cheating was involved.
+
+So why didn’t the coin tumble? I can think of a reason: physics, in the form of
+torque. Or the lack thereof.
+
+Torque is a force applied to an object that doesn’t go through its center of
+mass. This imparts a rotational force on the object, generally resulting in a
+spin. In a coin toss, the upward motion comes mostly from the ref’s arm,
+throwing the coin up. But the ref also flicks their thumb on the edge of the
+coin, which imparts a torque, forcing the coin to flip end-over-end.
+
+If the ref’s thumb were too far forward, under the coin’s center of mass, then
+the flick would not impart a torque, so the coin would just stay flat as it
+moved up and then back down to the ground.
+
+coin toss On the left, my thumb is under the coin's center of mass, so a thumb
+flick won't give it much torque. On the right, my thumb is near the edge; so an
+upward force is off-balance, and will cause the coin to tumble end-over-end.
+
+Photo by Phil Plait
+
+Is this what happened? Theoretical physics is fine, but nothing beats an
+experiment. I happen to have a medallion that’s solid metal, so I tried
+flipping it a few dozen times. I have to admit that I was never able to
+replicate the completely flat nonflipping motion of the coin in the video. It
+seems to me, therefore, it’s unlikely the ref could’ve placed his thumb so
+perfectly by accident.
+
+I wondered for a moment if perhaps the thumb flick would’ve made the coin spin,
+like a top. This would give the coin gyroscopic motion, which would help it
+stay flat as it moved through the air. This is (ironically) the same idea that
+keeps a football oriented correctly when it's thrown; if it spins rapidly, the
+axis of rotation (through the long axis of the ball) points along the
+trajectory, and the ball doesn’t flip end-over-end.
+
+But it seems impossible to flip a coin that way. It would have to spin rapidly,
+and a thumb flick wouldn’t do that.
+
+So what happened? Well, I have a thought on that, and it’s way simpler than you
+might think. I’ve watched the video a few times, and while it’s not conclusive,
+here’s what I think happened: The ref threw the coin up, but it left his hand
+before his thumb could impart rotation! He flicked his thumb, but too late; he
+missed. The coin only had the upward force his arm, and without the thumb flick
+it didn’t tumble.
+
+And for want of a torque a kingdom was lost.
+
+Science! It’s everywhere. Even—really, especially—in sports.
+
+  
+ 
+[spacex_fal]
+
+Jan. 17 2016 9:15 AM
+
+SpaceX Will Attempt a Second Booster Landing Sunday … Over the Ocean
+
+By Phil Plait
+
+SpaceX will attempt to launch a very important satellite Sunday: Jason-3, a
+NASA/NOAA bird that will measure the height of the ocean surface. The launch
+will be from the Vandenberg Space Launch Complex in California.
+
+The launch window is 30 seconds long and begins at 18:42:18 UTC (1:42:18
+Eastern U.S. time) Sunday. NASA TV will be covering it live (I prefer their
+UStream channel myself). I don’t know if the SpaceX live-stream channel will
+cover it, but you can check around the time of launch (live video of the
+landing may be difficult due to connectivity issues over the ocean). Update:
+SpaceX will have two live streams; one with hosts explaining what's going on,
+and one without. 
+
+Advertisement
+
+Update, Jan. 17, 2016, at 19:15: The launch was a success! The Jason-3
+satellite is in a temporary orbit as I write this, awaiting a second burn to
+put it on the correct polar orbit trajectory. The booster landing,
+unfortunately, didn't go so well. With heaving seas at 3-4 meters, the rocket
+landed hard and according to Elon Musk broke a landing leg. The live feed went
+out, so hopefully video of the event will turn up soon.
+
+Update, Jan. 17, 2016, at 19:45: Jason-3 has reached orbit! The second stage
+burn was successful, and the Earth-observing satellite is now in it final
+orbit—thus achieving the primary mission objective. Congratulations to everyone
+at NASA, NOAA, and SpaceX!
+
+The primary mission will be to loft the satellite, of course, but most people
+will be watching because this will be the company’s second attempt to reland
+the first stage booster of the Falcon 9 rocket. The last attempt was less than
+a month ago and was a spectacular success, with the booster coming back down
+vertically at a landing pad at Cape Canaveral, Florida.
+
+SpaceX drone platform X marks the spot on the floating platform. For scale,
+it's the same size as an American football field.
+
+Photo by SpaceX
+
+Sunday’s attempt will be over the ocean, on a floating platform called “Just
+Read the Instructions” (the platforms are named after spaceships in novels
+written by sci-fi author Iain M. Banks). This is more difficult than bringing
+the booster back over land, because—and stop me if this is too complicated—land
+tends to stay still while the ocean surface bobs up and down, sometimes
+violently.
+
+The decision to do an ocean versus land, um, landing rests on many factors, the
+most important of which is acceleration; a heavy payload needs more fuel to
+loft into orbit, and if it’s going to a higher orbit more fuel is needed still.
+That changes the logistics of where the booster can land; some fuel needs to
+remain after the boost stage to slow the first stage, bring it to the landing
+site, and then be used for the final descent.
+
+In the case of Sunday’s launch, an environmental approval wasn’t received in
+time, so SpaceX had to move the landing out to sea. Incidentally, this launch
+marks the last for the v1.1 Falcon 9; the rest will be using the upgraded F9.
+AmericaSpace has more on that.
+
+The booster from last month’s launch is undergoing testing right now; SpaceX
+CEO Elon Musk tweeted about it, indicating one of the engines underwent thrust
+variations during a hold-down firing test (where the booster is fueled up,
+strapped down, and allowed to fire its engines). Musk speculated it might have
+gotten some debris in it, but further testing is planned.
+
+The point of relanding the booster is that it costs about $60 million to build
+the Falcon 9 first stage from scratch, but far less to load it back up with
+fuel and reuse it. The cost savings can then go directly into lowering the
+launch price. If this works, it could revolutionize rocket launches … but there
+are many steps to take before then, including getting a successful launch of a
+reused booster. That may happen this year.
+
+Jason-3 Artwork depicting Jason-3 over the Earth.
+
+Drawing by NASA
+
+Mind you, again, the primary mission is to launch Jason-3, the latest in a
+series of Earth-observing satellites that will monitor how the changing climate
+is affecting our planet, specifically sea level rise and ocean currents.
+Jason-3 will use radar altimetry—bouncing radar pulses off the ocean surface
+and back up to space—to determine its altitude with an accuracy of a few
+centimeters. It will do this millions of times all over the planet, building up
+a detailed map of sea level over time. As polar ice melts and the oceans absorb
+heat from the atmosphere, the sea level is rising by over 2 millimeters per
+year. The ice melt introduces huge amounts of fresh water into the salty ocean,
+which can change ocean currents as well. All of this needs to be monitored very
+carefully, since the ocean currents are the major way heat is transported
+around the planet.
+
+So there’s a lot riding on this launch. Let’s hope it goes off as well as the
+last one! If there’s a delay, the next window opens on Monday at 18:31:04 UTC.
+
+  
+ 
+
+READ MORE STORIES
+
+Slate    
+Sign In Sign Up
+Most Read
+
+  • 1. Blizzard 2016 Live Blog: New York City Travel Ban as Snowfall & Flooding
+    Challenge Records
+  • 2. Watch an Actor Play Every Ethnicity Hollywood Throws His Way (Video)
+  • 3. Why You Should Care About a Prime Number That’s 22,338,618 Digits Long
+  • 4. Presidential Race Is Such a Mess That Bloomberg Considers Independent
+    Run
+  • 5. Seth Meyers’ Boston Accent Is the Boston Movie to End All Boston Movies
+
+Most Shared
+
+  • 1. An Epic Blizzard Is About to Paralyze the East Coast. Here’s What to
+    Expect.
+  • 2. Bernie Sanders’ New Ad Is Powerful, Simple, and a Stark Contrast to
+    Hillary’s
+  • 3. “Herbal” Cough Syrup Recalled Because Its Secret Ingredient Is Morphine
+  • 4. “Hamiltines” Are the Perfect Valentine’s Day Gift for the Hamilton Fan
+    in Your Life
+  • 5. How a Posse of Moms Got Guns Banned from Whole Foods
+
+[screen_sho] Baby Giraffes Are Gangly, Awkward, and Adorable
+FOLLOW SLATE [yellow-twi] [yellow-fac] [instagram2]
+SLATE ON IPAD IPHONE ANDROID KINDLE
+REPRINTS ADVERTISE WITH US
+
+  • ABOUT US
+  • CONTACT US
+  • WORK WITH US
+
+  • USER AGREEMENT
+  • PRIVACY POLICY
+  • FAQ
+
+  • FEEDBACK
+  • CORRECTIONS
+
+  • [the-slate-]
+  • [footer_pan]
+  • Slate is published by The Slate Group, a Graham Holdings Company. All
+    contents (C) 2016 The Slate Group LLC. All rights reserved.
+
+ 
+Slate
+Slate    
+Sign In Sign Up

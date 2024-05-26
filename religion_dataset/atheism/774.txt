@@ -1,0 +1,2180 @@
+skip to main | skip to sidebar
+
+Atheism: Proving The Negative
+
+Analyses of God beliefs, atheism, religion, faith, miracles, evidence for
+religious claims, evil and God, arguments for and against God, atheism,
+agnosticism, the role of religion in society, and related issues.
+
+Friday, June 19, 2015
+
+Why Would an AI System Need Phenomenal Consciousness?
+
+In my last post on Jesse Prinz, we learned about the distinction between
+immediate, phenomenal awareness in consciousness in contrast to our more
+deliberative consciousness that operates with the contents of short term and
+longer term memory.  From moment to moment in our experience, there are mental
+contents in our awareness.  Not all of those contents make it into the global
+workspace and become available to reflective, deliberative thought, memory, or
+other cognitive functions.  That is, there are contents in phenomenal awareness
+that are experienced, and then they are just lost.  They cease to be anything
+to you, or part of the continuous narrative of experience that you reconstruct
+in later moments because they never make it to the neural processes that would
+capture them and make them available to you at later times.  
+
+We also know that these contents of phenomenal consciousness are also most
+closely associated with the qualitative feels from our sensory periphery.  That
+is, phenomenal awareness is filled with the smells, tastes, colors, feels, and
+sounds of our sensory inputs.  Phenomenal awareness is filled with what some
+philosophers call qualia. 
+
+Let me add to this account and see what progress we can make on the question of
+building a conscious AI system. 
+
+
+Daniel Kahneman and Amos Tversky got the Nobel Prize for their work uncovering
+what they call Dual Process Theory in the human mind.  We possess a set of
+quick, sloppy cognitive functions called System 1, and a more careful, slower
+more deliberative set of functions called System 2.  
+
+
+System 1                                               System 2
+Unconscious reasoning                                  Conscious reasoning
+Judgments based on intuition                           Judgments based on critical examination
+Processes information quickly                          Processes information slowly
+Hypothetical reasoning                                 Logical reasoning
+Large capacity                                         Small capacity
+Prominent in animals and humans                        Prominent only in humans
+Unrelated to working memory                            Related to working memory
+Operates effortlessly and automatically                Operates with effort and control
+Unintentional thinking                                 Intentional thinking
+Influenced by experiences, emotions, and memories      Influenced by facts, logic, and evidence
+Can be overridden by System 2                          Used when System 1 fails to form a logical/acceptable
+                                                       conclusion
+Prominent since human origins                          Developed over time
+Includes recognition, perception, orientation, etc.    Includes rule following, comparisons, weighing of
+                                                       options, etc.
+
+In short, System 1 makes gains in speed for what it sacrifices in accuracy, and
+System 2 gives up speed for a reduction in errors. 
+
+The evolutionary influences that led to this bifurcation are fairly widely
+agreed upon.  System 1 gets us out of difficulties when action has to be taken
+immediately so we don’t get crushed by a falling boulder, fall from the edge of
+a precipice, eaten by a charging predator, or smacked in the head by a flying
+object.  But when time and circumstance allows for rational deliberation, we
+can think things through, make longer term plans, strategize, problem solve,
+and so on. 
+
+An AI system, depending on its purpose, need not be similarly constrained.  An
+AI system may not need to have both sets of functions.  And the medium of
+construction of an AI system may not require tradeoffs to such an extent. 
+Transmission time for conduction across neural cells is about 150 meters per
+second.  By the time the information about the baseball that is flying at you
+gets through your optic nerve, through the V1 visual cortex, and up to the
+pre-frontal lobe for serious contemplation, the ball has already hit you in the
+head.  Transmission time for silicon circuitry is effectively the speed of
+light.  We may not have to give up accuracy for speed to such an extent. 
+Evolution favored false positives over false negatives in the construction of
+many systems.  It’s better to mistake a boulder for a bear, as they say, than a
+bear for a boulder.  A better safe than sorry strategy is more favorable to
+your contribution to the gene pool for the species in many cases.  We need not
+give up accuracy for speed with AI systems, and we need not construct them to
+make the systematic errors we do. 
+
+The neural processes that are monitoring the multitude of inputs from my
+sensory periphery are hidden from the view of my conscious awareness.  The
+motor neurons that fire, the sodium ions that traverse the cell membranes, the
+neurotransmitters that cross the synaptic gaps when I move my arm are not
+events that I can see, or detect in any fashion as neural events.  I experience
+them as the sensation of my arm moving.  From my perspective, moving my arm
+feels one way.  But the neural chemical events that are physically responsible
+are not available to me as neural chemical events.  A particular amalgam of
+neural-chemical events from my perspective tastes like sweetness, or hurts like
+a pin prick, or looks like magenta.  It would appear that evolution stumbled
+upon this sort of condensed, shorthand monitoring system to make fast work of
+categorizing certain classes of phenomenal experience for quick reference and
+response.  If the physical system in humans is capable of producing qualia that
+are experiencable from the subject’s point of view (It’s important to note that
+whether qualia are even real things is a hotly debated question  
+
+http://www.fflch.usp.br/df/opessoa/Dennett-Quining-Qualia.pdf)
+
+then presumably a physical AI system could be built that generates them too. 
+Not even the fiercest epiphenomenalist, or modern property dualist denies mind/
+brain dependence.  But a legitimate question is, do we want or need to build an
+AI system with them?  What would be the purpose, aside from intellectual
+curiosity, of building qualia into an AI system?  If AI systems can be better
+designed than the systems that evolution built, and if AI systems need not be
+constrained by the tradeoffs, processing speed limitations, or other
+compromises that led to the particular character of human consciousness, then
+why put them in there? 
+
+
+
+
+
+
+
+
+1 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 1:31 PM Links to this
+post
+
+Monday, June 8, 2015
+
+Artificial Intelligence and Conscious Attention--Jesse Prinz's AIR theory of
+Consciousness
+
+Jesse Prinz has argued for that consciousness is best understood as mid-level
+attention.
+
+Is Attention Necessary and Sufficient for Consciousness?
+
+The Conscious Brain: How Attention Engenders Experience
+
+Consciousness, Prinz argues, is best understood as mid-level attention.  
+
+Low level representers in the brain are neurons that perform simple
+discrimination tasks such as edge or color detection.  They are activated early
+on in the process of stimuli from the sensory periphery. 
+
+[Grandmother]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a poorly taken, copyright violating picture from Michael Gazzaniga's Cognitive
+Neuroscience textbook.)
+
+The activation of a horizontal edge detector, by itself, doesn’t constitute
+organized awareness of the object, or even the edge. 
+
+Neuron complexes in human brains are also capable of very high level, abstract
+representation.  In a famous study, “Invariant visual representation by single
+neurons in the humanbrain,” Quiroga, Reddy, Kreiman, Kock, and Fried, they
+discovered the so-called Halle Berry neuron with some sensitive detectors
+inserted into different regions of the brains of some test subjects.  This
+neuron’s activity was correlated with activation patterns for a wide range of
+Halle Berry images. 
+
+[Halle]
+
+
+
+
+
+
+
+
+
+
+What’s really interesting here is that this neuron became active with quite
+varied photos and line drawings of Halle Berry, from different angles, in
+different lighting, in a Cat Woman costume, and even, remarkably, in response
+to the text “Halle Berry.”   That is, this neuron plays a role in the firing
+patterns for a highly abstract concept of Halle Berry. 
+
+Prinz is interested in consciousness conceived as mid-level representational
+attention that lies somewhere between these two extremes.  “Consciousness is
+intermediate level representation.  Consciousness represents whole objects,
+rich with surface details, located in depth, and presented from a particular
+point of view.”  During the real time moments of phenomenal awareness, various
+representations come to take up our attention in the visual field.  Prinz
+argues that, “Consciousness arises when we attend, and attention makes
+information available to working memory. Consciousness does not depend on
+storage in working memory, and, indeed, the states we are conscious of cannot
+be adequately stored.”
+
+When you look at a Necker cure, you can first be aware of the lower left square
+as the leading face.  Then you can switch your awareness to seeing the upper
+right square as the leading face.  So you attention has shifted from one
+representation to another. 
+
+[NeuralCorrelatesOfConsciousness3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+That is the level at which Prinz is located the mercurial notion of
+consciousness, and trying to develop a predictive theory based on the empirical
+evidence.  And Prinz goes to some lengths to argue that consciousness in this
+sense is not what’s moved into working memory, it’s not the contents
+necessarily that have become available to the global workspace such as when
+they are stored for later access.  These contents may or may not be accessible
+later for recall.  But at the moment they are the contents of mind, part of the
+flow and movement of attention. 
+
+Here I’m not interested in the question of whether Prinz provides us with the
+best theory of human consciousness, but I am interested in what light his view
+can shed on the AI project.  I’m particularly interesting in Prinz here because
+it’s arguable that we already have artificial systems that are capable, more or
+less, of doing the low level and the high level representations described
+above.  Edge detection, color detection, simple feature detection in a “visual”
+field are relatively simple tasks for machines.  And processing at a high level
+of conceptual abstraction has been accomplished in some cases.  IBM’s Jeopardy
+playing system Watson successfully answered clues such as, “To push one of
+these paper products is to stretch established limits,” answer:  envelope. 
+“Tickets aren’t needed for this “event,” a black hole’s boundary from which
+matter can’t escape,” answer:  event horizon.  “A thief, or the bent part of an
+arm,” answer:  crook.  Even Google search algorithms do a remarkable job of
+divining the intentions behind our searches, excluding thousands of possible
+interpretations of our search strings that would be accurate to the letters,
+but have nothing to do with what we are interested in.
+
+So think about this.  Simple feature detection isn’t a problem.  And we are on
+our way to some different kinds of high level conceptual abstraction.  Long
+term storage for further analysis also isn’t a problem for machines.  That’s
+one of the things that machines already do better than us.  But what Prinz has
+put his finger on is the ephemeral movement of attention from moment to moment
+in awareness.  During the course of writing this piece, I’ve been
+multi-tasking, which I shouldn’t have.  I’ve been answering emails, sorting out
+calendar scheduling, making plans to get kids from school, and so on.  And now
+I’m trying to recall what all I’ve been thinking about over the last hour. 
+Lots of it is available to me to now.  But there were, no doubt, a lot of
+mental contents, a lot of random thoughts, that came and went without leaving
+much of a trace.  I say, “no doubt,” because if they didn’t go into memory, if
+they didn’t become targets of substantial focus, then even though I had them
+then I won’t be able to bring them back now.  And I say, “no doubt,” because
+when I am attending to my conscious experience now, from moment to moment, and
+I’m really concentrating on just this point, I realize that I’m aware of the
+feeling of the clicking keyboard keys under my fingers, then I notice the music
+I’ve got playing in the background, then I glance at my email tab, and so on. 
+That is, my moments are filled with miscellaneous contents.  I’ve mode those
+particular ones into a bigger deal in my brain because I just wrote about them
+in a blog post.  But lots of our conscious lives, maybe most, those contents
+come and go, like hummingbirds flitting in and out of the scene.  And once they
+are gone, they are gone.
+
+Now we can ask the questions:  Do we want an AI to have that?  Do we need an AI
+to have that?  Would it serve any purpose? 
+
+Bottom Up Attention
+
+That capacity in us served an evolutionary purpose.  At any given time, there
+are countless zombie agents, low level neuronal complexes, that are doing
+discriminatory work on information from the sensory periphery and from other
+neural structures.  The outputs of those discriminators may or may not end up
+being the subject of conscious attention.  In many cases, those contents become
+the focus of attention from the bottom up.  So lower level system deems the
+content important enough to call your attention to it, as it were.  So when
+your car doesn’t sound right when it’s starting up, or when a friend’s face
+reveals that he’s emotionally troubled it jumps to our attention.  Your brain
+is adept at scanning your environment for causes for alarm and then thrusting
+them into the spotlight of attention for action.  
+
+Top Down Attention
+
+But we are able to direct the spotlight as well.  We can focus our attention,
+sustain mental awareness on a task or some phenomena, to suss out details, make
+extended plans, anticipate problems, and model out possible future scenarios
+and so on.  You can go to work finding Waldo:
+
+[waldo]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 14 of Christof Koch's The Question for Consciousness: A Neurobiological
+Approach
+gives a more detailed account of the evolutionary functions of consciousness. 
+
+Given what we saw above about the difference in Prinz between conscious
+attention and short and long term memory, we can see conscious attention can be
+seen as a sort of screening process.  A lot of ordinary phenomenal
+consciousness is the result of low level monitoring systems crossing a minimal
+threshold of concern.  This, right here is important enough to take a closer
+look at.  
+  
+
+[popout]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part of the reason that the window of our conscious attention is temporally
+brief and spatially finite is that resources are limited.  Resources were
+limited when evolution was building the system.  It’s kludged up from parts and
+systems that we re-adapted from other functions.  There was no long view, or
+deliberate planning on the process.  Just the slow pruning of mutation branches
+on the evolutionary tree.  And it modifies the gene pool according to the rates
+at which organisms, equipped as they are, manage to meet survival challenges. 
+
+Kludge:  Consider to different ways to work on a car.  You could take it apart,
+analyze the systems, plan, make modifications, build new parts, and then
+reassemble the car.  While the car is taken apart and while you are building
+new parts, it doesn’t function.  It’s just a pile of parts on the shop floor. 
+But imagine that the car is in a race, and there’s a bin of simple replacement
+parts on board, some only slightly different than the ones currently in the
+car, and modifications to the car must be made while the car is racing around
+the track with the other cars.  The car has to keep going at all times, or it’s
+out of the race for good.  Furthermore, no one gets to choose which parts get
+pulled out of the bin and put into the car.  That’s a kludge. 
+
+Resources are also limited because evolution built a system that does triage. 
+The cognitive systems just have to be good enough to keep the organism alive
+long enough to bear its young, and possibly make a positive contribution toward
+their survival.  The monitoring systems that are keeping track of its
+environment just need to catch the deadly threats, and catch them only far
+enough in advance to save its ass.  It’s not allowed the luxury of long term,
+substantial contemplation of one topic or many to the exclusion of all others. 
+Furthermore, calories are limited.  Only so many can be scrounged up during the
+course of the day.  So only so many can be dedicated to the relatively costly
+expenditure of billions of active neural cells. 
+
+The evolutionary functions of consciousness for us give us some insight into
+whether it might be useful or dangerous in an AI.  First, AIs can be better
+planned, better designed than evolution’s brains.  An AI need not be confined
+to triage functions, although we can imagine modeling human brains to some
+extent and using them to keep watch on bigger, more complex systems where more
+can go wrong than human operators could keep track of.  An AI might run an
+airport better, or a subway system, or a power grid, where hundreds or
+thousands or more subsystems need to be monitored for problems.  The success of
+self-driving Google cars already suggest what could be possible with wide
+spread implementation on the street and highway systems.  So bottom up
+indicated monitoring could clearly be useful in an AI system. 
+
+Top down, executive directed control of the spotlight of attention, and the
+deliberate investment of processing resources into a representational complex
+with longer term planning and goal directed activity driving the attention
+could clearly be useful for an AI system too.  “Hal, we want you to find a cure
+for cancer.  Here are several hundred thousand journal articles.” 
+
+The looming question, of course, is what about the dangers of building
+mid-level attention into an AI?  Bostrom’s Superintelligence has been looming
+in the back of my mind through this whole post.  It’s a big topic.  I’ll save
+that for a future post, or 3 or 10 or 25.  
+
+1 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 3:06 PM Links to this
+post
+
+Friday, June 5, 2015
+
+Evil Demonology and Artificial Intelligence
+
+Eliminativists eliminate.  In history, the concepts and theories that we build
+about the world form a scaffold for our inquiries.  As the investigation into
+some phenomena proceeds, we often find that the terms, the concepts, the
+equations, or even whole theories have gotten far enough out of synch with our
+observations to require consignment to the dustbin of history.  Demonology was
+once an active field of inquiry in our attempts to understand disease.  The
+humour theory of disease was another attempt to understand what was happening
+to Plague victims in the 14th century.  Medieval healers were trying to explain
+a bacterial infection with yersenia pestis 600 years before the microbe, the
+real cause, had even been identified.  Explanations of the disease symptoms in
+terms of imbalances of yellow bile, blood, black bile, and phlegm produced
+worthless and ineffective treatments.  So we eliminate humour theory of
+disease, demonology, the elan vital theory of life, God, Creationism, and so on
+as science marches on.  
+
+[1022px-Humorism]
+
+Eliminativism has taken on the status of a dirty word among some philosophers,
+a bit like people who are quick to insist that they believe women are equal and
+all that, but they aren’t “feminists” because that’s too harsh or strident.  
+
+[tumblr_nhvvnpMT3e1s9rx9zo1_1280]
+
+But we can and should take an important lesson from EM, even if we don’t want
+to be card carrying members.  Theory changes can be ontologically conservative
+or ontologically radical depending on the extent to which they preserve the
+entities, concepts, or theoretical structures of the old account. 
+
+Connectionism, Eliminativism, and the Future of Folk Psychology
+
+That is, we can be conservative; we can hold onto the old terms, the old
+framework, the old theory, and revise the details in light of the new things we
+learn. 
+
+Here’s how the Churchlands explains the process. 
+
+[EM]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We begin our inquiry into what appears to be several related phenomena, calling
+it “fire.”  Ultimately, when a robust scientific theory about the nature of the
+phenomena is in place, we learn that some of the things, like fireflies and
+comets, that we originally thought were related to burning wood, are actually
+fundamentally different.  And we learn that “fire” itself is not at all what we
+originally thought it was.  We have to start with some sort of conceptual
+scaffolding, but we rebuild it along the way, jettison some parts, and
+radically overhaul parts of it. 
+
+My point then, is that we must take a vital lesson from the eliminativists
+about the AI project.  At the outset of our inquiry, it seems like terms such
+as “thinking,” “consciousness,” “self-awareness,” “thoughts,” “belief,” and so
+on identify real phenomena in the world.  These terms seem to break nature at
+the joints, as they say.  But we should be prepared, we should be eager even,
+to scrap the term, overhaul the definition, toss the theory, or otherwise
+regroup in the light of important new information.  We are rapidly moving into
+the golden age of brain science, cognitive science, and artificial intelligence
+research.  We should expect that to produce upheaval in the story we’ve been
+telling for the last several hundred years of thinking about thinking.  Let’s
+get ahead of the curve on that. 
+
+With that in mind, I’ll use these terms in what follows with a great big
+asterisk:  * this is a sloppy term that is poorly defined and quite possibly
+misleading, but we’ve gotta start somewhere. 
+
+Folk psychological terms that I’m prepared to kick to the curb:  belief, idea,
+concept, mind, consciousness, thought, will, desire, freedom, and so on.  That
+is, as we go about theorizing about and trying to build an AI, and someone
+raises a concern of the form, “But what about X?  Can it do X?  Oh, robots will
+never be able to do X….”  I am going to treat it as an open question whether X
+is even a real thing that needs to be taken into account. 
+
+Imagine we time traveled a medieval healer from 14^th century France to the
+Harvard school of medicine.  We show him around, we show him all the modern
+fancy tools we have for curing disease, we show him all the different
+departments where we address different kinds of disease, and we show him lots
+of cured patients.  He’s suitably impressed and takes it all in.  But then he
+says, “This is all very impressive and I am amazed by the sights and things
+going on here.  But you call yourselves healers? What you are doing here is
+interesting, but where are your demonologists?  In 700 years, have you not made
+any progress at all addressing the real source of human suffering which is
+demon possession?  Where is your department of demonology?  Those are the
+modern experts who I’d really like to talk to.”    
+
+We don’t want to end up being that guy. 
+
+We should expect, given the lessons of history, that some of the folk
+psychological terms that we’ve been using are going to turn out to not identify
+anything real, some of them will turn out to not be what we thought they’d be
+at all, and we’re going to end up filling in the details about minds in ways
+that we didn’t imagine at the outset.  Let’s not be curmudgeonly theorists,
+digging in our heels and refusing to innovate our conceptual structures.  But
+on the other hand, let’s also not be too ready to jump onto to every new
+theoretical bandwagon that comes along.   
+
+
+
+
+
+
+
+
+
+
+
+
+0 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 9:31 AM Links to this
+post
+
+Wednesday, June 3, 2015
+
+Turing and Machine Minds
+
+
+[turing]
+
+
+
+In 1950, mathematician Alan M. Turing proposed a test for machine
+consciousness.  If a human interrogator could not distinguish between the
+responses of a real human being and a machine built to hold conversations, then
+we would have no reason, other than prejudice, for not admitting that the
+machine was in fact conscious and thinking.  http://orium.pw/paper/turingai.pdf
+ 
+
+I won’t debate the merits or sufficiency of the Turing Test here.  But I will
+use it to introduce some clarifications into the AI discussion.  Turing thought
+that if a machine could do some of the things we do, like have conversations,
+that would be an adequate indicator of the presence of a mind.  But we need to
+get clear on the goal in building an artificial intelligence.  Human minds are
+what we have to work with as a model, but not everything about them is worth
+replicating or modeling.  For example, we are highly prone to confirmation
+bias, we have loss aversion, and we can only hold about 7-10 digits (a phone
+number) in short term working memory.  Being able to participate in a
+conversation would be an impressive feat, give the subtleties and vagaries of
+natural language.  But it’s a rather organic, idiosyncratic, and
+anthropocentric task.  And we might invest substantial effort and resources
+into replicating contingent, philosophically pointless attributes of the human
+mind instead of fully exploring some of the possibilities of a new, artificial
+mind of a different sort.  Japanese researchers, for example, have invested
+enormous amounts of money and effort into replicating subtle human facial
+expressions on robots.  Interesting for parties maybe, but we shouldn’t get
+lost up side tributaries as we move up the river to the source of mind. 
+
+One of the standard objections to Turing’s thesis is this:  But a Turing
+machine/Artificial intelligence system can’t/doesn’t have _______________,
+where we insert one of the following: 
+
+a. make mistakes.    (Trivial to build in, but inessential and unimportant.)
+b. have emotions  (Inessential, and philosophically and practically
+uninteresting.)
+c. fall in love  (Yawn.)
+d. care/want  (Maybe this is important.  Perhaps having goals is essential/
+interesting.  It remains to be seen if this cannot be built into such a
+system.  More on goals later.)
+e. freedom  (Depends on what you mean by freedom.  Short answer:  there don’t
+appear to be any substantial reasons a priori why an artificial system cannot
+be built that has “freedom” in the sense that’s meaningful and interesting in
+humans.  See Hume on freewill.  http://www.iep.utm.edu/freewill/
+f. produce original ideas.  ( What does original mean?   A new synthesis of old
+concepts, contents, forms, styles?  That’s easy.  Watson, IBM’s jeopardy
+dominating system is being used to make new recipes, and lots of innovate,
+original solutions to problems.)
+g. creativity  (What does this mean?  produce original new ideas?  See above. 
+Complex systems, such as Watson, have emergent properties.  They are able to
+lots of new things that their creators/programmers did not foresee.)
+h. do anything that it’s not programmed to do.  (“Programmed” is outdated talk
+here.  More later on connectionist systems.  Can sophisticated AI programs do
+unpredictable things now?  Yes.  Can they now do things that the designers
+didn’t anticipate?  Yes.  Will they do more in the future as the technology
+advances?  Yes.) 
+i. feel pleasure or pain  (I’ll concede, for the moment, that building an
+artificial system that has this capacity is a ways off technologically.  And
+I’ll concede that it’s a very interesting philosophical question.  I won’t
+concede that building this capacity in is impossible in principle.  And we must
+also ask why is it important?  Why do we need an AI to have this capacity?)
+j. intelligence
+k. consciousness
+l. understand
+m. qualitative or phenomenal states  (See Tononi, Koch, and McDermott)
+
+I think objections a-h miss the point entirely.  I take it that for a-h, the
+denial that a system can be built with the attribute is either simply false,
+will be proven false, or the attribute isn’t interesting or important enough to
+warrant the attention.  i through m, however, are interesting.  And there’s a
+lot more to be said about them.  For each, we will need more than a simple
+denial without argument.  We need an argument with substantial principled,
+non-prejudicial reasons for thinking that these capacities are beyond the reach
+of technology.  (In general, history should have taught us to be very skeptical
+of grumbling naysaying the form of “This new-fangled technology will never be
+able to X.”  But one of the things I’m going to be doing in the blog in the
+future is caching out in much more detail what the terms intelligence,
+consciousness, understand, and phenomenal states should be taken to mean in the
+AI project context, and working out the details of what we might be able to
+build.   
+
+But more importantly, I think the list of typical objections to Turing’s thesis
+raises this question:  just what do we want one of these things to do?  Maybe
+someone wants to simulate a human mind to a high degree of precision.  I can
+imagine a number of interesting reasons to do that.  Maybe we want to model up
+the human neural system to understand how it works.  Maybe we want to
+ultimately be able to replicate or even transfer a human consciousness into a
+medium that doesn’t have such a short expiration date.  Maybe we want to build
+helper robots that are very much like us and that understand us well.  Maybe a
+very close approximation of a human mind, with some suitable tweaks, could
+serve as a good, tireless, optimally effective therapist.  (See the early AI
+experiments with a therapy program.) 
+
+But the human brain is a kludge.  It’s a messy, organic amalgam of a lot of
+different models and functions that evolved under one set of circumstances that
+later got repurposed for doing other things.  The path that led from point A to
+point B, where B is the set of cognitive capacities we have is convoluted,
+circuitous, full of fits and starts, peppered with false starts, tradeoffs,
+unintended consequences, byproducts, and the like.
+
+A partial list of endemic cognitive fuckups in humans from Kahneman and Tversky
+(and me):  Confirmation Bias, Sunk Cost Fallacy, Asch Effect, Availability
+Heuristic, Motivated Reasoning, Hyperactive Agency Detection, Supernaturalism,
+Promiscuous Teleology, Faulty Causal Theorizing, Representativeness Heuristic,
+Planning Fallacy, Loss Aversion, Ignoring Base Rates, Magical Thinking, and
+Anchoring Effect. 
+
+
+So with all of that said, again, what do we want an AI to do?  I don’t want one
+to make any of the mistakes on the list just above.  And I think that we
+shouldn’t even be talking about mistakes, emotions, falling in love, caring or
+wanting, freedom, or feeling pleasure of pain.  What these things show
+incredible promise at doing is understanding complex, challenging problems and
+then devising remarkable and valuable solutions to them.   Watson, the Jeopardy
+dominating system built by IBM, has been put to use devising new recipes.  Chef
+Watson is able to interact with would be chefs, compile a list of preferred
+flavors, textures, or ingredients, and then create new recipes, some of which
+are creative, surprising, and quite good.  The tamarind-cabbage slaw with
+crispy onions is quite good, I hear.  But within this seemingly frivolous
+application of some extremely sophisticated technology, there is a more
+important suggestion.  Imagine that Watson’s ingenuity is put to work in a
+genetics lab, in a cancer research center, in an engineering firm building a
+new bridge, or at the National Oceanic and Atmospheric Administration
+predicting the formation and movement of hurricanes.  I submit that building a
+system that can grasp our biggest problems, fold in all of the essential
+variables, and create solutions is the most important goal we should have.  And
+we should be injecting huge amounts of our resources into that pursuit.  
+
+0 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 2:41 PM Links to this
+post
+
+Tuesday, June 2, 2015
+
+Building Self-Aware Machines
+
+[artificial_intelligence_004]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The public mood toward the prospect of artificial intelligence is dark. 
+Increasingly, people fear the results of creating an intelligence whose
+abilities will far exceed our own, and who pursues goals that are not
+compatible with our own.  See Nick Bostrom’s Superintelligence:  Paths,
+Dangers, Strategies for a good summary of those arguments.  I think resistance
+is a mistake (and futile) and I think we should be actively striving toward the
+construction of artificial intelligence.
+
+When we ask “Can a machine be conscious?,” I believe we often misses several
+important distinctions.  With regard to the AI project, we would be better off
+distinguishing at least between qualitative/phenomenal states, exterior
+self-modeling, interior self-modeling, information processing, attention,
+sentience, executive top-down control, self-awareness, and so on.  Once we make
+a number of these distinctions, it becomes clear that we have already created
+systems with some of these capacities, others are not far off, and still others
+present the biggest challenges to the project. Here I will focus just on two,
+following Drew McDermott:  interior and exterior self-modeling. 
+
+A cognitive system has a self-model if it has the capacity to represent,
+acknowledge, or take account of itself as an object in the world with other
+objects.  Exterior self-modeling requires treating the self solely as a
+physical, spatial-temporal object among other objects.  So you can easily
+spatially locate yourself in the room, you have a representation of where you
+are in relation to your mother’s house, or perhaps to the Eiffel Tower.  You
+can also easily temporally locate yourself.  You represent Napoleon as am 18^th
+century French Emperor, and you are aware that the segment of time that you
+occupy is after the segment of time that he occupied.  Children swinging from
+one bar to another on the playground are employing an exterior self-model, as
+is a ground squirrel running back to its burrow.  
+
+Exterior self-modeling is relatively easy to build into an artificial system
+compared to many other tasks that face the AI project.  Your phone is
+technologically advanced enough to put itself in a location in space in
+relationship to other objects with its GPS system.  I built a CNC machine in my
+garage (Computer Numeric Controlled cutting system) that I ”zero” out when I
+start it up.  I designate a location in a three dimensional coordinate system
+as (0, 0, 0) for the X, Y, and Z axes, then the machine keeps track of where it
+is in relation to that point as it cuts.  When it’s finished, it returns to (0,
+0, 0).  The system knows where it is in space, at least in the very small
+segment of space that it is capable of representing (About 36” x 24” x 5”). 
+
+Interior self-modeling is the capacity to represent yourself as an information
+processing, epistemic, representational agent.  That is, a system has an
+interior self-model if it represents the state of its own informational,
+cognitive capacities.  Loosely, it is knowing what you know and knowing what
+you don’t know.  It is a system that is able to locate the state of its own
+information about the world within a range of possible states.  When you
+recognize that watching too much Fox News might be contributing to your being
+negative about President Obama, you are employing an interior self-model.  When
+you resolve to not make a decision about which car to buy until you’ve done
+some more research, or when you wait until after the debates to decide which
+candidate to vote for, you are exercising your interior self-model.  You have
+located yourself as a thinking, believing, judging agent within a range of
+possible information states.  Making decisions requires information.  Making
+good decisions requires being able to assess how much information you have, how
+good it is, and how much more (or less) you need or how much better you need it
+to be in order to decide within the tolerances of your margins of error. 
+
+So in order to endow an artificial cognitive system with an interior
+self-model, we must build it to model itself as an information system similar
+to how we’d build it to model itself in space and time.  Hypothetically, a
+system can have no information, or it can have all of the information.  And the
+information it has can be poor quality, with a high likelihood of being false,
+or it can be high quality, with a high likelihood of being true.  Those two
+dimensions are like a spatial-temporal framework, and the system must be able
+to locate its own information state within that range of possibilities.  Then
+the system, if we want it to make good decisions, must be able to recognize the
+difference between the state it is in and the minimally acceptable information
+state it should be in.  Then, ideally, we’d build it with the tools to close
+that gap.  Imagine a doctor who is presented with a patient with an unfamiliar
+set of symptoms.  Recognizing that she doesn’t have enough information to
+diagnosis the problem, she does a literature search so that she can responsibly
+address it.  Now imagine an artificial system with reliable decisions
+heuristics that recognizes the adequacy or inadequacy of its information base,
+and then does a medical literature review that is far more comprehensive,
+consistent, and discerning than a human doctor is capable of.  At the first
+level, our AI system needs to be able to compile and process information that
+will produce a decision.  But at the second level, our AI system must be able
+to judge its own fitness for making that decision and rectify the information
+state short coming if there is one.  Representing itself as an epistemic agent
+in this fashion strikes me as one of the most important and interesting ways to
+flesh out the notion of being “self-aware” that is often brought up when we ask
+the question “Can a machine be conscious?” 
+
+
+McDermott, Drew.  “Artificial Intelligence and Consciousness,”  The Cambridge
+Handbook of Consciousness, 117-150.  Zelazo, Moscovitch, and Thompson, eds. 
+2007.  Also here:  http://www.cs.yale.edu/homes/dvm/papers/conscioushb.pdf
+
+0 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 8:18 AM Links to this
+post
+
+Wednesday, April 15, 2015
+
+The Myth of the Afterlife
+
+This just came out.  I wrote the lead chapter in it.  Buy it at Amazon:
+
+The Myth of the Afterlife
+
+[51P-Wx5ObL]
+
+0 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 3:12 PM Links to this
+post
+
+Monday, March 30, 2015
+
+The F Word Lecture
+
+
+
+Here's video, shot by Nathan Lusher (Thanks Nathan!), of my talk from Manteca a
+few days ago.  I spoke to the Stanislaus Humanists at the Manteca Public
+Library.  This year there wasn't a huge angry mob outside, but hey, you can't
+win them all.  
+
+Many believers defend their belief by invoking faith.  Believing by faith, we
+are told, solves whatever problems there may be with the evidence.  Believing
+by faith is widely thought to be admirable and virtuous.  
+
+But believing despite lacking or contrary evidence is dangerously misguided.  I
+make a case to believers why they should not resort to this defense and I
+explain why faith from the believer to the skeptic cannot be prescriptive.  It
+implies no intellectual obligation to believe.  Faith is believing without
+rules.  
+
+
+
+
+
+
+0 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 8:37 AM Links to this
+post
+
+Wednesday, March 18, 2015
+
+The F Word
+
+The F Word.
+
+I'm speaking to a secular humanists group tonight in Manteca at the Manteca
+Public Library at 7:00.  I'll be talking about the problems with believing by
+faith.
+
+My presentation is here.
+
+1 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 11:25 AM Links to this
+post
+
+Friday, April 18, 2014
+
+Three Lectures on Plantinga's Reformed Epistemology
+
+embed(https://www.youtube.com/v/LPl9jQFnlzM?version=3&f=user_uploads&c=
+google-webdrive-0&app=youtube_gdata)
+
+
+
+
+
+embed(https://www.youtube.com/v/anjuHxrGq8o?version=3&f=user_uploads&c=
+google-webdrive-0&app=youtube_gdata)
+
+
+
+embed(https://www.youtube.com/v/wh04l7nJ3GI?version=3&f=user_uploads&c=
+google-webdrive-0&app=youtube_gdata)
+
+
+11 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 1:46 PM Links to this
+post
+
+Wednesday, April 9, 2014
+
+Ad hominem: Your Sins Keep You from Seeing God
+
+I'm recycling this post from 2007.  This guy put his finger on something:
+
+A group of philosophers sympathetic with the Christian take on things have
+constructed a complicated and technical account of God beliefs and their source
+in human cognition known as reformed epistemology. On the view, espoused by
+Plantinga and Wolterstorff and widely cited and supported in recent years,
+humans are endowed by God with an innate faculty for sensing God under the
+right circumstances. This sensus divinitatus is one aspect of a properly
+functioning cognitive and belief forming system in humans. When it is not
+corrupted by the invasive noetic effects of sin, this faculty produces a belief
+in God that is immediate, direct, and non-inferentially justified. That is, a
+belief in God is properly basic according to the reformed epistemologists. It
+is not supported by any other independent or more fundamental facts. It cannot
+be justified on the basis of other beliefs. Rather, it’s axiomatic like the law
+of non-contradiction or the identity of indiscernibles. The sensus divinitatus
+will manifest itself in a variety of ways—when you see a sweeping vista of
+majestic mountaintops, or when your first child is born, or upon pondering the
+vastness and magnificence of the universe in the night sky.
+
+Misinterpreting these feelings of the divine as indicators of a non-Christian
+God as a Hindu might, or suppressing them and denying that God is manifest in
+experience are all the by-products of a sinful nature. Doubters, skeptics, and
+deniers—anyone who doesn’t buy into the Reformed Epistemology picture—have all
+had their God given God detectors corrupted, co-opted, and distorted by sin.
+What they need, of course, is the salvation of Jesus to cleanse them of their
+immorality and to restore the proper function of their belief faculties. Then
+they will see that they were not right with God before. And then they will have
+properly basis religious experience of God. So the view has a the tidy way to
+deal with criticisms and legitimate objections. No objection to the whole
+scheme can have any merit because it arises from doubt, which is really just
+wickedness. If you had some experiences that seemed to have profound religious
+significance, like any normal person you would wonder about alternative
+explanations. Could this just be a weird artifact of my neurology? I wonder
+what natural explanation there could be for this strange disassociation? Maybe
+I ate something bad? The full-blown theistic supernatural explanation is one
+possibility. But according to Reformed Epistemology any suspicion that you have
+that it might have been something natural is really the result of your innately
+evil nature and the taint that sin has placed on your ability to think
+straight. They position undercuts any objections with an ad hominem attack on
+the moral character of the questioner. 
+
+The whole scheme is also clever (and insidious) for inventing a notion of
+private evidence that shouldn’t be held up for any public scrutiny by someone
+who has doubts. Once you’re in the special club, you’re provided with
+“self-authenticating witness of the holy spirit” that gives you perfect,
+unassailable assurance about your God doctrine no matter what empirical
+questions or doubts may arise. Ordinarily, evidence is something that is
+sharable and public. The prosecuting attorney displays the gun that was the
+murder weapon for everyone in the court, the dentist looks at X-rays, and your
+mechanic points to the leaking oil around a gasket as evidence that there is a
+problem. But this special God feeling isn’t like that; it’s just a feeling you
+have that something’s got to be true, so it can’t be shared with anyone else.
+Plantinga and some of the people in this camp suggest that the earnest
+Christian in this situation ought to consider alternative explanations for
+their experience. Many properly basic beliefs, including the God one
+presumably, are defeasible. If you have the experiences, and if your conviction
+that that’s really God your feeling persists after you have scrutinized the
+belief and reflected on what might be causing it, then you will have a
+warranted, and true belief that there is a God.
+
+Needless to say, the notion of private evidence here is deeply problematic.
+Imagine an IRS agent telling you that she’s got self-authenticating, private
+evidence that you can’t see that you owe the government an extra $20,000 tax
+dollars. Imagine a doctor telling you that she’s got self-authenticating
+evidence that you’ve got cancer, but the evidence can’t be grasped by anyone
+who doesn’t already believe it. Or imagine your husband telling you that he’s
+got special, private, self-authenticating evidence that you’ve been cheating on
+him. Then suppose furthermore that they assure you that their conclusion is
+right because they have thought long and hard about it and considered other
+possibilities. Evidence that's private isn't really evidence at all and a mere
+feeling that something just must be true, no matter how strong or persistent,
+is never enough to give it warrant. 
+
+Here’s a model of human rationality and religious belief that is much more
+accurate. Humans are endowed by evolution with a remarkably effective set of
+problem solving skills that can be group loosely under the general heading
+“reason.” In the right circumstances, our reason allows us to devise
+complicated and elegant solutions to challenges, make accurate inferences and
+predictions, and arrive at many well-justified and true beliefs. We manage to
+cure diseases like polio and land people on the moon. But our cognitive systems
+are kludgey and imperfect. They’re strapped together with disparate functions
+and tools that were available at various stages in a long, convoluted
+evolutionary history. Sometimes they don’t track the truth at all, like when
+you have an attack of claustrophobia, or you can’t bear to even look at a dish
+that once made you sick when you were a child. Sometimes our cognitive
+faculties overreact, mislead, underestimate, or misjudge. 
+
+Our fancier faculties of reason are also often overwhelmed by a variety of
+emotional, psychological, and biological forces that erode our ability to
+reason well and see the truth. One legacy of our evolutionary history appears
+to be a powerful disposition towards religious belief, experiences, and
+feelings. Daniel Dennett and Stephen Pinker have recently argued that natural
+selection may have endowed us with a sort of mind-attribution module.
+Construing other organisms behavior as the product of the planning and goals
+within their minds, whether they really have them or not, would be an effective
+mechanism for anticipating and projecting the behaviors of potential predators
+and prey. But we’re just built to take it too far and endow everything with a
+mind—the wind, the ocean, the starry sky, and the world itself. 
+
+In an earlier post, I called it the Urge—a powerful and seductive need we have
+to be religious. Completely aside from the factual question of God, it is
+obvious to anyone who observes humans and their religious activities that we
+desperately want there to be a God and we will adopt the most contorted
+gymnastics of reasoning to rationalize the belief. Even if there are some
+theists with good reasons, there are far more with sloppy, fallacy ridden,
+biased grounds that they offer for their beliefs. And in lots of these cases,
+it’s not really the poor reasoning that is offered in defense of someone’s God
+belief that led them to believe at all. More often it is the case that people
+have the belief first as a result of the Urge’s infiltration of their
+consciousness, and then they back fill that conclusion with some superficial
+reasons. So the Urge is really the dark side of your nature that threatens to
+corrupt your more noble aspects. It’s the alluring, siren call of religion
+itself, not sin, that will co-opt reason’s ability to see the world in an
+accurate light. 
+
+Staying on the straight and narrow will require resisting the temptation of
+religion’s easy, emotionally satisfying answers to the biggest metaphysical
+questions. Living up to your potential to reason clearly and evaluate the
+evidence objectively demands that you be constantly vigilant against seduction
+of religion’s false comforts.
+
+7 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 12:55 PM Links to this
+post
+
+Monday, March 17, 2014
+
+Double Standards for Jesus
+
+
+I got interviewed by Alan Litchfield recently for his podcast:
+
+http://www.malcontentsgambit.com/2014/03/11/
+philosopher-argues-against-christianitys-double-standard/
+
+Take a listen to hear me get pretty heated up about the narcissism of many
+contemporary Christians' views about God, and for details about my recent
+Manteca lecture that was met with a crowd of angry, tongues-speaking
+evangelicals trying to exorcise me out of town.
+
+20 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 1:55 PM Links to this
+post
+
+Saturday, February 8, 2014
+
+New Lecture on Motivated Reasoning
+
+embed(https://www.youtube.com/v/47T-y9HzGLQ?version=3&f=user_uploads&c=
+google-webdrive-0&app=youtube_gdata)
+
+
+1 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 7:17 PM Links to this
+post
+
+Tuesday, January 28, 2014
+
+Thinking Critically About God
+
+My recent lecture to the Stanislaus Humanists in Manteca, CA on Jan. 15 has
+caused some controversy locally.  See some of the heated letters to the editor
+here:
+www.mantecabulletin.com under the Opinion section.  
+
+In response, I wrote this letter to the editor of the paper.  Let's hope they
+publish it and I get an opportunity to talk to some of that local church
+groups.  The pastor of the church that demonstrated that night has declined my
+offer.  
+
+My name is Matt McCormick.  I am the professor who gave the lecture to the
+Stanislaus Humanist group at the Manteca Library on January 15. 
+
+I’d like to thank the Stanislaus Humanists for inviting me to speak.  And I’d
+like to thank all of the people from Manteca who came out either to hear me
+speak, or to participate in the events outside the building that night. 
+
+My lecture has stirred up quite a bit of controversy.  I’d like to present a
+few thoughts on what I take to be a fundamental issue, and I’d like to make an
+offer to any churches or other groups in Manteca. 
+
+The most fundamental requirement for a successful democracy, and for human
+prosperity and happiness, is for individuals to, first, be informed with the
+full range of relevant ideas, particularly concerning important decisions, and,
+second, for them to have the critical thinking skills to be able to reason
+clearly, accurately, and reliably about that body of information. 
+
+In religious organizations, to a greater or lesser extent depending on the
+tradition, the social model is fundamentally authoritarian; the clergy lead,
+they shepherd, they give their congregations the answers, they enforce belief
+conformity, they exclude dissenters, they exclude contrary ideas, they
+discourage doubts, and they discourage independent thinking.  Much of this was
+evident in the dangerous rhetoric in response to my coming to speak in
+Manteca.  Many of the comments and reactions before, during and after have been
+dangerous, combative, and confrontational.  One pastor, praying about my
+lecture before I came to town said, “We drive back any atheist movement right
+now in the name of Jesus. . . We must repel the demonic attack on our city,"
+and he prayed, "God, cause a storm to happen or something [on Wednesday
+night]."  Another pastor said that I was an "evangelical atheist," and "they're
+going to try to put up billboards, they're going to try to do other things to
+convince people that God is not real. . .  And, as far as I'm concerned, this
+is our house.  This is our house.  This is our city." 
+
+The social model for a liberal arts education at a university like where I am a
+professor is fundamentally democratic; my job is to encourage people to
+actively consider contrary ideas, think for themselves, make their own
+decisions, be independent, to not blindly trust authority, and to not be
+manipulated by emotional ploys or rhetoric.  Our goal is to get people to
+reason well.  We are neutral with regard to the outcome of that reasoning
+process; people should be free to draw whatever conclusion they deem to be best
+supported by sound reasoning and the evidence.  Creating atheists is not my
+goal; I would rather people become thoughtful, rational, well-informed
+believers in God than have them be dogmatic and irrational. 
+
+Many pastors, preachers, priests, and other clergy are dedicated to keeping you
+believing no matter what the evidence is.  And they wittingly or unwittingly
+use a variety of methods to do it that are at odds with your being an
+independent, informed, and effective critical thinker.  Some of them and some
+of their methods encourage ignorance, superstition, intolerance, irrationality,
+and narrow-mindedness.  We should all be deeply concerned about clergy who
+would capitalize on the ignorance of people who don't have the critical
+thinking skills or the information to know any better, to keep them from making
+thoughtful, informed, reasonable decisions for themselves. 
+
+So with all of that in mind, I’d like to make an offer.  I would like to come
+and speak to any church or group in the Manteca area who would host me, and
+present some of my questions and doubts about the resurrection of Jesus. 
+People should have free access to information, including viewpoints that may
+seem outrageous or offensive, and they should be able to develop informed,
+reasonable conclusions about matters of great importance on the basis of the
+full body of relevant information.  My email address is mccormick@csus.edu
+
+
+
+8 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 12:29 PM Links to this
+post
+
+Monday, January 27, 2014
+
+Talking them out of God
+
+On my recent visit to Manteca to speak to Stanislaw Humanists about the
+resurrection, we had a bit of drama with some local church members.  When I
+arrived at the library to speak, there were 300 or so people assembled outside
+for a counter-protest/prayer vigil/religious service.  They had a P.A. system
+set up, were playing music, praying, passing out food, and so on.  During my
+talk, among other things, they encircled the building, held hands, and prayed
+fervently about what was going on inside.  A number of them sat through my talk
+and asked some questions after.  A couple of self-described “security” guys
+came in and out during the talk, had intense conversations on radio headsets,
+and scowled at me while I talked.  A number of them lurked outside the open
+door to the lecture hall and listened.  I invited them to come in and sit down,
+but they refused.  Some others who were passing by shouted into the room later
+in the talk.  And when I walked back to my car at the end of the night, a car
+full of people followed me slowly and finally drove off when I got in my car
+and started it. 
+Here’s a video of the talk:
+
+http://www.youtube.com/watch?v=RGbv8-tVJCM
+(Inexplicably, YouTube won't let me embed this one.)  
+
+In a video of their sermon the week before, one of the pastor’s said, “We must
+drive back this demonic attack from our city” language during the prayer.  And
+also note the territorial language in their characterization of my visit. 
+
+There’s a lot to comment on here.  But I want to focus on a particular issue
+that’s been on my mind.  Let’s talk on a meta-level about what’s going on when
+someone like me tries to give a carefully reasoned argument for why someone
+like the believers who showed up to my talk should stop believing. 
+
+First, the Salem Witch Trials argument that I’ve been presenting for some years
+now, and in my book, is, as far as I can tell, a devastating argument against
+anyone who thinks that there is adequate historical evidence to justify
+believing in the resurrection.  No false modesty here.  The point is that if
+the really sketchy historical information we have about Jesus warrants
+concluding that he was resurrected, then the evidence we have concerning
+witchcraft at Salem, which is vastly better by any measure of quantity and
+quality, warrants us in concluding that there were really witches at Salem. 
+But, of course, there was no magic at Salem.  So we should reject both.  There
+are lots more details about this argument in my book. 
+
+But here’s what I want to get to.  First, this sort of argument has almost no
+effect on the majority of believers who hear it.  That is due, in large part to
+motivated reasoning.  This is a well-studied proclivity in humans to acquire a
+belief, and then evaluate all new information they encounter in ways to make it
+conform to that belief.  Preference inconsistent information is critically
+evaluated with much more sever skepticism, and preference consistent
+information is accepted with much less critical scrutiny.  That is, if it’s not
+what we want to hear, we figure out some hyper-critical way to find flaws in it
+and reject it.  We all do it about lots of topics.  My book full of skeptical
+arguments about Jesus, not surprisingly, has brought motivated reasoners out in
+droves. 
+
+These days, I find the base phenomena of motivated reasoning and the psychology
+of belief more interesting than actually engaging in the philosophical debate
+over that Salem argument.  The Salem argument is a slam dunk, as I see it.  The
+only question that remains is, what are the real reasons, psychological,
+social, personal, and neurobiological, that it just bounces off of so many
+believers? 
+
+One of the reactions in Manteca got my attention.  Someone said something like
+this, “He’s making this argument comparing Jesus to the Salem Witch Trials or
+some nonsense, and he thinks that Jesus wasn’t real. [That wasn’t my argument,
+of course]. But we all know because of the presence of Jesus in our lives, and
+because of what we’ve seen God do that God is real and Jesus is his one true
+son. . . .  “ 
+
+So I want to talk about that part:  the body of evidence that folks like the
+ones who showed up for my talk, take to be resounding proof of God.  I’m going
+to speculate a bit about what that is. 
+
+First, this group of believers, like many in the U.S., is highly adept at
+getting themselves into a state of religious ecstasy, for lack of a better
+term.  Watch this bit of video, shot by local activist Dan Pemberton, of them
+praying.
+embed(https://youtube.googleapis.com/v/4BguACP1Ix0&source=uds)
+
+Note the swaying, waving of hands, eyes closed, speaking in tongues, moral
+elevation, and altered state of consciousness in many of them.  And notice how
+quickly and easily they can slip into this state as they work themselves up. 
+There are some very powerful feelings surging through people here.  Undeniably
+uplifting, positive feelings of elation, transcendence, connection with
+something larger, and so on.  Psychologist Jonathan Haidt and others have
+called something like this moral elevation: 
+http://www.psych-it.com.au/Psychlopedia/article.asp?id=262
+
+But I think what’s going on here also merges on to religious ecstasy:  http://
+en.wikipedia.org/wiki/Religious_ecstasy
+
+Ok, so let’s take a believer and take the sum of all these ecstatic moments
+that she’s had as a part of her evidence.  What else is there? 
+
+There’s probably also a number of cases where she’s prayed fervently for
+something—for a loved one to get better from illness, for someone to overcome
+drug addiction, for guidance about some important decision, and so on—and then
+as she sees it, later, the outcome she prayed for happened.  A loved one got
+over an illness, someone recovered from drug addiction, etc. 
+
+What else?  All of her friends and family believe fervently.  They are utterly
+convinced.  God existence and God’s presence in their lives is an obvious truth
+to them.  The fact that so many people around her, including lots of people
+whose judgment she trusts, itself is a part of her evidence.  It’s part of
+what’s leading her to believe.  And this makes perfect sense.  We all look to
+the people around us for guidance about what to believe. 
+
+So what would be required to bring someone like this around?  Importantly, a
+person who believes needs to care about believing reasonably, they need to care
+about the evidence, they must have as a priority something like Hume’s
+principle:  Believe all and only those things that are best supported by the
+evidence.  And believe them with a conviction that commensurate to the quality
+and quantity of evidence in your possession.  And make a concerted effort to
+gather all the relevant evidence (pro and con) that time, resources, and
+prioritization requires.  Call this set of priorities a Rationality Principle. 
+
+Obviously, the Rationality Principle is huge.  Lots of people don’t have it as
+a priority.  Lots of people don’t understand parts of it.  And lots of people
+fail to see how central it is to their achieving lots of their goals.  So a
+real discussion with a believer that has the goal of getting them to not
+believe may just turn into a broader, and more fundamental discussion of why
+she ought to adopt or care about this principle. 
+
+Next?  Well, it’s important to note, I think, that our hypothetical believer
+here has a lot of what we should call evidence.  She has a number of
+observations, experiences, events in her life, and a lot of information that is
+relevant to whether God is real.  And as she sees it, that information all
+points towards the God conclusion.  So if we can assume that she holds the
+Rationality Principle, then we’ve got to address this body of evidence.  We’ve
+got to look at the ecstatic experiences, the “answered prayers,” the community
+belief, and the rest, and we’ve got to figure out what the best explanation of
+all of that is.  God’s existence is a possible explanation, but it’s pretty
+clearly not the best explanation.  But convincing someone of that is the hard
+part.  A nice, short analysis of a reasoning mistake that is often made about
+prayer is in this video:   
+embed(https://youtube.googleapis.com/v/jk6ILZAaAMI&source=uds)
+
+The problem with this piece that that the writing and the tone here is
+inflammatory.  Even though he’s making a set of very good points about how
+prayer is set up to be non-disconfirmable, he does it in a way that will offend
+people and obscure the message. 
+
+What about the religious ecstasy?  I have a number of ideas about what might
+put those experiences into a larger, natural context for people.  They are
+common in lots of human religions, including ones that make contrary claims to
+Christianity.  So one person arguing for God on the basis of her ecstatic
+experiences is faced with millions of other people having just the same sorts
+of experiences but taking them to imply that the opposite is true.  People also
+have these experiences, or something very close to them, at Justin Bieber
+concerts, during football games, when the national anthem is played, during
+chick flicks, and so on.  They are common, easily induced naturally, and we
+don’t have any substantial reason to think that the best explanation here is
+supernatural. 
+
+What about the community believer evidence?  Education is the best key here. 
+Manteca, for instance, is an isolated, rural town.  Lots of the people there
+who got sucked into that church at an early age have never seen or considered
+the alternatives.  They’ve never been around non-believers.  They know very
+little about other religious movements, religious history, or the broader
+context of human religious belief.  Learning the basics about worldwide
+religious movements puts human religiousness into context, and usually suggests
+a natural, rather than a supernatural explanation.  The Internet will save us,
+I think.  It is democratizing information for humanity in a way that has never
+occurred in history.  A massive flood of information is available to a greater
+portion of people on the planet every day.  And at the end of the day, the more
+someone like the people in Manteca, or someone in backwater village in India,
+knows about what other people out there in the world think, they more they will
+put 2 and 2 together.  In a few generations, religiousness, especially the
+worst, most dangerous parts of it, will drop dramatically.  Daniel Dennett is
+good on this point here:
+embed(https://youtube.googleapis.com/v/6-NRMLyZfNs&source=uds)
+
+
+So there’s a sketch of what I think is going on in the head of a subset of
+American Christian believers.  That’s an enumeration of their evidence, and
+some rough suggestions about what it will take to win them, or more likely,
+their children or their grandchildren over. 
+
+
+Thoughts?  
+
+9 COMMENTS [icon18_ema] ● Posted by Matt McCormick at 10:09 AM Links to this
+post
+Older Posts Home
+Subscribe to: Posts (Atom)
+
+My book is out:
+
+My book is out:
+●
+
+Search This Blog
+
+Loading...
+●
+
+Atheism
+
+  • The Basics: What is Atheism?
+  • The Influential Arguments for Atheism
+  • Bibliography of Important Works on Atheism
+
+●
+
+Author:
+
+My Photo
+
+Matt McCormick
+    Ph.D. in philosophy from the University of Rochester.  Teaching at CSUS
+    since 1996.  My main area of research and publication now is atheism and
+    philosophy of religion.  I am also interested in philosophy of mind,
+    epistemology, and rational decision theory/critical thinking.  
+
+View my complete profile
+●
+There was an error in this gadget
+●
+
+Atheism: Proving The Negative--The Recent Posts
+
+Loading...
+●
+
+Proving Atheism
+
+  • Is God Impossible, or Kind of Impossible?
+  • What's Left to be Agnostic About?
+  • Perpetual Motion Machines and an Argument Against Agnosticism
+  • Know Your Godless Heathens
+  • Are We Proving the Negative Yet?
+  • Three Important Arguments for Atheism
+  • Philosophical Atheism Bibliography
+  • Encyclopedia Entry: Atheism
+  • God is Hiding
+  • 500 Dead Gods Pluse One
+  • 500+1: Bad Answers to a Good Question, part 1.
+  • 500 + 1: Bad Answers to a Good Question—Science has a record with as many
+    failures as religions.
+  • Proving Atheism and Bayes' Theorem
+  • Teaching Atheism
+  • Critiques of Atheism
+  • Common Criticisms of Atheism--Revised
+  • What Would Change Your Mind?
+  • A Hundred Reasons to Believe that God Does Not Exist
+  • Another Way to Prove the Negative
+  • Some Varieties of Atheism
+  • Intellectual Cheaters
+  • Everitt on Standards of Proof and Non-Belief
+  • Moving the Goal Posts
+  • Many Paths, No God
+  • One of Several Ways to Prove the Negative
+  • Moving On
+  • Deal With It
+  • Reasonable Belief, Proof, and Uncertainty
+  • 500 Dead Gods
+  • Is He Keeping His Distance, or Is He Just Not There?
+  • God Wouldn’t Leave Room For Agnosticism
+  • Wide Atheism: There Are No Gods
+  • The Burden of Proof is on the Atheist
+  • The Burden of Proof is On The Atheist--Redux
+  • Coherence and Atheism
+  • He Has No Brain, So God Doesn’t Exist
+  • Proving the Negative
+
+●
+
+Morality and Atheism
+
+  • Can't Be Moral without God? Wrong.
+  • Can Evolution Explain Morality?
+  • Science is Essential to Morality
+  • Nature Gives Us Morality, Not God
+  • Praying for the Answers
+  • Morality, Therefore God
+  • Explaining Our Moral Intuitions
+  • Heroism and the Duty to Rescue Show that there is No God
+  • The Believer's Moral Double Standard for God
+  • The New Ten Commandments
+  • No Moral Truths, No God
+  • Monkey Morality, or Goodness Isn’t Magical
+  • Stephen Pinker: Instinct for Morality
+  • Trying to be Moral Through the Distorted Lens of the Bible
+  • Incoherent: I believe because it makes me moral.
+  • Believing in God is Immoral
+  • Does the Theist Have a Moral Advantage over the Atheist?
+  • Can Atheists be Moral?
+
+●
+
+Theistic Fallacies
+
+  • How Reliable Are Human Religious Claims?
+  • Natural Minds
+  • Everything Is To the Glory of God, Revamped
+  • The Jesus Sharpshooter Fallacy
+  • Belief Persistence Despite Discredited Evidence
+  • I was raised religious. . .
+  • Heaven and Justifications of Evil
+  • Many Paths, No God
+  • Reigning In the Fallacious Human Belief Machine
+  • Possible, Possible, Possible: Overdrawing the God Account
+  • Everything to the Glory of God
+  • Confusing Possible with Probable and Having a Right to Believe
+
+●
+
+Troubles for Christianity
+
+  • The Salem Witch Trials-video
+  • The Money Bag
+  • The Case Against Christ--draft of a book proposal
+  • Eyewitnesses
+  • Guilty!
+  • Putting Odds on Jesus
+  • The Case Against Christ
+  • What Does the Bible Really Say? It Doesn't Matter if We Don't Have Reasons
+    to Think It's True.
+  • More Bad Answers to Good Questions: Witches and Reasonable Proof
+  • Jesus Magic
+  • God Doesn't Want You to Believe the Bible
+  • Abducted by Aliens
+  • The Perfect Word of God
+  • Resurrection? Probably Not.
+  • Disbelieving the Believers
+  • The Sin of Original Sin
+  • The Real Evil of Original Sin
+  • What's Desirable About Heaven?
+  • Washing in Blood, Human Sacrifices, Cannibalism, Groveling in Front of
+    Altars
+  • Did the Believers Believe?
+  • Putting the Fox In Charge of the Henhouse
+  • Perfect Word of God? Reliable Historical Document?
+  • Should We Believe that Jesus Was Resurrected?
+  • Grave Robbers or Magic
+  • 300 Year Gap
+  • You Don’t Really Expect Us to Believe That, Do You?
+  • Garbage In, Garbage Out
+  • Textual Exegesis Will Not Solve
+
+●
+
+Naturalism, Magic, and Religious Belief
+
+  • Vetting Supernatural Knowledge Claims
+  • No Vital Spirits
+  • Doubt vs. Dogma
+  • Science vs. Faith
+  • The Neuroscience of Believing
+  • Adding Epicycles to God
+  • Self-Deception: Religion and Science are Compatible
+  • Science Always Replaces Supernatural Explanations
+
+●
+
+The Epistemology of Atheism
+
+  • Knowing More Than Science
+  • God is Not Beyond Logic
+  • Sowing the Seeds of Atheism in Rocky Soil
+  • Belief as Declaration of Intent
+  • Faux Agnosticism
+  • Grasping at Possibilities
+  • Sinking the Raft I'm Standing On
+  • More on the Epistemology of Atheism
+  • God is Not Beyond Logic
+  • Teaching Atheism
+  • Sowing the Seeds of Atheism in Rocky Soil
+  • Belief As Declaration of Intent
+  • Faux Agnosticism
+
+●
+
+The Psychology of Believing
+
+  • Ghosts, Resurrections, and Bereavement Hallucinations
+  • IQ and the Origins of Religions
+  • Inside the Mind of a Religious Mystic
+  • Santa and the Believers Real Idea of God
+  • Intelligence is Inversely Related to Religiousness
+  • Would Anything Change Your Mind?
+  • Believing is Good for You, Even if it's Nonsense
+  • The Forbidden Conclusion
+  • The God Projector
+  • Non-Cognitive Religious Utterances Produce Beliefs About Reality
+  • Remembering God
+  • The Hidden Costs of Religious Belief
+  • Religion is a Mind Virus
+  • How the Surreal Becomes Commonplace
+  • Does Sin Corrupt Our Ability to See God?
+  • Knowing Your Own Mind About God
+  • We Are Wired To Resist the Truth About Pointless Suffering
+  • God Blind Spot
+  • Isn’t “God” Just Another Word for New Age Nonsense?
+  • What if the Lie Really is Good For Us?
+  • The God Urge
+
+●
+
+Faith and Atheism
+
+  • My Private Unassailable Knowledge of God
+  • Intuiting God
+  • Does the Atheist Need to Respond to Faith?
+  • Gibberish? Non-Cognitivist Speech Act? or Serious Truth Claim?
+  • Science is Not a Religion
+  • The So-Called Right To Believe: Confusing Hoping with Justified Believing
+
+●
+
+Problems with Fine Tuning and Design Arguments
+
+  • U.S. District Court: Intelligent Design is a Farce
+  • The RNA World
+  • MacGyver-ing the Universe
+  • 4 Modern Views about the Universe
+  • Design Shows That There Is No God
+  • God and the Big Bang
+  • Current Theories of Abiogenesis
+  • Design Shows that there's No God
+  • How Probable is God?
+  • Fine Tuning's Fatal Flaw
+  • How Big Would God's Universe Be?
+  • Bogus Probabilistic Judgmetns and God
+  • Can We Find Evidence for the Divine Properties in the Universe?
+  • God is Not a Watchmaker
+  • We Don't Have the Right Dataset to make the Design Argument
+
+●
+
+Evil and God
+
+  • Evil Isn't the Problem, the Concept of God Is
+  • Another Paradox for the Soul Building Defense: God Has No Virtue, and
+    Humans are More Virtuous Than God
+  • Heaven and Justifications for Evil
+  • God’s Evil
+  • If There is a Satan, Then There Is No God
+  • God and Suffering
+  • The Paradox of the Soul Building Defense for Evil
+  • God or Gratuitous Evil?
+  • The Double Standard of God’s Goodness
+  • The Super Evil Challenge
+  • Is Heaven Guilt Money?
+  • The Inductive Problem of Evil Argument for Atheism
+  • What Would Make the Atheist Happy?
+
+●
+
+Religious Tolerance and Atheism
+
+  • Retraction Retraction: Imagining No Religion
+  • Freedom of Speech, Only For the Religious. Freedom of Thought, but only for
+    Religious Thoughts
+  • The Duplicity of Religious Moderation
+  • Don’t Like My Tone? Am I Being Rude?
+  • There is No Right To Religious Belief
+  • Jerry Falwell: Exploiting Religious Tolerance and Respect
+  • Is Religious Education Child Abuse?
+  • Treating Religious Affiliation as Ethnicity
+  • The So-Called Right To Believe: Confusing Hoping with Justified Believing
+
+●
+
+Problems with Immortality posts
+
+  • Still Think You've Got an Immortal Soul? You Need a New Brain
+  • When Do We Die?
+  • Employee of the Month: God
+  • Dead As A Doornail
+  • What's Desirable About Heaven?
+  • There is no Psychic Contact with the Dead
+  • What Would be Evidence of Life After Death?
+
+●
+
+Problems with Miracles
+
+  • A God Who Performs Miracles is Evil
+  • God Wouldn’t Do Miracles
+  • God Doesn’t Do Miracles—full version article draft
+  • Top Ten Suggestions for Performing Better Miracles
+  • Begging the Question: Miracles and Nature
+  • Miracles Make it Harder to Prove God Is Good
+  • You Don’t Really Believe in Miracles
+  • Miracles Prove that There is No God
+
+●
+
+Other Articles by Prof. McCormick
+
+  • God Would Not Perform Miracles (draft)
+  • Problems for the Miracles of Jesus (draft)
+  • Against the Immortality of the Soul, published in Death and Anti-Death.
+  • Why God Cannot Think, reprinted in The Improbability of God
+
+●
+
+Links:
+
+  • Debunking Christianity--John Loftus
+  • Atheist Student Organization (CSUS)
+  • Interview with Matt McCormick in Capitol Weekly
+  • Feature Article about Prof. McCormick's Atheism Seminar
+  • Article in CSUS Hornet about Atheism and Christmas, features Matt McCormick
+    and several of his students
+  • Why God Cannot Think, published in Philo, McCormick
+  • Prof. McCormick's Academic Webpage
+  • Prof. McCormick's Atheism Seminar
+  • Sam Harris's Webpage, author of The End of Faith and Letter to a Christian
+    Nation
+  • Richard Dawkins, author of The Blind Watchmaker, The God Delusion, and
+    other important books.
+  • Superstition as a Natural Phenomenon
+  • Business Communications Group
+
+●
+
+Books:
+
+  • Schellenberg, J.L. Divine Hiddenness and Human Reason
+  • God and the Problem of Evil, ed. William Rowe
+  • Stenger, Victor. God: The Failed Hypothesis
+  • Ehrman, Bart. Lost Christianities
+  • Mackie, J.L. The Miracle of Theism
+  • Everitt, Nicholas. The Non-Existence of God
+  • Gale, Richard. On the Nature and Existence of God
+  • Martin, Michael. Atheism, A Philosophical Justification
+  • Russell, Bertrand. Why I Am Not a Christian
+  • The Cambridge Companion to Atheism. Ed. Martin.
+  • The Improbability of God. Eds. Martin and Monnier.
+  • The Impossibility of God. Eds. Martin and Monnier
+  • Dawkins, Richard. The God Delusion.
+  • Dennett, Daniel. Breaking the Spell.
+  • Harris, Sam. The End of Faith, Letter to a Christian Nation.
+
+●
+
+Quotes:
+
+"Science. It works, bitches."
+
+"The God of the Old Testament is arguably the most unpleasant character in all
+fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a
+vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist,
+infanticidal, genocidal, filicidal, pestilential, megalomaniacal,
+sadomasochistic, capriciously malevolent bully." - Richard Dawkins, The God
+Delusion
+
+"Religion easily has the greatest bullshit story ever told. Think about it.
+Religion has actually convinced people that there's an invisible man living in
+the sky who watches everything you do, every minute of every day. And the
+invisible man has a special list of ten things he does not want you to do. And
+if you do any of these ten things he has a special place, full of fire and
+smoke and burning and torture and anguish where he will send you to live and
+suffer and burn and choke and scream and cry for ever and ever until the end of
+time. But he loves you! He loves you and he needs money!" George Carlin 1937 -
+2008
+
+Many Paths, No God.
+
+I don't go to church, I AM a church, for fuck's sake. I'm MINISTRY. --Al
+Jourgensen
+
+Every sect, as far as reason will help them, make use of it gladly; and where
+it fails them, they cry out, “It is a matter of faith, and above reason.”
+- John Locke, An Essay Concerning Human Understanding
+
+
+If life evolved, then there isn't anything left for God to do.
+
+The universe is not fine-tuned for humanity. Humanity is fine-tuned to the
+universe. Victor Stenger
+
+Skeptical theists choose to ride the trolley car of skepticism concerning the
+goods that God would know so as to undercut the evidential argument from evil.
+But once on that trolley car it may not be easy to prevent that skepticism from
+also undercutting any reasons they may suppose they have for thinking that God
+will provide them and the worshipful faithful with life everlasting in his
+presence. William Rowe
+
+
+Unless you're one of those Easter-bunny vitalists who believes that personality
+results from some unquantifiable divine spark, there's really no alternative to
+the mechanistic view of human nature. Peter Watts
+
+The essence of humanity's spiritual dilemma is that we evolved genetically to
+accept one truth and discovered another. E.O. Wilson
+
+Creating humans who could understand the contrast between good and evil without
+subjecting them to eons of horrible suffering would be an utterly
+inconsequential matter for an omnipotent being. MM
+
+The second commandment is "Thou shall not construct any graven images." Is this
+really the pinnacle of what we can achieve morally? The second most important
+moral principle for all the generations of humanity? It would be so easy to
+improve upon the 10 Commandments. How about "Try not to deep fry all of your
+food"? Sam Harris
+
+Religion comes from the period of human prehistory where nobody--not even the
+mighty Democritus who concluded that all matter was made from atoms--had the
+smallest idea what was going on. It comes from the bawling and fearful infancy
+of our species, and is a babyish attempt to meet our inescapable demand for
+knowledge (as well as comfort, reassurance, and other infantile needs). Today
+the least educated of my children knows much more about the natural order than
+any of the founders of religion, and one would think--though the connection is
+not a fully demonstrable one--that this is why they seem so uninterested in
+sending fellow humans to hell.
+Christopher Hitchens, God is Not Great
+
+We believe with certainty that an ethical life can be lived without religion.
+And we know for a fact that the corollary holds true--that religion has caused
+innumerable people not just to conduct themselves no better than others, but to
+award themselves permission to behave in ways that would make a brothel-keeper
+or an ethnic cleanser raise an eyebrow. Christopher Hitchens, God Is Not Great
+
+If atheism is a religion, then not playing chess is a hobby.
+
+"Imagine a world in which generations of human beings come to believe that
+certain films were made by God or that specific software was coded by him.
+Imagine a future in which millions of our descendants murder each other over
+rival interpretations of Star Wars or Windows 98. Could anything--anything--be
+more ridiculous? And yet, this would be no more ridiculous than the world we
+are living in." Sam Harris, The End of Faith, 36.
+
+"Only a tiny fraction of corpses fossilize, and we are lucky to have as many
+intermediate fossils as we do. We could easily have had no fossils at all, and
+still the evidence for evolution from other sources, such as molecular genetics
+and geographical distribution, would be overwhelmingly strong. On the other
+hand, evolution makes the strong prediction that if a single fossil turned up
+in the wrong geological stratum, the theory would be blown out of the water." 
+Richard Dawkins, The God Delusion, p. 127.
+
+One cannot take, "believing in X gives me hope, makes me moral, or gives me
+comfort," to be a reason for believing X. It might make me moral if I believe
+that I will be shot the moment I do something immoral, but that doesn't make it
+possible for me to believe it, or to take its effects on me as reasons for
+thinking it is true. Matt McCormick
+●
+
+Add this blog to your Google Page
+
+Add to Google
+●
+
+Top Ten Myths about Belief in God
+
+1. Myth: Without God, life has no meaning.
+
+
+    There are 1.2 billion Chinese who have no predominant religion, and 1
+    billion people in India who are predominantly Hindu. And 65% of Japan's 127
+    million people claim to be non-believers. It is laughable to suggest that
+    none of these billions of people are leading meaningful lives.
+
+
+
+2. Myth: Prayer works.
+
+
+    Numerous studies have now shown that remote, blind, inter-cessionary prayer
+    has no effect whatsoever of the health or well-being of subject's health,
+    psychological states, or longevity. Furthermore, we have no evidence to
+    support the view that people who wish fervently in their heads for things
+    that they want get those things at any higher rate than people who do not.
+
+
+
+3. Myth: Atheists are less decent, less moral, and overall worse people than
+believers.
+
+
+    There are hundreds of millions of non-believers on the planet living
+    normal, decent, moral lives. They love their children, care about others,
+    obey laws, and try to keep from doing harm to others just like everyone
+    else. In fact, in predominately non-believing countries such as in northern
+    Europe, measures of societal health such as life expectancy at birth, adult
+    literacy, per capita income, education, homicide, suicide, gender equality,
+    and political coercion are better than they are in believing societies.
+
+
+
+4. Myth: Belief in God is compatible with the descriptions, explanations and
+products of science.
+
+
+    In the past, every supernatural or paranormal explanation of phenomena that
+    humans believed turned out to be mistaken; science has always found a
+    physical explanation that revealed that the supernatural view was a myth.
+    Modern organisms evolved from lower life forms, they weren't created 6,000
+    years ago in the finished state. Fever is not caused by demon possession.
+    Bad weather is not the wrath of angry gods. Miracle claims have turned out
+    to be mistakes, frauds, or deceptions. So we have every reason to conclude
+    that science will continue to undermine the superstitious worldview of
+    religion.
+
+
+5. Myth: We have immortal souls that survive the death of the body.
+
+
+    We have mountains of evidence that makes it clear that our consciousness,
+    our beliefs, our desires, our thoughts all depend upon the proper
+    functioning of our brains our nervous systems to exist. So when the brain
+    dies, all of these things that we identify with the soul also cease to
+    exist. Despite the fact that billions of people have lived and died on this
+    planet, we do not have a single credible case of someone's soul, or
+    consciousness, or personality continuing to exist despite the demise of
+    their bodies. Allegations of spirit chandlers, psychics, ghost stories, and
+    communications with the dead have all turned out to be frauds, deceptions,
+    mistakes, and lies.
+
+
+
+6. Myth: If there is no God, everything is permitted. Only belief in God makes
+people moral.
+
+
+    Consider the billions of people in China, India, and Japan above. If this
+    claim was true, none of them would be decent moral people. So Ghandi, the
+    Buddha, and Confucius, to name only a few were not moral people on this
+    view, not to mention these other famous atheists: Abraham Lincoln, Albert
+    Einstein, Aldous Huxley, Charles Darwin, Benjamin Franklin, Carl Sagan,
+    Bertrand Russell, Elizabeth Cady-Stanton, John Stuart Mill, Galileo, George
+    Bernard Shaw, Gloria Steinam, James Madison, John Adams, and so on.
+
+
+
+7. Myth: Believing in God is never a root cause of significant evil.
+
+
+    The counter examples of cases where it was someone's belief in God that was
+    the direct justification for their perpetrated horrendous evils on
+    humankind are too numerous to mention.
+
+
+
+8. Myth: The existence of God would explain the origins of the universe and
+humanity.
+
+
+    All of the questions that allegedly plague non-God attempts to explain our
+    origins--why are we here, where are we going, what is the point of it all,
+    why is the universe here--still apply to the faux explanation of God. The
+    suggestion that God created everything does not make it any clearer to us
+    where it all came from, how he created it, why he created it, where it is
+    all going. In fact, it raises even more difficult mysteries: how did God,
+    operating outside the confines of space, time, and natural law "create" or
+    "build" a universe that has physical laws? We have no precedent and maybe
+    no hope of answering or understanding such a possibility. What does it mean
+    to say that some disembodied, spiritual being who knows everything and has
+    all power, "loves" us, or has thoughts, or goals, or plans? How could such
+    a being have any sort of personal relationship with beings like us?
+
+
+
+9. Myth: Even if it isn't true, there's no harm in my believing in God anyway.
+
+
+    People's religious views inform their voting, how they raise their
+    children, what they think is moral and immoral, what laws and legislation
+    they pass, who they are friends and enemies with, what companies they
+    invest in, where they donate to charities, who they approve and disapprove
+    of, who they are willing to kill or tolerate, what crimes they are willing
+    to commit, and which wars they are willing to fight. How could any
+    reasonable person think that religious beliefs are insignificant.
+
+
+
+10: Myth: There is a God.
+●
+
+Common Criticisms of Atheism (and Why They’re Mistaken)
+
+
+1. You can’t prove atheism. You can never prove a negative, so atheism requires
+as much faith as religion.
+
+
+Atheists are frequently accosted with this accusation, suggesting that in order
+for non-belief to be reasonable, it must be founded on deductively certain
+grounds. Many atheists within the deductive atheology tradition have presented
+just those sorts of arguments, but those arguments are often ignored. But more
+importantly, the critic has invoked a standard of justification that almost
+none of our beliefs meet. If we demand that beliefs are not justified unless we
+have deductive proof, then all of us will have to throw out the vast majority
+of things we currently believe—oxygen exists, the Earth orbits the Sun, viruses
+cause disease, the 2008 summer Olympics were in China, and so on. The believer
+has invoked one set of abnormally stringent standards for the atheist while
+helping himself to countless beliefs of his own that cannot satisfy those
+standards. Deductive certainty is not required to draw a reasonable conclusion
+that a claim is true.
+
+
+As for requiring faith, is the objection that no matter what, all positions
+require faith? Would that imply that one is free to just adopt any view they
+like? Religiousness and non-belief are on the same footing? (they aren’t). If
+so, then the believer can hardly criticize the non-believer for not believing.
+Is the objection that one should never believe anything on the basis of faith? 
+Faith is a bad thing? That would be a surprising position for the believer to
+take, and, ironically, the atheist is in complete agreement.
+
+
+2. The evidence shows that we should believe.
+
+
+If in fact there is sufficient evidence to indicate that God exists, then a
+reasonable person should believe it. Surprisingly, very few people pursue this
+line as a criticism of atheism. But recently, modern versions of the design and
+cosmological arguments have been presented by believers that require serious
+consideration. Many atheists cite a range of reasons why they do not believe
+that these arguments are successful. If an atheist has reflected carefully on
+the best evidence presented for God’s existence and finds that evidence
+insufficient, then it’s implausible to fault them for irrationality, epistemic
+irresponsibility, or for being obviously mistaken. Given that atheists are so
+widely criticized, and that religious belief is so common and encouraged
+uncritically, the chances are good that any given atheist has reflected more
+carefully about the evidence.
+
+
+3. You should have faith.
+
+
+Appeals to faith also should not be construed as having prescriptive force the
+way appeals to evidence or arguments do. The general view is that when a person
+grasps that an argument is sound, that imposes an epistemic obligation of sorts
+on her to accept the conclusion. One person’s faith that God exists does not
+have this sort of inter-subjective implication. Failing to believe what is
+clearly supported by the evidence is ordinarily irrational. Failure to have
+faith that some claim is true is not similarly culpable. At the very least,
+having faith, where that means believing despite a lack of evidence or despite
+contrary evidence is highly suspect. Having faith is the questionable practice,
+not failing to have it.
+
+
+4. Atheism is bleak, nihilistic, amoral, dehumanizing, or depressing.
+
+
+These accusations have been dealt with countless times. But let’s suppose that
+they are correct. Would they be reasons to reject the truth of atheism? They
+might be unpleasant affects, but having negative emotions about a claim doesn’t
+provide us with any evidence that it is false. Imagine upon hearing news about
+the Americans dropping atomic bombs on Hiroshima and Nagasaki someone
+steadfastly refused to believe it because it was bleak, nihilistic, amoral,
+dehumanizing, or depressing. Suppose we refused to believe that there is an
+AIDS epidemic that is killing hundreds of thousands of people in Africa on the
+same grounds.
+
+
+5. Atheism is bad for you. Some studies in recent years have suggested that
+people who regularly attend church, pray, and participate in religious
+activities are happier, live longer, have better health, and less depression.
+
+
+First, these results and the methodologies that produced them have been
+thoroughly criticized by experts in the field. Second, it would be foolish to
+conclude that even if these claims about quality of life were true, that
+somehow shows that there is theism is correct and atheism is mistaken. What
+would follow, perhaps, is that participating in social events like those in
+religious practices are good for you, nothing more. There are a number of
+obvious natural explanations. Third, it is difficult to know the direction of
+the causal arrow in these cases. Does being religious result in these positive
+effects, or are people who are happier, healthier, and not depressed more
+inclined to participate in religions for some other reasons? Fourth, in a
+number of studies atheistic societies like those in northern Europe scored
+higher on a wide range of society health measures than religious societies.
+
+
+6. Atheists and atheist political regimes have committed horrible crimes
+against humanity. Josef Stalin, Chairman Mao, Pol Pot, perhaps Hitler, and
+their atheistic tyrannies tortured and murdered millions.
+
+
+Given that atheists make up a tiny proportion of the world’s population, and
+that religious governments and ideals have held sway globally for thousands of
+years, believers will certainly lose in a contest over “who has done more
+harm,” or “which ideology has caused more human suffering.” It has not been
+atheism because atheists have been widely persecuted, tortured, and killed for
+centuries nearly to the point of extinction.
+
+
+Sam Harris has argued that the problem with these regimes has been that they
+became too much like religions. “Such regimes are dogmatic to the core and
+generally give rise to personality cults that are indistinguishable from cults
+of religious hero worship. Auschwitz, the gulag, and the killing fields were
+not examples of what happens when human beings reject religious dogma; they are
+examples of political, racial and nationalistic dogma run amok. There is no
+society in human history that ever suffered because its people became too
+reasonable.”
+
+
+7. Atheists are harsh, intolerant, and hateful of religion.
+
+
+Sam Harris has advocated something he calls “conversational intolerance.” For
+too long, a confusion about religious tolerance has led people to look the
+other way and say nothing while people with dangerous religious agendas have
+undermined science, the public good, and the progress of the human race. There
+is no doubt that people are entitled to read what they choose, write and speak
+freely, and pursue the religions of their choice. But that entitlement does not
+guarantee that the rest of us must remain silent or not verbally criticize or
+object to their ideas and their practices, especially when they affect all of
+us. Religious beliefs have a direct affect on who a person votes for, what wars
+they fight, who they elect to the school board, what laws they pass, who they
+drop bombs on, what research they fund (and don’t), which social programs they
+fund (and don’t), and a long list of other vital, public matters. Atheists are
+under no obligation to remain silent about those beliefs and practices that
+urgently need to be brought into the light and reasonably evaluated.
+
+Real respect for humanity will not be found by indulging your neighbor’s
+foolishness, or overlooking dangerous mistakes. Real respect is found in
+disagreement. The most important thing we can do for each other is disagree
+vigorously and thoughtfully so that we can all get closer to the truth.
+
+
+8. Science is as much a religious ideology as religion is.
+
+
+At their cores, religions and science have a profound difference. The essence
+of religion is sustaining belief in the face of doubts, obeying authority, and
+conforming to a fixed set of doctrines. By contrast, the most important
+discovery that humans have ever made is the scientific method. The essence of
+that method is diametrically opposed to religious ideals: actively seek out
+disconfirming evidence. The cardinal virtues of the scientific approach are to
+doubt, analyze, critique, be skeptical, and always be prepared to draw a
+different conclusion if the evidence demands it.
+
+●
+
+Get this Blog by email, by FeedBlitz
+
+Your email address:
+[                    ]
+[Get email updates]
+Powered by FeedBlitz
+
+●
+
+Archive:
+
+  • ▼  2015 (8)
+      □ ▼  June (5)
+          ☆ Why Would an AI System Need Phenomenal Consciousne...
+          ☆ Artificial Intelligence and Conscious Attention--J...
+          ☆ Evil Demonology and Artificial Intelligence
+          ☆ Turing and Machine Minds
+          ☆ Building Self-Aware Machines
+      □ ►  April (1)
+      □ ►  March (2)
+
+  • ►  2014 (7)
+      □ ►  April (2)
+      □ ►  March (1)
+      □ ►  February (1)
+      □ ►  January (3)
+
+  • ►  2013 (24)
+      □ ►  December (7)
+      □ ►  November (1)
+      □ ►  October (1)
+      □ ►  August (1)
+      □ ►  June (2)
+      □ ►  April (2)
+      □ ►  March (3)
+      □ ►  February (2)
+      □ ►  January (5)
+
+  • ►  2012 (39)
+      □ ►  December (8)
+      □ ►  November (6)
+      □ ►  October (7)
+      □ ►  September (5)
+      □ ►  August (2)
+      □ ►  July (1)
+      □ ►  June (1)
+      □ ►  May (1)
+      □ ►  April (1)
+      □ ►  March (4)
+      □ ►  February (3)
+
+  • ►  2011 (34)
+      □ ►  November (2)
+      □ ►  October (1)
+      □ ►  September (1)
+      □ ►  August (2)
+      □ ►  July (3)
+      □ ►  June (3)
+      □ ►  May (6)
+      □ ►  April (3)
+      □ ►  March (4)
+      □ ►  February (3)
+      □ ►  January (6)
+
+  • ►  2010 (35)
+      □ ►  December (5)
+      □ ►  October (2)
+      □ ►  September (3)
+      □ ►  August (1)
+      □ ►  July (1)
+      □ ►  June (1)
+      □ ►  May (3)
+      □ ►  April (7)
+      □ ►  March (3)
+      □ ►  February (3)
+      □ ►  January (6)
+
+  • ►  2009 (41)
+      □ ►  December (5)
+      □ ►  October (2)
+      □ ►  September (3)
+      □ ►  August (2)
+      □ ►  July (1)
+      □ ►  June (3)
+      □ ►  May (3)
+      □ ►  April (6)
+      □ ►  March (4)
+      □ ►  February (7)
+      □ ►  January (5)
+
+  • ►  2008 (91)
+      □ ►  December (13)
+      □ ►  November (7)
+      □ ►  October (4)
+      □ ►  September (8)
+      □ ►  August (7)
+      □ ►  July (3)
+      □ ►  June (6)
+      □ ►  May (7)
+      □ ►  April (7)
+      □ ►  March (12)
+      □ ►  February (7)
+      □ ►  January (10)
+
+  • ►  2007 (53)
+      □ ►  December (6)
+      □ ►  November (4)
+      □ ►  October (7)
+      □ ►  September (5)
+      □ ►  August (6)
+      □ ►  July (3)
+      □ ►  June (5)
+      □ ►  May (3)
+      □ ►  April (4)
+      □ ►  March (4)
+      □ ►  February (3)
+      □ ►  January (3)
+
+  • ►  2006 (5)
+      □ ►  December (5)
+
+●
+
+Visitors to this site:
+
+Free Hit Counter
+Free Counter
+●
+ 

@@ -1,0 +1,28 @@
+Library/Logo                                            Logo
+Library/Home
+[line]                                We are a school of theology and ministry,
+●Library/Who%20Are%20We?              dedicated to exploring a theology that is
+●Library/                             rooted in pastoral experience and yet not
+What%20is%20the%20Institute%20About?  afraid to deal with some of the difficult
+●Library/                             issues which the living of the Gospel
+Daily%20Life%20of%20the%20Institute   presents today. The Institute attempts to
+●Library/                             situate theology in the dialogue between
+How%20the%20Institute%20Operates      faith and contemporary culture.
+●Library/Academic%20Staff
+Library/Academic%20Programmes         The Institute sees itself as a community
+[line]                                of learning and mutual support, and
+Library/Wednesdays%20at%20Kimmage     encourages dialogue between staff and
+[line]                                participants. Courses are designed to
+Library/Links                         integrate academic work with personal and
+[line]                                pastoral formation.
+Library/News
+[line]                                For more information on the Insitute,
+Library/Contacts                      please click one of the headings in the
+                                      navigation bar on the left.
+
+                                      *
+
+                                Site Design by:
+
+                                Boom Web Design
+

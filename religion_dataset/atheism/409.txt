@@ -1,0 +1,21 @@
+--FRAME--
+    banner
+    --FRAME--
+        contents
+        main
+Humanist Association of the Greater Sacramento Area: Official Web Site.
+This site is for both members and non-members of HAGSA. If you are not a
+member, but are in general agreement with the principles enumerated here, you
+may, if you live in the greater Sacramento area, want to consider AHA/HAGSA
+membership.
+
+This site uses frames, but your browser doesn't appear to support them.
+
+To get the latest version of Microsoft Internet Explorer for Windows, click
+here: IE for Windows.
+
+To get the latest version of Microsoft Internet Explorer for Macintosh, click
+here: IE for Macintosh.
+
+To get the latest version of Netscape, click here: Netscape.
+

@@ -1,0 +1,1558 @@
+skip to main | skip to sidebar
+
+The Lippard Blog
+
+Friday, January 01, 2016
+
+Books read in 2015
+
+Not much blogging going on here lately, but here's my annual list of books read
+for 2015:
+
+  • George A. Akerlof and Robert J. Shiller, Phishing for Phools: The Economics
+    of Manipulation & Deception
+  • Jeffrey S Bardin, The Illusion of Due Diligence: Notes from the CISO
+    Underground
+  • Bill Browder, Red Notice: A True Story of High Finance, Murder, and One
+    Man's Fight for Justice
+  • Ron Chernow, Alexander Hamilton
+  • Gabriella Coleman, Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of
+    Anonymous
+  • Laura DeNardis, The Global War for Internet Governance
+  • Daniel C. Dennett and Linda LaScola, Caught in the Pulpit: Leaving Belief
+    Behind
+  • Mary Douglas and Aaron Wildavsky, Risk and Culture: An Essay on the
+    Selection of Technological and Environmental Dangers
+  • William J. Drake and Monroe Price, editors, Internet Governance: The
+    NETmundial Roadmap
+  • Jon Friedman and Mark Bouchard, Definitive Guide to Cyber Threat
+    Intelligence
+  • Marc Goodman, Future Crimes: Everything is Connected, Everyone is
+    Vulnerable, and What We Can Do About It
+  • Marc Hallet, A Critical Appraisal of George Adamski: The Man Who Spoke to
+    the Space Brothers
+  • Shane Harris, @War: The Rise of the Military-Internet Complex
+  • Peter T. Leeson, The Invisible Hook: The Hidden Economics of Pirates
+  • Reed Massengill, Becoming American Express: 150 Years of Reinvention and
+    Customer Service
+  • James Andrew Miller and Tom Shales, Live From New York: The Complete,
+    Uncensored History of Saturday Night Live, as Told By Its Stars, Writers,
+    and Guests (two new chapters)
+  • David T. Moore, Critical Thinking and Intelligence Analysis
+  • Richard E. Nisbett, Mindware: Tools for Smart Thinking
+  • Tony Ortega, The Unbreakable Miss Lovely: How the Church of Scientology
+    Tried to Destroy Paulette Cooper
+  • Whitney Phillips, This is Why We Can't Have Nice Things: Mapping the
+    Relationship Between Online Trolling and Mainstream Culture
+  • Joseph M. Reagle, Jr., Reading the Comments: Likers, Haters, and
+    Manipulators at the Bottom of the Web
+  • Jon Ronson, Lost at Sea: The Jon Ronson Mysteries
+  • Jon Ronson, So You've Been Publicly Shamed
+  • Bruce Schneier, Data and Goliath: The Hidden Battles to Collect Your Data
+    and Control Your World
+  • P.W. Singer and Allan Friedman, Cybersecurity and Cyberwar: What Everyone
+    Needs to Know
+  • David Skarbek, The Social Order of the Underworld: How Prison Gangs Govern
+    the American Penal System
+  • Andrei Soldatov and Irina Borogan, The Red Web: The Struggle Between
+    Russia's Digital Dictators and the New Online Revolutionaries
+  • Philip E. Tetlock and Dan Gardner, Superforecasting: The Art and Science of
+    Prediction
+  • Richard H. Thaler, Misbehaving: The Making of Behavioral Economics
+
+I made progress on a few other books (first two last year,  next four from
+2014, next three from 2013, last two still not finished from 2012--I have
+trouble with very long nonfiction e-books):
+
+  • Roger Z. George and James B. Bruce, editors, Analyzing Intelligence:
+    Origins, Obstacles, and Innovations
+  • John Searle, Making the Social World
+  • Peter Gutmann, Engineering Security
+  • Andrew Jaquith, Security Metrics: Replacing Fear, Uncertainty, and Doubt
+  • Massimo Pigliucci and Maarten Boudry, Philosophy of Pseudoscience:
+    Reconsidering the Demarcation Problem
+  • Steven Pinker, The Sense of Style: The Thinking Person's Guide to Writing
+    in the 21st Century
+  • Richard Bejtlich, The Practice of Network Security Monitoring
+  • James Grimmelmann, Internet Law: Cases & Problems (v2; v3 is out now)
+  • Douglas Hofstadter and Emmanuel Sander, Surfaces and Essences: Analogy as
+    the Fuel and Fire of Thinking
+  • Mark Dowd, John McDonald, and Justin Schuh, The Art of Software Security
+    Assessment: Identifying and Avoiding Software Vulnerabilities
+  • Michal Zalewski, The Tangled Web: A Guide to Securing Modern Web
+    Applications
+
+Top ten for 2015:  Browder, Chernow, Coleman, Ronson (Shamed), Schneier,
+Phillips, Nisbett, Ortega, Miller and Shales, Thaler. I bought and read
+Bardin's book because Richard Bejtlich identified it as a "train wreck," and it
+was.
+
+(Previously: 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005.)
+
+Posted by Jim Lippard at 1/01/2016 10:40:00 AM 2 comments ● Links to this post
+
+Labels: books
+
+Monday, November 23, 2015
+
+A few thoughts on OpenBSD 5.8
+
+I've been using OpenBSD since way back at release 2.3 in 1998, so I've gone
+through upgrades that took a fair amount of work due to incompatible changes,
+like the switch from ipf to pf for host firewalling or the change to ELF
+binaries. The upgrade from 5.7 to 5.8 was a pretty smooth and easy one, for the
+most part. The two most painful changes for me were the replacement of sudo
+with doas and the dropping of support in the rc.conf for the pf_rules variable.
+ While sudo is still available as a package, I like the idea of reducing attack
+surface with a simpler program, so I made the switch. The two things I miss
+most about sudo are the ability to authenticate for a period of time and the
+ability to have a single config file across a whole set of servers. The former
+I'm just living with, the latter I've adjusted to by having a single config
+file that has lines commented out depending on which server it's on. I did have
+one moment of concern about the quality of doas when it incorrectly reported
+the line number on which I had a syntax error in the config file--fortunately,
+this was just a failure to increment the line count on continuation lines
+(ending with a "\") which is fixed in the -current release.
+
+The removal of the pf_rules variable support from rc.conf was a bigger issue--I
+used to just put the default pf.conf rules file in place with each release and
+upgrade, and keep my changes in a pf.conf.local file that was specified in the
+pf_rules variable. The effect was that from the period after the upgrade until
+I noticed the change, my systems were using the default rules and thus more
+exposed than they were supposed to be. This wasn't the first time an
+incompatible change decreased my level of security--the removal of tcpwrappers
+support from SSH was another. I used to use a combination of pf rules and
+hosts.allow as additional layers of protection on my SSH access, and had a set
+of tools that allowed me to easily add IP addresses to or remove them from my
+hosts.allow files. This would have been a layer of defense still in place with
+the loss of my pf rules, had it still been in existence. Fortunately, I also
+have SSH on a non-standard port and only allow SSH key logins, not user/
+password logins, and most of my systems can't be reached on any port without
+first making a VPN connection, which requires two-factor authentication.
+
+A minor annoying change that was made in 5.8 was putting the file /var/unbound/
+db/root.key into /etc/changelist, so that the file gets checked daily by the
+security script. The issue with this is that if you are actually using unbound
+with DNSSEC, this file changes daily, though only in the comments. My
+"reportnew" log monitoring tool has a feature that allows you to be notified if
+files that are expected to change on some periodic schedule do not change, and
+that would be more appropriate than getting daily notifications that yes, the
+autotrust anchor file has been updated yet again. But what would really be
+ideal here would be a check that the non-comment components have not changed.
+(Others have also complained about this.)
+
+A final issue I've run into with OpenBSD 5.8 is not a new issue, but it's one
+that still hasn't been fixed with pf. That is that pf logs certain traffic
+(IGMP in particular) when it matches a rule that does not call for logging.
+This appears to be the same issue that was fixed earlier this year in pfsense,
+which is derived from an older fork of pf.
+
+Posted by Jim Lippard at 11/23/2015 08:37:00 AM 0 comments ● Links to this post
+
+Labels: OpenBSD, security, technology
+
+Monday, July 20, 2015
+
+Al Seckel exposed
+
+"I believe that we are rapidly transitioning from an Age of Information to an
+Age of Misinformation, and in many cases, outright disinformation." -- Al
+Seckel, in an interview published on Jeffrey Epstein's website, "Jeffrey
+Epstein Talks Perception with Al Seckel"
+
+Mark Oppenheimer's long-awaited exposé on Al Seckel, "The Illusionist," has now
+been published and I urge all skeptics to read it. Seckel, the former head of
+the Southern California Skeptics and a CSICOP Scientific and Technical
+Consultant who was listed as a "physicist" in every issue of the Skeptical
+Inquirer from vol. 11, no. 2 (Winter 1987-88) to vol. 15, no. 2 (Winter 1991)
+despite having no degree in physics, has long been known among skeptical
+insiders as a person who was misrepresenting himself and taking advantage of
+others. Most have remained silent over fear of litigation, which Seckel has
+engaged in successfully in the past.
+
+An example of a legal threat from Seckel is this email he sent to me on May 27,
+2014:
+
+    Dear Jim,
+
+    News has once again reached me that you are acting as Tom McIver's proxy in
+    spreading misinformation and disinformation about me. Please be aware that
+    I sued McIver in a Court of Law for Defamation and Slander, and after a
+    very lengthy discovery process, which involved showing that he fabricated
+    letters from my old professors (who provided notarized statements that they
+    did not ever state nor write the letters that McIver circulated, and the
+    various treasures who were in control of the financial books of the
+    skeptics, also came forth and testified that no money was taken, and McIver
+    was unable to prove any of his allegations. The presiding Judge stated that
+    this was the "worst case of slander and defamation" that he had ever seen.
+
+    Nevertheless, even with such a Court Order he is persisting, and using (and
+    I mean the term "using") you to further propagate erroneous misinformation.
+    Lately, he has been making his defamatory comments again various people,
+    and posting links to a news release article by the Courthouse News (a press
+    release service) that reports the allegations set forth in complaints. Just
+    because something is "alleged" does not mean it is True. It has to be
+    proven in a Court of Law. In this case, after a lengthy discovery process
+    (and I keep excellent records) the opposite of what was alleged was
+    discovered, and the opposing counsel "amicably" dismissed their charges
+    against me. The case was officially dismissed. In fact, the opposing
+    counsel has been active in trying to get the Courthouse News to actively
+    remove the entire article, and not just add a footnote at the end.
+
+    I note that you have been trying to add this link to my wikipedia page. I
+    have never met you, and am not interested in fighting with you. I am
+    attaching the official Court document that this case was filed for
+    dismissal by the opposing counsel. You can verify yourself that this is an
+    accurate document with the Court. So, once again, McIver has used you.
+    My attorneys are now preparing a Criminal Complaint against McIver for so
+    openly violating the Court Order (it is now a criminal offense), and will
+    once again open the floodgates of a slander and defamation lawsuit against
+    him and his family, and anyone else, who aids him willing in this process.
+    This time he will not have his insurance company cover his defense. This
+    time that axe will come down hard on him.
+
+    For now, I will just think you are victim, but please remove any and all
+    references to me on any of your websites, and that will be the end of it.
+    You don't want to be caught in the crossfire.
+
+    Yours sincerely,
+    Al Seckel
+    --
+    Al Seckel
+    Cognitive neuroscientist, author, speaker
+
+Contrary to what Seckel writes, we have, in fact, met--I believe it was during
+the CSICOP conference, April 3-4, 1987, in Pasadena, California.  I am not an
+agent of Tom McIver, the anthropologist, librarian, and author of the wonderful
+reference book cataloging anti-evolution materials, Anti-Evolution, who Seckel
+sued for defamation in 2007, in a case that was settled out of court (see
+Oppenheimer's article). I have never met Tom McIver, though I hope I will be
+able to do so someday--he seems to me to be a man of good character, integrity,
+and honesty.
+
+The news release Seckel mentions is regarding a lawsuit filed by Ensign
+Consulting Ltd. in 2011 against Seckel charging him with fraud, which is
+summarized online on the Courthouse News Service website. I wrote a brief
+account of the case based on that news article on Seckel's Wikipedia page in an
+edit on March 13, 2011, but it was deleted by another editor in less than an
+hour.  Seckel is correct that just because something is alleged does not mean
+that it is true; my summary was clear that these were accusations made in a
+legal filing.
+
+Seckel and his wife, Isabel Maxwell (daughter of the deceased British-Czech
+media mogul, Robert Maxwell), rather than fighting the suit or showing up for
+depositions, filed for bankruptcy.  Ensign filed a motion in their bankruptcy
+case on December 2, 2011, repeating the fraud allegations.  But as Seckel
+notes, Ensign did dismiss their case in 2014 prior to his sending me the above
+email.
+
+So why should anyone care?  Who is Al Seckel, and what was he worried that I
+might be saying about him? This is mostly answered by the Oppenheimer article,
+but there is quite a bit more that could be said, and more than what I will say
+here to complement "The Illusionist."
+
+Al Seckel was the founder and executive director of the Southern California
+Skeptics, a Los Angeles area skeptics group that met at Caltech.  This was one
+of the earliest local skeptical groups, with a large membership and prominent
+scientists on its advisory board.  Seckel has published numerous works
+including editing two collections of Bertrand Russell's writings for Prometheus
+Books (both reviewed negatively in the Journal of Bertrand Russell Studies, see
+here and here).  He has given a TED talk on optical illusions and authored a
+book with the interesting title, Masters of Deception, which has a forward by
+Douglas R. Hofstadter.  Seckel was an undergraduate at Cornell University, and
+developed an association with a couple of cognitive psychology labs at
+Caltech--in 1998 the New York Times referred to him as a "research associate at
+the Shimojo Psychophysics Laboratory." His author bios have described him as
+author of the monthly Neuroquest column at Discover magazine ("About the
+Author" on Masters of Deception; Seckel has never written that column), as "a
+physicist and molecular biologist" (first page of Seckel's contribution, "A New
+Age of Obfuscation and Manipulation" in Robert Basil, editor, Not Necessarily
+the New Age, 1988, Prometheus Books, pp. 386-395; Seckel is neither a physicist
+nor a molecular biologist), and, in his TED talk bio, as having left Caltech to
+continue his work "in spatial imagery with psychology researchers as Harvard"
+(see Oppenheimer's exchanges with Kosslyn, who has never met or spoken with him
+and Ganis, who says he has exchanged email with him but not worked with him).
+
+At Cornell, Seckel associated with L. Pearce Williams, a professor of history
+of science, who had interesting things to say when McIver asked him about their
+relationship. While in at least one conference bio, Seckel is listed as having
+been Carl Sagan's teaching assistant, I do not believe that was the case. The
+Cornell registrar reported in 1991 in response to a query from Pat Linse that
+Seckel only attended for two semesters and a summer session, though a few
+places on the web list him as a Cornell alumnus.
+
+Seckel used to hang out at Caltech with Richard Feynman. As the late Helen Tuck
+, Feyman's administrative assistant, wrote in 1991, Seckel "latched on to
+Feynman like a leach [sic]." Tuck wrote that she became suspicious of Seckel,
+and contacted Cornell to find that he did not have a degree from that
+institution. You can see her full letter, written in response to a query from
+Tom McIver, here.
+
+As the head of the Southern California Skeptics, Seckel managed to get a column
+in the Los Angeles Times, titled "Skeptical Eye." Most of his columns were at
+least partially plagiarized from the work of others, including his column on
+Sunny the counting dalmation (plagiarized from Robert Sheaffer), his column on
+tabloid psychics' predictions for 1987 (also plagiarized from Sheaffer), and
+his column about Martin Reiser's tests of psychic detectives (plagiarized
+directly from Reiser's work). When Seckel plagiarized Sheaffer, it was brought
+to the attention of Kent Harker, editor of the Bay Area Skeptics Information
+Sheet (BASIS), who contacted Seckel about it. Seckel apparently told Harker
+that Sheaffer had given his permission to allow publication of his work under
+Seckel's name, which Sheaffer denied when Harker asked. This led to Harker
+writing to Seckel in 1988 to tell him about Sheaffer's denial, and and inform
+him that he, Seckel, was no longer welcome to reprint any material from BASIS
+in LASER, the Southern California Skeptics' newsletter. While most skeptical
+groups gave each other blanket permission to reprint each others' material with
+attribution, Harker explicitly retracted this permission for Seckel.
+
+This is, I think, a good case study in how the problem of "affiliate
+fraud"--being taken in by deception by a member of a group you self-identify
+with--can be possible for skeptics, scientists, and other educated people, just
+as it is for the more commonly publicized cases of affiliate fraud within
+religious organizations.
+
+This just scratches the surface of the Seckel story. I hope that those who have
+been fearful of litigation from Seckel will realize that, given the Oppenheimer
+story, now is an opportune time for multiple people to come forward and offer
+each other mutual support that was unhappily unavailable for Tom McIver eight
+years ago.
+
+(BTW, one apparent error in the Oppenheimer piece--I am unaware of Richard
+Feynman lending his name for use by a skeptical group. He was never, for
+example, a CSICOP Fellow, though I'm sure they asked him just as they asked
+Murray Gell-Mann, who has been listed as a CSICOP Fellow since Skeptical
+Inquirer vol. 9, no. 3, Spring 1985.)
+
+"Oh, like everyone else, I used to parrot, and on occasion, still do." -- Al
+Seckel (interview with Jeffrey Epstein)
+
+Corrected 22 July 2015--original mistakenly said Maxwell was Australian.
+
+Update 22 September 2015--an obituary has been published for Al Seckel, stating
+that he died in France on an unspecified date earlier this year, but there are
+as yet no online French death records nor French news stories reporting his
+death. The obituary largely mirrors content put up on alseckel.net, a domain
+that was registered on September 18 by a user using Perfect Privacy LLC
+(domaindiscreet.com) to hide their information. (That in itself is not
+suspicious, it is generally a good practice for individuals who own domain
+names to protect their privacy with such mechanisms and I do it myself.)
+
+Update 24 September 2015: French police, via the U.S. consulate, confirmed the
+death of Al Seckel on July 1, 2015. His body was found at the bottom of a cliff
+in the village of Saint-Cirq-Lapopie.
+
+Update 21 December 2015: A timeline of Al Seckel's activities may be found here
+.
+
+Posted by Jim Lippard at 7/20/2015 03:14:00 PM 4 comments ● Links to this post
+
+Labels: Al Seckel, books, ethics, history, hoaxes, law, mind and brain, science
+, skepticism, Southern California Skeptics
+
+Thursday, January 01, 2015
+
+Books read in 2014
+
+Not much blogging going on here lately, but here's my annual list of books read
+for 2014:
+
+  • James Altucher, The Choose Yourself Stories
+  • Nate Anderson, The Internet Police: How Crime Went Online, and the Cops
+    Followed
+  • David V. Barrett, A Brief History of Secret Societies: An Unbiased History
+    of Our Desire for Secret Knowledge
+  • Peter Burke, A Social History of Knowledge, vol. 2, From the Encyclopedie
+    to Wikipedia
+  • Danielle Keats Citron, Hate Crimes in Cyberspace
+  • Harry Collins, Are We All Scientific Experts Now?
+  • Christopher Hitchens, Hitch 22
+  • Christopher Hitchens, Mortality
+  • Bruce E. Hunsberger and Bob Altemeyer, Atheists: A Groundbreaking Study of
+    America's Nonbelievers
+  • Walter Isaacson, Steve Jobs
+  • Brian Krebs, Spam Nation: The Inside Story of Organized Cybercrime--From
+    Global Epidemic to Your Front Door
+  • Kembrew McLeod, Pranksters: Making Mischief in the Modern World
+  • China Miéville, The City and the City
+  • Roger Pielke, Jr., The Climate Fix: What Scientists and Politicians Won't
+    Tell You About Global Warming
+  • Michael Sacasas, The Tourist and the Pilgrim: Essays on Life and Technology
+    in the Digital Age
+  • Oliver Sacks, Uncle Tungsten: Memories of a Chemical Boyhood
+  • James C. Scott, Seeing Like a State: How Certain Schemes to Improve the
+    Human Condition Have Failed
+  • Karen Stollznow, God Bless America: Strange and Unusual Religious Beliefs
+    and Practices in the United States
+  • Daniel Suarez, Daemon
+  • Daniel Suarez, Freedom
+  • Nassim Nicholas Taleb, Antifragile
+  • Sabrina Verney, XTUL: An Experience of The Process
+  • Timothy Wyllie, Love Sex Fear Death: The Inside Story of the Process Church
+    of the Final Judgment
+  • Kim Zetter, Countdown to Zero Day: Stuxnet and the Launch of the World's
+    First Digital Weapon
+
+I made progress on a few other books (first five this year, next four from last
+year, last two still not finished from two years ago):
+
+  • Gabriella Coleman, Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of
+    Anonymous
+  • Peter Gutmann, Engineering Security
+  • Andrew Jaquith, Security Metrics: Replacing Fear, Uncertainty, and Doubt
+  • Massimo Pigliucci and Maarten Boudry, Philosophy of Pseudoscience:
+    Reconsidering the Demarcation Problem
+  • Steven Pinker, The Sense of Style: The Thinking Person's Guide to Writing
+    in the 21st Century
+  • Richard Bejtlich, The Practice of Network Security Monitoring
+  • Mary Douglas and Aaron Wildavsky, Risk and Culture: An Essay on the
+    Selection of Technological and Environmental Dangers
+  • James Grimmelmann, Internet Law: Cases & Problems (v2; v3 is out now)
+  • Douglas Hofstadter and Emmanuel Sander, Surfaces and Essences: Analogy as
+    the Fuel and Fire of Thinking
+  • Mark Dowd, John McDonald, and Justin Schuh, The Art of Software Security
+    Assessment: Identifying and Avoiding Software Vulnerabilities
+  • Michal Zalewski, The Tangled Web: A Guide to Securing Modern Web
+    Applications
+
+Top ten for 2014:  Sacks, Miéville, Isaacson, Hitchens (both), Wyllie, Zetter,
+Collins, Pielke Jr., Pigliucci and Boudry.
+
+(Previously: 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005.)
+
+Posted by Jim Lippard at 1/01/2015 07:00:00 AM 1 comments ● Links to this post
+
+Labels: books
+
+Tuesday, October 14, 2014
+
+Summary of 1994 CSICOP conference
+
+I just stumbled across an old Usenet post of mine which summarizes a small part
+of the CSICOP conference held in Seattle June 23-26, 1994 (PDF of conference
+program; PDF of conference announcement mailing) with Robert Sheaffer's reply.
+I don't recall if I wrote the further followups, and didn't find any in a brief
+search. My 1992 Dallas CSICOP conference summary and a number of others may be
+found at the Index of Conference Summaries on this blog.
+
+
+Path: bga.com!news.sprintlink.net!hookup!yeshua.marcam.com!charnel.ecst.csuchico.edu!nic-nac.CSU.net!news.Cerritos.edu!news.Arizona.EDU!skyblu.ccit.arizona.edu!lippard
+From: lip...@skyblu.ccit.arizona.edu (James J. Lippard)
+Newsgroups: sci.skeptic
+Subject: Re: News of the CSICOP conference?
+Date: 11 Jul 1994 15:59 MST
+Organization: University of Arizona
+Lines: 110
+Distribution: world
+Message-ID: <11JUL199415590395@skyblu.ccit.arizona.edu>
+References: <forb0004.229.0036889A@gold.tc.umn.edu>
+NNTP-Posting-Host: skyblu.ccit.arizona.edu
+News-Software: VAX/VMS VNEWS 1.41
+
+In article <forb0004.2...@gold.tc.umn.edu>, forb...@gold.tc.umn.edu (Eric J. Forbis) writes...
+>I'm surprised that so little has been written about the recent conference on
+>this group. Please, any who attended, tell all!
+
+I had intended to write up a summary of the Seattle conference similar
+to the one I did for the 1992 Dallas conference (which may be found
+in /pub/anson/Arizona_Skeptic on netcom.com, in vol. 6 somewhere, over
+two issues).  Events conspired against me, however.  My flight did
+not arrive until the conference had already begun on Thursday night,
+and I was quite disappointed to miss Robert Baker's presentation in the
+session on alien abductions.  I also brought only an old school notebook,
+which I found contained only two blank sheets of paper in it.  Then I
+planned to view Becky Long's videotapes of the sessions afterward, but
+her camera's battery recharger broke.  So the following is all from memory.
+
+I arrived at the conference on Thursday evening and was surprised to
+find that the main conference room was completely full and an overflow
+crowd was watching via closed-circuit television.  This was the largest
+CSICOP conference to date.  I believe that for the alien abduction and
+False Memory Syndrome-related sessions there were over 700 attendees.
+(I seem to remember somebody telling me that, but we know how unreliable
+human memory is.)
+   I showed up in the middle of a presentation by Thomas Bullard, who was
+very impressed by what he claimed were amazing consistencies between
+the accounts of abductees.  He argued against the claim (made by Baker?)
+that the motifs in abduction stories can be traced to "Close Encounters
+of the Third Kind" by pointing out the same motifs in earlier abduction
+claims.  (Yeah, but what about earlier appearances of "Grey"-like aliens in
+other science fiction?)
+   Next, John Mack spoke about why he was speaking at a CSICOP conference
+and discussed the "intense polarization in ufology" between skeptics and
+believers.  He said that he was a skeptic about UFO abductions and that
+he considers it to be an unsolved mystery.  At times he sounded like
+John Keel or Jacques Vallee--suggesting that aliens are interdimensional
+creatures that can't be reduced to any known categories of human thought.
+Like Bullard, he appealed to the consistency between testimonies.
+I wrote down a series of questions he had for CSICOP and skeptics:
+
+   1. Why so much vehemence in these attacks? [on him, on abduction claims]
+   2. Why so much certainty?
+   3. Why do we attack the experiencers themselves?
+   4. Why do you attack writers of your own commissioned reports who
+      don't come up with the conclusions you want?
+
+I have no idea what the last question is supposed to be referring to,
+since CSICOP does not commission research.  It sounds like a question
+more appropriately addressed to MUFON regarding its treatment of
+investigators of the Gulf Breeze UFO sightings.
+
+   Since Nicholas Spanos died tragically in an airplane crash just a
+week or so before the conference, at the last minute clinical psychologist
+William Cone from Newport Beach, Calif. was brought in.  (He was already
+a conference attendee.)  He began by saying that he didn't bring any
+slides, but if the whole audience would just look at the screen, research
+shows that about 2% of us would see things on it anyway.  Cone said that
+he has worked with a few dozen abductees, including some in locked wards
+of mental institutions.  He argued that abduction research that he has seen
+is very badly done, with the researchers imposing their views on their
+subjects.  He offered a number of possible answers to the question "Why
+would anyone make up stories like this?":  (1) for the money (he gave
+a specific example from his own experience), (2) for notoriety and
+attention (he said that he's had abductees tell him they had never told anyone
+about their experience before, and then show up on a tabloid TV show a
+week later), (3) for identity with a group of people.
+   He seemed to rebut most of the claims made by Bullard and Mack about
+abductees.
+
+   Also added to the program was abductee and hypnotherapist Sharon
+Phillip (?), who was brought in by Mack.  She described her own
+UFO sighting/abduction and promoted the usefulness of hypnotherapy.
+
+   Also present was Donna Bassett, who passed herself off as an abductee
+in Mack's group and then went public in the _Time_ magazine article
+about Mack.  She stated that, just as women have been doing for
+centuries, she faked it.  She had very strong words of criticism for
+Mack's methodology and claimed that his clients are telling Mack what
+he wants to hear, but say other things behind his back.  She accused him
+of not getting informed consent from his clients about what they are
+getting into.
+
+   Mack replied by saying that he could not discuss her case because
+of confidentiality, but that he was not convinced that she *wasn't*
+really an abductee.  (He implied that he had reasons for thinking
+this that he was not at liberty to discuss.)  He flat out denied
+parts of her story, such as the part about his breaking her bed
+while sitting on it from his enthusiastic reaction to her story about
+being on a UFO with JFK and Kruschev.  He also suggested that Phil
+Klass had put her up to her hoax, since her husband had worked with
+Klass at _Aviation Week_.  This prompted the biggest outburst of
+anger that I witnessed at the conference, from Klass, who stated that
+he had not seen the Bassetts for many years and heard about the hoax
+in the media like everybody else.  He subsequently contacted them,
+and was responsible for Donna Bassett's being invited to the CSICOP
+conference.
+
+   There followed a series of audience questions and answers, including
+several which expressed concern about Bassett being brought into the
+conference without Mack's knowledge.  Some of these concerned audience
+members changed their minds when told that Mack was already well aware
+of the specifics of Donna Bassett's charges as a result of the _Time_
+story.
+
+Well, that was Thursday, June 23.  I'll comment further later about
+the two Friday sessions and Carl Sagan's keynote address,
+the three Saturday sessions and the luncheon talk about CSICOP and
+the Law, and the Sunday session--or perhaps others can jump in.
+
+Jim Lippard               _Skeptic_ magazine:
+lip...@ccit.arizona.edu  ftp://ftp.rtd.com/pub/zines/skeptic/
+Tucson, Arizona           http://www.rtd.com/~lippard/skeptics-society.html
+
+Newsgroups: sci.skeptic
+Path: bga.com!news.sprintlink.net!hookup!yeshua.marcam.com!MathWorks.Com!europa.eng.gtefsd.com!howland.reston.ans.net!math.ohio-state.edu!usc!nic-nac.CSU.net!charnel.ecst.csuchico.edu!csusac!csus.edu!netcom.com!sheaffer
+From: shea...@netcom.com (Robert Sheaffer)
+Subject: Re: News of the CSICOP conference?
+Message-ID: <sheafferCsy5EI.n1t@netcom.com>
+Organization: NETCOM On-line Communication Services (408 261-4700 guest)
+References: <forb0004.229.0036889A@gold.tc.umn.edu> <11JUL199415590395@skyblu.ccit.arizona.edu> <Jul13.044226.32392@acs.ucalgary.ca>
+Date: Thu, 14 Jul 1994 20:11:05 GMT
+Lines: 31
+
+>In article <11JUL199...@skyblu.ccit.arizona.edu>,
+>James J. Lippard <lip...@skyblu.ccit.arizona.edu> wrote:
+>>   I showed up in the middle of a presentation by Thomas Bullard, who was
+>>very impressed by what he claimed were amazing consistencies between
+>>the accounts of abductees.  He argued against the claim (made by Baker?)
+>>that the motifs in abduction stories can be traced to "Close Encounters
+>>of the Third Kind" by pointing out the same motifs in earlier abduction
+>>claims.  (Yeah, but what about earlier appearances of "Grey"-like aliens in
+>>other science fiction?)
+
+I was going to comment about this at the conference, were it not such a
+mob scene that getting to a microphone became nearly impossible:
+
+Bullard was right to object to Baker's statement that 'all these grey
+aliens come from the 1977 movie CEIIIK'. (Bullard went on to cite some
+pre-1977 examples).
+
+However, Marty Kottmeyer makes a pretty good case tracing the origin of the
+_genre_ to Barney Hill who in March 1964 (date from memory: beware FMS)
+sketched an alien that had supposedly abducted him. This drawing was
+subsequently widely published. Marty found out, however, that an episode
+of _The Twilight Zone_ had aired with a nearly-identical alien, just
+A FEW DAYS before Barney made his sketch. (The individual sessions with
+Dr. Benjamin Simon were all carefully dated and transcribed, and fan
+books tell when each _Twilight Zone_ episode first aired.)
+
+--
+
+        Robert Sheaffer - Scepticus Maximus - shea...@netcom.com
+
+ Past Chairman, The Bay Area Skeptics - for whom I speak only when authorized!
+
+
+        "As women and as lawyers, we must never again shy from raising our
+         voices against sexual harrassment. All women who care about
+         equality of opportunity - about integrity and morality in the
+         workplace - are in Professor Anita Hill's debt."
+
+                     -- Hillary Rodham Clinton, 8/9/92, at an American Bar
+                        Association luncheon honoring Anita Hill
+
+        "I want to make it very clear that this middle class tax cut, in
+         my view, is central to any attempt we are going to make to have
+         a short term economic strategy and a long term fairness
+         strategy, which is part of getting this country going again."
+
+                     -- candidate Bill Clinton, ABC News Primary Debate,
+                        Manchester, New Hampshire, 1/19/92
+
+Posted by Jim Lippard at 10/14/2014 07:15:00 PM 0 comments ● Links to this post
+
+Labels: CSICOP, history, skepticism, UFOs
+
+Friday, April 25, 2014
+
+Spam email from Christine Jones for governor campaign
+
+I received the following spam email today (a link on the email claims, falsely,
+that I opted in for it in October 2013) from the Christine Jones for governor
+campaign.  Jones is a former GoDaddy executive who looks like a terrible
+candidate for governor of Arizona.
+
+Dear James,
+
+        As a Republican candidate for Governor, I am frequently
+asked where I stand on the issues important to our state-issues
+ranging from immigration and education to economic development
+and healthcare.
+
+        At a recent forum I was asked one of the single-most
+important questions that a candidate for political office can
+face. The question was, "Where does your moral compass come
+from?"
+        At three years old, I climbed onto the Sunday School bus
+that drove the neighborhood kids to the local evangelical church.
+
+It was there that I learned about God and His Son, Jesus. Since
+then, I have let my personal relationship with Him be my moral
+compass.
+        One of my life phrases is, "Do the right thing because
+it's the right thing to do." I am not interested in making
+excuses or politicizing important issues. I am interested in
+doing things based on conviction and personal belief. As
+Governor, I can promise you that I will adhere to my moral
+compass.
+        If you would like to hear more about my story and why I
+am running for Governor, I invite you to join me Tuesday, April
+29th, from 6:30-8:00pm at New Life Community Church of the
+Nazarene in Show Low. I hope you can make it!
+
+        Best,
+
+        Jones for Governor, Inc . Primary
+        PO Box 13087
+        Phoenix, AZ 85002-3087, United States
+        Paid for by Jones for Governor, Inc.
+
+Posted by Jim Lippard at 4/25/2014 01:37:00 PM 1 comments ● Links to this post
+
+Labels: Arizona, kooks, politics, spam
+
+Wednesday, January 01, 2014
+
+Books read in 2013
+
+Not much blogging going on here lately, but here's my annual list of books read
+for 2013:
+
+  • Ross Anderson, Security Engineering: A Guide to Building Dependable
+    Distributed Systems (2nd ed)
+  • Deborah Blum, Ghost Hunters: William James and the Search for Scientific
+    Proof of Life After Death
+  • Peter Burke, A Social History of Knowledge: From Gutenberg to Diderot
+  • J.C. Carleson, Work Like a Spy: Business Tips from a Former CIA Officer
+  • Ronald J. Deibert, Black Code: Inside the Battle for Cyberspace
+  • Daniel Dennett, Intuition Pumps and Other Tools for Thinking
+  • Cory Doctorow, Homeland
+  • Sir Arthur Conan Doyle, The Complete Sherlock Holmes (re-read, thanks to
+    free Kindle edition)
+  • Roger Ebert, Life Itself: A Memoir
+  • John Forester, Novelist & Storyteller: The Life of C.S. Forester, vol. 1 &
+    vol. 2
+  • Martin Gardner, Undiluted Hocus-Pocus: The Autobiography of Martin Gardner
+  • Adam Gorightly, The Prankster and the Conspiracy: The Story of Kerry
+    Thornley and How He Met Oswald and Inspired the Counterculture
+  • Jason Healey, editor, A Fierce Domain: Conflict in Cyberspace, 1986 to 2012
+  • Jenna Miscavige Hill: Beyond Belief: My Secret Life Inside Scientology and
+    My Harrowing Escape
+  • Daniel Kahneman, Thinking, Fast and Slow
+  • Gene Kim, Kevin Behr, and George Spafford, The Phoenix Project: A Novel
+    About IT, DevOps, and Helping Your Business Win
+  • Dani Kollin and Eytan Kollin, The Unincorporated Man
+  • Jon Krakauer, Three Cups of Deceit: How Greg Mortenson, Humanitarian Hero,
+    Lost His Way
+  • Phil Lapsley, Exploding the Phone: The Untold Story of the Teenagers and
+    Outlaws Who Hacked Ma Bell
+  • Daniel Loxton and Donald R. Prothero, Abominable Science! Origins of the
+    Yeti, Nessie, and Other Famous Cryptids
+  • David W. Maurer, The Big Con: The Story of the Confidence Men
+  • Philip Metcalfe, Whispering Wires: The Tragic Tale of an American
+    Bootlegger
+  • Torin Monahan, editor, Surveillance and Security: Technological Politics
+    and Power in Everyday Life
+  • Dale K. Myers, With Malice: Lee Harvey Oswald and the Murder of Officer
+    J.D. Tippit
+  • Adam Penenberg, Virtually True
+  • Lewis Pinault, Consulting Demons: Inside the Unscrupulous World of
+    Corporate Consulting
+  • Stephen Pinker, The Better Angels of Our Nature: Why Violence Has Declined
+  • Ann Rowe Seaman, America's Most Hated Woman: The Life and Gruesome Death of
+    Madalyn Murray O'Hair
+  • Karl Sabbagh, Shooting Star: The Brief and Brilliant Life of Frank Ramsey
+  • Oliver Sacks, Hallucinations
+  • Jim Schnabel, Remote Viewers: The Secret History of America's Psychic Spies
+  • Tom Standage, Writing on the Wall: Social Media, The First 2,000 Years
+  • Will Storr, Heretics: Adventures with the Enemies of Science
+  • John Sweeney, The Church of Fear: Inside the Weird World of Scientology
+  • Jesse Walker, The United States of Paranoia: A Conspiracy Theory
+  • Lawrence Wright, Going Clear: Scientology, Hollywood, & the Prison of
+    Belief
+
+I made progress on a few other books (first three still not finished from last
+year):
+
+  • Mark Dowd, John McDonald, and Justin Schuh, The Art of Software Security
+    Assessment: Identifying and Avoiding Software Vulnerabilities
+  • James C. Scott, Seeing Like a State: How Certain Schemes to Improve the
+    Human Condition Have Failed
+  • Michal Zalewski, The Tangled Web: A Guide to Securing Modern Web
+    Applications
+  • Richard Bejtlich, The Practice of Network Security Monitoring
+  • Mary Douglas and Aaron Wildavsky, Risk and Culture: An Essay on the
+    Selection of Technological and Environmental Dangers
+  • James Grimmelmann, Internet Law: Cases & Problems (v2; v3 is out now)
+  • Douglas Hofstadter and Emmanuel Sander, Surfaces and Essences: Analogy as
+    the Fuel and Fire of Thinking
+
+Top ten for 2013:  Ebert, Kahneman, Wright, Anderson, Pinker, Seaman, Walker,
+Sacks, Deibert, Dennett.  Runners Up: Blum, Kim, Miscavige Hill.
+
+(Previously: 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005.)
+
+Posted by Jim Lippard at 1/01/2014 10:06:00 AM 1 comments ● Links to this post
+
+Labels: books
+
+Wednesday, October 30, 2013
+
+How to use Google Authenticator with OpenBSD, OpenSSH, and OpenVPN--and why you
+might not want to
+
+I thought that Google Authenticator might be a quick and easy two-factor
+authentication solution for VPN access to my personal network, so I did some
+Google searches to see if that were so.  I found quite a few sources describing
+how to set it up with systems that use Linux Pluggable Authentication Modules
+(PAM), but very little about using it with BSD Authentication on OpenBSD.
+
+The most promising link I came across was to an implementation of Google
+Authentication for OpenBSD that was last updated in early 2013, based on
+Google's PAM code, but I couldn't get it to work.  It compiled and installed,
+and the googleauth code for generating a secret (and a very insecure way of
+generating a QR code to use to import it into the Google Authenticator
+application) worked fine, but I couldn't successfully use it for console login,
+OpenSSH login, or OpenVPN login.
+
+I also found the standard OpenBSD port for openvpn_bsdauth, which compiled,
+installed, and worked successfully for password authentication by adding these
+lines to my OpenVPN configuration:
+
+    script-security 2
+    tmp-dir <path to dir writable only by _openvpn user>
+    auth-user-pass-verify /usr/local/libexec/openvpn_bsdauth via-file
+
+
+This also requires that the authenticating user be put into the _openvpnusers
+group.
+
+I was unable to get the via-env method to work, however.
+
+I next tried the standard OpenBSD port of login_oath, which implements the OATH
+toolkit, which uses the same time-based TOTP protocol that Google Authenticator
+uses.  This turned out to do the trick.  Once installed, you create a secret
+key that the server authentication will check against and store it in your home
+directory (one thing I liked about googleauth is that it stores the shared
+secret in a system directory to which the user doesn't have access; better
+still is the suggestion of keeping the secrets on an auth server as totp-cgi
+does).  The documentation recommends creating the secret (which the user
+doesn't need to know except for the initial configuration of the Google
+Authenticator client application) by doing:
+
+    openssl rand -hex 20 > ~/.totp-key
+
+I then needed to convert this from hex to base32, which is simple enough to do
+with the method the documentation recommends, which is using the perl module
+Convert::Base32 (OpenBSD port p5-Convert-Base32) and a short script like:
+
+    #!/usr/bin/perl
+    use Convert::Base32;
+    open (FILE, "/home/vpnuser/.totp-key");
+    $secret = <FILE>;
+    close (FILE);
+    $code = pack ('H*', $secret);
+    print encode_base32($code)."\n";
+
+The resulting code can be manually entered into Google Authenticator.
+
+To use Google Authenticator as a login method, I updated the login class for
+the user I wanted to use in /etc/login.conf so that its last two lines were:
+
+    :auth=-totp,passwd:\
+    :tc=default:
+
+This allows either Google Authenticator of password authentication at the
+console, but only Google Authenticator via OpenSSH or OpenVPN as I configured
+them.  Instead of using "-totp" you can also use "-totp-and-pwd" which requires
+the entry of both your Google Authenticator code and your password (in that
+order, with a slash in between them) in order to authenticate.
+
+For OpenSSH, I added the following lines to my sshd_config:
+
+    Match User <vpnuser>
+         PasswordAuthentication yes
+         AuthenticationMethods publickey,password:bsdauth
+
+I don't allow password authentication at all for other users; for this user, an
+SSH public key must first be used, then Google Authenticator must also be used
+before a successful login. [Updated 1 Nov 2013 to add:  After a reboot, this
+ssh config failed with a log message of "fatal: auth2_update_methods_lists:
+method not in AuthenticationMethods".  Removing the ":bsdauth" made it work
+again (it works since the "password" authentication method will use BSD
+Authentication by default), but this looks like an SSH bug.]
+
+So why might you not want to do this?  While Google Authenticator ensures that
+what is used over the network as a password is better than a typical
+user-selected password, it effectively stores a shared secret in plaintext at
+both ends of the connection, which is far less secure than SSH public key
+authentication.  If the device where Google Authenticator is present gets
+compromised, that secret is compromised.  And as the above link about totp-cgi
+points out, if you use Google Authenticator with the same secret across
+multiple machines, that secret is only as secure as the least secure host it's
+stored on, and using different secrets for different machines doesn't scale
+very well with the application.  A password safe with randomly generated
+passwords, stored in encrypted form, is probably a better solution in most
+cases. [Updated 2 November 2013: Authy uses the same TOTP mechanism as Google
+Authenticator, but encrypts the secret key on the client side.  That encryption
+is really more obfuscation than encryption since the key is based on phone
+attributes and can potentially be reverse engineered.]
+
+As I've set it up, I'm still relying on SSH public key authentication for SSH
+logins, and on certificate authentication for VPN logins, in addition to Google
+Authenticator.  For the case of logging into my VPN from my laptop and having
+Google Authenticator on a separate mobile device, it does seem to be a security
+improvement (though I welcome anyone to show me that the gains are illusory).
+
+Posted by Jim Lippard at 10/30/2013 05:44:00 PM 1 comments ● Links to this post
+
+Labels: OpenBSD, security, technology
+
+Friday, April 05, 2013
+
+Matt Dillahunty and disbelief by default
+
+In his recent talk at the American Atheist convention on skepticism and atheism
+, Matt Dillahunty states (at about five minutes in) that skepticism does tell
+us what to believe in the case of untestable claims--that the default position
+is disbelief.
+
+But no, the default position has to be nonbelief, not disbelief.  To disbelieve
+in a proposition is to believe in the negation of the proposition, to believe
+that the original proposition is false.  And Dillahunty already said that (a)
+we should proportion our belief to the evidence and that (b) the proposition in
+question is untestable, meaning there is no evidence for or against it.
+
+The position he describes is logically inconsistent.
+
+We know that there are untestable propositions that are true.  We shouldn't
+believe that they are false simply because they are untestable. We should only
+believe they are false if we have good reasons to believe they are false; in
+the absence of that we should be agnostic.
+
+(Added 5:36 p.m.: What are the implications for the above argument if it is the
+case that untestability does not entail lack of evidence or reasons?  What
+about if we distinguish evidential from non-evidential reasons?  And if we take
+the latter course, what does that say about proposition (a), above? Left as an
+exercise for commenters.)
+
+Posted by Jim Lippard at 4/05/2013 05:08:00 PM 18 comments ● Links to this post
+
+Labels: atheism, rationality, religion, skepticism
+
+Saturday, March 09, 2013
+
+Isaac Funk and the Widow's Mite
+
+One of the more interesting and better documented cases of surprisingly
+accurate information from a spirit medium that is described in Deborah Blum's
+fascinating book, Ghost Hunters: William James and the Search for Scientific
+Proof of Life After Death (2006, Penguin Books), is the case of Isaac Funk and
+the Widow's Mite (pp. 260-262).
+
+Funk, of Funk & Wagnall's Dictionary, had been visiting a medium in Brooklyn,
+New York in February 1903.  About his third visit, he subsequently described
+the following (in Isaac K. Funk, The Widow's Mite and Other Psychic Phenomena
+(1904, Funk & Wagnalls), pp. 159-160, now in the public domain due to copyright
+expiration):
+
+    About eleven o'clock the control named "George," in his usual strong
+    masculine voice, abruptly asked: "Has anyone here got anything that
+    belonged to Mr. Beecher?" There was no reply. On his emphatic repetition of
+    the question, I replied, being the only one present, as I felt sure, who
+    had ever had any immediate acquaintance with Mr. Beecher: "I have in my
+    pocket a letter from Rev. Dr. Hillis, Mr. Beecher's successor.  Is that
+    what you mean?" 
+
+    The answer was: "No; I am told by a spirit present, John Rakestraw, that
+    Mr. Beecher, who is not present, is concerned about an ancient coin, 'The
+    Widow's Mite.' This coin is out of its place, and should be returned. It
+    has long been away, and Mr. Beecher wishes it returned, and he looks to you
+    , doctor, to return it." 
+
+    I was considerably surprised, and asked: "What do you mean by saying that
+    he looks to me to return it? I have no coin of Mr. Beecher's!" 
+
+    "I don't know anything about it except that I am told that this coin is out
+    of place, and has been for a number of years, and that Mr. Beecher says you
+    can find it and return it."
+    I remembered then that when we were making "The Standard Dictionary," some
+    nine years before, I had borrowed from a gentleman in Brooklyn--a close
+    friend of Mr. Beecher's, who died several years ago--a valuable ancient
+    coin known as "The Widow's Mite."  He told me that this coin was worth
+    hundreds of dollars, and, under promise that I would see that it was
+    returned to the collection where it belonged, he would loan it to me. ... 
+
+    I said to the control, "The only 'Widow's Mite' that has ever been in my
+    charge was one that I borrowed some years ago from a gentleman in Brooklyn;
+    this I promptly returned"; to which the control replied: 
+
+    "This one has not been returned." And then, after a moment's silence, he
+    said: "Do you know whether there is a large iron safe in Plymouth Church?" 
+
+    I answered: "I do not." 
+
+    He said: "I am impressed that this coin is in a large iron safe, that it
+    has been lost sight of; it is in a drawer in this safe under a lot of
+    papers, and that you can find it, and Mr. Beecher wishes you to find it." 
+
+    I said: "Do you mean that this safe is in Plymouth Church?" 
+
+    He said: "I don't know where it is. I am simply impressed that it is in a
+    large iron safe in a drawer under a lot of papers, and has been lost sight
+    of for years, and that you can find it, and Mr. Beecher wishes you to find
+    it. That is all that I can tell you."
+
+Funk goes on to inquire of his business manager, who insists that it was
+returned, and of Mr. Wagnalls and Wheeler, who knew nothing of the coin, but
+Wheeler, a skeptic, suggests that it's a good test.  Funk asks a cashier, who
+remembers the coin, but also says that it had been returned, to investigate.
+ After twenty minutes, the cashier returns with an envelope containing two
+"Widow's Mites," which was located in one of two safes (the large iron one), in
+a drawer under papers.
+
+The two coins are a smaller light-colored one and a larger black one, and Funk
+recalls that the smaller one was used for the illustration in the dictionary
+and that it was the genuine article, while the other was a fake.  He returns to
+the medium, and asks which coin is the right one.  Contrary to his belief, the
+medium (as "George") says that it is the black one, and that the friend of Mr.
+Beecher's to whom it belongs is a man associated with a large ladies' school in
+Brooklyn Heights.  Funk recalls that it was borrowed from Prof. Charles E.
+West, head of a ladies' school in Brooklyn Heights.
+
+Funk sends both coins to the Philadelphia Mint for examination, and they
+determine that the medium is correct, the black one is the correct one, and the
+wrong one was used for the illustration in the dictionary.
+
+Funk notes that the preface of the dictionary notes, regarding the
+illustrations, contains the description "The Widow's Mite (which was engraved
+from an excellent original coin in the possession of Prof. Charles E. West of
+Brooklyn, N.Y.)."
+
+Funk's book provides a number of affidavits supporting the recounting of
+events, including that only two people present with the medium knew of Funk's
+connection to the coin (Funk and Irving Roney, the latter of whom provided an
+affidavit), that no one knew that the coin had not been returned, and that the
+cashier staff had no knowledge of the coin which was in the safe in their
+office.
+
+The coin was returned to West's son, who also provides an affidavit stating
+that he was unaware that the coin had not been returned and assumed that it had
+been.  Funk says he dined repeatedly with the elder West prior to his death,
+and the coin was never brought up.
+
+Funk proceeds to list a series of facts about the case and some possible
+explanations (pp. 168ff), and finds difficulties with fraud, coincidence,
+telepathy and clairvoyance, and spirit communications as explanations, though
+he appears to favor the last of these.
+
+Funk presented the case to a number of eminent scientists of the day, including
+William James, Alfred Russell Wallace, and William Crookes, of which those
+listed were all associated with the SPR or ASPR and each suggested spirits as a
+possible explanation.  Many of the other scientists and philosophers, however,
+suggested fraud or deception (see table in Funk's book, pp. 177-178).
+
+As presented in Blum's book, this case seems more impressive than it does with
+all of the details in Funk's account.  What I find suspicious are that the
+medium is located in the same city as the person from whom the coin was
+borrowed, that the connection between the owner of the coin and the
+illustration was published in Funk's dictionary (omitted by Blum), and that
+although the son had forgotten about the coin being loaned out, he thought "it
+altogether likely that his father told at the time other members of his family,
+and possibly some persons outside the family" (Funk, p. 174).  All that it
+would take for the fraud hypothesis would be that the medium had heard,
+second-hand, about the never-returned coin, and speculated that it had been
+forgotten and was kept in a safe (and perhaps offered a guess about which coin
+was genuine; that information has no clear source from the details recounted).
+ Funk infers that because West never brought up the coin that he had forgotten
+about it, but that is an assumption on his part--perhaps West made periodic
+complaints about it not having been returned, but didn't mention it to his son.
+ Funk suggests, based on class distinctions, that no one in the medium circle
+other than himself would have known that West even existed, which seems a
+highly questionable assumption.
+
+Posted by Jim Lippard at 3/09/2013 10:31:00 AM 0 comments ● Links to this post
+
+Labels: history, psychics, skepticism
+
+Older Posts Home
+Subscribe to: Posts (Atom)
+●
+
+Subscribe To
+
+[arrow_drop] [icon_feed1] Posts
+[subscribe-] [subscribe-] [icon_feed1] Atom
+[arrow_drop] [icon_feed1] Posts
+[arrow_drop] [icon_feed1] All Comments
+[subscribe-] [subscribe-] [icon_feed1] Atom
+[arrow_drop] [icon_feed1] All Comments
+●
+
+Blog Archive
+
+  • ▼  2016 (1)
+      □ ▼  January (1)
+          ☆ Books read in 2015
+
+  • ►  2015 (3)
+      □ ►  November (1)
+      □ ►  July (1)
+      □ ►  January (1)
+
+  • ►  2014 (3)
+      □ ►  October (1)
+      □ ►  April (1)
+      □ ►  January (1)
+
+  • ►  2013 (5)
+      □ ►  October (1)
+      □ ►  April (1)
+      □ ►  March (2)
+      □ ►  January (1)
+
+  • ►  2012 (7)
+      □ ►  September (1)
+      □ ►  August (1)
+      □ ►  May (1)
+      □ ►  February (3)
+      □ ►  January (1)
+
+  • ►  2011 (24)
+      □ ►  December (1)
+      □ ►  November (1)
+      □ ►  September (4)
+      □ ►  August (2)
+      □ ►  July (5)
+      □ ►  June (4)
+      □ ►  May (3)
+      □ ►  April (1)
+      □ ►  March (1)
+      □ ►  January (2)
+
+  • ►  2010 (39)
+      □ ►  December (1)
+      □ ►  November (4)
+      □ ►  September (1)
+      □ ►  August (1)
+      □ ►  July (1)
+      □ ►  June (3)
+      □ ►  May (6)
+      □ ►  April (11)
+      □ ►  March (1)
+      □ ►  February (6)
+      □ ►  January (4)
+
+  • ►  2009 (189)
+      □ ►  December (11)
+      □ ►  November (20)
+      □ ►  October (14)
+      □ ►  September (3)
+      □ ►  August (24)
+      □ ►  July (28)
+      □ ►  June (18)
+      □ ►  May (8)
+      □ ►  April (13)
+      □ ►  March (16)
+      □ ►  February (19)
+      □ ►  January (15)
+
+  • ►  2008 (501)
+      □ ►  December (32)
+      □ ►  November (16)
+      □ ►  October (29)
+      □ ►  September (43)
+      □ ►  August (64)
+      □ ►  July (56)
+      □ ►  June (48)
+      □ ►  May (45)
+      □ ►  April (79)
+      □ ►  March (43)
+      □ ►  February (30)
+      □ ►  January (16)
+
+  • ►  2007 (459)
+      □ ►  December (29)
+      □ ►  November (32)
+      □ ►  October (35)
+      □ ►  September (37)
+      □ ►  August (42)
+      □ ►  July (35)
+      □ ►  June (46)
+      □ ►  May (37)
+      □ ►  April (15)
+      □ ►  March (53)
+      □ ►  February (50)
+      □ ►  January (48)
+
+  • ►  2006 (626)
+      □ ►  December (53)
+      □ ►  November (40)
+      □ ►  October (55)
+      □ ►  September (52)
+      □ ►  August (62)
+      □ ►  July (37)
+      □ ►  June (50)
+      □ ►  May (41)
+      □ ►  April (47)
+      □ ►  March (80)
+      □ ►  February (43)
+      □ ►  January (66)
+
+  • ►  2005 (194)
+      □ ►  December (68)
+      □ ►  November (37)
+      □ ►  October (48)
+      □ ►  September (25)
+      □ ►  August (16)
+
+●
+
+Recent Comments
+
+●
+Amazon.com Widgets
+●
+
+Facebook BlogNetworks
+
+Blog Network:
+Name:
+The Lippard Blog
+Topics:
+skepticism, atheism, animal rescue
+Join my network
+Blog Networks
+●
+
+Post Indexes
+
+  • The Best of The Lippard Blog
+  • Index of Conference Summaries
+  • Information Security Index
+  • Net Neutrality Index
+
+●
+
+Links
+
+  • www.discord.org
+  • Jim Lippard's Skeptical Information Links
+
+●
+
+Labels
+
+  • 9/11 conspiracy (21)
+  • abortion (18)
+  • ACLU (19)
+  • Al Seckel (2)
+  • alternative medicine (4)
+  • Amway (3)
+  • animal rescue (37)
+  • animals (49)
+  • Answers in Genesis (48)
+  • Answers in Genesis schism (26)
+  • ApostAZ podcast (21)
+  • Aqua Teen Hunger Force (4)
+  • Arizona (303)
+  • Arizona Skeptic (8)
+  • ArizonaCOR (2)
+  • arts (32)
+  • astroturfing (5)
+  • atheism (120)
+  • Ayaan Hirsi Ali (4)
+  • Barack Obama (36)
+  • Ben Stein (17)
+  • Bill Maher (4)
+  • Bill Muehlenberg (3)
+  • biometrics (2)
+  • books (56)
+  • botnets (21)
+  • Buster (1)
+  • Casey Luskin (10)
+  • censorship (20)
+  • Center for Public Integrity (9)
+  • charitable giving (29)
+  • chiropractic (2)
+  • Christopher Hitchens (5)
+  • CIA (38)
+  • civil liberties (122)
+  • civil rights (6)
+  • climate change (31)
+  • conspiracy theory (43)
+  • copyright (54)
+  • Creation Ministries International (32)
+  • creationism (231)
+  • crime (104)
+  • cryptozoology (2)
+  • CSICOP (3)
+  • Cunningham scandal (9)
+  • Daniel Dennett (8)
+  • David Paszkiewicz (22)
+  • dirty politicians (21)
+  • Discovery Institute (55)
+  • dogs (52)
+  • Dover trial (31)
+  • drug laws (33)
+  • earmarks (12)
+  • economics (146)
+  • education (71)
+  • ethics (114)
+  • euthanasia (1)
+  • Expelled (59)
+  • FCC (29)
+  • FFRF (7)
+  • finance (76)
+  • fingerprints (2)
+  • food (5)
+  • forensics (2)
+  • Fred (5)
+  • gay marriage (23)
+  • Goldwater Institute (20)
+  • gun control (6)
+  • Heartland Institute (8)
+  • history (108)
+  • hoaxes (15)
+  • Holocaust denial (6)
+  • homeopathy (3)
+  • housing bubble (84)
+  • hypnosis (2)
+  • immigration (12)
+  • InfraGard (9)
+  • Institute for Creation Research (22)
+  • Institute for Justice (13)
+  • intelligent design (125)
+  • Islam (16)
+  • J.D. Hayworth (15)
+  • James Randi (20)
+  • Jeb Bush (2)
+  • John McCain (59)
+  • Kent Hovind (9)
+  • kooks (38)
+  • law (397)
+  • Lawrence Krauss (1)
+  • lottery winners and losers (8)
+  • marketing (5)
+  • medicine (32)
+  • Mexico (8)
+  • mind and brain (39)
+  • minimum wage (4)
+  • Mormons (13)
+  • movies (70)
+  • Multics (4)
+  • music (36)
+  • net neutrality (42)
+  • NSA (30)
+  • obituary (23)
+  • OpenBSD (2)
+  • Otto (9)
+  • parody (23)
+  • philosophy (66)
+  • Phoenix Skeptics (8)
+  • police abuse and corruption (48)
+  • politics (620)
+  • prayer (13)
+  • privacy (49)
+  • propaganda (20)
+  • pseudoscience (22)
+  • psychics (21)
+  • radio (6)
+  • rationality (50)
+  • religion (488)
+  • RESCUE (4)
+  • Richard Cheese (9)
+  • Richard Dawkins (17)
+  • Richard Sternberg affair (15)
+  • Robert Kiyosaki (4)
+  • Ron Paul (11)
+  • Sarah Palin (21)
+  • science (193)
+  • science fiction (9)
+  • Scientology (67)
+  • security (174)
+  • Shelby (1)
+  • silly quiz (6)
+  • SkeptiCamp (9)
+  • skepticism (107)
+  • software patents (1)
+  • Southern California Skeptics (1)
+  • spam (35)
+  • strange deaths (14)
+  • Sylvia Browne (5)
+  • technology (249)
+  • telemarketing (13)
+  • television (18)
+  • The Amazing Meeting (23)
+  • The Simple Dollar (3)
+  • torture (37)
+  • travel (24)
+  • TSA incompetence (17)
+  • U.S. Attorney scandal (10)
+  • UFOs (18)
+  • underground cities (2)
+  • War on Christmas (6)
+  • Wikileaks (3)
+  • Wikipedia (12)
+  • Wikiscanner (2)
+  • wiretapping (39)
+
+●
+Listed on BlogShares
+●
+
+Contributors
+
+  • Jim Lippard
+  • Einzige
+  • Kat Lippard
+
+●
+
+Followers
+
+●
+
+Google+ Followers
+
+Blogroll
+
+  • 
+    Leiter Reports: A Philosophy Blog
+    Corey Robin on Sanders and Clinton
+    2 hours ago
+  • 
+    Freedom to Tinker
+    Updating the Defend Trade Secrets Act?
+    3 hours ago
+  • 
+    Sandwalk
+    Richard Dawkins makes a mistake when describing why gene trees are evidence
+    of evolution
+    4 hours ago
+  • 
+    Dispatches from the Culture Wars
+    AZ Students Pose With Racial Slur on Shirts
+    6 hours ago
+  • 
+    The Simple Dollar
+    Financial Independence on a Smaller Income
+    7 hours ago
+  • 
+    The Housing Bubble Blog
+    Giving Back Extraordinary, Stratospheric, Dramatic Growth
+    11 hours ago
+  • 
+    Bleeding Heart Libertarians
+    Send Libertarians to Prison!
+    15 hours ago
+  • 
+    Schneier on Security
+    Friday Squid Blogging: North Coast Squid
+    23 hours ago
+  • 
+    EFF.org Updates
+    Transparent and Participatory Processes Are Vital to Creating Copyright
+    Rules that Work for Everyone
+    1 day ago
+  • 
+    Telecom Ramblings
+    More Indiana FTT For Zayo
+    1 day ago
+  • 
+    The Daily WTF
+    Error'd: There's Nothing to See Here
+    1 day ago
+  • 
+    Free Association
+    TGIF: The Constitution Revisited
+    1 day ago
+  • 
+    The Technology Liberation Front
+    Congress Must Pass Permanent Ban on Internet Access Taxes
+    1 day ago
+  • 
+    Whewell's Ghost
+    Whewell’s Gazette: Year 2, Vol. #27
+    4 days ago
+  • 
+    The Panda's Thumb
+    Rainbow
+    5 days ago
+  • 
+    Recursivity
+    Our Car's Fibonacci Odometer
+    2 weeks ago
+  • 
+    The Daily Doubter
+    Latest discount book buy
+    2 weeks ago
+  • 
+    Playing Chess with Pigeons
+    Consilience and whale evolution
+    2 weeks ago
+  • 
+    Long or Short Capital
+    How to Win the Lottery (You Already Did)
+    2 weeks ago
+  • 
+    Metamagician and the Hellfire Club
+    The Mystery of Moral Authority now published!
+    2 weeks ago
+  • 
+    The Uncredible Hallq
+    New WordPress blog
+    6 months ago
+  • 
+    Will Wilkinson
+    Libertarianism and the Politics of Everything
+    9 months ago
+  • 
+    Renesys Blog
+    Why Far-Flung Parts of the Internet Broke Today
+    1 year ago
+  • 
+    Max More's Strategic Philosophy
+    The Diachronic Self, chapter 4: Technological Transformation and
+    Assimilation
+    1 year ago
+  • 
+    Agoraphilia
+    Economics of the Undead: Book and Blog
+    1 year ago
+  • 
+    Changing Places
+    Growing
+    1 year ago
+  • 
+    The Volokh Conspiracy
+    “Is it now acceptable grammar to say ‘[is a much better advocate] than me
+    and 95% of my colleagues …’”?
+    1 year ago
+  • 
+    Coyotl Consulting
+    So what is the deal with the blog, Glen?
+    2 years ago
+  • 
+    Naturalistic Atheism
+    List of arguments against physicalism about consciousness
+    3 years ago
+  • 
+    Thinking for Free
+    Farewell
+    3 years ago
+  • 
+    a simple prop
+    Early 2012 Legislative Action
+    3 years ago
+  • 
+    Ediacaran
+    Seeing the Forest for the Trees
+    3 years ago
+  • 
+    Attempts at Rational Behavior
+    What is Yoga?
+    3 years ago
+  • 
+    Die Eigenheit
+    Tips to Maximize Enjoyment of the Great Smoky Mountains' Synchronous
+    Firefly
+    4 years ago
+  • 
+    Abe Heward's Blog
+    Testers Cannot Be Perfect Proxies for End Users
+    5 years ago
+  • 
+    South Mountain History
+    E-Mail Account Fixed (and comment moderation disabled)
+    5 years ago
+  • 
+    Duae Quartunciae
+    Jurassic Pigeon at the Creation Museum!
+    8 years ago
+  • 
+    Respectful Insolence
+  • 
+    The Secular Outpost
+  • 
+    EvolutionBlog
+  • 
+    “an illustrative account”
+
+●
+ 
+Quantcast
+●
+
+Google
+Enter your search terms [                               ]
+(*) Web             ( ) lippard.blogspot.com
+( ) www.discord.org
+
+Submit search form [Search] 
+
+●
+Creative Commons License
+The Lippard Blog by Jim Lippard is licensed under a Creative Commons
+Attribution-Noncommercial-No Derivative Works 3.0 United States License.
+Based on a work at lippard.blogspot.com. Site Meter
+●

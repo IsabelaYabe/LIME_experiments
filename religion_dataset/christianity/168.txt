@@ -1,0 +1,183 @@
+bg image(Images/background%201.jpg)
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│┌────────────────────────────────────────────────────────────────────────────────────────────┐│
+││┌───────────────────┬─────────────────────────────────────────────────────────┬────────────┐││
+│││                   │                                                         │            │││
+│││                   │         SAINT JOHN THE BAPTIST CATHOLIC CHURCH          │            │││
+│││                   │                                                         │            │││
+│││[outside1001]      │          416 Chestnut Street • Chico CA 95928           │[steeple100]│││
+│││                   │            (530)343-8741 • Fax (530)345-8602            │            │││
+│││                   │                                                         │            │││
+│││                   │   & SAINT JAMES MISSION     Faber & Holland Streets •   │            │││
+│││                   │                         Durham                          │            │││
+││└───────────────────┴─────────────────────────────────────────────────────────┴────────────┘││
+││                                                                                            ││
+││                                                                                            ││
+││                                                                                            ││
+││┌────────────────────────────────────────────────────────────────────────────────────────┐  ││
+│││             Gathering as a faith community to worship and serve since 1878             │  ││
+││└────────────────────────────────────────────────────────────────────────────────────────┘  ││
+││[sidemenu_r1_c1]    Sign Up for Automatic   How Do You Become A Member                      ││
+││                        Online Giving             Of Our Parish?                            ││
+││[sidemenu_r2_c1]         How To Do It         Download a Registration                       ││
+││                      FAQ     Benefits      Form  in English or Spanish                     ││
+││[sidemenu_r4_c1]                                                                            ││
+││                                                                                            ││
+││[sidemenu_r5_c1]                                                                            ││
+││                                                                                            ││
+││z                      ARE YOU THINKING ABOUT BECOMING A CATHOLIC?                          ││
+││                                                                                            ││
+││z                       LET US ANSWER YOUR QUESTIONS Read more..                            ││
+││                                                                                            ││
+││a                                     ━━━━━━━━━━━━                                          ││
+││                                                                                            ││
+││a                           THE HOLY FAMILY ADORATION CHAPEL                                ││
+││                                                                                            ││
+││                    Adoration takes place Monday through Friday , 24                        ││
+││ HISTORY OF ST.                       hours a day,                                          ││
+││     JOHN'S        every week! Thanks to all of you who vote "YES" to                       ││
+││                                        spend an                                            ││
+││  ━━━━━━━━━━━━     hour with Jesus each week. We will continue to have                      ││
+││                                       sign ups so                                          ││
+││ PHOTO ALBUM OF   that we can eventually add Saturdays and Sundays too!                     ││
+││   ST. JOHN'S                                                                               ││
+││BEAUTIFUL STAINED "Let us be generous with our time in going to meet                        ││
+││  GLASS WINDOWS   Jesus and                                                                 ││
+││                  ready to make reparation for the great evils of the                       ││
+││  ━━━━━━━━━━━━    world.                                                                    ││
+││                  Let your adoration never cease." (Pope John Paul II,                      ││
+││SAINT OF THE DAY  Dominicai Cenae).                                                         ││
+││                                                                                            ││
+││  ━━━━━━━━━━━━    Please call Denise Marine 520-4176 or Javier 566-0358                     ││
+││                  for info.                                                                 ││
+││ DAILY READINGS                                                                             ││
+││                                      ━━━━━━━━━━━━                                          ││
+││  ━━━━━━━━━━━━                                                                              ││
+││                             WEEKDAY MASSES AND CONFESSIONS                                 ││
+││    ST.JAMES                                                                                ││
+││  MSSION CHURCH                            Monday - 7:30am, 6:00pm                          ││
+││                                         Tuesday - 7:30am, 6:00pm                           ││
+││ [durhamoutside]                         Wednesday - 7:30am (Eng),                          ││
+││    St. James     6:00pm (Span)                                                             ││
+││  Mass Schedule                          Thursday - 7:30am, 6:00pm                          ││
+││                                         Friday - 8:30am, 6:00pm                            ││
+││                                         Saturday - 7:30am                                  ││
+││                                         Daily Confessions ( Mon-Fri)                       ││
+││                  5:30pm                                                                    ││
+││  ━━━━━━━━━━━━                                                                              ││
+││                             WEEKEND MASSES AND CONFESSIONS                                 ││
+││                                                                                            ││
+││                                         Saturday - 5:00pm (Eng) and                        ││
+││                  7:00pm (Span)                                                             ││
+││                                         Confessions 8:00am-9:00am and                      ││
+││OUR SISTER PARISH 3:30pm-4:30pm                                                             ││
+││                                         Sunday 8:00am (Eng) 10:00am (                      ││
+││  Fr. JB's 2014   Eng) and 12:00pm (Span)                                                   ││
+││ Mission Appeal                                         5:00pm (Life                        ││
+││                  Teen)                                                                     ││
+││Visit St John the                                                                           ││
+││ Baptist-Kenya's                      ━━━━━━━━━━━━                                          ││
+││     website                                                                                ││
+││                                       CHALLENGES                                           ││
+││See the Fruits of                                                                           ││
+││     School          Read this series of short articles designed to                         ││
+││   Sponsorship    illuminate and promote discussion of important issues                     ││
+││                           regarding the state of our parish.                               ││
+││                                          Read                                              ││
+││                                                                                            ││
+││                                      ━━━━━━━━━━━━                                          ││
+││                                                                                            ││
+││                                            j                                               ││
+││                                                                                            ││
+││                     EACH ONE OF US IS CALLED BY GOD TO SERVE IN THE                        ││
+││                    MINISTRY OF OUR CHURCH.  WE ENCOURAGE EACH FAMILY                       ││
+││                        TO COMPLETE A STEWARDSHIP COMMITMENT FORM.                          ││
+││                                                                                            ││
+││                                                                                            ││
+││                                                                                            ││
+││                                      ━━━━━━━━━━━━                                          ││
+││                                                                                            ││
+││                                            s                                               ││
+││                                                                                            ││
+││                                      ━━━━━━━━━━━━                                          ││
+││                                                                                            ││
+││                     Our Catholic community is devoted to loving and                        ││
+││                       serving God, Jesus Christ, His Holy Mother,                          ││
+││                                Mary, and our neighbors.                                    ││
+││                     As Catholics we are in fidelity to the teaching                        ││
+││                  authority of the Catholic Church and our Holy Father,                     ││
+││                                      Pope Francis.                                         ││
+││                                                                                            ││
+││                                      ━━━━━━━━━━━━                                          ││
+││                                                                                            ││
+││                                       Contact Us                                           ││
+││                                                                                            ││
+││                                      GG                                                    ││
+││                                                                                            ││
+││                                   IS HERE                                                  ││
+││                                                                                            ││
+││                               Need Help? It is                                             ││
+││                              Simple to Register                                            ││
+││                                                                                            ││
+││                                How Can Online                                              ││
+││                              Giving Benefit Me                                             ││
+││                                and My Church?                                              ││
+││                                                                                            ││
+││                                     FAQ's                                                  ││
+││                                                                                            ││
+││                                                                                            ││
+││                                                                                            ││
+││                                                                                            ││
+││                              THE ROMAN MISSAL,                                             ││
+││                                THIRD EDITION                                               ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                               PRAYING THE MASS                                             ││
+││                               ANEW BY FR. JOEL                                             ││
+││                                   HASTINGS                                                 ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                              SUMMARY OF THE NEW                                            ││
+││                                   ENGLISH                                                  ││
+││                              TRANSLATION OF THE                                            ││
+││                               THIRD EDITION OF                                             ││
+││                               THE ROMAN MISSAL                                             ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                               FUNERAL READINGS                                             ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                              CONTRACEPTION: WHY                                            ││
+││                                     NOT?                                                   ││
+││                                 Janet Smith                                                ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                              NOTRE DAME SCHOOL                                             ││
+││                                  Accepting                                                 ││
+││                               Applications Now                                             ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                               JOSEPH HOLLCRAFT                                             ││
+││                                Professor and                                               ││
+││                                  Radio Host                                                ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                              ONCE IN A CENTURY                                             ││
+││                                 CELEBRATION                                                ││
+││                                                                                            ││
+││                                 ━━━━━━━━━━━━                                               ││
+││                                                                                            ││
+││                                                                                            ││
+││                                                                                            ││
+│└────────────────────────────────────────────────────────────────────────────────────────────┘│
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
+
+ 
+

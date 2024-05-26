@@ -1,0 +1,457 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ [shim] ━━━━━━━━━━━━━━━━━━━━━━━━━━━ *  ┃
+┃[header1a_r1_c1]                                                       [header1a_r1_c3]            [s]┃
+┠──────────────────────────────────────────────────────────────────────────────────────────────────────┨
+┃┌──────┬──────┬────────┬────────┬────────┬───────────────┬──────┬──────┬───────┐                      ┃
+┃│ WHO  │BOOKS │SCHEDULE│COURSES │STUDIES │  CURRICULUM   │LINKS │PHOTOS│CONTACT│                      ┃
+┃│      │      │        │        │        │     VITAE     │      │      │       │                      ┃
+┃└──────┴──────┴────────┴────────┴────────┴───────────────┴──────┴──────┴───────┘                      ┃
+┠──────────────────────────────────────────────────────────────────────────────────────────────────────┨
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃          [text_title_craigaevans_clipped]                                                            ┃
+┃                                                                                                      ┃
+┃          Dr. Craig A. EvansNew Testament scholar, Craig Evans, is                                    ┃
+┃          the Payzant Distinguished Professor of New Testament at                                     ┃
+┃          Acadia Divinity College of Acadia University, in Wolfville,                                 ┃
+┃          Nova Scotia, Canada. A graduate of Claremont McKenna                                        ┃
+┃          College, he received his M.Div. from Western Baptist                                        ┃
+┃          Seminary in Portland, Oregon, and his M.A. and Ph.D. in                                     ┃
+┃          Biblical Studies from Claremont Graduate University in                                      ┃
+┃          southern California. He has also been awarded the D.Habil.                                  ┃
+┃          by the Karoli Gaspard Reformed University in Budapest. A                                    ┃
+┃          well-known evangelical scholar throughout the world, he is                                  ┃
+┃          an elected member of the prestigious SNTS, a society                                        ┃
+┃          dedicated to New Testament studies.                                                         ┃
+┃                                                                                                      ┃
+┃          After teaching one year at McMaster University in Hamilton,                                 ┃
+┃          Ontario, Canada, Evans taught at Trinity Western University                                 ┃
+┃          in British Columbia for twenty-one years, where he directed                                 ┃
+┃          the graduate program in Biblical Studies and founded the                                    ┃
+┃          Dead Sea Scrolls Institute. He was also a Visiting Fellow                                   ┃
+┃          at Princeton Theological Seminary in Princeton, New Jersey.                                 ┃
+┃                                                                                                      ┃
+┃          Author and editor of more than sixty books and hundreds of                                  ┃
+┃          articles and reviews, Professor Evans has given lectures at                                 ┃
+┃          Cambridge, Oxford, Durham, Yale and other universities,                                     ┃
+┃          colleges, seminaries and museums, such as the Field Museum                                  ┃
+┃          in Chicago, the Canadian Museum of Civilization in Ottawa                                   ┃
+┃          and the Royal Ontario Museum in Toronto. He also regularly                                  ┃
+┃          lectures and gives talks at popular conferences and                                         ┃
+┃          retreats on the historical Jesus, Archaeology, the Dead Sea                                 ┃
+┃          Scrolls and the Bible.                                                                      ┃
+┃                                                                                                      ┃
+┃          Along with countless interviews on radio networks across                                    ┃
+┃          Canada and the US, Evans has been seen on Dateline NBC,                                     ┃
+┃          CBC, CTV, Day of Discovery, and many documentaries aired on                                 ┃
+┃          BBC, The Discovery Channel, History Channel, History                                        ┃
+┃          Television and others. He also has served as a consultant                                   ┃
+┃          for the National Geographic Society and for The Bible                                       ┃
+┃          miniseries, produced by Mark Burnett and Roma Downey. (                                     ┃
+┃          Click here for recent programs.)                                                            ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃             Upcoming Events & Social Media:                                                          ┃
+┃             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                    ┃
+┃                                                                                                      ┃
+┃               • 19–21 Mar 2015                                                                       ┃
+┃                 Liberty University Spring Conference: Speaker                                        ┃
+┃               • 30 Mar–3 April 2015                                                                  ┃
+┃                 100 Huntley television programs: Easter in Israel                                    ┃
+┃               • 23 April – 3 May 2015                                                                ┃
+┃                 Cuba ministry: Teaching and visiting pastors                                         ┃
+┃               • 6 May 2015                                                                           ┃
+┃                 University of Edinburgh: Conference paper                                            ┃
+┃               • 6–12 Jun 2015                                                                        ┃
+┃                 Israel: El-Maqatir dig site                                                          ┃
+┃               • 14–18 June 2015                                                                      ┃
+┃                 Israel College of the Bible: Matthew course                                          ┃
+┃               • 21–23 June 2015                                                                      ┃
+┃                 Jerusalem, Israel: Mount Zion dig site                                               ┃
+┃               • 16–22 July 2015                                                                      ┃
+┃                 TCMI Austria: Luke-Acts course                                                       ┃
+┃               • 28–31 July 2015                                                                      ┃
+┃                 Society of New Testament Studies, Amsterdam:                                         ┃
+┃                 Meetings and paper                                                                   ┃
+┃               • 10-12 August 2015                                                                    ┃
+┃                 NSABS Conference in Norway: "Jesus in Islamic and                                    ┃
+┃                 Rabbinic Traditions"                                                                 ┃
+┃                                                                                                      ┃
+┃             [social-icons_2011-09-30]                                                                ┃
+┃                                                                                                      ┃
+┃             Latest Books:                                                                            ┃
+┃             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                    ┃
+┃                                                                                                      ┃
+┃             [book_JesusAndTheJihadis_banner]                                                         ┃
+┃                                                                                                      ┃
+┃             Jesus and the Jihadis offers hard-hitting criticism                                      ┃
+┃             of Islamic extremism, especially as seen in the                                          ┃
+┃             Islamic State (ISIS), but authors Craig Evans and                                        ┃
+┃             Jeremiah Johnston want it to be understood clearly                                       ┃
+┃             they are not "anti-Muslim." They target the                                              ┃
+┃             practitioners of hate and the ideology that lies                                         ┃
+┃             behind it, not the Muslim people themselves. Evans                                       ┃
+┃             and Johnston have great concern for Muslims. Purchase                                    ┃
+┃             on Amazon.                                                                               ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃             [book_JesusAndRemainsOfH]Jesus and the Remains of His                                    ┃
+┃             Day: Studies in Jesus and the Evidence of Material                                       ┃
+┃             Culture                                                                                  ┃
+┃                                                                                                      ┃
+┃             New Release! Craig A Evans's book Jesus and the                                          ┃
+┃             Remains of His Day: Studies in Jesus and the Evidence                                    ┃
+┃             of Material Culture is now available for 33% off! To                                     ┃
+┃             get this discount, and for a full description and                                        ┃
+┃             more information, visit this website.                                                    ┃
+┃                                                                                                      ┃
+┃             Archaeological evidence is essential for enhancing                                       ┃
+┃             our understanding of Jesus' life and the society in                                      ┃
+┃             which he lived. Illuminating the material culture of                                     ┃
+┃             the first century, Evans offers 13 essays exploring                                      ┃
+┃             topics such as the importance of artifacts; hanging                                      ┃
+┃             and crucifixion in Second Temple Israel; postmortem                                      ┃
+┃             beliefs in Jewish and pagan epitaphs; and more.                                          ┃
+┃                                                                                                      ┃
+┃             400 pages, Hendrickson Publishers (2015)                                                 ┃
+┃             ISBN-13: 978-1619707054                                                                  ┃
+┃             Also available from Amazon.                                                              ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃             [book_God-Speaks]God Speaks: What He Says. What He                                       ┃
+┃             Means.                                                                                   ┃
+┃                                                                                                      ┃
+┃             No matter how familiar or unfamiliar you are with the                                    ┃
+┃             Bible, God Speaks will bring its timeless truth alive                                    ┃
+┃             as you view it with fresh eyes and apply its                                             ┃
+┃             restorative power to your life.                                                          ┃
+┃                                                                                                      ┃
+┃             Far from a dusty old book of do’s and don’ts, the                                        ┃
+┃             Bible is a relevant and eternal message of love and                                      ┃
+┃             reconciliation that holds the power to shape society                                     ┃
+┃             and transform lives. Dr. Craig Evans, a consultant on                                    ┃
+┃             Mark Burnett and Roma Downey’s blockbuster miniseries                                    ┃
+┃             The Bible, unfolds Scripture with compelling clarity.                                    ┃
+┃             God Speaks will equip you to provide answers to                                          ┃
+┃             skeptics’ questions about the Bible’s true message.                                      ┃
+┃                                                                                                      ┃
+┃             By taking readers on a journey through each part of                                      ┃
+┃             the Bible, God Speaks…                                                                   ┃
+┃                                                                                                      ┃
+┃               • Examines the Bible as a force for progress in                                        ┃
+┃                 economics, justice, charity, and human rights                                        ┃
+┃               • Explores the Bible’s power to shape culture and                                      ┃
+┃                 transform individual lives                                                           ┃
+┃               • Extols God’s deeply resonant message of                                              ┃
+┃                 forgiveness and hope for all                                                         ┃
+┃               • Equips readers with tools to understand Scripture                                    ┃
+┃                 to apply its ever-enduring precepts to daily                                         ┃
+┃                 living                                                                               ┃
+┃                                                                                                      ┃
+┃             272 pages, published by Worthy Publishing (July 7,                                       ┃
+┃             2015)                                                                                    ┃
+┃             ISBN-13: 978-1617954818                                                                  ┃
+┃             Purchase from Amazon.                                                                    ┃
+┃             Also available as a Kindle E-Book!                                                       ┃
+┃                                                                                                      ┃
+┃             [book_Getting-Jesus-Rig] Getting Jesus Right: How                                        ┃
+┃                                      Muslims get Jesus and Islam                                     ┃
+┃                                      Wrong                                                           ┃
+┃                                                                                                      ┃
+┃                                      by Craig A. Evans and James                                     ┃
+┃                                      A. Beverley, edited by                                          ┃
+┃                                      Marina Hofman-Willard                                           ┃
+┃                                                                                                      ┃
+┃                                      Is it possible that muslims                                     ┃
+┃                                      are wrong about Jesus and                                       ┃
+┃                                      various tenets of Islam? Is                                     ┃
+┃                                      the famous Muslim writer                                        ┃
+┃                                      Reza Aslan mistaken in his                                      ┃
+┃                                      portrayal of Jesus of                                           ┃
+┃                                      Nazareth and apologetic for                                     ┃
+┃                                      Islam? Professor James                                          ┃
+┃                                      Beverley and Professor Craig                                    ┃
+┃                                      Evans take an in-depth look                                     ┃
+┃                                      at subjects at the core of                                      ┃
+┃                                      the Muslim-Christian divide:                                    ┃
+┃                                      the reliability of the New                                      ┃
+┃                                      Testament Gospels and the                                       ┃
+┃                                      Qur'an, and what we can                                         ┃
+┃                                      really know about Jesus and                                     ┃
+┃                                      the prophet Muhammad.                                           ┃
+┃                                      Importantly, they also                                          ┃
+┃                                      examine the implications of                                     ┃
+┃                                      traditional Islamic faith on                                    ┃
+┃                                      the status of women, jihad                                      ┃
+┃                                      and terrorism.                                                  ┃
+┃                                                                                                      ┃
+┃                                      "The authors deal with every                                    ┃
+┃                                      topic, from ancient                                             ┃
+┃                                      manuscripts to terrorism,                                       ┃
+┃                                      from Jesus to Muhammad, from                                    ┃
+┃                                      the Crusades to colonialism,                                    ┃
+┃                                      with accuracy, originality                                      ┃
+┃                                      and courage. Getting Jesus                                      ┃
+┃                                      Right is a provocative and                                      ┃
+┃                                      powerful work." - David Cook                                    ┃
+┃                                      Associate professor of                                          ┃
+┃                                      Religion, Rice University,                                      ┃
+┃                                      and author of Understanding                                     ┃
+┃                                      Jihad                                                           ┃
+┃                                                                                                      ┃
+┃                                      "This book is a scholarly                                       ┃
+┃                                      and devastating critique of                                     ┃
+┃                                      Reza Aslan's views on Jesus                                     ┃
+┃                                      and Islam." - Robert Spencer                                    ┃
+┃                                      New York Times bestselling                                      ┃
+┃                                      author of The Politically                                       ┃
+┃                                      Incorrect Guide to Islam                                        ┃
+┃                                      (and the Crusades) and The                                      ┃
+┃                                      Truth About Muhammad                                            ┃
+┃                                                                                                      ┃
+┃                                      "A learned and wide-ranging                                     ┃
+┃                                      book" - Tom Holland Author                                      ┃
+┃                                      of In the Shadow of the                                         ┃
+┃                                      Sword                                                           ┃
+┃                                                                                                      ┃
+┃                                      352 pages, published by                                         ┃
+┃                                      Castle Quay Books (May 5,                                       ┃
+┃                                      2015)                                                           ┃
+┃                                      ISBN-13: 978-1927355459                                         ┃
+┃                                      Purchase from Amazon.                                           ┃
+┃                                      Also available as a Kindle                                      ┃
+┃                                      E-Book!                                                         ┃
+┃                                                                                                      ┃
+┃             [Evans_JesusToTheChurch_]From Jesus to the Church                                        ┃
+┃                                                                                                      ┃
+┃             Did Jesus intend to found a church separate from                                         ┃
+┃             Judaism? Who were the very first followers of Jesus?                                     ┃
+┃             And how did a clash between two families—the family                                      ┃
+┃             of Jesus on one hand and the family of high priest                                       ┃
+┃             Annas and their aristocratic allies on the                                               ┃
+┃             other—eventually lead to the formation of                                                ┃
+┃             Christianity?                                                                            ┃
+┃                                                                                                      ┃
+┃             In this study, best-selling author Craig A. Evans                                        ┃
+┃             looks at how a tumultuous chain of events from 30-70                                     ┃
+┃             CE—beginning with Jesus's entry into Jerusalem and                                       ┃
+┃             subsequent crucifixion and ending with the                                               ┃
+┃             destruction of the temple—led to the separation                                          ┃
+┃             between the followers of Jesus and other Jews. Topics                                    ┃
+┃             include the following: 1) whether Jesus actually                                         ┃
+┃             intended to found the Christian Church; 2) the ways                                      ┃
+┃             in which Jesus's proclamation of the "Kingdom of God"                                    ┃
+┃             relate to the Christian Church; 3) the role of James,                                    ┃
+┃             brother of Jesus, in the new movement in Jerusalem;                                      ┃
+┃             4) the tension between James and Paul in the matter                                      ┃
+┃             of law and works; 5) the conflict between the                                            ┃
+┃             families and followers of Jesus and those of the high                                    ┃
+┃             priest Annas before the destruction of the temple;                                       ┃
+┃             and 6) the aftermath of the Jewish rebellion, whereby                                    ┃
+┃             the Church moved away from its Jewish roots. An                                          ┃
+┃             appendix further explores the reasons behind the rift                                    ┃
+┃             between the Jesus movement and the synagogue. This                                       ┃
+┃             fascinating volume is suitable for historical Jesus                                      ┃
+┃             and early church studies, along with anyone else                                         ┃
+┃             interested in learning about the very first followers                                    ┃
+┃             of Jesus.                                                                                ┃
+┃                                                                                                      ┃
+┃             (Westminster John Knox, Feb 2014)                                                        ┃
+┃             ISBN: 9780664239053                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃             Purchase from AMAZON                                                                     ┃
+┃                                                                                                      ┃
+┃             Jesus and His World by Craig A EvansJesus and His                                        ┃
+┃             World: The Archaeological Evidence                                                       ┃
+┃                                                                                                      ┃
+┃             In this provocative work, world-renowned scholar                                         ┃
+┃             Craig A. Evans presents the most important                                               ┃
+┃             archaeological discoveries that shed light on the                                        ┃
+┃             world of Jesus of Nazareth. Evans takes on many                                          ┃
+┃             sensational claims that have been proposed in recent                                     ┃
+┃             books and peddled in the media, and uses actual                                          ┃
+┃             archaeological findings to uncover the truth about                                       ┃
+┃             several key pieces of Jesus' world. For example, what                                    ┃
+┃             was the village of Nazareth actually like in the time                                    ┃
+┃             of Jesus? Did synagogues really exist, as the Gospels                                    ┃
+┃             say? What does archaeology tell us about the ruling                                      ┃
+┃             priests who condemned Jesus to death? Has the tomb of                                    ┃
+┃             Jesus really been found, as has been claimed? Evans's                                    ┃
+┃             engaging prose enables readers to understand and                                         ┃
+┃             critique the latest theories--both the sober and the                                     ┃
+┃             sensational--about who Jesus was and what he lived                                       ┃
+┃             and died for.                                                                            ┃
+┃                                                                                                      ┃
+┃             Questions are included at the end of each chapter,                                       ┃
+┃             making this book ideal for group or individual study                                     ┃
+┃                                                                                                      ┃
+┃             (Westminster John Knox, Mar 2012)                                                        ┃
+┃             ISBN: 9780664234133                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃             Purchase from AMAZON                                                                     ┃
+┃                                                                                                      ┃
+┃             [matthew-newcambridgeb]Matthew: New Cambridge Bible                                      ┃
+┃             Commentary                                                                               ┃
+┃                                                                                                      ┃
+┃             This book is a verse-by-verse analysis of the New                                        ┃
+┃             Testament Gospel of Matthew. It provides a                                               ┃
+┃             comprehensive introduction to the gospel, which                                          ┃
+┃             describes the world of Jesus and his first followers.                                    ┃
+┃             This commentary explores the historical, social, and                                     ┃
+┃             religious contexts of Matthew and examines the                                           ┃
+┃             customs, beliefs, and ideas that inform the text.                                        ┃
+┃             Unfamiliar to many readers of the New Testament, this                                    ┃
+┃             background will help readers fully understand the                                        ┃
+┃             text of Matthew, which focuses on what Jesus taught                                      ┃
+┃             and why the religious authorities in Jerusalem                                           ┃
+┃             rejected his message and gave him up to the Roman                                        ┃
+┃             governor for execution. This book will be an                                             ┃
+┃             important tool for clergy, scholars, and other                                           ┃
+┃             interested readers of Matthew.                                                           ┃
+┃                                                                                                      ┃
+┃             View Frontmatter as PDF (188KB)                                                          ┃
+┃                                                                                                      ┃
+┃             Purchase from AMAZON                                                                     ┃
+┃                                                                                                      ┃
+┃             Buy from publisher, Cambridge University Press                                           ┃
+┃                                                                                                      ┃
+┃             Jesus the Final Days by Craig A EvansJesus, the Final                                    ┃
+┃             Days: What Really Happened                                                               ┃
+┃                                                                                                      ┃
+┃             What do history and archaeology have to say about                                        ┃
+┃             Jesus’ death, burial, and resurrection? How were                                         ┃
+┃             criminal trials and executions conducted during the                                      ┃
+┃             time of Jesus? Was Jesus really raised from the dead?                                    ┃
+┃             Together, Craig A. Evans and N. T. Wright address                                        ┃
+┃             these important topics (in the UK: SPCK; in North                                        ┃
+┃             America: Westminster John Knox Press, 2009).                                             ┃
+┃                                                                                                      ┃
+┃             Purchase at AMAZON                                                                       ┃
+┃                                                                                                      ┃
+┃             [book_fabricating_sm]Fabricating Jesus                                                   ┃
+┃             How Modern Scholars Distort the Gospels                                                  ┃
+┃             By Craig A. Evans                                                                        ┃
+┃             Purchase from AMAZON                                                                     ┃
+┃                                                                                                      ┃
+┃             Fact: The Gospel of Thomas is late, not early;                                           ┃
+┃             secondary, not authentic. Contrary to what a few                                         ┃
+┃             scholars maintain, the Gospel of Thomas originated in                                    ┃
+┃             Syria and probably no earlier than the end of the                                        ┃
+┃             second century.                                                                          ┃
+┃                                                                                                      ┃
+┃             The Gospel of Peter, which describes a talking cross,                                    ┃
+┃             is late and incredible. In fact, the fragmentary                                         ┃
+┃             document that we have may not be the Gospel of Peter                                     ┃
+┃             at all. The document that we have may date to the                                        ┃
+┃             fourth or fifth century.                                                                 ┃
+┃                                                                                                      ┃
+┃             The "secret" version of the Gospel of Mark, allegedly                                    ┃
+┃             found in the Mar Saba Monastery, is a modern hoax.                                       ┃
+┃             Analysis of the hand-writing betrays the tell-tale                                       ┃
+┃             signs of forgery.                                                                        ┃
+┃                                                                                                      ┃
+┃             The distinctive conclusions of the Jesus Seminar are                                     ┃
+┃             rejected by most scholars in North America and                                           ┃
+┃             Europe.                                                                                  ┃
+┃                                                                                                      ┃
+┃             There is absolutely no credible evidence that Jesus                                      ┃
+┃             had a wife or a child.                                                                   ┃
+┃                                                                                                      ┃
+┃             The evidence is compelling that the New Testament                                        ┃
+┃             Gospels--Matthew, Mark, Luke, and John--are our best                                     ┃
+┃             sources for understanding the historical Jesus. The                                      ┃
+┃             New Testament Gospels are based on eyewitness                                            ┃
+┃             testimony and truthfully and accurately describe the                                     ┃
+┃             teaching, life, and death of Jesus.                                                      ┃
+┃                                                                                                      ┃
+┃             Jesus was not a Cynic; in all probability he never                                       ┃
+┃             encountered a Cynic. No killer monks (albino or                                          ┃
+┃             otherwise) number among the membership of Opus Dei.                                      ┃
+┃                                                                                                      ┃
+┃             All descriptions of documents, literature, and                                           ┃
+┃             archaeology in this book are accurate.                                                   ┃
+┃                                                                                                      ┃
+┃             Read more at InterVarsity Press!                                                         ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃             Past Events & Media:                                                                     ┃
+┃             Craig Evans In and In Response To The Media                                              ┃
+┃                                                                                                      ┃
+┃               • Interview by Michael Brown, host of the Line of                                      ┃
+┃                 Fire radio program                                                                   ┃
+┃               • Excellent Video Timeline from St. John's College                                     ┃
+┃                 Nottingham, UK:                                                                      ┃
+┃                   □ Overview Video                                                                   ┃
+┃                   □ Dr. Evans's Contribution                                                         ┃
+┃               • Jesus Myths, Volumn 1:                                                               ┃
+┃                   □ Did Jesus Do Miracles?                                                           ┃
+┃                   □ How Many Copies of the Gospels?                                                  ┃
+┃                   □ Contradictions in the Bible's Accounts of                                        ┃
+┃                     Jesus                                                                            ┃
+┃               • Audio: "Issues etc" radio program Interview                                          ┃
+┃                                                                                                      ┃
+┃               • YouTube Videos:                                                                      ┃
+┃                   □ Fabricating Jesus: An Interview with Author                                      ┃
+┃                     Craig Evans                                                                      ┃
+┃                   □ Dialogue with Bart Ehrman at Acadia                                              ┃
+┃                     University                                                                       ┃
+┃                                                                                                      ┃
+┃               • Video: What-Jesus-Said-About-Resurrection--Part-I                                    ┃
+┃                                                                                                      ┃
+┃               • Article in the Huffington Post: "Archealogical                                       ┃
+┃                 Evidence for Jesus"                                                                  ┃
+┃                                                                                                      ┃
+┃               • Video: "Jesus: Man, Messiah, or More?" parts 1-8                                     ┃
+┃                 at Day of Discovery                                                                  ┃
+┃                                                                                                      ┃
+┃               • Apologist Interview 315 with Brian Auten                                             ┃
+┃                                                                                                      ┃
+┃               • Craig Evans on 100 Huntley Street: (download or                                      ┃
+┃                 watch online)                                                                        ┃
+┃                   □ The birth of Jesus - part 1, part 2                                              ┃
+┃                   □ Bible 101 - part 1, part 2                                                       ┃
+┃                   □ Jesus, the Final Days - part 1, part 2                                           ┃
+┃                   □ The Dead Sea Scrolls - part 1, part 2                                            ┃
+┃                                                                                                      ┃
+┃               • Dateline NBC Interviews: The Last Days of Jesus,                                     ┃
+┃                 The Mystery of the Jesus Papers                                                      ┃
+┃                                                                                                      ┃
+┃               • Craig Evan's Response to Discovery Channel's "The                                    ┃
+┃                 Lost Tomb of Jesus" Directed by James Cameron                                        ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                 Craig A Evans                                                        ┃
+┃                                 [1702704363]                                                         ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃                                                                                                      ┃
+┃  .:|:. Who  .:|:. Books  .:|:.  Schedule  .:|:.  Courses  .:|:.  Studies  .:                         ┃
+┃  |:.  Curriculum Vitae  .:|:.  Links  .:|:.  Photos  .:|:.  Contact  .:|:.                           ┃
+┃ CraigAEvans.com (R) Web Resource For the Study of the New Testament, Version                         ┃
+┃                               1.2.3/12-31-2012                                                       ┃
+┃Copyright (C) 2006-2015 by Dr. Craig A. Evans. All rights reserved. Maintained                        ┃
+┃                               by David Pensgard                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+                                        
+
+                                        
+
+                                        
+
+                                        
+
+                                        
+
+                                        
+
+                                       . 
+

@@ -1,0 +1,790 @@
+Rail Bender
+
+Life is not meant to be lived in a straight line. Bend the rail.
+
+Wednesday, November 4, 2015
+
+SILAS - My Home Automation
+
+Now that my home automation is finally getting to the point where it feels like
+an integral part of my house, I decided to take some time to review the
+hardware components and of course, the software.  While there are both hardware
+and software components to my home automation, I always refer to it in the
+general sense as SILAS - Simple Intranet/Internet Linked Automation System.  (I
+should disclose that I wrote my own software integration to my home automation
+components, but we'll cover that in a bit.)
+
+First of all, after my initial research I realized I needed a robust and high
+quality control unit.  I chose the ISY994i from Universal Devices for it's
+flexibility, ease of use, and more importantly, their various network
+programming interfaces (again, more on that later.)  At the time I purchased
+this unit, it was the only controller offering so many features.  I felt I got
+more bang for my buck, and I knew it would fit the bill when it came time to
+write my software.  (Insteon is now offering a new Hub, which looks very
+promising as well.  However, in my opinion their programmer interface is not
+nearly as concise as the ISY994i.)
+
+Next, for my outlets and switches I chose Insteon products because they offer
+both powerline and RF communication between components.  Insteon refers to this
+as "dual-band", which means that a signal is sent via the electrical wiring
+within your house, and another signal is sent via radio frequency.  If the
+signal isn't consumed by the particular device through the wiring, it has
+another chance to consume the signal via RF.  Plus, most of their components
+not only receive controller signals, but also possess the ability to
+re-transmit these signals to other potential components.  Obviously this means
+that as you buy more components, you build a bigger automation network.  This
+is very convenient for any houses larger than say, 1,600 square feet.
+
+Insteon also offers an extremely wide array of components like in-wall outlets,
+switches, sprinkler controllers, thermostats, garage door kits... you name it.
+ My house is littered with various Insteon components and anytime I find a
+frequently used lamp or light that would be better served by automating it,
+it's an easy conversion.  For example, I never really felt like I had complete
+control over my sprinkler system.  Not to mention the Weathermatic controller
+had a knack for blowing the tiny little 1 Amp fuses every couple of months.
+ So, I removed the old flaky sprinkler controller and installed a couple of
+Insteon low voltage sprinkler controllers.  After a quick bit of wiring and
+linking to the ISY994i, I was all set with complete control and status of each
+station in my sprinkler system.
+
+Now let's go back to the ISY994i in order to discuss my software.  Years ago,
+my software ran as an executable in Windows 7 and utilized a direct network
+connection to the ISY994i controller.  This worked very well for a while, but
+it generally only functioned when used within my home network (we techie people
+call that your 'intranet').  Outside my home network (or what techie people
+call the 'internet'), my connection reliability to my home was spotty at best
+and nonexistent at worst.  Thus, as the Windows operating system changed, and
+computer hardware adopted touchscreens, AND Windows Phone offered an easy port
+of my code, AND the Universal Devices folks offered a new network programming
+interface, AND internet connections got faster, (and you get the idea...) I
+decided a new approach was long overdue.
+
+Without going into all the gory technical and programming details, I recently
+finalized the latest iteration of my SILAS software.  The results of which have
+been outstanding, at least for me and my family's uses.  I have given the
+clunky, overly complicated web interface of the ISY994i an easy to manipulate
+user interface that fits very well with the smallest of Windows tablets.  Not
+to mention it serves as a satisfying balance between providing the current
+state of my home and the convenience of modern touchscreen user interfaces.
+ SILAS can display active devices; the current weather at a glance (and a more
+descriptive forecast if you wish); lists of rooms or scenes; and of course,
+Cortana integration for those that actually like issuing orders to their homes.
+
+Finally, I'd like to add that having all of this automation without some kind
+of fixed, interactive terminals around your house forces everyone, even
+visitors, into your particular technological ecosystem.  It is this reason that
+I recommend at least one easily located, wall-mounted terminal/interface to
+your home automation.  The good news for me is that finding relatively cheap
+Windows tablets has been fairly easy since Dell and HP have been practically
+giving them away for the past year-and-a-half.  These small tablets - 8" to be
+exact - make the perfect interface for high traffic areas like our kitchen and
+our loft.  Here's a quick snapshot of SILAS in our kitchen (please note that I
+have plans to build a custom frame to give the tablet a proper finish to the
+wall):
+
+[IMAG00053]
+
+Also, I have found that Microsoft offers extremely cheap unlocked Windows
+phones (Lumia 635) on Amazon or the Microsoft Store.  As a matter of fact,
+these phones are so cheap that they are a far more economical choice than
+Insteon's 4 or 6 button remotes!  All you have to do is set them to airplane
+mode and then turn on the WiFi.  And just like that, you have yourself a crisp,
+backlit LCD interface.  Not to mention they look exceedingly dapper running
+SILAS (if I do say so myself):
+
+[IMAG00055]
+
+So there we have it.  I hope this helps someone else who might be considering
+entering the world of home automation.  There are so many products coming to
+the market now that it is extremely difficult to find the right fit for what
+you envision for your home.  I hope that in reviewing my home automation
+solution, it might help give you a bit of direction and clarification as you
+begin your own adventure toward a fully automated home.
+Posted by Larry Mathys at 9:26 PM 0 comments ●
+Email ThisBlogThis!Share to TwitterShare to Facebook
+Labels: Family, Home Automation, Personal
+
+Monday, October 26, 2015
+
+The Claim and the Evidence
+
+Lately, I have noticed that some people have either never been taught the
+difference, or they have simply forgotten their definitions.  Therefore, I
+decided to review some basic concepts behind critical thought and skepticism.
+
+First, let's review what usually activates the critical mind - the claim.  In
+this context, a claim is a statement of fact, or an assertion.  These can be
+things like:
+
+    There is a basilisk living in my chimney. 
+
+    Samsung phones sell better than iPhones. 
+
+    The Earth's orbit is so perfect that if it moved 100 miles in either
+    direction, we would either freeze or burn.
+
+Some claims are so grandiose that it's difficult to comprehend.  Others seem
+wrong, but only if taken from your perspective.  And of course, some claims are
+so outlandish that it is just too wild to take seriously.  For example, take my
+first claim.  I'm quite sure that as a reader, it would take me actually
+producing said basilisk before you would ever consider my claim.  As a matter
+of fact, I think you would assume I had lost my mind (and rightly so.)  If I
+did produce a basilisk, however, remember not to look that sucker in the eye...
+
+Now take the second.  In the United States, many people would probably think
+that claim about Samsung was false.  That is, until they're shown the actual
+sales figures where in fact, Samsung outsells everyone when it comes to
+smartphones.
+
+The third claim might seem plausible to those who know that the Earth is a very
+long way away from the Sun; and that our planet orbits in the "Goldilocks" or
+habitable zone of the Sun; and that 100 miles is a really long way, too.  But
+this claim is not just wildly incorrect, it's downright silly.  The Earth's
+orbit varies throughout the year by approximately 5 million miles, so 100 miles
+is just a drop in the orbital bucket.  But the unwitting human can easily
+comprehend 100 miles, and since it sounds really far, then it's easy for some
+to believe.
+
+Now that we've covered the claim, let's review the evidence.  This is generally
+easy for most people to understand - it's anything that can be used to prove or
+disprove something.  And yes, contrary to popular opinion, even statistics are
+a completely valid means of providing proof of a claim.
+
+Why is all of this important?
+
+It seems that many people have forgotten that the claim cannot also be used as
+evidence.  For example, I cannot use the Harry Potter series as evidence for my
+claim that I have a basilisk in my chimney.  The Harry Potter series does
+contain some nonfictional castles and cities in the UK, and it also mentions
+that basilisks exist, but that doesn't mean that the series can be used as a
+valid source of my claim.
+
+The exact same thing can be said for the Bible.  Try to remember that a book
+which makes a claim cannot be used to provide evidence that the original claim
+is true.  Far too many people use this type of circular reasoning to argue a
+Biblical point of view without realizing the fallacy.
+
+What you choose to believe is your own business.  But please... please do the
+rest of us a favor and realize that your book, read independent of personal
+bias, is nothing more than a long list of unsubstantiated, supernatural claims.
+Posted by Larry Mathys at 8:17 PM 0 comments ●
+Email ThisBlogThis!Share to TwitterShare to Facebook
+Labels: Bible, Personal, Religion
+
+Sunday, August 23, 2015
+
+Prosperity, Politics, and Schadenfreude Gold
+
+Hopefully all of you have been keeping up with the current fiasco that is the
+modern religious right.  As for me, I've been eagerly waking up every morning
+just to see who's going to be next!  What must it be like for those people that
+have been lifting these delinquents into prominence within the religious
+community?  I wonder how hard they cringe when they see, "Breaking now..."
+scrolling by on their television screens?
+
+I can tell you what it's like for the rest of us - it is outright, no holds
+barred, unadulterated joy!
+
+Since people tend to have a very short memory these days, I feel it's my
+responsibility to start out by saying that this kind of thing really isn't all
+that uncommon.  There's Ted Haggard, John Paulk, Larry Craig, David Vitter,
+Henry Hyde, Mark Foley, Bob Livingston, George Rekers, Jimmy Swaggart, Jim
+Bakker, and Bishop Eddie Long; just to name a few.
+
+But since we had so much of it this week, I'm going to do something I normally
+don't do - I'm going to cover a some of the stories revealed over the last few
+days so in twenty or thirty years I can look back on these stories and have a
+good chuckle when I'm an old geezer.
+
+First, I give you Donald Trump.  Here's a guy whose companies have filed for
+bankruptcy four times, and thus far is the front-runner for the Republican
+nomination.  The man sounds like an eight year-old when interviewed or
+participating in political debates.  Admittedly, it is quite possible the
+reason he sounds like an eight year-old is that we are witnessing the extent of
+his vocabulary.  Yet he still remains the front-runner.  He makes morally
+asinine and fiscally impossible claims on very complex issues like immigration,
+the budget, gun control, and civil rights.  Yet he still remains the
+front-runner.
+
+As sad as it is, our once grand nation really has become, "Idiocracy".
+
+Want more proof?  I give you John Oliver's Televangelists piece on his HBO
+show, "Last Week Tonight".  If you have twenty minutes to spare, I beg you to
+watch it.  It's worth every second!
+
+You see, these pastors charismatically preach something called, "The Prosperity
+Gospel" where wealth is a sign of God's favor and blessings.  This idea works
+especially well for them, because all of this prosperity begins with "seed
+faith", where honest and hard working people are convinced to donate money so
+that one day they will get to "harvest" the bounty from that seed.  The people
+in these congregations are even told to charge $1,000 dollars on their credit
+card in order for God to wipe out their credit card debt...
+
+I realize that it's easy for us to sit back and laugh at the sheer volume of
+people that these pastors and other religious leaders are able to bilk for
+millions and millions of dollars, but when we take into account that none of
+these people or organizations pay any taxes whatsoever, how are we all not
+enraged by what they're doing?  Instead of insisting the IRS pursue
+prosecutions for fraud, we shake an accusatory finger at the ones doing the
+bilking.  And it's not the fault of the IRS either; that agency is forced to
+ignore most of these religious racketeers out of fear of more budget cuts from
+their religious cronies in the United States Congress.  It's a vicious cycle of
+corruption created and maintained by the very people that want to force even
+MORE of their religion into our society.
+
+And then... there's Josh Duggar.  This guy...  The hits just keep coming and
+coming.  (Cue rimshot!)
+
+I am not at all surprised that his name showed up TWICE in the Ashley Madison
+account hack.  To me, this was the very definition of a no-brainer.  What I
+found the most offensive was his silly statement released after he had been
+caught.  Sure he's a hypocrite, and sure he admitted that he had multiple
+affairs.  BUT WHO CARES?!?!?  What bugs me is that he did exactly what other
+religious people have done and blame it on something outside, something
+intangible.  Like, you know, pornography.
+
+That is exactly like blaming violence on video games!  Seriously, millions upon
+millions of people view some form of pornography every hour of every day.  Yet
+the number of divorces in the United States really hasn't changed over the past
+15 to 20 years (as a matter of fact, I believe the divorce rate has gone down a
+bit.)  Blaming pornography is a distraction, a diversion.  He's doing what any
+good religious leader would do - find a scapegoat or claim you were deceived by
+Satan himself.
+
+What a perfect out these guys have.
+
+Then his poor wife, Anna.  She's so brainwashed by her religion that she
+apparently claims that it was partly her fault that her husband was so horny
+and lacked so little self-control.  And this is what religion does to women.
+ It teaches most of them that they are nothing more than property for men -
+toys for men to satiate their uncontrollable appetite for sex.  For even in the
+face of scandal caused solely by the transgressions of her husband, she's
+taught to think that she's partly to blame.  How sad is it that only religion
+is allowed to do that to another human being?
+
+And finally, the annual bellyaching that the rest of us must endure from those
+that are the direct cause behind everything I've discussed in this post.  Every
+single year when the kids are set to go back to school, we get to hear all the
+whining and whimpering about school prayer from the religious right.  You guys
+really need a new playbook...
+
+Okay, first of all, which god would you like them to pray to?  My preference
+would be Thor, because does anyone ever see Ice Giants walking around?  I
+didn't think so.  Thank you, Thor.
+
+Second, how popular would a set of kids yelling, "Allahu Akbar!" be during this
+proposed school prayer?  If we allow Christians to pray at schools, then we
+must allow all the religious to pray as they see fit.  And that scenario would
+be the one where I know I'd be standing nearby with a big box of popcorn.
+
+I mean, good grief Christians!  As if forcing every kid to go through the
+motion of bowing their heads will actually make them pray.
+
+Wait a second...  I have a thought.  If you honestly believe that most of those
+kids are actually praying, even in church, then I'd like you to send me your
+email address so that we can get your "Prosperity Gospel" account started!
+Posted by Larry Mathys at 12:41 PM 0 comments ●
+Email ThisBlogThis!Share to TwitterShare to Facebook
+Labels: Current Events, Intolerance, Local News, Politics
+
+Friday, August 14, 2015
+
+One Plate Less
+
+Over the past few days I have begun one of the hardest moments of my life.  Now
+I realize that many people have already experienced this, and may not
+necessarily think this is that difficult a hurdle.
+
+Well...  Deal with it, because it is for me.  I am going to miss grabbing four
+plates for dinner.  I'm going to miss seeing that beautiful face sitting next
+to me at the table and hearing all the drama and happiness she experienced
+throughout her day.  I'm going to miss looking over her head while we watch
+movies.
+
+You see, I made it point to be as involved in my kid's lives as I could.
+ Perhaps that's why this is so difficult.  Since Rachel and Zack were born, my
+life has been filled with those two.  Our homes in Arkansas, Oklahoma, Arizona
+and Texas.  Our trips to Alaska, Wyoming, California, Colorado, and of course,
+to Disney.  These two have been our little traveling troopers - with nothing
+but eagerness and excitement to join in.
+
+But now the time has come where our troop will be down by one.  It's that damn
+empty seat again.
+
+And I realize that this is selfish and childish of me, but the closer I get to
+leaving our baby girl, the more I feel the weight of the emptiness of her chair
+at our dinner table and the emptiness of her seat in our car.
+
+While parents are raising their children, we all have this understanding that
+one day these wonderful people will leave our homes to break off on their own. 
+But that understanding is buried under years of, "Daddy, can you help?" or,
+"Daddy, come see!" or time after time of your child just being... a child.  The
+thought is like a spot on your carpet you choose to ignore.  You know it's
+there, you see it every day, but at the time it seems better to simply wave
+your hand and deal with it when you have more time.
+
+That's the problem, though.  For me that time passed far, far too quickly.
+
+It came before I was ready.  It came before I had the courage to deal with it.
+ And it came before I had the strength say goodbye.
+
+[DSC_0082]
+
+
+We love you and will miss you deeply, Rachel.  Have fun, work hard, and we
+can't wait to see what you accomplish over the next four years...
+Posted by Larry Mathys at 9:08 AM 0 comments ●
+Email ThisBlogThis!Share to TwitterShare to Facebook
+Labels: Family, Personal
+
+Sunday, August 2, 2015
+
+The Lost That Claim To Be Saved
+
+    "For a person that's been saved, he sure seems lost."
+
+That quote came from my brother in just casual conversation, and it made such
+an impression on me that I absolutely had to write about it. I wish that I
+could deliver so concise and so powerful a message as he did in just ten words.
+
+Well done, sir!
+
+First, I'll do what I do best and write about my own experiences living life,
+raising kids, and growing older. I'll begin by saying that I unconditionally
+love my wife. I'll even go so far as saying that I worship the ground that
+woman strolls upon. She's the most beautiful and intelligent person I know, and
+to this day I still cannot even fathom how I convinced her to marry me. (I
+think it was the alcohol...) I absolutely adore my kids. They're both
+brilliant, hilarious, kind, and compassionate. I wake up in the morning eager
+to see their groggy faces and tattered hair. And of course, as my work day
+wears on I find myself anxious to see them when I get home.
+
+My family has always been my inspiration.
+
+But the thing is, I live my life knowing that each breath I take could very
+well be my last. And in knowing that, I will make every effort to make even my
+very last moment worth living. I know that I will never, ever have enough time
+with these wonderful people, even if I live to a ripe old age. It will never be
+enough. Ever. I know I'm fortunate to be surrounded by such interesting and
+entertaining human beings, which is why I will always cherish every single
+moment with them.
+
+Compare that with what you hear from people that wrap themselves in a blanket
+of religion. You know the type. The people whose actions and prejudices give us
+the expression, "holier than thou." These individuals don't think they're
+living life unless they're singing songs of their own self-loathing. They use
+words like, "worthless" and, "emptiness" and, "undeserving." They go on and on
+about their past; how wretched they once were and how they pray ever so hard
+now for forgiveness.
+
+Now, keeping all of that in mind, let's go back to what my brother said. Does
+that last paragraph sound like a healthy outlook on life for someone who has
+supposedly been dipped in the waters of salvation? Does that sound like someone
+that's been "delivered" from all the sin and debauchery that's supposedly
+rampant in our society?
+
+Yet that type of thinking is commonplace in religious circles. They are never
+good enough. They are never worthy enough. They are never faithful enough. And
+according to their pastors, their religious leaders, and the people they
+surround themselves with, they are simply not allowed to be happy with
+themselves and who they've become even after being saved by blood of Jesus
+Christ.
+
+I know this sounds like I'm building up my own straw man, but I honestly wish I
+was. I read this type of stuff anywhere from Facebook posts to Christmas cards.
+You really don't have to search very far to find it. It's just about
+everywhere, as sad as that is.
+
+And yet I pity these individuals. I pity them to the point where I wish I could
+convince them to go speak with a therapist. I sincerely worry about many of
+them, since much of what they say and write reminds me of someone who's
+suicidal.
+
+But my hope is that anyone that reads this will take a moment and look back on
+their lives not as a constant downward slide of mistakes and depravity, but
+instead as a tapestry of learning and experience. Sure, we all fail, we all
+stumble here and there, and we all wish we had said or done something nicer.
+But then again, we also succeed, we all achieve here and there, and we all feel
+good when we help another person in need. All of these experiences - including
+those that give us pride and those that make us feel terrible - are what make
+us who we are.
+
+So the person you see in the mirror is not one or the other - that person is
+both the achiever and the failure. Focusing on your mistakes over your
+successes doesn't make you a better person, it just makes you vulnerable to
+someone who's ready to sell you a cure for something you never even had in the
+first place.
+Posted by Larry Mathys at 8:29 AM 0 comments ●
+Email ThisBlogThis!Share to TwitterShare to Facebook
+Labels: Christianese, Health, Personal
+
+Sunday, June 28, 2015
+
+The Good Book
+
+I had a thought this morning as I browsed my Sunday social media.  I may have
+discovered why it is that the religious people around me still believe a
+particular idea even though anyone can see it's not at all accurate.
+
+I think that what I see happening around me is the result of children's Bibles.
+
+No.  Seriously.
+
+Bear with me on this...
+
+If you grew up in the South, as I did in Arkansas, you were more than likely
+given a sugarcoated, tranquil, butterflies and rainbows, Super Friends version
+of the Bible.  I know I had at least three.  Those bibles had all the great
+heroes, all the great battles, all the great stories about Moses, Jacob, Noah,
+Jonah, David, Solomon, and Jesus... But what they didn't have were all the
+icky, nasty, savage, misogynistic, bloodthirsty and sacrificial details - save
+for the nails in Jesus, of course.
+
+Those things read a lot like comic books, to be honest.  Each story was
+depicted with a lovely image of a ripped, zero body fat character surrounded by
+flowers, butterflies, well-groomed white lambs, people cheering, people playing
+trumpets, and topped off with a heavy smattering of light rays slicing through
+clouds in the distance.  Save for the single, dark and solemn image of a dying
+Jesus, of course.
+
+I mean, they had to show the hole-in-the-hands Jesus thing to the kids.  I'll
+give them that.  Because let's be honest, that's the whole point of the
+Christian gambit...
+
+But anyway, back to those Sesame Street Bibles.  WOW!  Those versions of the
+Bible were absolutely great!  A kid can really eat that stuff up, right?
+ Universal good against universal evil...  Chariots, swords, lions, snakes,
+epic battles, evil kings, righteous heroes, and a bad ass pacifist dude that
+walks on water and rises from the grave.
+
+Am I right?!?!?
+
+But what happened to these kids 20 to 40 years ago when they became adults?
+ One would hope that they would take the time to study, analyze, and discover
+how the Bible truly reads.  One would think that they would yearn to get to
+know the true nature of the people that wrote the Bible.  But judging by what I
+read, I don't think that is what happened at all.  I think people my age (and a
+bit older) still cling to the children's version of that book.  They won't
+acknowledge when their Bible is wrong.  They continue to put forth messages
+supposedly attributed to the Bible, but are demonstrably false.  They will not
+accept that their view of the Bible has been manipulated by the church under
+pressure from our modern societal norms.
+
+The barrage of messages I see today scrolling across my Facebook and Twitter
+feeds regarding "Biblical marriage" is the most recent example.
+
+Many of you that already know me will understand when I say that I blame
+Evangelical Pastors.  Given what I used to hear on Sunday morning from just
+about every Pastor in the area, those guys are not only aware that this current
+generation of religious people cling to the children's version, they're
+counting on it.
+
+My point is this.  I have read over and over again how many religious people
+are doing us all a favor by just, "... agreeing to disagree" and, "... still
+loving all of you, even though I do not recognize 'gay marriage'".  (The extra
+quotes are theirs, not mine.)  But who are all of you kidding besides
+yourselves?  It really is disappointing to me that it doesn't matter how many
+verses I give to you to refute your argument, you still refuse to accept
+nothing more than the children's version of your religious text.
+
+Why?
+
+*          *          *          *          *
+
+And one last thing.  I want to note what a wonderful week this was for me.  In
+light of the two SCOTUS rulings on the Affordable Heathcare Act and same sex
+marriage, I am starting to feel just a bit more hope than I've felt in a very,
+very long time.  I have never been so moved by so many people as I was on
+Friday.
+
+Remember everyone, we are more alike than we are different.
+Posted by Larry Mathys at 12:43 PM 0 comments ●
+Email ThisBlogThis!Share to TwitterShare to Facebook
+Labels: Bible, Current Events, LGBT, Religion
+
+Sunday, June 21, 2015
+
+The Consequence of Presumption
+
+There appears to be a common misconception among many religious people
+regarding families like mine that choose to raise their children without
+religion.  It's a phenomenon I've noticed over the past few years of raising a
+teenage daughter and preteen son.  The thought process of the religious person
+generally goes something like this:
+
+    They never take their kids to church.
+
+    Their kids are missing out on everything that God has to offer.  I bet they
+    don't even talk to their kids about the Bible or about God. 
+
+    I worry that they don't tell their kids everything about God.  They must
+    feel so empty.
+
+    I hate it that their kids don't even understand the damage their parents
+    are doing to them and their immortal souls. 
+
+    I wonder if their kids even know anything about the power and forgiveness
+    of Jesus?
+
+Admittedly, this is an amalgam of just some of the sentiments my wife and I get
+from time to time, but hopefully you get the idea.
+
+Now, I'm sure you can imagine how this can create a very stressful and tense
+situation for freethinking parents.  The funny thing about all of these
+sentiments is that none of them are true.  Not even the first one.  We did take
+our daughter to church, but not our son.  (He never wanted to go.)  We
+encourage our kids to read the Bible; the same encouragement we offer if they
+are interested in reading Homer or Aesop or the Epic of Gilgamesh.  We would
+never hide a book from them.  Because honestly, what good would that do?  I've
+always maintained that the best way to be informed on a topic is to research it
+yourself.  In fact, it is my opinion that the best way to make someone question
+their religion is to get them to sit down and scrutinize their particular
+religious text.  And by scrutinize, I mean read it for what it is.  Read it
+from cover to cover, without a devotional, and without a study guide.  You
+don't need someone telling you what it means.  Read what is actually written in
+that book.
+
+And just so I'm clear, my family and I talk about religion frequently.  Whether
+it is an impromptu conversation as we drive to their activities, or a more
+in-depth conversation over dinner, we discuss whatever questions they may have
+about Christianity and how it relates to current events.  We even talk about
+the idea of the modern-day Christian heaven and hell!
+
+The one thing that's very likely different in our house than a religious family
+is that we do not immediately assume that the Bible is correct.  Religious
+people tend to ignore that about themselves.  We try to teach our kids that
+it's okay to be skeptical and ask questions.  In doing so, we have found that
+this allows free discussion over any number of topics, be it Moses, or Lot (and
+his daughters), or Noah, or Paul, or Jesus.  We allow our kids to ask questions
+about the things they hear from their religious friends, and offer them
+guidance on how to find a logical answer.
+
+We do not, however, tell our kids what to think or what to believe.  We do not
+hide things from them - especially stories that are found in the Bible.  I
+mean, we live in Texas... How could we?  Our main concern is that we give them
+the opportunity to contribute to the conversation, and never, ever, make them
+feel inferior to the two adults sitting at the table with them.  If either one
+of them thinks a story is too fantastic to be believed, then we allow them to
+tell us why.  If they think a particular idea is plausible, then we allow them
+the time to explain it to us.
+
+We believe the Bible is no different than any other book that was written in
+antiquity.  If you can get through some of the nonsense, it is fascinating to
+see how human beings rationalized the world around them.  Plus, as parents that
+value education, we both fully understand that the Bible is a resource for
+recognizing other themes and ideas found throughout literature.  Knowing the
+history of a given theme, or recognizing the symbolism of a particular story,
+is invaluable when you're a student.  Why would we ever put our kids at a
+disadvantage?  And besides, we want both of our kids educated.  How could we
+deny them the opportunity to study any book from the Iron Age and Bronze Age?
+ Please try to give us more credit than that.
+
+We do not, however, believe that the Bible holds some kind of mystical or
+celestial message.  It is not magical.  It does not contain any message or any
+revelation that would be beyond the current technology of the time in which it
+was written.  Sure, there are a few progressive sentiments scattered here and
+there, but for the most part it has a twisted and narcissistic deity at its
+center.  It is cruel.  It is bloody.  It is wildly misogynistic.
+
+And my kids are free read the Bible for themselves and discover these things
+without me or my wife's intervention.
+
+*          *          *
+
+One other topic I would quickly like to cover is something that I'm sure many
+of you will recognize almost immediately.  It's something I refer to as the
+standard Christian smug affirmation:
+
+    I've been praying for you and your family.  I have been praying that God
+    will keep blessing your family with love and good health.  I pray every day
+    that you will guys will always stay away from all the temptations and sins
+    of the world.
+
+As if your prayers are the reason my family is as close as we are.  See, my
+wife and I had nothing at all to do with the successes and failures of our two
+children.  No... no.  That was God and your prayers.
+
+I mean, my wife and I are atheists, but thanks...  I guess...
+
+Now imagine for a moment, if my wife and I were as brash and presumptuous as
+this.  Imagine if we were to approach the outspoken religious people around us
+and say or write something equivalent to that:
+
+    We hold out hope that some day you will realize that it's all a lie.
+
+Or:
+
+    We understand that it's not our child, but we have to get it off our chests
+    that we wish that you would educate your son/daughter rather than fill him/
+    her with senseless guilt and insecurity.
+
+Not only do I think that's a horribly rude thing to say to someone, but boy
+would we be immediately labeled as, "angry atheists."  Justifiably so.
+
+And yet, my wife and I get the Christian equivalent of these sentiments from
+some of the religious people around us.  Think about that for a minute.  These
+are the type of people we are expected to just put up with simply because they
+currently have the privilege of being the majority in this country.  We are
+expected to suffer through their nonsense because, sadly, they are so
+egotistical that they think their worldview is the right one.
+
+It must be nice to be so presumptuous.
+
+My point is simple.  The next time you think you're being a good Christian and
+feel like you just have to say something or you're going to burst... DON'T.
+ Just keep that kind of thinking to yourselves.  Because believe me, you're not
+being a good Christian.  You're just being a pretentious schmuck.
+Posted by Larry Mathys at 8:24 PM 0 comments ●
+Email ThisBlogThis!Share to TwitterShare to Facebook
+Labels: Atheism, Bible, Bullying, Family
+Older Posts Home
+Subscribe to: Posts (Atom)
+
+About Me
+
+My Photo
+
+Larry Mathys
+    If you have time and want to know why I made the choice to be vocal, this
+    blog entry should help.
+
+View my complete profile
+●
+
+RailBender Pages
+
+  • Rail Bender Home
+  • RYBS - Read Your Bible Series
+  • Bullying
+
+●
+
+Popular Posts
+
+  • [real_de]
+    "The Real Deal" in Saline County, AR, Deals in Religion
+    This Thanksgiving weekend, my brother and sister-in-law discovered
+    something interesting under my 14 year-old nephew's bed.  I know what...
+  • The Prejudiced Future of Lifestyle Rationing
+    Imagine you're sitting in your doctor's office, waiting on what could be
+    the worst day of your life.  I'm not talking about find...
+  • He is Risen!
+    My little contribution to the holiday weekend... My photoshop skills suck,
+    but this is good enough I think.  Enjoy!
+  • [sad_sto]
+    Bullying and Harassment at a Christian School
+    This morning I became aware of yet another story about a child being
+    bullied at her school.  The reddit user, heiressapparent , wrote an ess...
+  • [contrad]
+    Visual Compilation of Contradictions
+    There's not much to this post beyond showing you how wonderful the
+    Information Age is: The BibViz Project website  offers a visual...
+
+●
+
+Blog Archive
+
+  • ▼  2015 (8)
+      □ ▼  November (1)
+          ☆ SILAS - My Home Automation
+      □ ►  October (1)
+      □ ►  August (3)
+      □ ►  June (2)
+      □ ►  April (1)
+
+  • ►  2014 (28)
+      □ ►  September (1)
+      □ ►  August (5)
+      □ ►  July (7)
+      □ ►  June (6)
+      □ ►  May (8)
+      □ ►  April (1)
+
+  • ►  2013 (13)
+      □ ►  October (1)
+      □ ►  September (1)
+      □ ►  August (7)
+      □ ►  July (2)
+      □ ►  May (2)
+
+  • ►  2012 (65)
+      □ ►  August (1)
+      □ ►  July (2)
+      □ ►  June (1)
+      □ ►  May (11)
+      □ ►  April (15)
+      □ ►  March (14)
+      □ ►  February (10)
+      □ ►  January (11)
+
+  • ►  2011 (42)
+      □ ►  December (14)
+      □ ►  November (17)
+      □ ►  October (8)
+      □ ►  September (3)
+
+●
+
+Bender Blog List
+
+  • 
+    Friendly Atheist
+    Restaurant Manager Sends Note to Local Pastor After Waiter Gets a Jesus
+    Pamphlet Instead of a Tip
+    2 hours ago
+  • 
+    Pharyngula
+    Memories!
+    4 hours ago
+  • 
+    Bad Astronomy
+    Fighting Alzheimer’s Together, Through Citizen Science
+    4 hours ago
+  • 
+    The Way Forward
+    Atheists Really Believe in God But Refuse to Admit It says Pastor Nate
+    Pickowicz
+    15 hours ago
+  • 
+    The Atheist Experience
+    Open thread for episode 20.03: Russell and guest Neil Carter
+    5 days ago
+  • 
+    JESUS NEEDS MONEY
+    God's Breath Required For Frost
+    3 weeks ago
+  • 
+    of mule dung and ash
+    No, you're not entitled to your opinion
+    3 weeks ago
+  • 
+    Parents Beyond Belief
+    Equality beyond belief
+    2 years ago
+
+●
+
+Followers
+
+●
+
+Google+ Followers
+
+[A_logo]
+●
+
+Me on Facebook
+
+Larry Mathys
+[1303468396]
+Create Your Badge
+●
+
+Atheist Blogroll
+
+Atheist Blogroll
+●
+●
+ 
+Simple template. Powered by Blogger.
+●

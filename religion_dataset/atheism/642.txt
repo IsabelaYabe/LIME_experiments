@@ -1,0 +1,1433 @@
+Atheist Ethicist
+
+A view of right and wrong, good and evil, in a universe without gods.
+
+Saturday, January 23, 2016
+
+Williams vs Mackie on Practical Reasons
+
+J.L. Mackie has a better theory of practical reasons than Bernard Williams.
+
+This is the claim that David Phillips attempts to support in "Mackie on
+Practical Reason" (in Philosophical Studies Series, A World Without Values,
+Essays on John Mackie's Moral Error Theory, Richard Joyce and Simon Kirchin
+(eds.))
+
+Recall that, on the question of practical reasons, a person is looking for
+reasons to do or to refrain from doing some action.
+
+What counts as a reason to perform an action and what doesn't?
+
+Williams is an internalist. According to Williams, the only reasons you have
+for doing or refraining from some action come from some internal motivating
+state. There is no such thing as an external reason.
+
+Or, as Williams puts it:
+
+
+    "A has a reason to φ if A has some desire the satisfaction of which will be
+    served by his φing."
+
+
+Insofar as we stick to "has a reason" as opposed to "there is a reason", I
+would agree with this. 
+
+In drawing a distinction between Williams and Mackie, Phillips asserts:
+
+
+    For current purposes, the key feature of Williams' position is this: he
+    gives a very special status to internal reasons claims. They can, he
+    claims, be true or correct in a way that no other reasons claims can be.
+
+
+By way of contrast, Mackie's theory of practical reasons (according to
+Phillips) does not give anything any special authority.
+
+   
+    For Mackie, internal reasons claims have no such special status and in
+    particular are not specially authoritative. The story about their authority
+    is ultimately the same as the story about the authority of other normative
+    claims: they are authoritative only when a certain background is
+    presupposed; they lack the special authority that, Mackie the moral skeptic
+    thinks, nothing in the world has.
+
+
+As a part of the proof that Mackie provides a better theory of practical
+reasons than Williams, Phillips provides three arguments against Williams'
+theory.
+
+Though I am sympathetic to Phillips' conclusion, I have problems with these
+three arguments.
+
+Objection 1. Authority
+
+Phillips asks, "What someone's desires are is, to a significant extent, an
+arbitrary, contingent fact about her. Why are her desires therefore a source,
+or the only source, of authority?"
+
+In other words, Williams' theory fails because it provides desires with an
+authority that these arbitrary and contingent facts about a person cannot have.
+
+My problem with this argument is that I do not know what "authority" is
+supposed to mean in this objection.
+
+My best guess is that it has something to do with justifying the action.
+Phillips objects to the idea that "merely" having a desire that P - an
+arbitrary and contingent fact about a person - can give an act a genuine
+ought-to-be-doneness.
+
+Ultimately, Phillips seems to argue that this type of authority actually does
+not exist. The merit he sees in Mackie's theory is that all ought claims are,
+in fact, contingent on some presupposition or another - on desires, on
+institutions, on standards. Nothing provides the type of authority that
+Williams gives to desires.
+
+Objection 2a: Reasons, Good and Bad
+
+In his second objection, Phillips argues that Williams' theory asserts that
+there are reasons where no reason exists, and denies the existence of reasons
+where reasons are present. He provides an example of each.
+
+His example of a case where Williams asserts that a reason exists when it does
+not concerns Alice, a smoker who gets no enjoyment from smoking and is well
+aware of the harmful side-effects. Because she has a desire that would be
+served by smoking, Williams would say that she has a reason to smoke.
+
+However, according to Phillips:
+
+
+    But surely the mere fact that Alice has this desire, and that procedurally
+    rational reflection would not cause her to lose the desire, does not show
+    that she has a good reason to smoke cigarettes.
+
+
+But please note that Williams theory says that Alice has a reason to smoke,
+whereas Phillips is objecting to the conclusion that Alice has a good reason to
+smoke - a conclusion that Williams does not defend.
+
+If a person can identify a reason as being a "good reason", then this suggests
+that there are other reasons that are not "good reasons" and, perhaps, some
+reasons that are even "bad reasons". These other reasons exist. They are just
+not good.
+
+We could agree with Williams that "A has a reason to φ if A has some desire the
+satisfaction of which will be served by his φing."
+
+Then, we can add to this a set of standards such that whether A's reason is a
+good reason, a bad reason, or neutral is determine by the degree to which it
+fulfills other desires, thwarts other desires, or has no effect on the
+fulfillment or thwarting of other desires.
+
+On this account, it is not the case that Alice has a good reason to smoke
+cigarettes. In fact, given the harm that cigarette smoking does, Alice's reason
+for smoking cigarettes would count as a bad reason. But it is still a reason,
+as Williams says.
+
+Objection 2b: Future Desires
+
+Phillips mentions a second example drawn from Derek Parfit's case of a person
+who is "future-Tuesday-indifferent". This person cares equally about pains and
+pleasures on any future day except Tuesday. The agent does not care about
+future pains that fall on a Tuesday.
+
+In this case, Williams gives us an account that says that the agent does not
+have a reason to avoid pain on a future Tuesday. Specifically, the agent has no
+desire that would be served by taking an action that would avoid pain on a
+future Tuesday. Therefore, he has no reason to avoid this future pain.
+
+To start with, I am concerned with the idea of saying that a person has
+(present tense) a reason to perform some action based on a desire that does not
+exist at present. It strikes me as a bit odd - like saying that a person has
+$1,000 that will be handed to him next week. In such a case, it is sensible to
+talk about the $1,000 that the agent will have next week, but it makes no sense
+to say that he has the money today. Similarly, we can talk about the reasons
+that the agent will have for avoiding future pain, but the reasons that the
+agent has today depends on the desires the agent has today.
+
+In fact, to say that the agent has a reason to avoid future pain in this way is
+to say that something exists (a reason to avoid future pain) that has
+absolutely no capacity to influence anything in the universe today. The agent
+will not act to avoid this future pain until the agent acquires an interest to
+do so. Then, it would make sense to say that the agent has also acquired a
+reason to do so. Until then, no motivation, and no reason, exists. At least not
+yet.
+
+Still, language is an invention and there is no law of nature that prohibits us
+from using a present-tense verb to talk about the fulfillment or thwarting of
+an agent's future desires.
+
+It seems a bit confusing.
+
+If this is how people speak, then perhaps what we need to do is to remove some
+of the confusion and ambiguity from our language by adopting a more consistent
+and useful set of terms.
+
+When scientists discovered large objects in the Kuiper Belt of our solar system
+that are like Pluto, some argued for correcting our language so that like
+objects were lumped with like. Pluto has more in common with these Kuiper belt
+objects than it has with the other planets. Consequently, these astronomers
+argued, our language would be more efficient if we classified Pluto as a Kuiper
+Belt object and not as a planet. They took a vote, and they changed the
+language.
+
+Similarly, when it comes to the relationship between having a reason and the
+fulfillment or thwarting of future desires, perhaps we should simply adopt a
+new language that pays attention to this distinction. We can say that a person
+has a reason to φ if A has some desire the satisfaction of which will be served
+by his φing, and that he will have a reason to φ if A has a future desire the
+satisfaction of which will be served by his φing.
+
+However, I can think of a reason for using the present tense even with respect
+to future desires. This is because, even though the agent has no reason to
+avoid future Tuesday pain, anybody with an ounce of compassion and concern has
+a reason to try to get the agent to adopt (to create in the agent) a reason to
+avoid future Tuesday concern. This is because having such a reason will
+motivate the agent to avoid the future pain that compassionate people want to
+see avoided.
+
+So, in speaking in the present tense, we may be understood as saying that the
+agent should acquire an interest in avoiding future Tuesday pain. In fact, we
+may be seen as coaxing or urging the agent to have an interest. In fact, an
+argument can be made that assertions of this type actually have the power,
+under certain circumstances, to cause the agent to acquire such an interest. It
+is for these reasons that we urge, plead, and try to make it the case that the
+agent has a reason to be concerned about this future pain.
+
+Objection 3: Phenomenology of Deliberation
+
+Finally, Phillips argues that Williams' account "conflicts with the
+phenomenology of deliberation".
+
+
+    When we deliberate, we typically do not take the value of the options about
+    which we deliberate to depend on our desires. Instead, we take the desires
+    to be responses to the value.
+
+
+As I see it, to the degree that people do this, they are simply mistaken.
+People may not take the value of the options about which they deliberate to
+depend on their desires, but it does. They make take the desires to be
+responses to value, but there is no "value" out there for desires to respond
+to.
+
+Nature has given us desires for sex, to eat high-calorie foods, and to seek out
+a comfortable environment because, in having those desires, we have tended to
+act in ways that propagated the species.
+
+Nature has given us plastic brains, so that experience will mold our desires to
+some extent. This gives us the capacity to adapt to a range of environments.
+
+Likes and dislikes molded by evolution and experience exist. A value
+independent of desire does not.
+
+It will turn out that there is one way in which we can like things because of
+their value. This is in the sense of liking things because they are useful, and
+usefulness is a type of value. Likes and dislikes themselves can be useful -
+can tend to fulfill other desires. Consequently, even likes and dislikes
+themselves can be liked (and encouraged, and promoted) because of their
+usefulness.
+
+Yet, being useful also depends on being such as to fulfill certain (other)
+desires.
+
+Actually, the problem, according to Phillips, is that, for many people, if they
+come to think that the value of something depends on the fact that the agent
+merely desires it, then the object loses its value.
+
+
+    The problem is . . . that . . . a serious commitment to deliberation cannot
+    easily coexist, in many normal agents, with acceptance of Williams' view.
+
+
+We are aware of the phonemenon whereby an agent, with a desire to buy a Picasso
+painting, comes across a painting he believes to have been painted by Picasso.
+Consequently, he values the painting. However, when he learns that the painting
+is a forgery, and was not painted by Picasso, he loses all interest.
+
+Similarly, a person, in believing that a child is his, can have a great deal of
+interest in the welfare of that child. However, upon discovering that the child
+is not his, he may lose interest in the child.
+
+Accordingly, a person may value something, believing it to have intrinsic worth
+or to be loved by the gods. Upon discovering that there is no such thing as
+intrinsic worth, or that there are no gods, they may lose their interest in
+that thing.
+
+If this happens - if the agent does lose interest under these circumstances,
+this is hardly proof that the object in question, in fact, has intrinsic worth
+or is loved by the gods. This would be like arguing, in the first case, if the
+agent would lose interest in the painting on discovering that it is a forgery
+means that it is not a forgery. Similarly, it would be like arguing in the
+second case that if the agent would lose interest in the child upon discovering
+that it is not his child then it must be his child.
+
+The second of these examples is particularly telling.
+
+If the agent truly cares about the child as a person - loves the child for her
+own sake - then discovering that the child is not his would not diminish the
+quality of his feelings for that child. It is only insofar as he loves the
+child as his child that the discovery that the child is not his would threaten
+that relationship.
+
+Similarly, whether an interest in P will disappear if the agent discovers that
+it is grounded on a desire that P depends on whether the agent has a genuine
+desire that P (in which case the interest would not be threatened), or the
+agent has a desire that Q and a false belief that Q is true of P (in which
+case, discovering the truth will destroy the agent's interest in P).
+
+Conclusion
+
+So, even though I have some sympathy for and interest in Phillips' conclusion,
+I do not judge that he has proved that conclusion. His objections to Williams'
+internalism leaves Williams' internalism intact. Phillips needs to provide a
+better account of "authority" that is supposed to be present in Williams' view
+and absent in Mackie's. He needs to distinguish properly between "having a
+reason" and "having a good reason". We can accommodate the practice of saying
+that a person has a reason to fulfill future desires. Finally, we can explain
+within Williams' view why people might lose interest in things upon discovering
+that its value (if it has any) is grounded on desires.
+
+What we can say about Mackie's view is that it offers a "unified oughts theory"
+about a range of practical oughts - those that come from desires, those that
+come from institutions, and those that come from standards and practices.
+Williams, in contrast, only gives us a theory of desire-based oughts. Though we
+can say, in defense of Williams, that institutions and standards are not
+self-motivating. "A has a reason to enter into an institution or to adopt a set
+of standards if A has some desire the satisfaction of which will be served by
+his entering that institution or adopting those standards."
+
+Posted by Alonzo Fyfe at 2:05 PM 0 comments Links to this post   ●
+
+Thursday, January 21, 2016
+
+What Should I Do? A Summary of Recent Postings on Internal and External Reasons
+
+I just finished a fine digression discussing the article Reasons for Action:
+Internal and External Reasons in the Stanford Encyclopedia of Philosophy - and
+made a number of comments.
+
+I suppose that I should start with a matter on which I apparently currently
+disagree with most philosophers writing on the subject today. I hold that
+having a desire is both a necessary and a sufficient condition for having a
+reason. It is the "sufficient" condition that would be at odds with most
+philosophers seem to believe.
+
+In other words, to have a reason to do A is to have a desire that will be
+fulfilled by doing A.
+
+Of course, the agent might also have more and stronger reasons not to do A
+based on more and stronger desires that would be thwarted by doing A.
+
+In "What Should I Do? Desires Sufficient for Reasons" I responded to the
+reasons why philosophers reject this idea.
+
+The main argument identifies any of a substantial list of counter-examples
+where a person has a desire to do A but does not have a reason to do A. These
+generally involve desires for senseless things such as eating saucers of mud or
+counting blades of grass.
+
+In the article, I show that the desire to eat mud from a saucer is no different
+from the desire to eat bagels or muffins past the point where it serves a
+biological need. Consequently, we must assert that such desires can provide
+reasons, or deny that the desire to eat a second muffin or bagel has such a
+value.
+
+Effectively, philosophers are taking desires they do not wish to have and
+dismissing the interests of those who do (or would) have them. It is no
+different from a person with an aversion to being a homosexual dismissing the
+interests of homosexuals as failing to provide a reason for action.
+
+It is important to note that I distinguish between "has a reason" and "there is
+a reason". See: "What Should I Do? Having a Reason vs. There Exists a Reason"
+
+The reasons that a person has are associated with the desires a person has, and
+the reasons that exist are associated with the desires that exist. The desires
+that a person has is a small subset of the desires that exist.
+
+So, it is important that I explicitly said that a having a desire is a
+necessary (and sufficient) condition for the agent having a reason. I would
+reject the idea that having a desire is a necessary condition for a reason
+existing. There are countless reasons that exist that are not drawn from the
+desires an agent has - namely, those that are drawn from the other desires that
+other people have.
+
+If we take this and apply it to the question of internal vs. external reasons,
+it turns out to be the case that I am an "internalist" with respect to "have a
+reason" and an "externalist" with respect to "there is a reason".
+
+To have a reason to perform an action is to have a desire that is served by
+performing that action. However, there are reasons that exist for or against
+perform that action that to not serve (or thwart) the agent's own desires.
+
+This gives us a way to answer what the Stanford article calls "A Central
+Problem in Ethics". See: "What Should I Do? A Central Problem in Ethics"
+
+Namely, a problem with resolving the conflict between:
+
+(1) To have a reason to do X is to have a desire that is served by doing X.
+
+(2) An action is morally wrong for an agent to do only if there is a reason for
+him not to do it.
+
+(3) Some actions are morally wrong no matter what the agent desires.
+
+Note the shift between "to have a reason" in (1) and "there is a reason" in
+(2).
+
+This simply tells us that there are reasons that exist other than the reasons
+that the agent has, and moral value is determined by looking at the reasons
+that exist.
+
+We can also see this if we look at the role of "blame" in morality. See: "What
+Should I Do? What Reactive Attitudes Tell Us About Reasons"
+
+The Standard Encyclopedia of Philosophy article says that blame implies that
+the agent has a reason not to do what was done.
+
+I argue that blame tells us that the people generally - the people with those
+external reasons - have reasons to cause the agent to have a reason not to do
+what was done. These external reasons are, specifically, reasons to praise or
+condemn. The purpose of praise and condemnation, in turn, is to mold desires so
+that they come into harmony with the desires that motivate the praise and
+condemnation.
+
+The claim that blame implies that the agent already has a reason fails to tell
+us why the appropriate response to doing what ought not to have been done is
+blame. In contrast, the instrumentalist account provided here tells us exactly
+why blame is the appropriate response - because of its power to mold and shape
+the desires (and, thus, the reasons) agents have.  
+
+Another distinction that I found being blurred in the article is
+the distinction between desires-as-ends and desires-as-means. See: "What Should
+I Do? Rational Motivation" 
+
+This is a dispute over whether what reasons are provided by the desires an
+agent has or the desires that the agent would have if fully informed or fully
+aware of the alternatives or some other conditional state that improves the
+agents' beliefs.
+
+Desires-as-means are combinations of desires-as-ends and beliefs. Consequently,
+it is true that accurate beliefs will help select more efficient means towards
+their ends.
+
+Still, what has value as a means - what an agent has reason to do - depends on
+what will service actual desires-as-ends. Desires-as-ends are immune to reason,
+so there is no type of belief-therapy that will have any effect on an agent's
+ends. Its only effect will be to help the agent choose the most efficient means
+towards those ends.
+
+It is actual desires that give a person reasons to act. If a means serves an
+actual desire, then a person has a reason to perform it. If not, then the agent
+does not have such a reason. An agent may falsely believe that they have a
+reason to do something they do not have. Similarly, they can fail to recognize
+that they have a reason to do something that they actually have reason. In both
+of these examples, the reason exists or does not exist based on actual desires.
+Beliefs do not impact the reasons a person has but, literally, his beliefs
+about those reasons, which may be true or false.
+
+The linked postings contain more of the details - but I thought people could
+use something that sets forth in one place the ways in which the various ideas
+link to each other.
+
+
+Posted by Alonzo Fyfe at 4:01 PM 0 comments Links to this post   ●
+
+What Should I Do? Desires Sufficient for Reasons
+
+Today I am going to argue against something that the bulk of philosophers who
+write on reasons for action seem to accept.
+
+The claim is that "Desires are a necessary requirement for reasons; but they
+are not sufficient."
+
+I will argue that having a desire is a sufficient condition for having a
+reason. If you are trying to answer the question, "What Should I Do?" every
+desire provides a reason proportional in strength to the strength of desire.
+
+It does not necessarily provide a good reason. In order to determine the
+quality of the reason we are going to have to look at how well it fits in with
+other reasons for action - whether it will tend to fulfill other desires or
+thwart them. However, desires provide reasons - good reasons, bad reasons, and
+reasons of neutral value.
+
+The aversion to pain is a sufficient reason to avoid pain - even in those
+circumstances where pain does not do any good. You know that physical therapy
+is going to be painful. The pain is doing nothing but giving you are reason to
+avoid physical therapy. However, it IS giving you a reason to avoid physical
+therapy. It may be outweighed by more and stronger reasons to have physical
+therapy but, in the absence of those other reasons, one would have a perfectly
+legitimate reason not to go to phyisical therapy.
+
+Why do philosophers agree that having a desire is necessary, but not
+sufficient, for having a reason?
+
+The arguments come from a huge set of apparent examples where we can imagine
+that a person has a desire but we judge that the agent does not have a reason
+to perform the action.
+
+From the Standford Encyclopedia of Philosophy article on Reasons: Internal and
+External http://plato.stanford.edu/entries/reasons-internal-external/#DirExtArg
+
+
+
+    The literature is also full of extensional arguments against theories which
+    resemble internalism, but on the grounds that they overgenerate, rather
+    than undergenerate, reasons. Many famous and colorful examples—about people
+    who want to eat saucers of mud, or count blades of grass, or who have a
+    disposition to turn on radios—are offered to show that not every desire or
+    motivation is of the right kind to generate practical reasons. Strictly
+    speaking, however, such cases only create objections to views which
+    postulate a sufficient condition for the existence of reasons, and
+    internalism itself postulates only necessary conditions, and no such
+    sufficient condition, as Bernard Williams makes clear (1989), for example.
+
+
+Why do I object to this argument?
+
+It is because I do not see a difference between these desires and other desires
+that people take to provide perfectly legitimate reasons for action.
+
+Let us take, for example, the desire to "eat saucers of mud".
+
+Earthworms eat mud . . . or, dirt, to be more precise, but mud is a form of
+dirt that earthworms will eat.
+
+Noting this fact, I have no difficulty imagining an extraterrestrial race that
+has acquired a desire to eat mud. As we sit around the bargaining table in
+orbit above Saturn with them working out an interstellar trade ready, we sit
+with our bagels and muffins while they sit with their saucers of mud and we
+work out the details of the treaty.
+
+One could argue that this is different. They have a reason to eat mud - because
+of its food value.
+
+However, this alien race has something in common with humans. They tend to
+over-eat. They will eat their saucers of mud even when they are not eating it
+for its food value, just as we continue to consume more bagels and muffins than
+we need to maintain good health.
+
+When it gets to the point that they are eating saucers of mud for no reason
+other than because they like to, they are no different than us when we get to
+the point that we are eating bagels and muffins for no reason other than
+because we like to.
+
+Nature has given them a desire to eat mud as an end in itself - as a goal - not
+as means for maintaining health, and so they continue to eat mud even beyond
+the point that it provides good health. It is no different than the desire we
+have to eat bagels and muffins - not as a means to good health, but as an end
+in itself - which motivates us to eat bagels and muffins even when it does not
+support good health.
+
+Sex works the same way. We evolved to have a desire for sex because it
+contributes to the procreation of the species. However, we evolved to have a
+desire for sex as an end in itself - not as a means for procreation. Thus, we
+engage in sex even in circumstances where we do not seek reproduction. In fact,
+it is almost certainly the case that the bulk of our sex acts take place in
+conditions where we know procreation to be impossible or are actively seeking
+to avoid procreation.
+
+In order to be consistent and coherent, philosophers either have to admit that
+desires to eat saucers of mud, count blades of grass, and the like are
+sufficient to generate reasons for intentional action for those people who have
+them, or assert that our desires for food or sex beyond that which to maintain
+physical health and propagate the species fail just as badly to provide reasons
+for action.
+
+By the way, there is nothing special about "maintaining good health" or
+"propagating the species". The role that having these desires has
+in propagating the species explains how we evolved to have them, but it does
+not give them value. Even maintaining good health and propagating the species
+has value (is something we have reason to do) in virtue of the fact that they
+fulfill desires and for no other reason. The reason why I looked at examples of
+eating saucers of mud or bagels beyond what was necessary for health was simply
+to avoid these complications.
+
+Ultimately, there is nothing else in the universe - nothing that exists - that
+provides end-reasons for intentional action except desires so, if desires
+cannot provide reasons, reasons do not exist.
+
+Why do philosophers think that these provide such good examples against the
+idea that desires are sufficient to provide reasons?
+
+I think that it comes from a sort of prejudice. A philosopher - a human being -
+looks at the imaginary person with a desire to eat dirt as something that she
+does not wish to be. Her aversion to being that type of person (itself a
+desire) causes her to dismiss the interests (desires) of that imaginary person
+as illegitimate - as something incapable of providing actual reasons.
+
+In a slightly different case, an individual can look upon a homosexual as
+something that he does not want to be. Because of his aversion to being a
+homosexual, he dismisses the homosexual interest as sick, perverse, as "failing
+to provide a reason to engage in homosexual acts." Consequently, the interests
+of the homosexual as a homosexual can be dismissed - it cannot provide a reason
+to adopt policies or practices that would respect those interests. 
+
+But, in fact, there is nothing behind this judgment but the agent's own
+aversion to being that kind of person. There is no argument for this position -
+just the expressions of approval given to those who agree and expressions of
+disapproval given to those who disagree.
+
+We tend to dismiss interests that are not our own. When we can get together
+with other people who also do not share a particular interest, we can usually
+agree with each other to dismiss it as irrelevant as providing "no reason" to
+act differently.
+
+It is relevant at this point to remind the reader that this digression is
+taking place in a discussion of J.L. Mackie's Ethics: Inventing Right and
+Wrong. Mackie argued that the distinction between the current (error-filled)
+moralizing and a new and improved error-free moralizing rests precisely in
+tossing out our tendency to dismiss interests that are not our own - precisely
+because the difference we imagine finding between these different types of
+interests do not exist in the real world.
+
+I will repeat - desires do not necessarily provide good reasons for action.
+Whether those reasons are good or bad depends on their tendency to fulfill or
+thwart other desires. However, even bad reasons are still reasons (that are
+bad), in the same way that bad apples are still apples (that are bad). It would
+be great if bad reasons did not exist (just as it would be great if bad apples
+do not exist). But they do, and they are found in desires that tend to thwart
+other desire.
+
+Still, I note that this is a minority position. It is not a position that is
+shared by many people who write on this subject.
+
+
+Posted by Alonzo Fyfe at 7:31 AM 2 comments Links to this post   ●
+
+Wednesday, January 20, 2016
+
+What Should I Do? What Reactive Attitudes Tell Us About Reasons for Action
+
+First, a quick reminder regarding context and relevance.
+
+You want to know what to do. You want to know what reasons count as legitimate
+reasons for doing one thing rather than another. "Is this a good reason for
+doing A rather than B?" "Does that reason even exist or is it just make-belief,
+or a rationalization?"
+
+The posts in this series, "What Should I Do?" are examining reasons for action.
+
+In reading through the Standford Encyclopedia of Philosophy article, Reasons
+for Action: Internal vs. External  I came across a section on "reactive
+attitudes".
+
+Reactive attitudes are supposed to tell us whether there are (or whether an
+ancient has) external reasons - reasons not grounded on desires (on the agent's
+own desires).
+
+Recall, I have written that a lot of this conversation is muddled because of a
+failure to distinguish between the reasons (desires) that an agent has and
+reasons (desires) that exist - which includes the desires of other agents. Much
+of the formal discussion pays no attention to this distinction. Consequently,
+authors drift back and forth between these two concepts in ways that I find
+confusing.
+
+With this context established, we note that reactive attitudes suggest that
+there are reasons for action (or an agent has reasons for action) independent
+of the agent's desires or motivational states.
+
+
+    Some have observed in defense of Moral Rationalism, for example, that if an
+    agent does something we consider morally wrong, then we blame (or resent)
+    him. But blame, these philosophers claim, involves the judgment that the
+    agent had reasons not to do what he did. Consequently blame is unwarranted
+    when such judgments are unwarranted (Nagel 1970, Smith 1994). Therefore,
+    since moral wrongdoing is sufficient to warrant blame, moral obligations
+    must entail reasons.
+
+
+So, "blame" implies "the agent had reasons not to do what he did."
+
+I disagree.
+
+"Blame" implies "an agent should have had reasons not to do what he did (or
+should not have had reasons to do what he did). In other words, reasons exist
+for causing the agent to have reasons that are different than those the agent
+actually had. Please note the use of the distinction between "reasons exist"
+and "having reasons" in this account. The reasons that exist are the desires of
+other agent - which provide the reasons for blaming people like the agent.
+
+Why blame people like the agent?
+
+The Stanford article describes Bernard Williams - an internalist with respect
+to reasons - as arguing that blame has an instrumental role to play.
+
+
+    [For Bernard Williams, blaming] in these cases functions as a ‘proleptic
+    mechanism’: it itself changes the situation for the agent so that she now
+    has an internal reason that she otherwise would have lacked (Williams,
+    1989).
+
+
+In other words, blame plays upon the fact that others have a reason to seek the
+respect of other people. It withholds that respect as a way of giving people a
+reason to do what, morally, they should do.
+
+In Williams' sense, blame plays the same role as fines, imprisonment, and other
+forms of punishment. It provides an immediate disincentive against performing
+the wrong action. Because an agent has a need for personal liberty and cash, we
+can threaten to take away his liberty or fine him and take some of his money to
+provide an incentive not to do that which is wrong. And, according to Williams,
+because agents have a natural interest in the favorable opinion of others, we
+can use blame as a deterrence on those people who risk (or think about doing)
+what they should not.
+
+I would argue that it goes further than this. Incentives and disincentives
+belong more to the realm of law than to morality. Insofar as blame is a moral
+tool, its instrumental value rests in its power to actually change the desires
+of others. It acts on the limbic system of the brain to mold desires - creating
+aversions to the types of acts that are blamed. Disincentives of the type that
+Williams talks about only gives a person a reason to avoid the wrongful act
+when that person is at risk of being caught. The molding of desires, where
+successful, gives people a reason to avoid the wrongful act even when the agent
+has not chance of being caught, because it becomes something he wishes not to
+do.
+
+This goes back to the fact that blame is tied to the reasons the reasons that
+an agent should have, rather than the reasons that the agent actually has.
+Blame takes note of the fact that the reasons an agent has deviate from those
+the reasons the agent should have, and then acts on the limbic system to bring
+those reasons into alignment.
+
+The Stanford article raises an objection to these instrumentalist accounts of
+blame.
+
+
+    This view is resisted by many who see the question of the appropriateness
+    of a reactive attitude as primarily an issue of desert. Arguably, blame is
+    appropriate only if it is deserved, and not if it is merely effective in
+    influencing people's behavior.
+
+
+
+In order for this objection to make sense, we need a suitable theory of desert.
+What is it about a person - or a person's action - that makes him "deserve"
+blame? In answering this question, we need to answer the question of "Why is it
+the case that it is blame that is deserved?" We cannot hold up the
+instrumentalist account of blame with this "desert" account until the "desert"
+account has been filled out enough to allow for comparison.
+
+I suspect that when we do fill out this "desert" account, we will come up with
+a theory that says that a person "deserves" blame under those conditions where
+the instrumental value of blame is most effective. There will be little or no
+difference between the two theories in practice.
+
+In fact, the question of "when do people deserve blame" will be best answered
+by answering the question, "Under what conditions to those who blame have the
+most and strongest reasons to blame?" The conditions under which those who
+blame have the most and strongest reasons to blame are conditions under which
+blame would do the most instrumental good.
+
+But, this line of reasoning will have to be worked out in detail at another
+time.
+
+Posted by Alonzo Fyfe at 7:11 AM 0 comments Links to this post   ●
+
+Tuesday, January 19, 2016
+
+What Should I Do? Rational Motivation
+
+In examining this issue of "what should I do", one commonly encounters people
+talking about counterfactual motivation.
+
+There is, on this account, a distinction between what would fulfill an agent's
+actual desires, and what would fulfill the desires that an agent would have if
+she were fully informed, or fully rational, or meets some other counterfactual
+criterion.
+
+I deny that these are different. Information, rationality, and the other
+criteria that these people mention have no influence on an agent's actual
+desires-as-ends.
+
+Actual vs Counterfactual Motivation
+
+Let's look at this claim more closely, then I will get back to issues that I
+see with it.
+
+According to the Stanford Encyclopedia of Philosophy article, "Reasons for
+Action: Internal vs. External"
+
+
+    Another very important distinction among versions of Internalism is between
+    Actual and Counterfactual versions. The former claim that if someone has a
+    reason to do A, then it follows by necessity that she actually is somewhat
+    motivated to do A (on the Motivation version), or actually has a desire
+    that would be served by doing A (on the State version). Counterfactual
+    versions make weaker claims: that if someone has a reason to do A, then it
+    follows by necessity that she would be motivated to some degree, or would
+    desire to do A, in circumstances of a particular kind.
+
+    Different Counterfactual theories disagree over the nature of this
+    “particular kind” of circumstances: prominent proposals include (i) that
+    the agent be in possession of full information, or at least not have any
+    relevant false beliefs (Smith 1994; Joyce 2001); (ii) that she have
+    completed “cognitive psychotherapy” or that her attitudes have reached a
+    state of reflective equilibrium (Brandt 1979); (iii) that she have a vivid
+    awareness of all relevant contingencies (Darwall 1983); (iv) that she
+    deliberates faultlessly from her existing motivations (Williams 1979); (v)
+    that she be practically rational (Korsgaard 1986)—a suggestion to which we
+    shall return; and (vi) that she be ideally virtuous—a ‘phronimos’ (McDowell
+    1995).
+
+
+Of these, the sixth option is different from the rest - so I wish to set it
+aside. The first five all suggest making adjustments to an agent's beliefs -
+that the agent be fully informed or aware of all relevant contingencies and the
+like. The last on the list actually calls for the agent to have different
+desires - good desires (virtues) and the absence of bad desires (vices). In
+almost every case, this set of desires would be different from the agent's
+actual desires.
+
+My objection here is to counterfactuals that target beliefs.
+
+Means and Ends
+
+Much of what is written in this article seems to suggest that mistakes with
+regard to "means" of obtaining various ends is somehow a threat to the idea
+that reasons are grounded on actual desires. Thus, mistaken means are used as
+evidence that we are required to use some sort of "counterfactual" theory of
+reasons.
+
+However, this is a mistake.
+
+The mistake springs from the fact that the term "desire" (and similar terms
+such as "want" and "prefer" are, in fact, not only used when we talk about the
+ends or goals of intentional action, but also the means to those ends. A person
+wants a job so that she can make money so that she can afford an apartment
+where she can keep the temperature at a comfortable level. In this chain of
+desires, only the latter is desired as an end in itself or as a goal. Other
+things are desired as a means to that end.
+
+False or irrational beliefs can get in the way of an agent getting what she
+really wants (desires-as-ends). Our agent may take a job thinking that it will
+allow her to pay for an apartment, only to discover that the job does not pay
+enough. She may purchase a condominium that she expects that she will be able
+to keep at a comfortable temperature only to discover that there is no air
+conditioning and the building rules prohibit individuals from installing air
+conditioning (because of old wiring).
+
+However, when a person makes a mistake with respect to means, then it is NOT
+the case that the agent "has a reason to do X". In these types of cases, the
+agent in fact has no reason to do X. She only (and falsely) believes she has
+such a reason.
+
+Note that in the original quote, the article identifies "actual" internalism as
+a theory that states that the agent "actually has a desire that would be served
+by doing A." However, in the case of a mistaken means, the agent does not, in
+fact, have a desire that would be served by doing A. The agent merely (and
+falsely) believes that she has a desire that is served by doing A. The
+proposition that doing A will serve a desire of hers is false.
+
+To take another example. A person is thirsty reaches for a glass that she
+believes contains clean water, though in fact it is poisoned. She does not
+"really want" to drink out of that glass - she only thinks she does. A proper
+awareness of the fact will cause her to realize this mistake and put the glass
+down. It is perfectly legitimate to tell the agent reaching for the glass of
+water, "You don't want to do that." Then, when she asks "Why not?" tell her
+that the glass contains poison. She will respond by saying that you are
+correct, she did not want to do that.
+
+Reasoning About Ends
+
+Desires-as-ends are immune to reason.
+
+You cannot reason a person out of a drug addiction or out of a sexual
+orientation. There is no syllogism that can prove that an agent's preference
+for chocolate over vanilla is mistaken. Desires-as-ends, like height, weight,
+age, and blood pressure, simply exist. You can no more reason a person to a new
+desire-as-end than you can reason her to a new height.
+
+Consequently, "full information" or "vivid awareness of all relevant
+contingencies" or "cognitive therapy" is not going to change actual desires
+into something else.
+
+They will allow the agent to choose more efficient means to an end, but they
+will not alter the ends (or the actual reasons) for intentional action.
+
+These corrected beliefs can also be used to demonstrate to a person that she
+has reason to take steps to change some desire-as-end. In the same way that you
+can show a person that she has reason to lose weight, or to reduce her salt
+intake (to lower her blood pressure), you can reason her into taking steps to
+seek treatment for a drug addiction or to reduce his sex drive by showing her
+that the addiction is thwarting other desires (if, indeed, this is the case).
+Information (reason alone) will be as impotent in bringing about a direct
+change to harmful desires as they are in bringing about a direct change to
+weight or blood pressure. It takes "something else" to actually change these
+properties. However, true beliefs may inform a person who is otherwise mistaken
+that she has sufficient reason to go through the effort.
+
+If we are going to argue that what an agent has a reason to do assumes that she
+has these corrected desires, I am going to ask whether it also means she should
+have the ideal weight and blood pressure. In all three cases, we are talking
+about an agent going through the effort to make a physiological change. Why are
+we to assume that the corrected desires matter but the corrected weight and
+blood pressure do not?
+
+Besides, if we are talking about correcting these desires, we are leaving the
+set of counterfactuals concerned with corrected beliefs, which is outside of
+the scope of this particular discussion.
+
+Conclusion
+
+The section discussing counterfactual internalism ends with this statement:
+
+    Because it is uncontroversial that an agent can have reasons to do things
+    that she is not actually motivated to do (particularly if she is unaware of
+    those reasons), we will assume that interesting Motivation versions of
+    internalism take Counterfactual forms.
+
+
+It is only uncontroversial that an agent can have reasons to do things that she
+is not actually motivated to do if we mistaken means to be relevant to having
+reasons. A person has a reason to purchase a winning lottery ticket based on
+her ACTUAL desires - the desires that she can fulfill with the money from the
+winning lottery ticket. There is no different set of desires that she would
+have with more and better information. There is only the improved ability to
+determine the means towards those ends - the ability to choose the winning
+lottery numbers when buying the ticket.
+
+So, as we try to answer the question, "What should I do?" - of course we are
+looking for whatever will actually fulfill desires, not for what an agent
+falsely believes would fulfill those desires. That is the whole point of asking
+the question. However, being fully informed, subjected to cognitive therapy,
+and perfect awareness of the alternatives are only going to be relevant in
+selecting the means to the ends, not the ends themselves. A person's actual
+ends, and the ends that the person would have if fully informed, are going to
+be the same.
+
+Posted by Alonzo Fyfe at 4:31 PM 0 comments Links to this post   ●
+
+What Should I Do? "A Central Problem in Ethics"
+
+In order to refresh my understanding if the issues regarding internal and
+external reasons, I turned to the Standford Encyclopedia of Philosophy - an
+extremely valuable online resource. I sought an article called: Reasons for
+Action: Internal vs. External.
+
+There, I found myself wading into a familiar swamp.
+
+I want to address what the author called "a Central Problem motivating much
+ethical theorizing since the 1940s."
+
+This Central Problem is addressed as a tension between:
+
+(1) The Humean Theory of Reasons:
+
+The Humean Theory of Reasons (HTR): If there is a reason for someone to do
+something, then she must have some desire that would be served by her doing it.
+
+(2) Moral Rationalism
+
+Moral Rationalism: An action is morally wrong for an agent only if there is a
+reason for him not to do it.
+
+(3) Moral Absolutism
+
+Moral Absolutism: Some actions are morally wrong for any agent no matter what
+motivations and desires they have.
+
+The tension is described as follows:
+
+    For example, presumably it was morally wrong for Hitler to order a program
+    of genocide, even if it served some of his desires and wasn't detrimental
+    to any of them. . . . If (as Moral Rationalism claims) an action (like
+    ordering genocide) is morally wrong for an agent (like Hitler) only if
+    there is a reason for him not to do it, and if (as HTR claims) there is a
+    reason for him not to do it only if he has some desire that would be served
+    by his not doing it, then it follows that whether an action is morally
+    wrong for an agent depends upon what he desires. But that seems
+    incompatible with Moral Absolutism. So it seems we must reject at least one
+    of HTR, Moral Rationalism, and Moral Absolutism.
+
+We see in the Humean Theory of Reasons described above a deliberate conflating
+of "there is a reason" and "she must have" a reason. HTR explicitly states that
+a reason does not exist unless she (the agent) has it.
+
+Clearly, desires can exist that the agent does not have - we have no problem
+with that. The question is whether the desires that exist count as reasons that
+exist.
+
+Of these three, the one that I would reject is the Humean Theory of Reasons. I
+would substitute the following:
+
+The Revised Humean Theory of Reasons (RHTR): If an agent has a reason to do
+something, then she must have some desire that would be served by her doing it;
+but to say that there is a reason for the agent to do something is to say that
+there is a desire that would be served by her doing it, but it need not be her
+desire, though the relevant desires need not be hers.
+
+Later in the article the authors state:
+
+    Any Actual State version of reasons internalism says that to have a reason,
+    an agent must have some corresponding actual motivational state. But this
+    is precisely what makes reasons hostage to an agent's actual psychology,
+    creating the tension with Moral Rationalism and Moral Absolutism.
+
+However, this is not the same thing. It is true that to HAVE a reason, and
+agent must have some corresponding actual motivational state. The problem
+emerges when one insists that for a reason TO EXIST - that there can be no
+reasons other than the reasons that the agent has. Recall, the original
+phrasing for HTR begins, If there is a reason for someone to do something . .
+." This is not the same thing as to have a reason.
+
+Applying this to the "tension" described above, we can see that it is morally
+wrong for an agent (like Hitler) to order a program of genocide because of the
+many and strong reasons that exist against such a program, though almost all of
+these reasons that exist are not reasons that Hitler has.
+
+When it comes to the project of inventing a language we can use to talk about
+these things, this leaves us with a few questions to be answered. The question
+of whether to call desires that exist "reasons that exist" is a type of problem
+comparable to whether or not to call Pluto a planet. We cannot come up with a
+deductive proof or even a straight-forward empirical proof that other desires
+count as "reasons that exist". We can simply decide whether we are going to use
+language in this way or some other way.
+
+I have been distinguishing moral-ought from practical-ought according to
+whether "reasons for the agent to do X" includes "reasons that exist" (moral
+ought) or excludes them (practical ought). However, this is nothing more than a
+linguistic decision. I think I will continue to speak of reasons in this way -
+at least for the time being.
+
+
+So, if you are trying to decide what you should do in the practical sense of
+"should", you would judge each alternative according to how well it (and its
+consequences) fulfills your desires. Those desires, in turn, are to be
+evaluated according to how well they fit in with your other desires. You have
+reason not to promote or strengthen or even fulfill desires that will thwart
+your other desires. At the same time, you do have reason to promote,
+strengthen, and fulfill desires that tend to contribute to the fulfillment of
+other desires.
+
+If you are trying to decide what to do in the moral sense of "should", you
+would judge each alternative according to how well it would fulfill desires
+that people generally have reason to praise - and thwart desires that people
+generally have reason to condemn. Their reasons to praise or condemn are
+reasons for calling the act moral or immoral. Their reasons to praise and
+condemn have to do with the effect of praise and condemnation on molding
+malleable desires.
+
+Well . . . this is how I would handle "a Central Problem in ethics".
+
+I have another question to look at which is relevant here.
+
+Philosophers also distinguish between the desires (motivating reasons) the
+agent has from those that the agent would have if she were "fully rational" or
+"fully informed" or meets some other criterion. I argue that, since neither
+rationality nor information has any implications for what an agent "desires as
+an end", that there is no difference between the ends that an agent has, and
+those she would have if "fully rational" or "fully informed". I want to take a
+look at that issue in a future post. Then, I suspect we can return to discuss
+J.L. Mackie's theory of practical 'ought'.
+
+Posted by Alonzo Fyfe at 7:15 AM 0 comments Links to this post   ●
+
+Monday, January 18, 2016
+
+The Poorest of the Poor
+
+A second problem that I have with Bernie Sanders' campaign to be President is
+his utter lack of concern for the well-being of the poor.
+
+Earlier, I wrote about Sanders' use of the "politics of other" to promote his
+candidacy. This is a campaign tactic where a candidate identifies some group to
+identify as "other". The target audience is told that "the other" is
+responsible for their problems and that the candidate will get tough on "the
+other" if elected. Republican presidential candidate Donald Trump identifies
+foreigners and Muslims as "the other". Bernie Sanders targets billionaires.
+
+Sanders' other problem is a disregard for the very poor.
+
+In making this accusation, I am referring to the very poor on a global scale.
+
+The World Bank reports that, in 2012, 12.7 percent of the world's population
+(900 million people) lived on less than $1.90 per day, while 29.4 percent (2.1
+billion people) lived on less than $3.10 per day. In 1981, 44 percent of the
+population lived in extreme poverty.
+
+Most of these gains occurred in China, where "753 million people moved above
+$1.90 threshold" between 1981 and 2012.
+
+For somebody worried about poverty, it would seem that this is a good thing.
+
+A person who was concerned with the plight of the very poor, it would seem,
+would consider this to be a good thing, and would want to see this continue. He
+would want to see the remaining 900 million people moved above the lower line,
+then see everybody move above the upper line.
+
+Sanders almost never discusses global poverty. The fate of the poorest of the
+world's poor seems not to interest him.
+
+This fact sits beside the fact that Sanders presents himself as an advocate of
+economic justice. He expresses a strong moral concern with economic equality.
+This would seem to entail some measure of concern for those people living on
+less than $1.90 per day.
+
+However, Sanders simply dismisses the plight of the world's poor.
+
+In a Vox interview, Bernie Sanders said:
+
+    I think from a moral responsibility [sic] we've got to work with the rest
+    of the industrialized world to address the problems of international
+    poverty, but you don't do that by making people in this country even
+    poorer.
+
+I know of no way of interpreting Sanders' moral claim here other than to say
+that it counts as a legitimate objection to a policy that aids those in poverty
+that the program reduces the wealth of those who have much, much more."
+
+Let us imagine a convention of millionaires in a hotel somewhere. Imagine that
+somebody brings up the issue of poverty - even American poverty. Imagine the
+individual in that room saying, "I support the Bernie Sanders doctrine. I think
+from a position of moral responsibility we've got to work with the rest of the
+country to address the problems of poverty, but you don't do that by making
+people in this room even poorer."
+
+The important fact to note is that Bernie Sanders has given voice to this very
+same principle. He has used it in defense of his policies. Either there must be
+some morally valid reason why this a valid moral principle when Bernie Sanders
+utters it but not when the millionaire in the room utters it, or Sanders is
+guilty of hypocrisy. It is a hypocrisy that he can avoid only by choosing to be
+concerned with the plight of those living on less than $1.90 per day and
+saying, "Yes, the quality of their lives matter."
+
+Furthermore, the fact of the matter is that the successes against global
+poverty have not made the people in this country even poorer. Real median
+household income in the United States has risen approximately 10 percent over
+the same time period - from about $46,000 in 1981 to $51,000 in 2012 in real
+dollars. Certainly, many Americans would have liked to have seen a faster rate
+of increase, but Americans have not been made poorer.
+
+The "make Americans poorer" argument is a rationalization - a lie (if Sanders
+knows what has happened to American median income during this time period), or
+a fiction embraced as true because of its political usefulness.
+
+More to the point, there is reason to believe that some of the policies Sanders
+will pursue will reverse some of the progress that has been made. If a policy -
+such as restricting international trade - would have the effect of throwing 100
+million foreigners back into extreme poverty, Sanders' attitude suggests that
+he would not see this as a relevant concern.
+
+One of the things that I seriously dislike about Sanders' campaign - is the
+fact that he refuses to even address the fate of the people in the world living
+at near poverty. It is one thing to refuse to have a plan to help these people.
+It is another to refuse to address very real possibility that one is advocating
+policies that will make their situation worse - that will reverse 30 years of
+progress.
+
+The only sensible conclusion to draw from these facts is that, to Sanders,
+those people simply don't matter.
+
+Here, too, we see Sanders' adopting a moral attitude that is very similar to
+the attitude that Donald Trump expresses - though Trump is more vocal in his
+defense. This involves the utter disregard for the well-being of foreigners.
+Those who are not Americans are not "people" in an important sense. What
+happens to them is not a moral concern.  
+
+The differences is that, while Trump expresses an active hostility towards
+foreigners, Bernie Sanders simply doesn't care about them. If we return 1.2
+billion to severe poverty - well - they're not Americans. It's not as if their
+suffering actually matters.
+
+Posted by Alonzo Fyfe at 2:09 PM 5 comments Links to this post   ●
+
+What Should I Do?: Having a Reason vs. There Exists a Reason
+
+The next article in the series on J.L. Mackie's Ethics will concern the huge
+topic of "practical reason". David Phillips, in "Mackie on Practical Reason" ( 
+in Philosophical Studies Series, A World Without Values, Essays on John
+Mackie's Moral Error Theory (Richard Joyce and Simon Kirchin (eds.)) argues
+that Mackie presents a better theory of practical reason than Barnard Williams
+- the person whose theory is the most widely read and discussed.
+
+Why should you care?
+
+Actually, this - and a few postings to follow - involve a discussion about how
+to answer questions of the form, "Why should I care?" correctly. Do you want a
+right answer to the question, "Why should I care?" Then what follows will be
+useful.
+
+I am going to start with a set of distinctions that I use in trying to
+understand this issue.
+
+Note that I hold that desires provide the only end-reasons for intentional
+action that exist. If you are looking for a reason to do something - or to not
+do something - that reason is ultimately going to be found in a desire, or it
+does not exist. The chain of reasoning might go through a chain of means (e.g.,
+I will take the job so that I can earn an income so that I can buy a house
+which I can keep at a comfortable temperature through summer and winter). But
+why live at a comfortable temperature? It's just something that people like.
+
+What are these distinctions?
+
+(1) An agent has a reason to do X vs. there exists a reason for A to do X. This
+corresponds to: The agent has a desire that would be fulfilled by doing X vs.
+there exists a desire that would be fulfilled by A's doing X. The desires that
+other people have are desires that exist, but are desires that the agent does
+not have.
+
+(2) Motivational/explanatory vs normative reasons. The desires that an agent
+has are those that motivate and explain current behavior. However, we can take
+those desires and ask how they fit in with other desires. A person with a
+desire to smoke has a motivating reason to smoke, and this desire explains the
+fact that she does smoke. However, when we take note of the way that the desire
+to smoke leads to behavior that thwarts other desires. we find reason to say
+that the agent has no GOOD reason to smoke. Smoking is not recommended.
+
+(3) Practical vs. moral reasons. To ask what a person should do in a practical
+sense is to ask what reasons an agent has for or against performing some
+action. These are grounded on the agent's own desires. On the other hand, to
+ask what a person should do in a moral sense is to ask how the action stands in
+relation to reasons that exist - that include the desires of other people. More
+specifically, it asks how the action stands in relation to desires that people
+generally have reason to promote (and to the absence of desires that people
+generally have reason to inhibit).
+
+Note that I have listed these distinctions as I use them. Much of the
+discussion that follows will concern alternatives ways of dividing up this
+conceptual landscape and the merits of each alternative.
+
+Here, specifically, Phillips is intending to contrast Bernard Williams' theory
+of practical reason with that of J.L. Mackie.
+
+Williams' theory is expressed as follows: “A has a reason to φ if A has some
+desire the satisfaction of which will be served by his φing” (Williams, B.
+1981, "Internal and External Reasons", In his Moral Luck, 101– 113. Cambridge:
+Cambridge University Press.)
+
+However, as Phillips points out, Mackie analyzes 'ought' (as in 'a ought to G")
+in terms of "There is a reason for a's Ging."
+
+Here, we see the discussion jumping across the line between "A has a reason to
+G" and "There exists a reason for A to G" without even a mention that these are
+not the same thing.
+
+Since I relate "A has a reason" to practical ought, and "There exists a reason"
+to moral ought, I see a risk of blurring the distinction between what is
+practical and what is moral as well.
+
+So, let's see if we can figure out how to answer questions of the form, "What
+should I do?"
+
+Posted by Alonzo Fyfe at 9:52 AM 0 comments Links to this post   ●
+
+Older Posts Home
+Subscribe to: Posts (Atom)
+
+About Me
+
+My Photo
+
+Alonzo Fyfe
+    When I was in high school, I decided that I wanted to leave the world
+    better off than it would have been if I had not existed. This started a
+    quest, through 12 years of college and on to today, to try to discover what
+    a "better" world consists of. I have written a book describing that journey
+    that you can find on my website. In this blog, I will keep track of the
+    issues I have confronted since then.
+
+View my complete profile
+●
+
+Subscribe
+
+[feed-icon3] Subscribe to Atheist Ethicist
+
+●
+
+Email Subscription
+
+Enter your email address:
+
+[                    ]
+
+[Subscribe]
+
+Delivered by FeedBurner
+
+●
+There was an error in this gadget
+●
+
+A Better Place.
+
+By request, I have written some of the basic principles of the desire
+utilitarian moral theory that sits as the foundation for these blog postings
+into a book called, A Better Place: Selected Essays in Desire Utilitarianism.
+
+In a previous post, I wrote a detailed account of the contents of the book.
+
+●
+
+Luke Muehlhauser's Projects
+
+a two-minute desire utilitarianism trailer
+
+A free 43-page e-book on desire utilitarianism.
+
+A FAQ on desire utilitarianism
+●
+
+Blog Archive
+
+  • ▼  2016 (23)
+      □ ▼  January (23)
+          ☆ Williams vs Mackie on Practical Reasons
+          ☆ What Should I Do? A Summary of Recent Postings on ...
+          ☆ What Should I Do? Desires Sufficient for Reasons
+          ☆ What Should I Do? What Reactive Attitudes Tell Us ...
+          ☆ What Should I Do? Rational Motivation
+          ☆ What Should I Do? "A Central Problem in Ethics"
+          ☆ The Poorest of the Poor
+          ☆ What Should I Do?: Having a Reason vs. There Exist...
+          ☆ The Politics of the Other
+          ☆ Pragmatic Moral Realism
+          ☆ Motivational Force
+          ☆ Trust Your Feelings? A Poor Way to Do Morality
+          ☆ The Motivation to Do What One Ought
+          ☆ Morality and Motivating Force
+          ☆ Reasons: Motivating, Explanatory, and Normative
+          ☆ Bill Nye on Evolution and Morality: Part 2
+          ☆ Bill Nye on Evolution and Morality: Part 1
+          ☆ Objectification and Intrinsic Prescriptivity
+          ☆ Islamophobia and Atheism
+          ☆ The Oregon Occupiers and Terrorism
+          ☆ Anger, Evolution, and Morality
+          ☆ What Are Moral Judgments?
+          ☆ The Absence of Moral Properties
+
+  • ►  2015 (15)
+      □ ►  December (15)
+
+  • ►  2014 (4)
+      □ ►  November (1)
+      □ ►  October (3)
+
+  • ►  2013 (66)
+      □ ►  July (1)
+      □ ►  June (8)
+      □ ►  May (7)
+      □ ►  April (14)
+      □ ►  March (12)
+      □ ►  February (17)
+      □ ►  January (7)
+
+  • ►  2012 (189)
+      □ ►  December (7)
+      □ ►  November (14)
+      □ ►  October (6)
+      □ ►  September (9)
+      □ ►  August (24)
+      □ ►  July (24)
+      □ ►  June (16)
+      □ ►  May (18)
+      □ ►  April (17)
+      □ ►  March (22)
+      □ ►  February (13)
+      □ ►  January (19)
+
+  • ►  2011 (177)
+      □ ►  December (21)
+      □ ►  November (18)
+      □ ►  October (20)
+      □ ►  September (21)
+      □ ►  August (18)
+      □ ►  June (9)
+      □ ►  May (14)
+      □ ►  April (15)
+      □ ►  March (14)
+      □ ►  February (14)
+      □ ►  January (13)
+
+  • ►  2010 (129)
+      □ ►  November (1)
+      □ ►  October (3)
+      □ ►  September (6)
+      □ ►  August (16)
+      □ ►  July (17)
+      □ ►  June (6)
+      □ ►  May (10)
+      □ ►  April (11)
+      □ ►  March (23)
+      □ ►  February (14)
+      □ ►  January (22)
+
+  • ►  2009 (381)
+      □ ►  December (22)
+      □ ►  November (23)
+      □ ►  October (33)
+      □ ►  September (30)
+      □ ►  August (37)
+      □ ►  July (21)
+      □ ►  June (35)
+      □ ►  May (33)
+      □ ►  April (32)
+      □ ►  March (31)
+      □ ►  February (42)
+      □ ►  January (42)
+
+  • ►  2008 (344)
+      □ ►  December (36)
+      □ ►  November (22)
+      □ ►  October (27)
+      □ ►  September (26)
+      □ ►  August (27)
+      □ ►  July (30)
+      □ ►  June (30)
+      □ ►  May (29)
+      □ ►  April (31)
+      □ ►  March (29)
+      □ ►  February (27)
+      □ ►  January (30)
+
+  • ►  2007 (343)
+      □ ►  December (30)
+      □ ►  November (24)
+      □ ►  October (28)
+      □ ►  September (22)
+      □ ►  August (30)
+      □ ►  July (29)
+      □ ►  June (29)
+      □ ►  May (31)
+      □ ►  April (30)
+      □ ►  March (31)
+      □ ►  February (28)
+      □ ►  January (31)
+
+  • ►  2006 (356)
+      □ ►  December (31)
+      □ ►  November (27)
+      □ ►  October (30)
+      □ ►  September (30)
+      □ ►  August (31)
+      □ ►  July (31)
+      □ ►  June (30)
+      □ ►  May (29)
+      □ ►  April (30)
+      □ ►  March (30)
+      □ ►  February (26)
+      □ ►  January (31)
+
+  • ►  2005 (113)
+      □ ►  December (31)
+      □ ►  November (30)
+      □ ►  October (31)
+      □ ►  September (21)
+
+●
+
+Links
+
+  • The Nizkor Project: Fallacies
+  • The Fallacy Files
+  • Introduction to Logic
+  • The Internet Infidels
+  • The Infidel Guy Radio Show
+  • About Agnosticism/Atheism
+  • Atheist Blogs Aggregated
+  • Planet Atheism
+  • FactCheck.org
+
+●
+There was an error in this gadget
+●

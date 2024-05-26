@@ -1,0 +1,77 @@
+Refresh (0 sec) /talkshoe/web/index.jsp
+                                                        [spacer]
+[headerLogo]                                                                                       Home | Help | Sign-In
+                                                                                        [                         ] 
+   [headerBr] [headerTa] [headerCr] [headerSi]            [Call ID   ] [headerGoCa]                     [headerSear]
+
+Home[BreadCrumb]Call Series
+
+ 
+
+[RatingA] The Bible Geek Show                                                
+[spacer]                                           Last Recording            Who Follows
+[TC-20430-Main]  Description: more                 [TalkCastLiveTopLight]      Sign In to follow
+                 Description: Dr. Robert M.                                  ●   ●   ●       
+                 Price answers questions           Title: [infoButton]The    
+                 submitted to him at               Bible Geek Podcast        Add To Your Blog
+                 criticus@aol.com less             16-002                    Widgets & Badges●
+                 Hosted by: Robert M. Price                                  
+                 Phone Number: (724)                                         Share
+                 444-7444                          [TalkCastLiveBottomLigh]  Email a Friend
+                 Call ID: 20430                                              
+                 Share This Via:                                             Reviews
+                 [rssPodca]                                                  
+                 [itunesba]                                                  Be the first to
+[spacer]                                                                     review.
+                                                                             Overall Rating: 4.5
+Nothing Scheduled                                                            Number of Reviewers:
+                                                                             4
+Past Episodes (689)                                                            Sign In to
+                                                                             review           
+[Pagination][Pagination]12345[Pagination][Pagination]
+      Time:      Duration:           Title:              Recordings:
+ 01/16/2016      1:36:36   [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 16-002             [listenArch]
+ 01/08/2016      29:30     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 16-001             [listenArch]
+ 12/20/2015      59:34     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 15-062             [listenArch]
+ 12/15/2015      52:38     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 15-061             [listenArch]
+ 12/01/2015      59:29     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 15-060             [listenArch]
+ 11/23/2015      53:35     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 15-059             [listenArch]
+ 11/14/2015      1:22:39   [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 15-058             [listenArch]
+ 11/04/2015      2:34:48   [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EST              Podcast 15-057             [listenArch]
+ 10/31/2015      47:33     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EDT              Podcast 15-056             [listenArch]
+ 10/28/2015      1:00:52   [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EDT              Podcast 15-055             [listenArch]
+ 10/24/2015      59:35     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EDT              Podcast 15-054             [listenArch]
+ 10/21/2015      1:15:09   [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EDT              Podcast 15-053             [listenArch]
+ 10/14/2015      49:10     [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EDT              Podcast 15-052             [listenArch]
+ 09/27/2015      1:33:38   [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EDT              Podcast 15-051             [listenArch]
+ 09/25/2015      1:05:29   [infoButton]The Bible Geek [downloadSm]   
+ 12:00 PM EDT              Podcast 15-050             [listenArch]
+[Pagination][Pagination]12345[Pagination][Pagination]
+Reviews
+
+              - Reviewer: Borr333  08/10/11 06:52 AM EDT
+              - Reviewer: CaineDas  08/10/11 06:52 AM EDT              
+ 
+[mainContentFooterWideTalkCast]
+
+
+Home | Download | Help | Report a Concern
+Terms of Service | Privacy Policy | Contact | Maintenance
+
+Build Number:10013M | Copyright (C) 2005-2012 TalkShoe
+
+

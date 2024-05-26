@@ -1,0 +1,1108 @@
+How good is that?
+
+Science Humanism Politics Media
+
+[headr4]
+
+Main menu
+
+Skip to content
+
+  • Religion
+  • Humanism
+  • Science
+  • Current Affairs
+  • Fundamentally Flawed Podcast
+  • More
+      □ Essays
+      □ For the lulz
+      □ Joe Cienkowski Video Book Review
+
+Post navigation
+
+← Older posts
+May 10 2014
+
+An incredible thing is happening right now in protest of FCC plans to break
+the internet
+
+A little bit of background:
+To cut a very long and technical story short, every time you connect to
+Netflix, YouTube, or your high bandwidth website of choice, under existing
+laws, known as Net Neutrality, your Internet Service Provider is obligated to
+pass that data along to you at exactly the same speed at which they deliver
+data from every other website, regardless of size, popularity, or content type
+— at least that’s how it’s supposed to work.
+
+In reality, for the past few years, and at a steadily increasing rate over the
+last few months, some of America’s biggest ISPs have been secretly limiting the
+speed at which customers can access data provided by companies with whom they
+compete.
+
+Following complaints from customers, who proved in a series of experiments that
+services such as Netflix were being deliberately throttled by the monopoly
+provider Comcast, Washington lobbyists, hand picked by the very same service
+providers guilty of breaching Net Neutrality, began to push legislation through
+which would effectively allow a charge per-megabyte policy to any company with
+high bandwidth requirements, so that they could gain access to a so-called
+“fast lane” service — meaning that smaller companies would be relegated to the
+slow lane, unable to compete with the larger players.
+
+Naturally, the failure or simple inability of the Obama administration to stop
+this didn’t go down too well with the 99% of ordinary Americans, which this law
+would effectively relegate to using the crippled, poor cousin of the über
+expensive second tier internet, which the richest and most powerful
+corporations in the world would control.
+
+Expect us
+So, two days ago, a group of protestors outside the FCC building in Washington,
+began an #Occupy-style sit-in — demanding that this blatant attempt by the 1%
+to take control of the internet be blocked.
+
+Then, today, web hosting provider NeoCities had the sublimely simple yet
+brilliant idea of showing the people who work at the FCC exactly what a two
+tier internet would look like — by posting a list of the internal IP addresses
+assigned to the FCC building, alongside a blog post explaining how other
+hosting providers could reduce the speed of content delivered to those IP
+address at something close to that of a circa 1995 dial-up modem.
+
+https://neocities.org/blog/the-fcc-is-now-rate-limited
+
+The idea is, as we speak, taking ahold with other hosting providers around the
+world. These three threads on reddit alone have, as of 1am UK time, received
+over 4000 comments, and 12541 up-votes. The story has been picked up by
+arstechnica, arguably the most respected technology news site among web
+developers and industry insiders.
+
+http://www.reddit.com/r/technology/comments/254puo/
+web_host_gives_fcc_a_288kbps_slow_lane_in_net/
+http://www.reddit.com/r/news/comments/254pxb/
+web_host_gives_fcc_a_288kbps_slow_lane_in_net/
+http://www.reddit.com/r/politics/comments/254pb3/
+we_are_rate_limiting_the_fcc_to_dialup_modem/
+
+One comment notes, “If Google and GoDaddy got in on this it would be over in a
+day”. Another comment suggests that PornHub might also like to remind members
+of the FCC how much they cherish their ability to access the internet at speeds
+reasonable enough to stream the sort of “entertainment content” which is close
+to their hearts.
+
+Meanwhile in Europe
+Over here in the UK, we’re building up to the European Parliament elections in
+a few days time. One of the fringe interest parties, called UKIP, who have
+shook up the three main established parties by effectively running on an
+anti-everything to do with Europe ticket, is largely made-up of rightwing
+activists, closet racists, and ya-ya’s from the chattering classes; the money
+is no object types, who think giant corporations should be allowed to do
+whatever they want whenever they feel like doing it, no matter who it hurts.
+
+In a recent debate on the BBC, the UKIP leader Nigel Farage faced questions
+from Green Party MP, Caroline Lucas, on the specifics of what Farage, the
+ex-City of London financial trader and multimillionaire man of the people,
+disliked so much about the numerous European Parliament laws which protect
+consumers, and the environment, by holding large corporations to account.
+
+Lucas specifically mentioned the recent passing of an act in the European
+Parliament which didn’t get the worldwide press it deserved — which effectively
+enshrined into law Net Neutrality, which will not only prevent the sort of
+thing from happening over here which is now taking place in the US, but would
+also guarantee that Telecom providers can no longer charge customers extra for
+using their phones outside of the country where they were purchased
+— effectively abolishing so-called roaming charges.
+
+Farage’s response was to pretend he didn’t hear what Lucas was saying — which
+wasn’t difficult for him to do given that he was talking over her the whole
+time.
+
+http://www.bbc.co.uk/news/technology-26865869 – Net neutrality law adopted by
+European Parliament
+
+DON’T LET THE FCC TALK OVER YOU. Take action. Tell your representatives that a
+two-tier internet is not an option. Ask them what they are doing to prevent
+this terrible legislation from being passed.
+
+Sign this:
+https://dailykos.com/campaigns/638
+
+Read this:
+http://www.theverge.com/policy/2014/5/9/5699510/
+web-hosting-company-puts-fcc-in-slow-lane
+http://www.theverge.com/2014/5/8/5695748/
+ajit-pai-asks-tom-wheeler-to-delay-bringing-net-neutrality-proposal
+http://www.motherjones.com/politics/2014/05/
+charts-why-fcc-ditching-net-neutrality
+
+Rate this:
+
+Share this:
+
+  • Email
+  • 
+  • Tweet
+  • 
+  • Share on Tumblr
+  • 
+
+Like this:
+
+Like Loading...
+By Jim Gardner  Posted in Media and news  Tagged FCC, net neutrality, Netflix
+3
+Feb 10 2014
+
+Some things Matt Dillahunty should know about Sye ten Bruggencate
+
+Matt Dillahunty, co-host of the Atheist Experience cable access television
+programme based in Austin, Texas, and all ’round upstanding member of the
+skeptical / humanist / atheist community, has been in Sye ten Bruggencate’s
+crosshairs now for some time.
+
+Sye, being special, doesn’t think he should have to phone in to the programme
+when Matt is taking questions from callers. Sye wants to be a guest on the show
+so he can do what he always does when pretending to listen to what his
+opponents are saying, i.e., play stupid word-games, and deliberately
+misrepresent everything anyone says to him.
+
+I don’t know how much Matt has already heard about Sye’s tactics, beyond what
+he’s figured out for himself since posting the video reply below, but I thought
+it might be useful to flesh out the basics so he can brace himself for the most
+frustrating “debate” of his life, should it ever happen.
+
+Sye will begin by asking Matt if it’s possible he could be wrong about
+everything he thinks he knows. He will then proceed to use interchangeable
+definitions of what the words ‘possible’, ‘wrong’, ‘everything’ and ‘know’
+actually mean, depending on the route he chooses to take through his cascading
+script of pre-written responses. He might throw in some other words he wants to
+redefine as well, such as “evidence”, “logic” and “reason” — but regardless of
+how he approaches it, Sye will lie about what Matt has actually said within at
+least the first two or three minutes of the debate.
+
+He will then claim he wants to be absolutely sure about what Matt has said, and
+ask him to repeat his response — banking on the fact that because Matt isn’t a
+robot he will phrase his reply slightly differently the second time around.
+Then Sye will say that Matt has contradicted himself, by misquoting what Matt
+said in his first reply. When Matt then corrects him on this, Sye has the only
+“in” he needs for the rest of his trick to work. He might even repeat the
+misquote a second time. This is called anchoring, and it works by creating a
+moment in the conversation which the audience can be called back to at a later
+time, minus certain pertinent details.
+
+Sye will then make it seem as if the conversation has moved on, or that he is
+interested in clarifying a statement Matt has made at another time, perhaps
+during a different debate, or on his podcast — but this too is mere
+misdirection by Sye, who is only biding his time for a chance to spring what
+stand-up comedians refer to as a call-back — where the anchor made earlier in
+the conversation can be used to make it seem as if rather than it being Sye who
+deliberately misquoted what Matt said, it was actually Matt who admitted to
+making a mistake. Sye knows that Matt will spot this, but it doesn’t matter.
+Sye isn’t debating with Matt, he is preaching to his own audience, and fishing
+for quotes which he can selectively cut and paste when he wishes to later brag
+to his enablers about “defeating” Matt Dillahunty in debate.
+
+As for the the old parlour trick itself, it can be adapted for all kinds of
+situations, and it’s possible Sye himself learned it from the same books read
+by everyone from magicians, who use it to misdirect the audience while a switch
+is performed, to police interrogators who require the subject to become
+agitated and bamboozled by having their words twisted. If you watch Sye in
+action you will actually see his expression change when the window of
+opportunity to use this slight of hand is opened up to him. It usually happens
+around the part of his act where he starts interrupting his opponent while
+they’re explaining something he would prefer not to talk about.
+
+He’s also rather fond of appearing to contradict himself on something he
+himself has earlier said, so that when his opponent points this out he can
+accuse them of being incapable of knowing what is right and what is wrong
+because they’ve already “admitted” they could be wrong about everything they
+think they know — even though this in and of itself is the very thing which he
+lied about in the misquote anchored earlier on.
+
+And that’s it. That is the sum-total of Sye ten Bruggencate’s “argument”. End
+of. There is no more. Nothing. Zero. Zilch. Where black is the colour and none
+is the number, there you will find Sye’s “ideas”. He is not interested in
+listening to anyone who disagrees with him, he is interested in lying about
+what people have actually said, so he can shill DVD’s for Eric Hovind, and
+Crown Rights Media. That is all. There is no “proof that God exists” involved.
+Just lies, tricks, bullying tactics, and his own giant ego.
+
+One final point, speaking now directly to Matt Dillahunty: Matt, please know
+that no matter what Sye says to you about how a video or audio recording of the
+debate be used, should it ever happen, with regard to publishing, editing,
+repacking, distribution and commercial exploitation, he is lying to your face.
+No matter what. He is going to edit what you have actually said, quote you out
+of context, and rewrite what you actually said when he posts to his various
+comments disabled blogs in promotion of whatever product he uses you to
+produce. He is attempting to heighten his own profile by using you and the
+Atheist Experience as means of doing so. They’re running out of cash, and
+they’re running out of people to pull their tricks on. He wants to be the next
+Ray Comfort / Hovind / Ham / insert name of liar for Jesus tax dodging cretin
+here, and he is going to use your name to do it.
+
+In short, do not believe a word he says. He is by far and away the nastiest
+little spoiled child you will ever have the displeasure of meeting, and as more
+and more people in the community work out exactly how his scam works, the more
+he has to look for another audience — which he believes you’re going to give
+him. He’s probably, for once, right. So, please — if you do debate him, make
+sure he can’t sit down for a week. I can’t think of anyone out there in the
+anti-everything brigade who deserves it rammed down their throat more than Sye
+ten Bruggencate.
+
+Rate this:
+
+Share this:
+
+  • Email
+  • 
+  • Tweet
+  • 
+  • Share on Tumblr
+  • 
+
+Like this:
+
+Like Loading...
+By Jim Gardner  Posted in Religion & Atheism  Tagged Matt Dillahunty, Sye Ten
+Bruggencate
+23
+Feb 6 2014
+
+A word on Jason Burns latest “farewell” video
+
+As many of you know I am taking a break from the Fundamentally Flawed podcast
+until at least March, 2014. This also involves my taking a break from the
+day-to-day ins and outs of the religion verses rationalism “debate” on-line.
+But the one topic I have kept quietly tuned-in to is that of Jason Burns,
+because it was myself and a few others who contacted the authorities when he
+threatened to harm himself a few weeks ago, and I wanted to make sure our
+concerns were followed-up by the NHS team in his area.
+
+Jason was off-topic during the period of time which immediately followed our
+reporting his threat to slash his own wrists, because I was asked by the doctor
+I spoke to at the Royal Oldham Hospital to leave it up to the professionals, as
+well as being advised that it would be against various confidentiality laws to
+discuss the case openly while it was ongoing.
+
+But in his latest and apparently last video, Jason himself has disclosed some
+of the details of what has been happening for the past few weeks, and so since
+it is now a matter of public record I think its only right to fill in a few of
+the gaps which are conveniently left out in Jason’s account:
+
+In the video, Jason essentially makes the accusation that we only contacted the
+police because we couldn’t “beat him” in rational (love his flagrant misuse of
+that word) and scholarly debate. Further he asserts that we are censoring him
+through the use of “Stalinist Russia” style tactics. This was after he was
+called into his doctor’s office under the auspices of receiving a general
+health check-up, only to find when he arrived that it was for a mental health
+assessment. He also claims to have been told that if he doesn’t stop using
+YouTube he would be sectioned under the mental health act.
+
+Reading between the lines here, I think what’s probably closer to the truth is
+that he was warned not to post any more videos threatening to hurt himself. I’m
+particularly glad to see that the NHS didn’t scupper the chances of him
+actually attending this check-up by flagging it up to him in advance. But the
+best news of all is that Jason, despite our worst fears, has been given the
+all-clear in terms of his mental state.
+
+Sadly, however, this brings us to the rather disconcerting fact — that far from
+acting the way he does because of any underlying mental health issues, Jason’s
+behaviour actually falls within acceptable levels, despite that there are
+obvious signs of a persecution complex, and a level of narcissism which borders
+on being a dark satirical parody of the crazy Christian stereotype.
+
+First, to address the question of him being persecuted, let me make it
+abundantly clear once and for all, Jason was not “targeted” for special
+treatment. The only reason he came to our attention in the first place was
+because of the very ideas he claims we do not want to listen to. It is, simply
+put, the fact that we did listen to his ideas which placed him on our radar to
+begin with — not only because he is flat-out wrong about a great many things,
+but because he appears to take great joy from repeating many of his mistakes
+even after he has had them pointed out. But in the world of Jason Burns, the
+ease with which some of his arguments can be shown false is merely proof that
+they are in-fact valid.
+
+Secondly, on the question of him losing “thousands” of “scholarly” videos.
+Jason removed these videos himself. They were on the topic of Christianity and
+in particular the resurrection. No-one has ever said that these videos should
+be removed. No-one tried to have these videos removed from YouTube. The only
+videos which we took issue with were the ones in which he named specific
+individuals, accused them of saying and doing things which they hadn’t done or
+said, and which he then refuse to discuss openly while making further
+accusations of being bullied, simply by being held to account for spreading
+what he knew to be lies.
+
+When Jason blocked users who wanted to comment on some of his videos, or
+disabled comments on them altogether, a mirror channel which also hosted them
+and did not censor or block comments from anyone, did briefly mark some of
+these videos as private, while the health authorities who were looking into his
+mental state conducted their investigation — but they were not deleted, and
+they were not used as a way to bait or cajole Jason into an argument for
+argument’s sake. His frustration at these videos being hosted on a channel he
+doesn’t control has nothing at all to do him being made to look silly, as he
+claims in the latest video, and everything to do with the fact he can’t pick
+and choose who comments on them, and selectively remove those comments which
+disagree with what he says in them.
+
+Another fact which Jason glosses over by simply not mentioning it, is that in
+the lead up to his video wherein he threatened to harm himself, he posted a
+video which accused my friend Kat of faking a serious illness, which saw her
+hospitalised on and off for several long weeks, so as to get a sympathy vote
+and boost sales of her husband Alex’s music. The number of people with whom we
+fundamentally disagree and have had shouting matches with on the podcast
+several times, who put aside their differences with Alex and Kat when they
+needed a helping hand through a rough patch was genuinely moving. But the only
+thing Jason Burns could offer was a sickeningly cruel accusation of fraud, and
+in a tone of voice which couldn’t have been more offensive if he’d actually
+ordered Kat to get back in the kitchen and shut up. The fact that he now
+chooses to pretend this entire incident didn’t happen, and that he was scolded
+for it even by people who he sees as being on his “side” tells you everything
+you need to know about Jason’s actual interest in discussing the facts, and why
+he now feels the need to adopt a little boy lost persona where he is the victim
+of something he actually created all by himself.
+
+Moreover, now we’re being told in that “look at me being persecuted” passive
+aggressive way which a certain brand of religious activists have turned into an
+art form, that it’s actually him who has been on the receiving end of hatred
+and threats of violence; that his own doctor telling him to stop posting to
+YouTube has nothing to do with him being caught redhanded in the middle of
+several very harmful lies, but that it is we who are the devils with whom
+Christian apologists must be careful not to dance; that it is we who have
+caused him great injury.
+
+This, my friends, is as close an insight as you are likely to get into the
+mindset of a fundamentalist; for even when every single friend, foe,
+professional healthcare worker and law enforcement authority with whom they
+have contact is telling them to be careful, they will always find a way to
+justify taking the one path which leads right back to where they started
+— having learned not a thing.
+
+This is quite simply a case study into the very dangers of anti-rationalism
+which we are trying to raise awareness of. I couldn’t care less what religion
+you do or do not believe in; nor do I give a flying spaghetti monster if your
+religion tells you I am evil because I call a spade a spade — sans the jargon
+of “religious philosophy”. What I care about is when your religion tells you
+it’s OK to lie about me, what I think, what I have said, and what I believe. By
+all means repeat verbatim every single mistaken statement I have made here, or
+change of mind I have had about a given argument there. But pretty please, with
+a cherry on top, don’t lie about me and expect that by playing the hurt
+feelings card when I call you out on it I will mysteriously loose track of what
+actually happened, what was said, who said it, and who did what to whom as a
+result.
+
+It is none of my business what you do in the privacy of your own imagination.
+But when the voices in your head tell you it’s OK to blame other people for
+threatening to self-harm, it absolutely becomes my business. I don’t care who
+someone thinks they are, when they threaten to hurt themselves, they are
+demonstrating that they are capable of violence, or that they believe a violent
+act is an appropriate route to solving a dispute — and preventing that from
+ever happening to me, or the people I care about will always be my one and only
+interest in keeping an eye on the likes of Jason Burns — regardless of what
+they want to tell themselves about my supposed agenda.
+
+In closing, please do not give Jason what he wants. If he is serious about
+leaving YouTube (again) please let him do so. He is not interested in listening
+to what you have to say, he is interested in Jason Burns. His 15 Megabytes of
+fame are over. So let’s put his audience numbers back to where they belong once
+and for all.
+
+Rate this:
+
+Share this:
+
+  • Email
+  • 
+  • Tweet
+  • 
+  • Share on Tumblr
+  • 
+
+Like this:
+
+Like Loading...
+By Jim Gardner  Posted in Fundamentally Flawed Podcast  Tagged Jason Burns
+1
+Dec 23 2013
+
+My debate notes, for the podcast with Jason Burns (that never was)
+
+Some people who listened to the podcast, which was supposed to be a debate
+between myself and Jason Burns, but which he failed to attend, were kind enough
+to ask for the text of my opening remarks. So here they are.
+
+To be fair to Jason, he was in another Google Hangout with DPR Jones when the
+time which was arranged for him to meet instead with us came and went. I don’t
+know if he plans on rectifying this any time soon, but he is certainly welcome
+to do so on a future podcast.
+
+He has also responded on his YouTube channel to my opening statement, after
+watching a recording of it, which you can see by clicking this link. In his
+reply, he appeared to be genuinely receptive to what me, and my Fundamentally
+Flawed friends, have been trying to explain to him for some time — so, if
+that’s all that was achieved, I’m happy to have done my bit.
+
+Thanks again. Jim.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Is Christianity True?
+
+The subject of tonight’s debate sounds simple enough; is Christianity true? But
+to answer that question honestly, we need to define exactly what we mean by
+Christianity. This is a much more complicated question, because to some people
+Christianity is about what they believe to be true, and to others it’s about
+what they believe they can prove is true.
+
+For instance, there are plenty of people who would describe themselves as
+Christian if they were asked to fill out some basic information about
+themselves on a national survey, or in a hospital admissions form, or if they
+wanted to get married in a church.
+
+They were educated in a school where Christian prayers were held on a morning;
+the local vicar or priest presided over special ceremonies at different times
+of the year, or because they have attended church with their family every week
+since they were a young child, and believe that the shared moral values of that
+community are one and the same thing as Christianity itself.
+
+They might also believe that you can’t be a part of a loving and socially
+binding community unless all the members of that community share the same
+Christian beliefs. But many of them also know that there is a difference
+between what someone might believe, and what someone can prove. They are under
+no illusions about the stories in the bible being metaphorical; that the story
+of Adam and Eve, for instance, when properly understood, is a first century
+attempt at explaining the meaning of life, and how we came to be here. They
+understand that to believe it is a story which literally happened to two actual
+living human beings in history, is to completely misunderstand what the story
+is trying to tell us. They understand, in other words, the meaning of the word
+‘Faith’.
+
+People who recognise themselves in this group are referred to broadly as
+‘Social Christians’. From a young age, Social Christians memorise the words to
+certain prayers, and as adults they regurgitate these same words at weddings,
+funerals, and regular Sunday service — kneeling and standing at the allotted
+times during the service at the same time as everyone else.
+
+Many well meaning, perfectly good people in the Social Christian group don’t
+concern themselves too much with the finer details behind the cultural
+traditions which underpin these rituals, ceremonies, incantations, and sacred
+rites of passage. Probing questions about God, the teachings of Jesus, and the
+historical accuracy of the bible itself, are often compartmentalised into
+“those parts of religion which require further reading” — reading and learning
+which, in their busy lives balancing work with bringing up children, or
+managing their professional careers, they simply don’t have the time to study
+themselves with any serious depth.
+
+Despite this, Social Christians comfort themselves with the notion that, while
+they don’t have the time to look for the answers to the deep and meaningful
+questions about life the universe and everything, which they are told a belief
+in Christianity can provide, somewhere deep within the hierarchy of their
+church and its wider affiliations, there must be some serious theologians and
+bible scholars, who do in fact understand the answers to these questions. They
+place their faith in the learne’d bishops, cardinals, senior pastors, and
+theologians, who run their church, even when these people appear to give
+contradictory or unsatisfactory answers to some of the really big questions.
+
+So, from a certain point of view, if we ask the question of tonight’s debate
+‘Is Christianity True?’ according to the values and beliefs of this social
+group, the answer would have to be yes; Christianity is true. Why? Well
+firstly, these people have no reason to believe that they are being lied to
+when they are told Christianity provides a space for them which deals with
+spiritual matters, as opposed to material concerns.
+
+Christianity of this kind, is also a ready made social group, with people who
+understand each other’s worries; when their car decides to break down on the
+same day their mortgage payments are due, or their kids need yet another pair
+of new shoes for school. This kind of Social Christianity gives ordinary
+people, all around the world, an unbreakable safety-net; ready to catch them
+when they stumble and fall from the high wire of life.
+
+So why, we have to ask, would anybody not want to believe in that? Surely you’d
+have to be some kind of nihilist, who doesn’t believe in anything at all, to
+dismiss that kind of belief? A belief in the goodness of people.
+
+But the truth of this kind of Christianity even goes one better than that,
+because it’s not just about the small things on a person to person basis, which
+makes the social cohesion of the church a force for general good. Catholic
+relief organisations alone raise hundreds of millions of pounds every year to
+aid the poorest of the poor in the world. They go into dangerous regions to
+feed the hungry and home the homeless. Indeed the very selflessness of the
+people who do this work — literally doing what they are told in the New
+Testament they must do in order to enter the kingdom of heaven, is an area
+which no atheist I know, and certainly not myself personally, would ever seek
+to criticise — even though we could have an entirely separate debate about what
+exactly is meant by “the kingdom of heaven”, and why you would want to spend an
+eternity in such a place to begin with.
+
+And yet my opponent this evening, Jason Burns, has repeatedly stated that
+atheists (all of us mind you) stand against the very values I have just made
+abundantly clear represent the best of human nature. Indeed, Jason Burns
+represents a sadly growing breed of Christian fundamentalists today, whose
+fingers are planted so firmly in their ears, that they don’t even hear the
+harsh criticisms of their actions which come from other Christians, let alone
+from those of us who were raised religious, but who now hold ourselves to a far
+better standard of truth, than a belief in belief itself.
+
+Christian fundamentalists have, in recent years, had this harsh light of truth
+shone onto their actions, beliefs, and teachings — many of which make a mockery
+of those very people in the church who dedicate their lives to believing in the
+works attributed to the alleged Christ in the New Testament.
+
+They betray their own in some extremely disturbing, and in many cases very
+deliberately antagonistic ways.
+
+For example, we now know, thanks to freedom of information requests filed with
+the authorities in the United States, that this dirty underbelly of
+Fundamentalist Christianity, have founded hundreds of extreme right wing
+political organisations, who enjoy tax exemption because of their
+pseudo-religious status.
+
+These organisations have funded everything from the war on women’s reproductive
+rights, and the conservative led opposition to universal health care, to
+demands for pre-enlightenment notions about biology, chemistry and physics to
+be taught in state run schools, instead of science.
+
+We fight against these attacks on our civil liberties, right alongside many of
+our Social Christian friends, who no more equate atheism with nihilism, than we
+on the non-religious side equate the Vatican sanctioned systematic rape of
+children, with the values of the vast majority of law abiding, right thinking
+Catholics, who are as appalled by these evil acts as the current Pope, who
+replaced a German theologian who actively protected those who carried out these
+atrocities, rather than obey the very creed he was sworn to uphold.
+
+Not that crimes against children are the exclusive preserve of Catholic
+clerics. In Washington State, in November of this year, Larry and Carri
+Williams were given life imprisonment, for the beating and starving to death of
+their adopted daughter Hana. They were the fourth set of parents to be
+convicted of such crimes, in the United States alone, who cited the advice of a
+book called “To Train Up a Child” written by Michael and Debi Pearl, of the No
+Greater Joy Ministries, as a justification for their sick depravity.
+
+This book, which claims to present biblical justification for its methods of
+raising a child to be a “good Christian” includes amongst its advice the use of
+whips on the bare skin of infants only a few months old, and insists that,
+quote, “Parents who don’t whip their babies into complete submission are
+indifferent, lazy, careless and neglectful”, and are guilty therefore of
+“creating a Nazi”.
+
+The question here is, how fair would it be for me to insist that, if my
+opponent is serious about answering the question of tonight’s debate honestly,
+that he must justify the teachings of this perverted book, and the bible which
+inspired its writers to carry out such wicked acts on their own children?
+
+Now, there are many who might argue that, since my opponent this evening
+recently described himself as being, “The UK’s foremost theologian”, that he
+should find it easy to justify the slow and painful torture of infants at the
+hands of people who believe as fervently in their heart of hearts as he does,
+that they have special permission from Yahweh, which gives them a
+get-out-of-jail-free card when it comes to questions such as this, and that it
+is therefore perfectly fair for me to ask him to explain such evil acts, using
+only his much claimed “vast scholarly knowledge of the bible” as a means of
+doing so.
+
+But how many times do we atheists hear it said, that we are evil and morally
+bereft, simply because Stalin or Pol Pot were themselves anti-religious. And
+how often do we have to point out the ignorance of such statements, and remind
+those who continue nevertheless to churn them out, that for every psychopath
+who will use the first thing which springs into their twisted minds to justify
+their actions, there are millions of people around the world who spread peace,
+love, and understanding despite that they do not hold onto any religious
+notions about the origins of altruism, compassion, and morality?
+
+How often do we have to explain that to use these kinds of false guilt by
+association tactics, is to stoop into using precisely the same kind of tricks
+we constantly find being used against us; and should therefore be above using
+ourselves?
+
+And what of the values of Secular Humanism which we do uphold? We are often
+accused, after-all, of believing in nothing.
+
+Well, as far as charitable works go, the Bill & Melinda Gates Foundation, for
+example, is specifically set-up, using the vast fortune of the Microsoft
+billionaire, himself an atheist, to eradicate some of the most virulent and
+life threatening diseases known to man. It does this by a focused application
+of methods proven to be effective, not by wishful thinking, but by the rigorous
+and true methods of science, and the best which 21st century medicine can
+offer.
+
+In some of the most war torn and dangerous places on Earth, secular charities
+are given unique access to those who need their services the most, precisely
+because they are not affiliated with any church or religious group.
+
+Ask yourself, how many children with Muslim parents would be left to die of
+treatable diseases, if the Bill & Melinda Gates foundation, or Doctors Without
+Borders, only hired Christian missionaries — many of whom undoubtedly have
+humanitarian concerns at the forefront of their work, but who nevertheless
+side-load their efforts with the handing out of bibles and preaching about
+Jesus, when they do their work on behalf of religious charities?
+
+So, I won’t be asking my opponent this evening to justify the evils which are
+carried out by Christians, in order to answer the topic of the debate, “Is
+Christianity True”? Neither will I ask him to explain, if as I expect him to
+assert that the answer to this question is “Yes”, how it is possible then for
+so many people around the world, who do not believe in any gods, let alone the
+specific God of the particular religion which Mr. Burns just so happens to
+belong to, nevertheless manage to live perfectly good and peaceful lives?
+
+I won’t be asking this, primarily because we already know what the
+fundamentalist’s answer to this question is, and I’m sure that there are as
+many people watching this debate who are as tired as I am, of being told that
+this is because whether we atheists like it or not, we are just as incapable of
+escaping Yahweh’s iron grip as those who willingly grovel before the only book
+which claims He exists in the first place, despite that we can dismiss the
+bible as the bronze-age fiction it has been repeatedly proven to be.
+
+No, the only thing which Jason has to do, in order to claim the sort of victory
+in this debate which he deserves, as opposed to the one he is already claiming
+to have won before it even took place, is accept that in the real world, the
+only things which matter have nothing to do with what you believe, but are to
+do with how you behave.
+
+In the incestuous world of internet point scoring and petty squabbles, where
+professional liars like Tim, the self-styled Bible Thumping Wingnut, or Eric
+Hovind, Sye ten Bruggencate, and William Lane Craig — flourish in their efforts
+to distort and divide us into easy to attack stereotypes — all Jason Burns has
+to do, to be found in favour of the motion, and show that he is beyond using
+the sorts of tactics adopted by the lunatic fringe, is acknowledge the truth of
+the kind of Social Christianity which me, and many others like me were raised
+to believe in, because it is precisely this type of Christianity which will
+save the fundamentalists from themselves.
+
+When I was a young man, sitting in the pews at church, at those family
+weddings, funerals and regular Sunday services — going through the motions
+because I believed it made me a good person — I did so because I saw what
+forgiveness and a peaceful understanding of one another can achieve, from
+people who learned their life lessons the hard way. My grandmother raised four
+children on the good will and community spirit of a once vibrant Catholic
+church, which today has fewer and fewer parishioners who regularly attend
+Sunday Mass, and which no longer has a priest in permanent residence.
+
+But where the fundamentalists see declining church numbers in this country and
+elsewhere as a portent to the end times, we see it as a great victory for
+common sense — because it means that, finally, people are beginning to
+understand that caring for one another, and having a strong sense of social
+responsibility, are not values exclusive to Christianity, but are the best
+argument for Secular Humanism it is possible to make; that you don’t need to
+believe in things which aren’t true, in order to live a good and fulfilled
+life.
+
+The problem for Jason, and his ilk, is that in acknowledging these shared
+values, they must also acknowledge that, continuing to call it Christianity at
+this point, merely highlights the futility of seeking to mislabel those aspects
+which define a good life well lived, simply in order to be seen, like a modern
+day Pharisee, to be holier than holy — to be seen by ones peers as being better
+than someone who believes in things which can be proven to be true, simply by
+saying you believe in things which cannot.
+
+So I would like to invite my opponent to accept that, from our point of view,
+the tactics he employs of simply lying to himself and other people about who we
+are, as atheists, does nothing to preach the message of the gospel he believes
+in. If he can do this, he will easily claim the victory which only he thinks it
+is necessary for him to win in tonight’s debate.
+
+Sadly, however, I rather suspect he will refuse to do this. I suggest that,
+instead, what we’re going to hear from Jason, and his all broadcast and no
+receive Cosa Nostra of sheep in wolves clothing, not just tonight but in the
+coming weeks, is a repeat of that same demand, which is made of those of us on
+the non-religious benches over and over again; to explain away a string of
+unrelated, out-of-context anecdotes, about personal experiences, and the second
+and third hand accounts of these experiences, by authors already-on-board the
+lucrative Christian publishing gravy train; and those writers of fan fiction
+which grease it’s wheels; who are as oblivious to the real world which science
+has revealed to all of us, as they are blind to the fact that their entire
+modus operandi is seen, by the lights of the modern communication age, for the
+blatant scam that is, was, and always will be.
+
+We’re not going to hear anything from Jason, about how his twisted version of
+Christianity accounts for the mountain of scientific evidence which points to
+the universe being billions of years old, or the Earth itself being abundant
+with life, precisely because of the natural mechanisms described in astonishing
+detail by evolutionary biology, or indeed the complementary sciences of
+physics, cosmology, chemistry, and geology — all of which prove beyond any
+reasonable doubt that page one, chapter one, verse one of the bible itself
+simply isn’t true.
+
+But in the world of Jason Burns, and other fundamentalists like him, none of
+these matters of fact are of any concern.
+
+They are so focused on their complete mischaracterisation of what the word
+‘atheist’ itself actually means, that when we shout from the rooftops about how
+amazing the universe is precisely because there are no gods — they simply
+assume our efforts to point out this basic fact must be a trick; designed to
+cheat them into abandoning their emotionally comforting yet logically
+fallacious, carefully annotated collection of call and response received
+opinions, which seldom bear any relationship to the facts.
+
+In their world of internal dialogue, where the existence of devils and demons
+is accepted without question, but the intellectual honesty of the scientific
+method is fair game, to be torn apart until it is stripped of the facts which
+prevent it from fitting the narrative they wish to spin — by our simple honesty
+in admitting that we do not see any evidence for the existence of a
+supernatural aspect, we are admitting that we did not find the evidence planted
+for us in the places where they manufactured it.
+
+Their cookie cutter production line process, of squinting in a dimly lit room
+at the very same sacred texts which we have had quoted at us, as if we haven’t
+heard them literally chapter and verse a thousand times before, is in it’s very
+failure to sway us towards their twisted goals, merely yet more proof of what
+they already believed about us, before they pretended to listen to what we have
+to say.
+
+So, in closing, I simply say this to all the Jason Burns out there watching and
+listening to tonight’s debate; we know what you believe and why you believe it.
+But the childish games you’ve played in the past year alone haven’t even begun
+to convince us why we must believe it too. In fact all you’ve achieved is the
+exact opposite.
+
+And yet persuade us of your claims you must — not simply to justify the
+uncountable number of times you have misquoted what we have actually said to
+you, and said about you, and about the shallow and ignorant non-arguments you
+make against our deliberate and unceasing campaign against the lies you teach
+to children; or in your endless YouTube diatribes about how “evil”, “nasty”,
+and “dirty” we are, simply because we pay attention to the details you would
+prefer went away.
+
+No. You must explain why we should believe what you believe for no other
+reason, than if your version of Christianity really is true, it is your moral
+duty to convince us of it — not with your words, but with your actions.
+
+But, as Spiderman once said, with great power comes great responsibility, so
+you must also recognise that, by definition, it must also be our moral
+responsibility to save you from becoming the very thing you fear the most,
+because we share this planet together whether you like it or not. None of us
+exist in a vacuum.
+
+And so I invite my opponent tonight, to accept what far too many have refused
+to do before. Listen to us, when we tell you in all sincerity, Social
+Christian, Secular Humanist, Agnostic, Atheist, and all points in-between,
+together with one undivided voice of reason — your brand of Fundamentally
+Flawed religious extremism is not only completely untrue, it is dangerous; and
+if you had any real understanding of why we despise what religious
+fundamentalism does to retard human progress, in it’s total and complete
+ignorance of what Einstein, Turing, Dirac, Pauli, Newton, Darwin and Jesus
+wanted to teach all of us, you wouldn’t want it to be true either.
+
+Rate this:
+
+Share this:
+
+  • Email
+  • 
+  • Tweet
+  • 
+  • Share on Tumblr
+  • 
+
+Like this:
+
+Like Loading...
+By Jim Gardner  Posted in Fundamentally Flawed Podcast  Tagged Jason Burns
+0
+Aug 14 2013
+
+Secret Law, or this is how democracy dies.
+
+torture-scene-with-rats-from-the-movie-1984The founder of Lavabit, Ladar
+Levison, has spoken to Democracy Now about his decision to close his encrypted
+email service, rather than, as he said, be forced to commit crimes against his
+fellow Americans.
+
+Although Levison is prevented from talking about what this means, because a
+secret system which operates outside of judicial oversight would automatically
+see him given a five year prison sentence if he did, it is widely believed that
+his decision to close Lavabit, without any prior warning to his hundreds of
+thousands of paying customers, was in response to being ordered to give the
+security services back-door access to the emails of NSA whistleblower Edward
+Snowden — a user of Lavabit.
+
+Part Two: http://www.democracynow.org/2013/8/13/
+former_internet_provider_gagged_by_national
+
+You don’t need to be from the tin foil hat brigade to see that, unless
+something is done to shut down this blatantly unconstitutional legal loophole,
+it could well be the start of a cascading series of events which result in mass
+public disobedience and demonstrations. There are people on the streets of
+Egypt, Syria, and other countries around the world, who are fighting to rid
+themselves of exactly this kind of police state tyranny and mass surveillance.
+To suggest “it couldn’t happen here” simply isn’t backed up by the facts.
+
+Last week, President Obama went on television, to tell us with a straight face
+that some of the speculation in the press and on-line about the kinds of data
+that these laws allow the security services to collect are “far fetched”; that
+the actual content of emails and phone calls are not monitored, and that there
+is no program set-up for the wholesale monitoring of the American people.
+
+But as anyone with even an ounce of understanding about how the internet
+actually works will tell you, the so-called meta-data which the secret police
+do admit to gathering, tells them far more about the ins and outs of our daily
+lives than the content of our phone calls and the wording of our emails ever
+could — because it contains geolocation data, timestamps, and the name of the
+person sending the information — and since it is now against the secret law to
+encrypt your communications, most SMS text messages, emails, instant messaging
+and video conferencing is transmitted as plain text, which anyone with the
+right equipment can intercept.
+
+And even if a person accused under these secret laws of committing secret
+crimes, on evidence which no judge or jury can ask to see is ever allowed into
+a court of law to defend themselves, the security services do not need to
+disclose any details of what they collected and why they collected it, but can
+instead simply assert that it is within their legal remit to gather data in the
+interest of national security, and the accused’s legal defence is forbidden
+from asking anything more about it. It is their word against yours, and if you
+don’t like it, enjoy your stay in prison.
+
+The American people are proud of their constitution and the founding fathers
+who wrote it. Just as we British are proud of our parliamentary democracy.
+Indeed we’re all proud of the work which the vast majority of security
+specialists carry out, to keep us safe from terrorists, and those who wish us
+harm. But these secret laws can’t protect us from ourselves, and are quickly
+turning us into the very thing we’re so desperate to avoid becoming.
+
+The people who have implemented these secret laws are unpatriotic, money
+grabbing, power hungry, paranoid puppet masters, with as little respect for
+ordinary people as they have for themselves. They are the same cabal of
+superrich, who protect their banker friends from criminal investigation into
+the worldwide financial collapse, while funding Super PACs which put more poor
+people into privately run prisons than any other country in the world. They are
+the same low life who want to put you in jail for sharing music via BitTorrent,
+while they issue letters to your Internet Service Provider, requesting your
+private information to be handed over with no questions asked, which the ISP’s
+aren’t even allowed to talk about to their own legal team.
+
+But perhaps the most troubling part about all of this, is that these are
+exactly the kinds of abuses which while still a US Senator Barack Obama warned
+of, and expressed a wish to do something about. This can only mean one of two
+things. The first possibility is that at some point shortly after becoming
+President, Obama had certain information revealed to him which is so critical
+to national security that it takes precedence over all other concerns, in which
+case there is no longer any such thing as due legal process, and the American
+government has become the very kind of domestic tyranny the founding fathers
+warned us about. Or, two, the rich white men who own him have made it
+abundantly clear to Obama that it’s called the American dream because you have
+to be asleep to believe it. Either way, this is how empires come to an end.
+This is how democracy dies.
+
+Are you going to take it sitting down? Donate to Lavabit here and help Ladar
+Levison take this all the way to the supreme court. Those who have tried in the
+past have been silenced, and forced to settle out of court.
+
+Support the mounting campaign to force Apple, Google, Microsoft and other
+titans of the modern age to say publicly what everyone in the technology
+industry is saying privately; that this is wrong, and we will not allow it to
+happen. If we stop using FaceTime, and Skype, if we boycott GMail and Yahoo!,
+if we tell the businesses whose entire fortunes rests upon our trusting them to
+provide a secure and transparent service, that we’re mad as hell and we’re not
+going to take it anymore, they will have no choice but to listen. They will be
+on the side of their own customers, when it comes time to debate this issue at
+the highest levels. They will use their power for the good of everyone, not
+just the tiny minority who want to keep us frightened and silent.
+
+It does not matter what your personal politics are. This is not a red team
+versus a blue team issue. It is about defending democracy and the rule of law.
+Write to your political leaders, and demand that they exercise their privilege
+to speak on the floor of the house about this clear and dangerous abuse of
+power — because the people who it affects have literally had their right to
+speak about it taken away.
+
+Rate this:
+
+Share this:
+
+  • Email
+  • 
+  • Tweet
+  • 
+  • Share on Tumblr
+  • 
+
+Like this:
+
+Like Loading...
+By Jim Gardner  Posted in Media and news
+1
+Jun 3 2013
+
+Bilderberg Group meeting in Watford 2013
+
+Viscount Davignon: http://en.wikipedia.org/wiki/Étienne_Davignon
+
+Viscount Davignon: http://en.wikipedia.org/wiki/Étienne_Davignon
+
+Considering the guest-list, it’s absolutely astonishing that the in’s and out’s
+of what is discussed at meetings of the Bilderberg Group are never reported in
+the media.
+
+Of course this could always have something to do with the fact that those
+involved spend more time working on their golf swing, or swigging back
+expensive wines and spirits, than they do deciding which direction to take the
+world in next — as is the mantra of those conspiracy theorists who rarely stop
+to think that they themselves might be as much a part of the so-called New
+World Order as the captains of industry who mingle with politicians at this
+prestigious and secretive event every couple of years.
+
+Whatever is on the agenda, it should only be right that our elected
+representatives are held accountable for their involvement — who they met with
+and what they talked about — especially if they’re billing the British tax
+payer for that round of drinks which see newspaper proprietors exchange amusing
+anecdotes about poor people with their criminal friends in big oil and gas.
+
+But in a world where you can go to prison for sending a tweet, but not a single
+banker who caused the global financial meltdown has been so much as arrested, I
+don’t think we should hold our breath waiting for any of the people invited to
+this years meeting of the Bilderberg Group, at the Grove Hotel, Watford, to
+reveal too much about their involvement.
+
+It is nice to see, however, that at least at this year’s event, there is an
+area set aside for bloggers — although I can’t imagine any photographers will
+be invited to wander the grounds, and take snaps of Saudi arms dealers shaking
+hands with the head of Goldman Sachs — but that is the sort of meeting this is,
+whether or not your inner skeptic is ready to accept the fact that this sort of
+thing really does go on — pay no attention to the man behind the curtain, your
+government is in control.
+
+There is an excellent piece by Charlie Skelton in the Guardian here: http://
+www.guardian.co.uk/world/2013/jun/02/week-ahead-bilderberg-2013-watford
+
+..and you can follow Charlie on twitter here: https://twitter.com/deYook
+
+Rate this:
+
+Share this:
+
+  • Email
+  • 
+  • Tweet
+  • 
+  • Share on Tumblr
+  • 
+
+Like this:
+
+Like Loading...
+By Jim Gardner  Posted in Media and news  Tagged 2013, bilderberg, watford
+20
+
+Post navigation
+
+← Older posts
+Search [                    ] [Search]
+Article Archive
+
+Article Archive [Select Month         ]
+
+All Topics
+
+All Topics[Select Category                 ]
+
+New comments are added to old threads all the time…
+
+[cd] Will on BBC iPlayer bug continues to b…
+[d8] prettygirl1973 on Political censorship and moder…
+[5f] Chris on 10 facts of Darwinian evolutio…
+[b8] Ed on Eric Hovind: Lies, damn lies a…
+[86] Daryl on Contact information for Fox…
+[bb] John on Majority of atheists are ex-Ch…
+[67] Calvin Jose Palmer on Contact information for Fox…
+[a7] Missy on Are you ready to find out just…
+[0d] Elizabeth on BBC iPlayer bug continues to b…
+[3a] BERNARD LILLER on Contact information for Fox…
+[64] CM on Contact information for Fox…
+[ce] palau pari on An incredible thing is happeni…
+[pi] Mark Ketchum on Majority of atheists are ex-Ch…
+[18] Durganand on Decrescent USB to HDMI convert…
+[08] DOUG SWANSON on Contact information for Fox…
+
+Fifty Recent Posts
+
+  • An incredible thing is happening right now in protest of FCC plans to break
+    the internet
+  • Some things Matt Dillahunty should know about Sye ten Bruggencate
+  • A word on Jason Burns latest “farewell” video
+  • My debate notes, for the podcast with Jason Burns (that never was)
+  • Secret Law, or this is how democracy dies.
+  • Bilderberg Group meeting in Watford 2013
+  • Why I switched from Apple iPhone to HTC One Android.
+  • Why are you no longer an atheist?
+  • It’s the beginning of the end for Eric Hovind’s Creation Ministries, as the
+    poster child for anti-science Christian apologetics posts a video begging
+    his supporters for cash
+  • The empty tomb is bums on seats
+  • Why did the Pope really resign?
+  • Decrescent USB to HDMI converter on Mac OS X
+  • PZ Myers, Thunderf00t and Rebecca Watson, sitting in a tree, k.i.s.s.i.n.g.
+  • Happy increment in arbitrarily assigned date day
+  • Majority of atheists are ex-Christians with a University education
+  • The Leveson Report Complete PDF download
+  • Dear Republicans. This is why you lost.
+  • Sean Carroll – “From Particles to People”
+  • Apple’s OS X Mountain Lion: A triumphant return to form
+  • A Visualisation of Rhetological Fallacies
+  • You can’t ban an idea
+  • That which is true
+  • Christian Accelerated Education pass Ofsted inspection despite Michael
+    Gove’s opposition to teaching creationism in UK classrooms
+  • There is a reason why they hated Christopher Hitchens
+  • An open letter to non-crazy Christians
+  • Never surrender
+  • The beginning of the end for $ye ten Bruggencate
+  • Sye ten Bruggencate: The turd that won’t flush
+  • A long overdue reply to Ryft
+  • I did a mini-cast
+  • What he said
+  • A reply to Sye’s latest blog
+  • Nice to set the record straight
+  • Dan Marvin has 24 hours to correct a factual inaccuracy about me on
+    his blog
+  • The lying game
+  • David Fitzgerald: Examining the Existence of a Historical Jesus
+  • Political censorship and moderator bias on reddit.com
+  • The illusion of choice
+  • Presuppositionalism: There’s a clue in the title
+  • The Grand Parade of Lifeless Packaging
+  • Are you ready to find out just how fucked we really are?
+  • Free at the point of use
+  • Occupy London bailiff drives into crowd of journalists while the police
+    do nothing
+  • Paradise
+  • Welcome to Tory Britain
+  • Forget SOPA & PIPA. ACTA is ten times worse and already on its way to
+    being passed
+  • Federal investigators in Virginia have closed down Megaupload.com
+  • SOPA and PIPA are just the beginning. Here’s what comes next
+  • A reply to Rick Warden’s “How Identity, Logic and Physics Prove God’s
+    Existence”
+  • Will any Christians accept my Science Sunday challenge?
+
+@MovingToMontana | Twitter
+
+Error: Twitter did not respond. Please wait a few minutes and refresh this
+page.
+
+Email Subscription
+
+Enter your email address to subscribe to this blog and receive notifications of
+new posts by email.
+
+Join 1,753 other followers
+
+[                    ]
+
+[Sign me up!]
+
+Blog at WordPress.com. | The iTheme2 Theme.
+Follow
+
+Follow “How good is that?”
+
+Get every new post delivered to your Inbox.
+
+Join 1,753 other followers
+
+[Sign me up]
+
+Build a website with WordPress.com
+Send to Email Address Your Name [                    ] Your Email Address 
+[                         ]
+loading [Send Email] Cancel
+Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+%d bloggers like this:
+
+[b]

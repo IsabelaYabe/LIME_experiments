@@ -1,0 +1,567 @@
+The Atheist Papers
+
+A critical look at the gospels
+[atheist-papers-wordpress]
+Skip to content
+
+  • Home
+  • About the Atheist Papers
+  • Contradictions in Islam
+  • List of bible contradictions
+  • Science Sundays
+  • Send me hate mail
+
+← Older posts
+
+Santa Myth is Not the Same as Religious Myths
+
+Posted on December 25, 2015 by Rayan Zehn
+
+For as far back as I can remember atheist bloggers and others have been drawing
+a comparison between telling your children Santa is real and telling your
+children they can literally live forever if they believe in Jesus. I’ve
+repeated this too, but today I had the following conversation with my
+girlfriend about this article (little girl sends her parents middle finger
+emoticon after learning the truth about Santa):
+
+santa conversation.jpg
+
+My girlfriend (in red) is a Christian, raised Southern Baptist. She knows my
+religious ideas and doesn’t mind at all (but that’s a different post for
+another day). But it’s important that she’s a believer and saying this because
+it shows us that the belief that telling your kids Santa is real is blockheaded
+is not solely the domain of non-believers.
+
+I especially like it how she hits the nail on the head with “I just don’t know
+if I want my kids to thank Santa for all the things I worked hard to give
+them.” BAM!! I totally agree with this because we should be teaching our kids
+to appreciate the value of work and money—and not that material goods can
+magically appear (by some fat ass in a red suit who comes down your chimney, no
+less).
+
+Most important, and back to the point in the first paragraph, telling your kids
+Santa is real is a lie. We know for a fact it’s not true. And, in my opinion,
+and in my girlfriend’s opinion, we should not be lying to our children. The
+reason I don’t think we should be comparing Santa to Jesus (or any other
+religious story) is because we don’t know if it’s true or false. Telling my
+children Jesus is really god’s son is not something I’ll ever do, but it hardly
+falls under the category of lie. Telling your children something is true when
+we don’t know it to be true or false is not the same as telling them something
+we know to be false.
+
+And finally—and to repeat an oft-made argument—telling your children the truth
+about Santa from day one is a great way to instill healthy skepticism in young
+minds.
+
+Posted in Atheism, Uncategorized | Tagged Atheism, Christianity, Christmas,
+Religion, Santa Claus | Leave a comment
+
+My Edited Islamic State Flag Is Now More Popular than Allah Himself
+
+Posted on December 2, 2015 by Rayan Zehn
+
+Shortly after last month’s terror attacks in Paris, I noticed a massive surge
+in views on my page. Beginning on 14 November until the present my post New
+Isis Flag Unveiled has been the most popular article on this site, sometimes by
+a daily aggregate factor of five. And holy shit, wouldn’t you know it? So
+popular is that article that the image I produced for it is the number two
+image on google images when you type “ISIS Flag” into the google search bar,
+beaten only by an image of the actual Islamic State flag.
+
+isis flag google.jpg
+
+This post is not to brag. Instead it’s to say good on my readers! Good on the
+people who click on the image, sending metadata to google to boost it on their
+list. Good on google for not censoring the image. Good on everyone who has a
+good sense of humor even when having one can sometimes be the unpopular thing
+to do.
+
+Also note the image directly beneath mine. While that image is rather racist,
+it’s good to see people poking fun at the Islamic State without fear of some
+moral backlash.
+
+Posted in Atheism, Uncategorized | Tagged Allah, Atheism, Daesh, Islam, Islamic
+State, Muhammad, Religion | Leave a comment
+
+Hunger (Strikes) Games: Palestinian Prisoners in Israel
+
+Posted on November 8, 2015 by Rayan Zehn
+
+This post has little to do with religion (aside from the Israel/Palestine
+debate), but I thought the subject worthy of an article on this blog.
+
+In 2012 Palestinian prisoners being held indefinitely in Israeli jails staged a
+massive and highly successful hunger strike that compelled the Israeli
+government and military forces to give into the Palestinians’ demands. This was
+an incredible achievement, but game theoretical literature on this topic is
+scant (actually it straight up does not exist). So lately I’ve been developing
+my own model to explain the prisoners’ and Israel’s actions.
+
+If you’re familiar with game theory and extensive form games, this will make
+the most sense to you, and I ask for feedback (good or bad) because this is not
+a fully developed model (I haven’t even gotten to the maths yet). Please note I
+had to make some inferences about each players’ preferences. These might not
+reflect reality, but they’re as close as I can assume at this point.
+
+hunger strike game
+
+The rudimentarily designed game above is quite long, so I divided it into two
+parts.
+
+To illustrate this game, assume Player 1 is a suspected Palestinian
+militant who is being held indefinitely in an Israeli prison without trial. He
+wants to protest these conditions and force the Israeli government to give him
+a fair trial. The prisoner is aware of hunger strikes as a tool because he has
+seen it successfully used in this prison. He is also aware that some hunger
+strikers die playing this game. He is willing to take that risk and is willing
+to die if Player 2 (Israel) does not give into his demands. For the purpose of
+simplicity, I will call the prisoner “He” and the Israeli government “She.”
+
+At the first node, Player 1 decides to go on a hunger strike (HS) or not (~HS).
+If he plays ~HS then status quo is maintained and the payouts are -10, 10. Here
+Player 2 gets 10 because she has interest in keeping the prisoner in prison and
+also has interest in preventing mass media coverage of yet another hunger
+strike in Israeli prisons. Player 1 gets -10 because he loses any potential
+media coverage that could draw public attention to his plight. He also must
+remain in prison without trial.
+
+If he plays HS the game moves on to the next node. At node 2 the Israeli
+government must decide whether to resist Player 1’s demands (R) or acquiesce
+and give into those demands (A). If she plays A the payouts are 5, 5. She
+receives 5 because she has given into Player 1’s demands but also prevented
+mass media coverage or a mass hunger strike. Player 1 gets 5 because his
+demands are met but no attention has been brought to his case. He still must go
+to trial with ineffective, indigent counselor.
+
+If she plays R the game moves on to the next node. At node 3 Player 1 again
+must decide between HS and ~HS. If he plays ~HS he ends his hunger strike and
+the game is over. The payouts are now -8, 8. He receives -8 because he is still
+in prison. His payouts are a little better than if He played ~HS in the first
+node because now there is media attention about his case. He gets a slightly
+better lawyer to represent him (even though there’s still no trial). Player 2
+receives 8 because she lost some of the payout from the first node but the
+amount of media attention is small.
+
+If he plays HS the game moves on to the next node. At node 4 Player 2 decides
+between R and A. If A, the game is over. Player 1 receives a trial and maybe a
+better lawyer. Payout is 7, 3. Media attention has diminished Player 2’s
+payout.
+
+At each node the payouts increasingly turn in the prisoner’s favor, alternating
+between negative values for ~HS and positive values for A. This diminishes the
+Israeli government’s payouts for each players’ respective plays. This gives
+Player 1 incentive to continue the game as long as possible. It also gives
+Player 2 incentive to end the game as soon as possible… just not yet. At most
+plays of HS, Player 2 can do better by playing R and hoping Player 1 plays ~HS
+at the next node. This changes as the game nears the point of Player 1’s death.
+At Player 2’s last point of play she will play A, giving into the hunger
+striker before Player 1 can play Death.
+
+This game can continue theoretically in perpetuity until Player 1 dies.
+Although it is unlikely to get this far because Player 2 will acquiesce before
+this point, the payouts at death are 10, 0. By now massive media coverage is
+following the strike, bringing discredit to the Israeli government. Other
+prisoners have started their own hunger strikes in solidarity. This and the
+fact that Player 1 becomes a martyr give Player 1 his best payout even though
+he is not alive to enjoy it.
+
+However, at the final node, when Player 1 knows death is imminent but survival
+is still possible, he can choose ~HS, which will make the payout 0, 2. Mass
+media coverage has brought a lot of attention to his plight, but he remains in
+an Israeli prison without trial. Not even his pro bono lawyer can help him now.
+
+In order to solve this game I am using backwards induction to find subgame
+perfect equilibrium. In sum Player 1 is choosing to die and Player 2 always
+plays R until the last node she can play.
+
+ 1. Player 1 plays HS (if Player 2 plays A at next node 5 > -10)
+ 2. Player 2 plays R (if Player 1 plays ~HS at next node 8 > 5)
+ 3. Player 1 plays HS (if Player 2 plays A at next node 7 > -8)
+ 4. Player 2 plays R (if Player 1 plays ~HS at next node 4 > 3)
+ 5. Player 1 plays HS (if Player 2 plays A at next node 9 > -4)
+ 6. Player 2 plays A (no matter what Player 1 does in final node 2 > 1, 2 > 0)
+ 7. Player 1 plays HS (and dies) (10 > 1)
+
+Equilibrium <HS, HS, HS, HS (and dies); R, R, A>
+
+Please note that this applies only to the Palestinian Prisoner case,
+particularly the 2012 mass hunger strike. Some hunger strikes have been less
+successful for the protestors. For example, in the case of the massive
+California prison hunger strike in 2013, the vast majority (~99.7%) of the
+29,000 protestors gave up their hunger strikes on their own very early in the
+game. The remaining ~0.3% gave up their hunger strikes when an appeals court
+threatened to begin force feeding (which is a different game).
+
+Posted in Political Science | Tagged Atheism, game theory, Israel, Palestine,
+political science, Religion | Leave a comment
+
+The Best Way to Convert an Atheist to Religion Is to Become an Atheist
+
+Posted on October 28, 2015 by Rayan Zehn
+
+The title above is probably not only provocative; it’s also highly
+counterintuitive. But please bear with me. Before I approach the religious part
+of this post—that it’s easier to convert an atheist to religion if you’re an
+atheist—I’m going to provide you with an example from another area we probably
+all have experience with.
+
+Let’s imagine you have a friend who is biased left or right politically. If
+left, they probably get their news from MSNBC or Think Progress or countless
+other left biased sources. If they are biased right, they probably get their
+news from Fox News. For the sake of this example, let’s strictly focus on a
+person who is right biased and who therefore watches Fox News more than any
+other source. If Fox News talk shows consistently report that same-sex marriage
+(for example) is wrong, then the right biased viewer will believe them. If the
+right biased viewer switches channels to MSNBC and hears Rachel Maddow argue
+that same-sex marriage is not wrong, then the right biased person is going to
+roll their eyes and disagree. I mean, right bias necessarily means they won’t
+trust someone with left bias. It makes perfect sense. This even goes so far as
+unbiased reporters. Let’s say a middle-of-the-road reporter says same-sex
+marriage is not wrong. The right biased person has no reason to trust her. But…
+
+Let’s say the right biased person switches back to Bill O’Reilly. And Bill
+changes his mind about same-sex marriage and informs his viewers that same-sex
+marriage is not wrong, then the right biased viewer must make sense of this
+unexpected information coming from a right biased source and will be much more
+inclined to re-evaluate his position. Because he trusts Bill, he is going to
+look at this unexpected position in new light, and it’s much more likely that
+he’ll change positions himself. At least, it’s much, much, much more likely
+than if he heard this information from Rachel Maddow.
+
+Speaking of Rachel Maddow, this goes a different way as well. Let’s say Rachel
+Maddow changed her opinion about same-sex marriage, what kind of belief updates
+would you expect from a right biased person? Precisely none because it would
+only serve to reinforce right biased positions, but that’s not really
+important.
+
+I’m sure you can see exactly where I’m going with this.
+
+If a religious person tells an atheist that Jesus loves him or Mohammad’s Quran
+is the truth, don’t expect any chance of conversion. The odds of a religious
+person converting most atheists who’ve been a non-believer for—let’s say—longer
+than a year is essentially zero. Atheists have no reason to believe a believer
+merely because the believer is speaking. Atheists and theists disagree on a
+fundamental aspect of all religions. But if—instead of a religious person
+explaining why god exists—an atheist changed her position on the existence of
+god, she would have more luck (slightly better than zero). The unexpected
+information will force some atheists to re-evaluate their own position and
+possibly change positions themselves.
+
+I’m expecting some level of criticism here, so let me try to predict those
+points and address them.
+
+This in no way means atheists are likely to convert merely because another
+atheist converted; it means, instead, that atheists are more likely to consider
+information from a converted former atheist than they are a lifelong theist.
+Then again, at the exact moment when the converted ex-atheist’s arguments sound
+identical to regular theist arguments, they’re going to lose the utility of
+being an ex-atheist. Atheists, therefore, are very likely to give the
+ex-atheist about two minutes before reverting back to atheist bias.
+
+There’s also the problem with lying. If a theist knows it’s easier to convert
+an atheist if they are an ex-atheist, then the theist is more likely to lie,
+pretending to be an ex-atheist. This happens so much that atheists should be
+naturally skeptical about claims of being a former atheist. And with that being
+said, the skepticism of such a claim is sufficient enough to dismantle my
+entire argument above.
+
+Then again, let’s say your best friend is a lifelong atheist who you’ve known
+and talked about religion with for twenty years. Let’s also say he converted to
+[some religion] tomorrow. This is where you are more likely to hear him out.
+He’s not some random evangelist with dubious claims of former atheism. This is
+your best friend. And the same might be true for some trusted non-best friends.
+If Richard Dawkins came out a Catholic tomorrow, I think most atheists would be
+willing to hear him out. He’s a smart guy; he might have a point.
+
+Post script: We can prove this with the Bayesian Theorem.
+
+Posted in Political Science | Tagged Atheism, Christianity, game theory, God,
+Religion | 3 Comments
+
+A Quick Quote from a Research Project I’m Working On
+
+Posted on October 25, 2015 by Rayan Zehn
+
+One of the main projects I’m tasked with this semester is to empirically
+analyze Islam in contemporary Europe since March 11, 2004. To do this I’m using
+World Values Survey data. Doing this as someone who is biased against Islam is
+particularly challenging, which is why I am undertaking this study; I want to
+prove to myself that I can be objective despite my biases. And wouldn’t you
+know it? The facts don’t fit my beliefs. Instead the facts have forced me to
+adopt better beliefs.
+
+I’ll be writing up a brief post about my findings in December, but for now I
+leave you with a quote from my research that perfectly sums up my findings.
+
+    Secular Europe is not becoming more Islamic; instead, Islamic Europe is
+    becoming more secular.
+
+All it takes is a little security and a few new freedoms, and radical Islam
+melts away like butter.
+
+Of course, radical Islam is still a thing in Europe, but it’s the product of
+something else, which I will address later.
+
+Posted in Politics | Tagged Atheism, Islam, political science, radical Islam,
+Religion | Leave a comment
+
+Want to Legally Stop Evangelism? Become the State
+
+Posted on October 23, 2015 by Rayan Zehn
+
+I work for a publicly funded university. My office is small and windowless and
+has three computers shared between considerably more than three grad students.
+Whenever I feel cramped or frustrated I go outside and sit in the sun, watching
+all the undergrads go about their busy lives. I’m very much a people watcher,
+nostalgic for an easier life when my only stress was a chemistry exam. I enjoy
+living vicariously through them, spying on their academic lives for five
+minutes at a time. But this puts me directly in their paths, and some of these
+students are evangelical Christians who pick up on my curiosity, perhaps
+mistaking it for a search?
+
+One young man in particular often uses the commons area right outside my
+building to spend time with young, impressionable students who perhaps are
+searching for something. That’s ok. He has every right to spread his religious
+beliefs…
+
+…but he can’t have that conversation with me. I mean—literally—I’m not legally
+allowed to have that conversation with him.
+
+You see, the wall of separation is not merely to prevent evangelical Christians
+from using state institutions as a platform for proselytizing; it also prevents
+me from using state institutions as a platform for telling them they’re wrong.
+
+In my case, and from a legal perspective, I am the state. And, much like
+Christian or Muslim, et al, teachers can lose their jobs if they try to convert
+their students, I can lose my job if I attempt to shoot down students’
+religious beliefs.
+
+When it comes to my position at my university I am neither religious nor
+atheist.
+
+I’ve purposely framed much of this post in a context that should be a sigh of
+relief for religious students who wish to use the university as a means of
+conversion. You, as a student, have every right to do that, but my right to
+tell you you’re wrong ends the moment I arrive on campus to perform my official
+duties. But there’s a downside; I legally cannot have these conversations with
+you, which means I am legally required to shoot down any attempts to convert
+me before they start. If you ask me if I’ve heard about your faith, please
+don’t be offended if I simply walk away. It’s not worth losing my job to tell
+you I don’t believe in god.
+
+This obviously makes things very easy for me. The young man I mentioned above?
+Thankfully he took my decline with stride. On the other hand, however, I have
+had this conversation with him. And he knows I am not interested in his
+religion. But I didn’t tell him at the university; I told him when he knocked
+on my door trying to sell god.
+
+Posted in Uncategorized | Tagged Atheism, Christianity, God, Religion | 1
+Comment
+
+Using Bayes’ Rule to Disprove Jesus Is a Double-Edged Sword
+
+Posted on October 21, 2015 by Rayan Zehn
+
+Last year historian Richard Carrier published On the Historicity of Jesus: Why
+We Might Have Reason for Doubt. While I haven’t read it (and therefore don’t
+plan on critiquing it now), it is on my reading list. As a grad student who
+messes around with Bayes’ Rule, it’s interesting to see its applications. But
+I’m especially skeptical of Carrier’s book because, while Bayes’ Rule is right,
+we can use it to make some very wrong assumptions. And we can create some very
+contradictory states of the world.
+
+Again, while I haven’t read Carrier’s book, I can probably safely assume his
+equation looks something like this:
+
+bayes rule2
+
+Although I could be wrong wrong, and if I am please correct me. I’m assuming
+he’s using this equation because it posits a dichotomy; either Jesus existed or
+he did not (that’s the bottom part of equation). Basically, applied to the
+historicity of Jesus, this equation determines the probability of Jesus
+existing given no historical evidence for his existence. We can work this out
+quite easily, but we don’t have to because I’m certain we’d find the answer is
+essentially zero. This is probably the kind of reasoning Carrier uses in his
+book.
+
+And to stress yet a third time, this is not a critique of his book because I
+haven’t read it. But rather, this post is to serve as a warning to you
+mathematicians out there who want to use these equations as proof. It can be
+very misleading if you’re not careful.
+
+To put this into another context let’s look at the bible. There are indeed many
+instances of the bible getting something right, be it moral, ethical,
+historical, or even scientific (Jeremiah 33:22, for example, or incalculable
+sand and stars). We can determine the likelihood that god exists given these
+predictions or estimations. If we ignore what the bible got wrong, we can very
+easily prove the bible is very likely to be inspired by god. Essentially we can
+prove we live in a world where Jesus exists with Bayes’ Rule if we’re willing
+to go down that rabbit hole.
+
+I hope you can see the contradiction. Bayes’ Rule can simultaneously be used to
+prove that Jesus didn’t exist and that Jesus did exist at the same time! But
+the good news is that once we do that we’re left right where we started; either
+Jesus existed or he didn’t. Both can’t be true at the same time, no matter what
+Bayes’ Rule proves. So the moral is: Be very careful with Bayes’ Rule.
+
+Eventually I’ll get around to Carrier’s book. Maybe he did some more advanced
+math, making this article even less applicable to him. And if that’s the case,
+I’m sure I’ll enjoy reading and checking his work.
+
+Posted in Uncategorized | Tagged Atheism, Christianity, God, Jesus, Religion,
+the bible | Leave a comment
+← Older posts
+
+  • Search for: [                    ] [Search]
+  • Recent Posts
+
+      □ Santa Myth is Not the Same as Religious Myths
+      □ My Edited Islamic State Flag Is Now More Popular than Allah Himself
+      □ Hunger (Strikes) Games: Palestinian Prisoners in Israel
+      □ The Best Way to Convert an Atheist to Religion Is to Become an Atheist
+      □ A Quick Quote from a Research Project I’m Working On
+  • Recent Comments
+
+    [7ab2] Dan on Neil deGrasse Tyson’s 7%…
+    [b321] Vincent Pierce on According to the bible, we liv…
+    [36a7] agrudzinsky on Bible Contradictions #5: Who s…
+    [63ed] Adam on Quran Contradictions #4: Is al…
+    [18e6] Shane on Bible Contradictions #5: Who s…
+  • Archives
+
+      □ December 2015
+      □ November 2015
+      □ October 2015
+      □ September 2015
+      □ August 2015
+      □ July 2015
+      □ June 2015
+      □ May 2015
+      □ April 2015
+      □ March 2015
+      □ February 2015
+      □ January 2015
+      □ December 2014
+      □ November 2014
+      □ October 2014
+      □ September 2014
+      □ August 2014
+      □ July 2014
+      □ June 2014
+      □ May 2014
+      □ April 2014
+      □ March 2014
+      □ February 2014
+      □ January 2014
+      □ December 2013
+  • Categories
+
+      □ Atheism
+      □ Bible Contradictions
+      □ Music
+      □ Political Science
+      □ Politics
+      □ Psychology
+      □ Quran Contradictions
+      □ Research
+      □ Satire
+      □ Science
+      □ Science Sundays
+      □ Self-Immolation
+      □ skepticism
+      □ Uncategorized
+  • Meta
+
+      □ Register
+      □ Log in
+      □ Entries RSS
+      □ Comments RSS
+      □ WordPress.com
+  • 
+
+      □ [fe]
+
+  • Search for: [                    ] [Search]
+  • Recent Posts
+
+      □ Santa Myth is Not the Same as Religious Myths
+      □ My Edited Islamic State Flag Is Now More Popular than Allah Himself
+      □ Hunger (Strikes) Games: Palestinian Prisoners in Israel
+      □ The Best Way to Convert an Atheist to Religion Is to Become an Atheist
+      □ A Quick Quote from a Research Project I’m Working On
+  • Recent Comments
+
+    [7ab2] Dan on Neil deGrasse Tyson’s 7%…
+    [b321] Vincent Pierce on According to the bible, we liv…
+    [36a7] agrudzinsky on Bible Contradictions #5: Who s…
+    [63ed] Adam on Quran Contradictions #4: Is al…
+    [18e6] Shane on Bible Contradictions #5: Who s…
+  • Archives
+
+      □ December 2015
+      □ November 2015
+      □ October 2015
+      □ September 2015
+      □ August 2015
+      □ July 2015
+      □ June 2015
+      □ May 2015
+      □ April 2015
+      □ March 2015
+      □ February 2015
+      □ January 2015
+      □ December 2014
+      □ November 2014
+      □ October 2014
+      □ September 2014
+      □ August 2014
+      □ July 2014
+      □ June 2014
+      □ May 2014
+      □ April 2014
+      □ March 2014
+      □ February 2014
+      □ January 2014
+      □ December 2013
+  • Categories
+
+      □ Atheism
+      □ Bible Contradictions
+      □ Music
+      □ Political Science
+      □ Politics
+      □ Psychology
+      □ Quran Contradictions
+      □ Research
+      □ Satire
+      □ Science
+      □ Science Sundays
+      □ Self-Immolation
+      □ skepticism
+      □ Uncategorized
+  • Meta
+
+      □ Register
+      □ Log in
+      □ Entries RSS
+      □ Comments RSS
+      □ WordPress.com
+
+The Atheist Papers
+The Twenty Ten Theme. Create a free website or blog at WordPress.com.
+The Atheist Papers
+Create a free website or blog at WordPress.com. The Twenty Ten Theme.
+Follow
+
+Follow “The Atheist Papers”
+
+Get every new post delivered to your Inbox.
+
+Join 320 other followers
+
+[Sign me up]
+
+Build a website with WordPress.com
+[                    ] Post to []
+Cancel [Reblog Post] 
+[b]

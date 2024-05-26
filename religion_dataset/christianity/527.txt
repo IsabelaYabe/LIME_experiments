@@ -1,0 +1,371 @@
+                              A Site Inspired By
+
+              The Encyclopedia of New Testament Textual Criticism
+
+                           Conceived by Rich Elliott
+                         of Simon Greenleaf University
+                             reelliott@verizon.net
+
+The Encyclopedia attempts to cover all aspects of New Testament Textual
+Criticism in an orderly and fair fashion.
+
+This page is not affiliated with the print Encyclopedia, and there is no
+particular reason to think the articles here will appear in the Encyclopedia
+should it ever be published. I just thought the idea was so good that I decided
+to create my own version of some of the articles pending the appearance of the
+real thing. It should also be noted that I (Robert Waltz) am not a recognized
+textual critic, and that the information on this page has not been peer
+reviewed. While I have done all I could to ensure its accuracy, this page
+probably should not be used as a bibliographic reference.
+
+This page was last updated January 23, 2007. This is, believe it or not, the
+tenth anniversary of this site. No wonder the updates are getting slower....
+
+In the lists which follow, links in PLAIN TEXT point to major articles. Links
+shown in italic lead to short definitions.
+
+There are many technical issues associated with this site, mostly relating to
+fonts and images. For details on how best to use this site, see the page
+devoted to Technical issues.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+A very brief (and inadequate) introduction to textual criticism can be found
+here.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Articles available so far:
+
+Go directly to: | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P
+| Q | R | S | T | U | V | W | X-Y-Z |
+
+Symbols
+
+  • [ ] (brackets)
+
+A
+
+  • Abbreviations: see Nomina Sacra
+  • abschrift
+  • al
+  • Aland Categories: see Categories
+  • Alexandrian Critical Symbols
+  • Alexandrian Text: see Text-Types and Textual Kinship: Alexandrian Text and
+    the Table of Text-Types
+  • Ammonian Sections: See Divisions of the Text: The Ammonian Sections and
+    Eusebian Canon Tables
+  • Anglo-Saxon Version: see Versions: Anglo-Saxon
+  • A Sample Critical Apparatus: Colossians
+  • Arabic Version: see Versions: Arabic
+  • Archetypes and Autographs
+  • Armenian Version: see Versions: Armenian
+  • Assured Results
+  • Authorized Version: see Textus Receptus: The King James Version
+  • Autograph: see Archetypes and Autographs
+
+B
+
+  • Short Biographies of textual critics
+  • Block Mixture
+  • Bohairic Version: see Versions: Bohairic
+  • Books and Bookmaking Updated
+  • Bover's Text: see Critical Editions: Bover
+  • The Byzantine Priority Position
+  • Byzantine Text: see Text-Types and Textual Kinship: Byzantine Text and the
+    Table of Text-Types; also the Byzantine Priority Position
+
+C
+
+  • Caesarean Text: see Text-Types and Textual Kinship: Caesarean Text and the
+    Table of Text-Types
+  • Canons of Criticism
+  • The Alands' Manuscript Categories
+  • Catena: see under Commentary manuscripts
+  • Catholics Manuscript Descriptions: see Manuscripts Text-Types -- Catholics
+  • Chemicals and Chemical Reagents
+  • Church Fathers: see Fathers
+  • Claremont Profile Method
+  • Classical Textual Criticism: see Non-Biblical Textual Criticism
+  • Codex
+  • Collations
+  • Colophons: see Scribes and Colophons
+  • A Sample Critical Apparatus: Colossians
+  • Columns and page arrangement
+  • Commentary manuscripts
+  • Conjectures and Conjectural Emendation
+  • Conversions: see Manuscript Numbers and Conversion Table
+  • Coptic Versions: see Versions: Coptic
+  • Copy Texts
+  • Correctors
+  • Critical Editions
+  • Alexandrian Critical Symbols
+  • Cryptography, Ciphers, and Hidden Texts Updated
+
+D
+
+  • Dates and Dating Systems
+  • Destruction and Reconstruction
+  • Dittography
+  • Divisions of the Text
+
+E
+
+  • easily confused letters
+  • Eclecticism
+  • Editions of the Greek New Testament: see Critical Editions; also The Textus
+    Receptus
+  • emendatio: see under Non-Biblical Textual Criticism: emendatio
+  • Emendation: see Conjectures and Conjectural Emendation
+  • Ethiopic Version: see Versions: Ethiopic
+  • Eusebian Canons: See Divisions of the Text: The Ammonian Sections and
+    Eusebian Canon Tables
+  • Euthalian Edition: See Divisions of the Text: The Euthalian Apparatus
+  • Evolutionary Biology: See Genetics
+  • examinatio: see under Non-Biblical Textual Criticism: examinatio
+  • Examples of Textual Criticism
+  • exemplar
+  • External Evidence: see also Canons of Criticism: External Critical Rules
+    and Text-Types and Textual Kinship
+
+F
+
+  • f^1; see also manuscript 1
+  • f^13; see also manuscript 13
+  • The Fallacy of Number
+  • Fathers Updated
+  • Folk Music and Song; Folklore: see Oral Transmission
+
+G
+
+  • The Genealogical Method
+  • Genetics, Evolutionary Biology, and Evolutionary Variation NEW
+  • Georgian Version: see Versions: Georgian
+  • Gospels Manuscript Descriptions: see Manuscripts Text-Types -- Gospels
+  • Gothic Version: see Versions: Gothic
+
+H
+
+  • h.a.: see under homoioteleuton
+  • Haplography
+  • Hebrew Textual Criticism: see Old Testament Textual Criticism
+  • History of the Text
+  • Hodges & Farstad's Text: see Critical Editions: Hodges and Farstad
+  • homoioarcton
+  • homoioteleuton
+  • h.t. (and see under homoioteleuton)
+
+I
+
+  • Illuminated Manuscripts
+  • imitations
+  • Indictions: see Dates and Dating Systems: The Indictions
+  • Inherent Probability, Transmissional Probability, and Transcriptional
+    Probability NEW
+  • Internal Evidence; see also Canons of Criticism: Internal Critical Rules
+  • Introduction to textual criticism
+
+J
+
+  • The Jerusalem Colophon
+
+K
+
+  • Kephalaia: See Divisions of the Text: Kephalaia, Titloi
+  • King James Version: see Textus Receptus: The King James Version
+
+L
+
+  • Lacuna
+  • Latin Versions: see Versions: Latin
+  • Lectionaries Updated
+  • Lemma (lem)
+  • Major manuscript Libraries
+  • Lines and Lineation: see Divisions of the Text: Stichoi and Stichometry
+  • Lipography
+  • Local-Genealogical Method
+  • Local Texts
+
+M
+
+  • M (Majority Text Symbol)
+  • Manuscript Dates: see Dates and Dating Systems
+  • Manuscript Categories: see Categories
+  • Manuscript Numbers and Conversion Table
+  • Manuscript Text-Types: * Gospels * Paul * Catholics *
+  • Manuscript Descriptions: * Papyri * Uncials * Minuscules: * 1-500 *
+    501-1000 * 1001-1500 * 1501-2000 * 2001 and up* Updated
+  • Mathematics Updated
+  • Memes NEW
+  • Merk's Text: see Critical Editions: Merk
+  • Modern-language Translations: See: Modern-languages Translations and
+    textual criticism
+  • Most Uncertain Readings: Where the Critical Editions Divide Updated
+  • Music and Musical Notation: see Neumes
+
+N
+
+  • Nestle Text: see Critical Editions: Nestle Text and Nestle-Aland^26
+  • Nomina Sacra
+  • Non-Biblical Textual Criticism Updated
+  • Non-Interpolations: see Western Non-Interpolations
+  • Neumes
+
+O
+
+  • Old Church Slavonic Version: see Versions: Old Church Slavonic
+  • Old Latin Versions: see Versions: Old Latin
+  • Old Syriac Versions: see Versions: Old Syriac
+  • Old Testament Quotations
+  • Old Testament Textual Criticism Updated
+  • Opisthograph
+  • Oral Transmission Updated
+  • Orihons
+  • Ostraca and Talismans Updated
+
+P
+
+  • Paleography
+  • Palimpsest
+  • Patristic Evidence: see Fathers
+  • Paul Manuscript Descriptions: see Manuscript Text-Types -- Paul
+  • pc
+  • pm
+  • Praxis of Textual Criticism: see Examples of Textual Criticism
+  • Primary Version
+  • Profile Method: see Claremont Profile Method
+  • Proof Texts: see Copy Texts
+  • Purple Uncials
+
+Q
+
+  • Quantitative Method
+  • Quire
+
+R
+
+  • Received Text: see Textus Receptus
+  • recensio: see under Non-Biblical Textual Criticism: recensio
+  • recension
+  • recto
+  • rell
+
+S
+
+  • Sahidic Version: see Versions: Sahidic
+  • Scribes and Colophons Updated
+  • Scriptorium
+  • selectio: see under Non-Biblical Textual Criticism: selectio
+  • Singular Reading
+  • Stemma, Stemmatics Updated
+  • Souter's Text: see Critical Editions: Souter
+  • Stichoi and Stichometry: see Divisions of the Text: Stichoi and Stichometry
+  • Supplements
+  • Syriac Versions: see Versions: Syriac
+
+T
+
+  • Talismans: see Ostraca and Talismans
+  • Tasker's Text: see Critical Editions: Tasker
+  • Text-Types and Textual Kinship Updated
+  • Theology and Textual Criticism Updated
+  • Tischendorf's Text: see Critical Editions: Tischendorf
+  • The Textus Receptus
+  • Titloi: See Divisions of the Text: Kephalaia, Titloi
+  • Modern-language Translations and textual criticism
+  • [Inherent Probability,] Transmissional Probability, and Transcriptional
+    Probability NEW
+
+U
+
+  • Uncial Script
+  • United Bible Societies Text: see Critical Editions: United Bible Societies
+
+V
+
+  • Vaticanus's Chapters: See Divisions of the Text: The Divisions in Vaticanus
+  • vid
+  • v.l.
+  • Versions Updated
+  • verso
+  • von Soden's Textual Theory: see Text-Types and Textual Kinship: Appendix
+    III: Von Soden's Textual System
+  • Vulgate (Latin) Version: see Versions: Vulgate
+
+W
+
+  • Western Non-Interpolations
+  • Westcott & Hort's Text: see Critical Editions: Westcott & Hort
+  • "Western" Text: see Text-Types and Textual Kinship: Western Text and the
+    Table of Text-Types
+  • Ancient Writing Materials Updated
+
+X-Y-Z
+
+  • Year of the World: see Dates and Dating Systems: The Year of the World
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Links to other Textual Criticism sites
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This page has been visited [Count] times since January 1, 1997
+
+And you thought nobody cared about textual criticism.
+(OK, so maybe you're right....)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Thanks to the folks who have made corrections, suggestions, and additions,
+including Jean Valentin for photographs; Ulrich Schmid for information on
+Wachtel; Wieland Willker for proofreading corrections; Ulrich Schmid for
+information on manuscripts, Michael Holmes and Jimmy Adair for source
+materials; Ulrich Schmid, Jean Valentin, Christopher Eyton, and Vincent Broman
+for information on the Fathers; and anyone else whose names I have forgotten.
+
+Send mail to page creator Robert B. Waltz (but please, only e-mail me with
+suggestions or additional information; I can't answer all your questions, and
+chances are any answers I know are in here anyway.) If you would like to be
+added to a list informing you of updates to this page, drop me a line to that
+effect.
+
+NOTE: If you have any intention of telling me that I am damned for engaging in
+textual criticism, or not using the King James Bible, please don't bother. I've
+already been told repeatedly -- as well as being told that science, thought,
+information, and everything this side of writing is a clear sin.
+
+I have a long, nasty reply I'll send if you do tell me that, but let me make
+one brief appeal: Whatever the authority of the New Testament text, that
+authority surely lies in the original text, not the late manuscript copies, let
+alone a translation made from them. One may disagree over what constitutes the
+original text. But surely we should use ever tool at our disposal to try to
+learn what it said.
+
+This site is devoted to relatively scientific criticism -- that based on
+analysis of data rather than faith. I've had many people tell me in some form
+or other that textual criticism should be based on faith -- their faith. I
+would counter-argue that people's faith differs, and if every denomination, or
+every reader, has a different text, it produces real problems. (To put it
+mildly.) Scientific criticism is at least relatively repeatable....
+
+In this regard, as in so much else, Fenton John Anthony Hort gives us much
+wisdom regarding textual criticism: "[In] the highest literature, and notably
+in the Bible, all readers are peculiarly liable to the fallacy of supposing
+that they understand the author's reading and purpose because they undertand
+some part or aspect of it, which they take for the whole, and hence, in judging
+variants of text, they are led unawares to disparage any word or phrase which
+owes its selection by the author to those elements of thought present in his
+mind which they have failed to percieve or to feel." (Introduction [and]
+Appendix, S:27).
+
+I did add one long and controversial article in this revision: About genetics
+and evolution. I know some will disagree not only with the topic but with its
+inclusion -- though I did my best to produce an article that's useful even if
+you don't agree with evolution, and to explain why I did so. But at some point
+I had to make a decision -- and it appears to me that the insights evolution
+offers outweigh the risk of controversy it causes. On an issue so
+controversial, I know others will disagree. Violently. (The whole issue drives
+me nuts.) Again, I can only request that you not write to me. Unless you have
+actual science to share (this does not include quotations from Darwin's Black
+Box or anything involving Irreducible Complexity, which have been
+comprehensively refuted), let's spare both our blood pressure, OK? If you don't
+believe in science, then just skip the article. Please?

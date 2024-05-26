@@ -1,0 +1,33 @@
+bg image(bgblue2.jpg)
+ 
+
+[logo]           [knightstitle]
+                 Pope Pius XII Council 5045
+                   654 S. 86th St.   Omaha, NE 68114   402-399-8439  
+                 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Officers]       [councilinfo]
+                 The Pope Pius XII Council 5045 is associated with Christ the King
+[Membersh]       Catholic Church in Omaha, Nebraska at 654 S. 86th Street.  The
+                 Grand Knight for 2009-2010 is Rod Mach and the Financial
+[activiti]       Secretary is Mark A. Anderson. You can contact the Knights by
+                 phone at either 402-399-8439 (Jim Korff) or Mark Anderson
+[activiti]       393-6575
+
+                 [councilmeetings]
+                 General Membership Meetings - KC Room, Christ the King Church the
+                 Third Monday each month at 7:00pm.
+
+                 Officers Meetings - KC Room, Christ the King Church the first
+                 Monday each month at 7:00pm.
+
+                 [about]
+                 Pope Pius XII Council 5045 was chartered October 13, 1960, the
+                 Rev Msgr. Robert P. Hupp being instrumental in the forming of the
+                 council.  The council was one of the first in the United States
+                 to be associated with just one parish.  The Pope Pius XII Council
+                 works closely with the Christ the King Parish in Omaha, providing
+                 funds for various projects, supporting school activities, the
+                 members being active participants in their parish.
+
+[footer]
+

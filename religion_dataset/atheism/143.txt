@@ -1,0 +1,253 @@
+  • Listen Now
+  • Like
+  • Follow
+  • Donate
+
+Public Reality Radio
+
+  • Listen
+      □ Listen Now
+      □ Schedule
+      □ Mobile Apps
+  • Programs
+    loading
+
+    All Programs
+
+    [{"program_id":"190","title":"Against the
+    Grain","title_key":"againstthegrain","logo":"Against_the_Grain.PNG","logo_matte_color":"c6cfd1","category_id":"4"},
+    {"program_id":"28","title":"Alternative
+    Radio","title_key":"alternativeradio","logo":"Alternative_Radio_2.PNG","logo_matte_color":"000000","category_id":"5"},
+    {"program_id":"186","title":"Attitude","title_key":"attitude","logo":"Attitude.PNG","logo_matte_color":"b8b2b2","category_id":"4"},
+    {"program_id":"142","title":"Background Briefing with Ian
+    Masters","title_key":"backgroundbriefingwithianmasters","logo":"Background_Briefing.PNG","logo_matte_color":"000000","category_id":"4"},
+    {"program_id":"168","title":"Behind the
+    News","title_key":"behindthenews","logo":"Behind_the_News_1.png","logo_matte_color":"944e0c","category_id":"4"},
+    {"program_id":"2","title":"Between the
+    Lines","title_key":"betweenthelines","logo":"Between_the_Lines.jpg","logo_matte_color":"000000","category_id":"4"},
+    {"program_id":"115","title":"Big Picture with Thom
+    Hartmann","title_key":"bigpicturewiththomhartmann","logo":"Big_Picture.jpg","logo_matte_color":"000000","category_id":"4"},
+    {"program_id":"191","title":"Black Agenda
+    Radio","title_key":"blackagendaradio","logo":"Black_Agenda_Radio.PNG","logo_matte_color":"000000","category_id":"4"},
+    {"program_id":"215","title":"Boiling Kettles,
+    The","title_key":"boilingkettlesthe","logo":"rsz_boiling_kettles.png","logo_matte_color":"050000","category_id":"4"},
+    {"program_id":"211","title":"BradCast","title_key":"bradcast","logo":"BradCast_RedTide_Election2014_110514.jpg","logo_matte_color":null,"category_id":"4"},
+    {"program_id":"75","title":"Center
+    Stage","title_key":"centerstage","logo":"Center_Stage.png","logo_matte_color":"000000","category_id":"7"},
+    {"program_id":"5","title":"CounterSpin","title_key":"counterspin","logo":"CounterSpin.png","logo_matte_color":"3e4e5c","category_id":"4"},
+    {"program_id":"121","title":"David Pakman Show,
+    The","title_key":"davidpakmanshowthe","logo":"David_Pakman.jpg","logo_matte_color":"ffffff","category_id":"4"},
+    {"program_id":"8","title":"Democracy
+    Now","title_key":"democracynow","logo":"Democracy_Now.gif","logo_matte_color":"000000","category_id":"4"},
+    {"program_id":"217","title":"Drive For The
+    Dream","title_key":"driveforthedream","logo":"dftd_logo_3000.jpg","logo_matte_color":null,"category_id":"5"},
+    {"program_id":"162","title":"Economic
+    Update","title_key":"economicupdate","logo":"Economic_Update.png","logo_matte_color":"31b04a","category_id":"4"},
+    {"program_id":"216","title":"Eupraxsophy","title_key":"eupraxsophy","logo":"Eupraxsophy_170x170.jpeg","logo_matte_color":null,"category_id":"4"},
+    {"program_id":"128","title":"F Word,
+    The","title_key":"fwordthe","logo":"TheFWord2.PNG","logo_matte_color":"000000","category_id":"5"},
+    {"program_id":"99","title":"Faith and
+    Reason","title_key":"faithandreason","logo":"faith_and_reason_logo4.jpg","logo_matte_color":"139e46","category_id":"11"},
+    {"program_id":"152","title":"Flashpoints","title_key":"flashpoints","logo":"flashpoints.jpg","logo_matte_color":"b80d60","category_id":"4"},
+    {"program_id":"34","title":"Freethought
+    Radio","title_key":"freethoughtradio","logo":"Freethought_Radio.PNG","logo_matte_color":"000000","category_id":"7"},
+    {"program_id":"143","title":"Humanist Hour,
+    The","title_key":"humanisthourthe","logo":"Humanist_Hour.png","logo_matte_color":"694eed","category_id":"7"},
+    {"program_id":"197","title":"In
+    Depth","title_key":"indepth","logo":"In_Depth.PNG","logo_matte_color":"0a0202","category_id":"13"},
+    {"program_id":"178","title":"In Our Time with Melvyn
+    Bragg","title_key":"inourtimewithmelvynbragg","logo":"In_Our_Time.jpg","logo_matte_color":"69c20a","category_id":"10"},
+    {"program_id":"15","title":"Jimmy Dore Show,
+    The","title_key":"jimmydoreshowthe","logo":"Jimmy_Dore.jpg","logo_matte_color":"e60000","category_id":"4"},
+    {"program_id":"36","title":"Law and
+    Disorder","title_key":"lawanddisorder","logo":"Law_and_Disorder.jpg","logo_matte_color":"3f57a3","category_id":"5"},
+    {"program_id":"123","title":"Letters and
+    Politics","title_key":"lettersandpolitics","logo":"Letters_and_Politics.PNG","logo_matte_color":"9bc064","category_id":"4"},
+    {"program_id":"37","title":"Making
+    Contact","title_key":"makingcontact","logo":"Making_Contact.PNG","logo_matte_color":"c45e44","category_id":"5"},
+    {"program_id":"155","title":"Matthew Filipowicz Show,
+    The","title_key":"matthewfilipowiczshowthe","logo":"Matthew_Filipowicz_Square.jpg","logo_matte_color":"000000","category_id":"4"},
+    {"program_id":"39","title":"Michael Slate Show,
+    The","title_key":"michaelslateshowthe","logo":"Michael_Slate.png","logo_matte_color":"9C9E93","category_id":"5"},
+    {"program_id":"219","title":"PaleoRadio","title_key":"paleoradio","logo":"PaleoRadio_v2.jpg","logo_matte_color":"000000","category_id":"4"},
+    {"program_id":"60","title":"Point of
+    Inquiry","title_key":"pointofinquiry","logo":"Point_of_Inquiry.jpg","logo_matte_color":"e8ae1c","category_id":"6"},
+    {"program_id":"169","title":"Politics and Reality Radio with Joshua
+    Holland","title_key":"politicsandrealityradiowithjoshuaholland","logo":"Politics_and_Reality.PNG","logo_matte_color":"0a0101","category_id":"4"},
+    {"program_id":"206","title":"Ralph Nader Radio
+    Hour","title_key":"ralphnaderradiohour","logo":"RALPH_NADER_YOUTUBE_STILL.jpg","logo_matte_color":null,"category_id":"4"},
+    {"program_id":"213","title":"Rationally
+    Speaking","title_key":"rationallyspeaking","logo":"rationally_speaking.jpg","logo_matte_color":"fcf9f9","category_id":"9"},
+    {"program_id":"174","title":"Richard Fowler Show,
+    The","title_key":"richardfowlershowthe","logo":"Richard_Fowler_Show.PNG","logo_matte_color":"0db2db","category_id":"4"},
+    {"program_id":"63","title":"Sea Change
+    Radio","title_key":"seachangeradio","logo":"seachange2.png","logo_matte_color":"adfac5","category_id":"6"},
+    {"program_id":"199","title":"Sojourner
+    Truth","title_key":"sojournertruth","logo":"Sojourner_Truth_1.PNG","logo_matte_color":"050404","category_id":"5"},
+    {"program_id":"166","title":"Southpaws","title_key":"southpaws","logo":"SouthpawsSmall.jpg","logo_matte_color":"ffffff","category_id":"11"},
+    {"program_id":"185","title":"Sprouts","title_key":"sprouts","logo":"Sprouts_1.jpg","logo_matte_color":"54f25a","category_id":"5"},
+    {"program_id":"22","title":"Talk Nation
+    Radio","title_key":"talknationradio","logo":"Talk_Nation.jpg","logo_matte_color":"fff703","category_id":"4"},
+    {"program_id":"179","title":"Thinking
+    Allowed","title_key":"thinkingallowed","logo":"Thinking_Allowed.PNG","logo_matte_color":"80c920","category_id":"10"},
+    {"program_id":"218","title":"This Is
+    Hell","title_key":"thisishell","logo":"ThisIsHellLogo.jpg","logo_matte_color":null,"category_id":"4"},
+    {"program_id":"127","title":"This Show Is So
+    Gay","title_key":"thisshowissogay","logo":"This_Show_Is_So_Gay.jpg","logo_matte_color":"e831d9","category_id":"5"},
+    {"program_id":"42","title":"This Way
+    Out","title_key":"thiswayout","logo":"This_Way_Out.jpg","logo_matte_color":"2bedd6","category_id":"5"},
+    {"program_id":"200","title":"Thom Hartmann
+    Program","title_key":"thomhartmannprogram","logo":"Thom_Hartmann_Program.PNG","logo_matte_color":"ebfaf9","category_id":"4"},
+    {"program_id":"23","title":"Thomas Jefferson
+    Hour","title_key":"thomasjeffersonhour","logo":"Thomas_Jefferson_Hour.jpg","logo_matte_color":"000000","category_id":"10"},
+    {"program_id":"160","title":"Union Edge,
+    The","title_key":"unionedgethe","logo":"Union_Edge_1.jpg","logo_matte_color":"1d2eed","category_id":"5"},
+    {"program_id":"195","title":"We Do The
+    Work","title_key":"wedothework","logo":"We_Do_The_Work_Thumb_Nail_Logo_2-2015_resized_to_square.jpg","logo_matte_color":"a6c932","category_id":"4"},
+    {"program_id":"180","title":"What's the Frequency, Kenneth?
+    ","title_key":"whatsthefrequencykenneth","logo":"Whats_the_Frequency_Kenneth.PNG","logo_matte_color":"730606","category_id":"4"},
+    {"program_id":"151","title":"Why?
+    Radio","title_key":"whyradio","logo":"Finaldesign.jpg","logo_matte_color":"d4d4d4","category_id":"7"},
+    {"program_id":"189","title":"Will Roberts' Weekly
+    Telegram","title_key":"willrobertsweeklytelegram","logo":"Will_Roberts.PNG","logo_matte_color":"660606","category_id":"4"},
+    {"program_id":"44","title":"Wings","title_key":"wings","logo":"Wings.png","logo_matte_color":"6884de","category_id":"5"},
+    {"program_id":"210","title":"Women
+    Libs","title_key":"womenlibs","logo":"rsz_women_libs.png","logo_matte_color":"080000","category_id":"11"},
+    {"program_id":"161","title":"Work in Progress
+    Radio","title_key":"workinprogressradio","logo":"Work_in_Progress_Radio.PNG","logo_matte_color":"000000","category_id":"11"},
+    {"program_id":"198","title":"World Socialist Web
+    Site","title_key":"worldsocialistwebsite","logo":"WSWS.jpg","logo_matte_color":"1156b0","category_id":"5"},
+    {"program_id":"167","title":"Your Weekly
+    Constitutional","title_key":"yourweeklyconstitutional","logo":"Your_Weekly_Constitutional.jpg","logo_matte_color":"fcf9f9","category_id":"5"},
+    {"program_id":"208","title":"Zero Hour with RJ
+    Eskow","title_key":"zerohourwithrjeskow","logo":"zero_hour.jpg","logo_matte_color":"ed3d3d","category_id":"4"}]
+      □ [                    ]
+      □ News & Analysis
+      □ Religion & Spirituality
+      □ Social Justice
+      □ History
+      □ Secular Ethics
+      □ Science & Environment
+      □ WPRR Original Shows
+      □ Local
+  • Blog
+  • Support
+  • About
+      □ About WPRR
+      □ Staff and Board
+      □ Get Involved
+      □ Contact Us
+  • Promotions
+      □ Shop Reality Radio
+      □ Contest
+
+West Michigan WPRR - 90.1^FM | 1680^AM | 95.3^FMPontiac, IL WPJC - 88.3^FM
+
+then
+
+David Pakman Show, The logo
+
+David Pakman Show, The
+
+Listen Now
+
+Drive For The Dream logo
+
+Drive For The Dream
+
+next
+
+We Do The Work logo
+
+We Do The Work
+
+later
+
+Between the Lines logo
+
+Between the Lines
+
+view full schedule
+
+Economic Justice Reality Reportrss feed
+
+Guest Blog: Farrakhan, Ferguson and Foolishness By Norm R. Allen Jr.
+
+February 9^th, 2015 @ 1:21pm
+
+Farrakhan, Ferguson and FoolishnessBy Norm R. Allen Jr.Norm R.Allen Jr.He
+either has the courage of a lion or the judgment of a jackass – Mark TwainIn
+light of the grand jury’s decision not to indict...
+
+view post
+
+Massimo Pigliucci’s Critique of New Atheism: Is it a Call to Move Beyond
+Atheism?
+
+February 6^th, 2015 @ 5:47pm
+
+THE GOLDEN MEANThe Blog of Nathan BuppFebruary 6, 2015I am pleased to feature
+this guest post by Mark David Dietz. Mark has been a company commander in the
+US Army’s 101st Airborne, a corporate training...
+
+view post
+
+Lawrence Summers on Inequality
+
+February 2^nd, 2015 @ 12:55pm
+
+THE GOLDEN MEANThe Blog of Nathan BuppFebruary 2, 2015American economist Larry
+Summers, the distinguished former President of Harvard University and key
+economic adviser to President Obama,...
+
+view post
+
+Connect with Us
+
+On the Web
+
+Like Us on FacebookFollow Us on TwitterListen LiveSubscribe to our BlogEmail Us
+
+Mobile Apps
+
+Android AppiPhone App
+
+On Twitter
+
+Tweets from @publicreality/programs-and-hosts
+
+The Latest
+
+Faith and Reason logo
+
+New Episode listen to this episode
+
+Faith and Reason logo
+
+New Episode listen to this episode
+
+Boiling Kettles, The logo
+
+New Episode listen to this episode
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  • then: David Pakman Show, The
+  • now: Drive For The Dream
+  • next: We Do The Work
+  • later: Between the Lines
+
+view full schedule
+
+all times on site are Eastern Standard Time (EST)
+
+3777 44th St
+Grand Rapids, MI 49512
+Email: info@publicrealityradio.org
+Phone: (616)656-2619
+General Comments Line: (616)656-2619 Ext 200
+Fax: (616)656-2158
+
+site developed by GRCMC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

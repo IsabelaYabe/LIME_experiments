@@ -1,0 +1,107 @@
+bg image(backgrounds/tileBkgrd.jpg)
+
+         Home  *  Our Pastor  *   Directions  *  Audio / Video Sermons
+
+                                                       [newheader09092015]
+
+                                                          [Armstrongs]
+
+                                                             Welcome
+
+                         On behalf of the Shiloh Baptist Church family and my personal family. We praise
+                           GOD that the Holy Spirit has directed you to our website. We pray that this
+                           site will be a blessing to you through information and inspiration. We also
+                         pray that you would not only frequently return to this site, but that you would
+                             share it with others and join us in person for one of our many worship
+                           services, Bible studies, prayer services or fellowship activities. We love
+                           GOD...GOD's WORD...GOD's people! Our prayers are with you and your family.
+
+                                                      Darrell LaRue Armstrong, M.Div., Ed.S.-MFT, Pastor
+
+                  ┌────────────────────────────────────────────────────┬───────────────────┬─────────────────┐
+                  │                     [logo1web]                     │                   │                 │
+                  │                                                    │                   │                 │
+                  │        Shiloh Begins Demolition To Make Way        │                   │   embed         │
+                  │                                                    │                   │(animations/     │
+                  │  For The S. Howard Woodson Sr. Family Life Center  │Sunday January 10, │SBCServices4.swf)│
+                  │                                                    │       2016        │                 │
+                  │      Vision 20/20 Family Life Center Website       │                   │ Keep Up To      │
+                  │                                                    │[01102016Armstrong]│ Date With       │
+                  │             Vision 2020 Video Preview              │                   │   Shiloh        │
+                  │                                                    │   Reverend Dr.    │                 │
+                  │            ABC News Coverage Video Clip            │    Darrell L.     │  Events,        │
+                  │                                                    │     Armstrong     │  Photos &       │
+                  │                                                    │                   │  More...        │
+                  │                                                    │  Biblical Text -  │                 │
+                  │            Television / Radio Broadcast            │    Micah 6:6-7    │[facebookV2]     │
+                  │                                                    │                   │                 │
+                  │                       Radio                        │   Sermon - "Our   │                 │
+                  │                                                    │   Common Faith"   │                 │
+                  │       Sunday  - WIMG - 1300 AM - 12:30 P.M.        │                   │ Click Here      │
+                  │                                                    │  (Windows Media)  │  For All        │
+                  │        Friday  - WIMG -1300 AM - 7:30 P.M.         │                   │2010, 2011,      │
+                  │                                                    │ Video - Audio  -  │                 │
+                  │        Listen Online at  - www.wimg1300.com        │   Sermon Notes    │2012, 2013,      │
+                  │                                                    │                   │2014 & 2015      │
+                  │                                                    │Iphone / Smartphone│                 │
+                  │                                                    │  (MAC) -  Video   │  Audio &        │
+                  │                     Television                     │                   │   Video         │
+                  │                                                    │                   │  Sermons        │
+                  │     Tuesday - "In The Spirit" - Comcast Cable      │                   │                 │
+                  │                                                    │                   │                 │
+                  │Channel 24 - 7:30 P.M. - (Trenton, Ewing & Lawrence)│                   │                 │
+                  └────────────────────────────────────────────────────┴───────────────────┴─────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│      ┌─────────────────────┬───────────────────┬─────────────────────┐      │
+│      │                     │                   │                     │      │
+│      │                     │ Sunday January 3, │                     │      │
+│      │   December 2015 /   │       2016        │ Sunday December 31, │      │
+│      │    January 2016     │                   │        2015         │      │
+│      │                     │[01032016Armstrong]│                     │      │
+│      │   Church Calendar   │                   │ [12312015Armstrong] │      │
+│      │                     │   Reverend Dr.    │                     │      │
+│      │  REVISED 12/4/2015  │    Darrell L.     │Reverend Dr. Darrell │      │
+│      │                     │     Armstrong     │    L. Armstrong     │      │
+│      │                     │                   │                     │      │
+│      │                     │  Biblical Text -  │   Biblical Text -   │      │
+│      │  January 10, 2016   │  Exodus 15:20-27  │   Exodus 15:22-27   │      │
+│      │                     │                   │                     │      │
+│      │     Prayer List     │Sermon - "Somebody │ Sermon - "Somebody  │      │
+│      │                     │Pass The Sugar Pt. │   Pass The Sugar"   │      │
+│      │                     │        2"         │                     │      │
+│      │                     │                   │   (Windows Media)   │      │
+│      │ 2015 Men's Emphasis │  (Windows Media)  │                     │      │
+│      │       Season        │                   │  Video - Audio -    │      │
+│      │                     │   Video - Audio   │    Sermon Notes     │      │
+│      │ Culmination Booklet │                   │                     │      │
+│      │                     │Iphone / Smartphone│ Iphone / Smartphone │      │
+│      │                     │   (MAC) - Video   │    (MAC) - Video    │      │
+│      │                     │                   │                     │      │
+│      │ Shiloh Yellow Pages │                   │                     │      │
+│      ├─────────────────────┴───────────────────┴─────────────────────┤      │
+│      │                “Shiloh Congregational Survey”                 │      │
+│      │                                                               │      │
+│      │                                                               │      │
+│      │                                                               │      │
+│      │   Your voice is important to the Strategic Planning Team in   │      │
+│      │  preparing a detailed roadmap to help Shiloh achieve VISION   │      │
+│      │      2020! If you haven't been asked yet to fill out our      │      │
+│      │Congregational Survey, please share what you think about Shiloh│      │
+│      │ today and what you would like to see happen at Shiloh in the  │      │
+│      │ future. Download this survey, complete and turn it in to the  │      │
+│      │                        church office.                         │      │
+│      │                                                               │      │
+│      │               Click Here To Download The Survey               │      │
+│      │                                                               │      │
+│      │ THANK YOU for your participation in this important activity!  │      │
+│      │                                                               │      │
+│      │                                                               │      │
+│      │                                                               │      │
+│      │ Minister Tracy Ross & Deacon David Moriah, Co-chairs, Shiloh  │      │
+│      │                    Strategic Planning Team                    │      │
+│      └───────────────────────────────────────────────────────────────┘      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│        Home  *  Our Pastor  *   Directions  *  Audio / Video Sermons        │
+└─────────────────────────────────────────────────────────────────────────────┘
+

@@ -1,0 +1,413 @@
+
+
+
+
+
+(Sorry, your browser does not support inline frames.)
+
+WEBLOG
+
+January 16th, 2016 (Permalink)
+
+Debate Watch
+
+  • (1/20/2016)
+
+        "Demography has more to do with crime increasing or decreasing than any
+        one policy," said Michael Maltz, an emeritus professor of criminal
+        justice at the University of Illinois at Chicago. "A politician is
+        always looking to embellish his own record to the best that he can. If
+        there's something that gets better during his administration he'll take
+        credit for it."
+        Source: John Fritze & Doug Donovan, "Fact check: O'Malley lays claim to
+        an ambitious record in Md.", The Baltimore Sun, 4/18/2015
+
+    I don't want to pick on former Mayor of Baltimore and ex-Governor of
+    Maryland Martin O'Malley, who at this point is a very long shot to get the
+    Democratic nomination for President. Not only that, but O'Malley was
+    reduced to pathetically begging for time from the moderators of the most
+    recent Democratic debate, who seemed more interested in front-runners
+    Hillary Clinton and Bernie Sanders. However, a claim that O'Malley made in
+    the debate illustrates a common logical problem in political rhetoric.
+    Here's his answer to a question posed by moderator Lester Holt about crime
+    in Baltimore: "I drove our incarceration rate down to 20-year lows, and
+    drove violent crime down to 30-year lows…."
+
+    It's clear from O'Malley's choice of words that he is claiming to have
+    through his policies or actions brought about―"I drove down"―the low
+    incarceration rate and lower level of violent crime in Baltimore. However,
+    violent crime was decreasing nationwide during the time period that
+    O'Malley was mayor, and surely he could not plausibly claim that his
+    policies caused a national decline in violence. Thus, the question is
+    raised: how much, if any, of the decline in violent crime in Baltimore was
+    the result of O'Malley's policies, and how much of it was simply the city's
+    share in the national decline?
+
+    This is much the same logical mistake as in the previous entry on the
+    Republican debate, though Bush claimed that the reduction in gun violence
+    in Florida was due to specific policies, whereas O'Malley was not specific
+    about what led to the lower crime rate in Baltimore though he claimed
+    credit for whatever it was. In general, when politicians, such as Mayors,
+    Governors, or Presidents, run for office they take credit for any good
+    thing that happened during their term of office, while denying blame for
+    the bad things. However, officeholders both benefit and suffer at the hands
+    of events that are beyond their control.
+
+    O'Malley is probably no worse about making such dubious causal claims than
+    any other politician running for office, but we need to be skeptical when
+    we hear them. It is much harder than most people realize to identify the
+    causes of crime, or to affect its rate with legal or police policies. So,
+    when a politician claims to have lowered crime, or one blames an opponent
+    for higher crime rates, we need to ask some critical questions: What was
+    happening to the crime rate nationwide during the relevant period? How did
+    the crime rate change in similar cities or states?
+
+    Source: "Democratic debate transcript: Clinton, Sanders, O'Malley in South
+    Carolina", CBS News, 1/18/2016
+  • The sixth Republican Presidential debate was just held―that's right, sixth!
+    I missed a couple because there just wasn't anything new or interesting in
+    them. In this most recent one, moderator Maria Bartiromo asked Florida
+    ex-Governor Jeb Bush the following:
+
+        Bartiromo: … Governor Bush, gun rights… What is the harm in tightening
+        standards for not only who buys guns, but those who sell them?
+
+        Bush: …I think we need to focus on what the bigger issue is. It isn't
+        law-abiding gun owners. Look, …we…have a reduction in gun violence
+        because in Florida, if you commit a crime with a gun, you're going
+        away. You're going away for a long, long while. And that's what we
+        should focus on is the violence in our communities. …
+        Source: Team Fix, "6th Republican debate transcript, annotated: Who
+        said what and what it meant", The Washington Post, 1/14/2016
+
+    Bush is here claiming that the fact that "you're going away"―that is, you
+    will go to prison "for a long, long while"―if you use a gun to commit a
+    crime in Florida caused the reduction in gun violence in the state. The
+    word "because" signals that this is a causal claim. However, how do we know
+    that the imprisonment policy is responsible for causing the drop in gun
+    violence? Bush is not explicit about when this policy was adopted, but
+    presumably it was adopted before and was in place during at least part of
+    the reduction; otherwise, it would be clear that the policy could not be
+    responsible for the reduction.
+
+    The Washington Post's Fact Checker has a helpful annotation in its
+    transcript of the debate to this part of Bush's answer―see the Source,
+    above. Here's the relevant part:
+
+        Some types of gun violence decreased while Bush was governor of
+        Florida, but not all. … Overall crime decreased while Bush was governor
+        of Florida from 1999 to 2007. The downward trend continued after he
+        left office, and is consistent with crime rates overall in the country.
+        This is not an exhaustive look at gun violence in Florida, but we
+        crunched the numbers in three key categories of gun violence to see how
+        they fared between 1999 and 2006…. Murders by firearm were at three per
+        100,000 in 1999, then four per 100,000 in 2006. But it increased to 4.4
+        per 100,000 in 2007…. Aggravated assaults with firearms and gun
+        robberies went down while Bush was in office….
+
+    It appears that the career of gun violence in Florida during Bush's term
+    was checkered, with some types going up and other types declining. However,
+    if we assume that there was an overall decline in violence with guns, is it
+    possible that Florida's "tough" gun crime policies have caused or at least
+    contributed to said reduction? Yes, it's even plausible. But as the Fact
+    Checker points out, the downward trend in Florida was part of a larger
+    national reduction in crime. For this reason, it's impossible to know how
+    much if anything "tough" sentencing policies may have had to do with this
+    reduction. Plausibility is not enough: a causal conclusion is not warranted
+    by Bush's evidence.
+
+    Fallacy: Non Causa Pro Causa
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+January 9th, 2016 (Permalink)
+
+…And a New Taxonomy
+
+The Fallacy Files now has a new, improved Taxonomy of Logical Fallacies. To see
+the new Taxonomy, you can simply click on the link on the Main Menu to your
+left. The old, legacy Taxonomy is still available from the "How to Use the
+Taxonomy" page. As explained on that page, the old Taxonomy was almost
+impossible to update, and is out of date as a result. The new version is far
+from perfect, but will be easy to update. As usual, if you find any broken or
+missing links, or other problems with the page, please let me know.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+January 6th, 2016 (Permalink)
+
+A New Book for a New Year
+
+I just got my hands on a copy of psychologist Rob Brotherton's new book
+Suspicious Minds: Why We Believe Conspiracy Theories. I'm a bit put off by that
+subtitle since I, for one, don't believe conspiracy theories. However, as with
+newspaper and magazine titles, book titles and subtitles are often imposed upon
+writers by their editors and publishers. A New York Times review makes the same
+claim as the subtitle:
+
+    It turns out we are all conspiracy theorists. Brotherton attacks the
+    stereotype, which he says was popularized by the historian Richard
+    Hofstadter in his influential essay  The Paranoid Style in American
+    Politics,  of conspiracy theorists as a small band of tinfoil-adorned
+    loonies―the paranoid fringe. Brotherton s main argument is that we all
+    possess a conspiracy mind-set to some extent, because it is hard-wired into
+    our brains.  Suspicious Minds  details the various psychological  quirks
+    and shortcuts  that make us susceptible to conspiracy theories.
+    Source: Adrian Chen, " Suspicious Minds,  by Rob Brotherton", The New York
+    Times, 12/31/2015
+
+I'm willing to accept that "we all possess a conspiracy mind-set to some
+extent" because "various psychological 'quirks and shortcuts'…make us
+susceptible to conspiracy theories", but it just doesn't follow that "we are
+all conspiracy theorists". That's just factually wrong. It's like claiming that
+everyone has sexual desires and attractions of the sort that lead to people
+cheating on their spouses or lovers―which is no doubt true―therefore everyone
+cheats on their spouse or lover―which is obviously false. We may all be
+potential cheaters but we are thankfully not all actual ones.
+
+I hope the book doesn't live up to its misleading subtitle. I won't promise
+anything, but I may review it later this year.
+
+Resource: Rob Brotherton, et al., The Psychology of Conspiracy Theories. The
+author's website.
+                              Amazon.com Widgets
+
+December 25th, 2015 (Permalink)
+
+A Puzzle for Christmas
+
+Klaus has a problem: an old college friend of his has invited him to visit on
+Christmas day, and Klaus has decided to bring presents for his friend's
+children. Unfortunately, he hasn't seen his friend since the childless days of
+college, and has never met the children before. Moreover, he has a notoriously
+faulty memory for other people's children. He does remember his friend
+announcing the birth of a new child twice; furthermore, he recalls the friend
+using the masculine pronoun in reference to one of the two, but not which one.
+However, that's all that he can remember for sure: his friend has two children
+and at least one is a boy. What kind of presents should he buy?
+
+Obviously, he should buy one present for a boy, but what about the other one?
+Should he purchase a present that a girl might like or another one for a boy?
+Of course, he could always call his friend and ask, but that would be
+embarrassing: how could he have forgotten such vitally important information?
+He could buy three presents, two for boys and one for a girl, but how would he
+manage to explain away the third present? It would appear that he thought his
+friend had three children, which would be even more embarrassing! Another
+possibility was to buy a present that would be suitable for either sex, but
+Klaus simply couldn't think of a toy that would work. It was hard enough
+figuring out what a modern boy or girl would like!
+
+Finally, Klaus decided that he simply must take his chances and buy a single
+present for a boy or a girl based on the odds. But was it an even chance that
+his friend had an additional boy or a girl? If so, then he might as well just
+flip a coin. What should Klaus do? Should he buy a present for a boy or for a
+girl? When you think that you know the answer, click on "Solution", below.
+
+Solution
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+December 15th, 2015 (Permalink)
+
+At Risk of Pinocchios
+
+The Washington Post's fact-checker Glenn Kessler put a list out yesterday of
+"the biggest Pinocchios of 2015", that is, the "biggest" errors that failed a
+fact-check in the past year. I gather that what made the list were those errors
+that received four "Pinocchios", which is the highest―or lowest, depending on
+how you look at it―rating in the fact-checker's rating system. At the end of
+the list is a "special award" for "bushels of bogus sex trafficking
+statistics", among which is one from May concerning the claim that 300,000
+American children are "at risk" of sexual exploitation.
+
+I missed the May article, which is unfortunate since it concerns a topic I had
+dealt with last year―see the Resource, below. Before looking at this specific
+issue, there's a general problem with the notion of "at risk of X", whatever X
+is. Even if X is a precisely defined concept, "at risk of X" will probably not
+be. So, why not just count cases of X rather than trying to count the less
+precise concept of "at risk of X"? One obvious reason is that the latter is
+likely to be a larger class, and the resulting number of cases greater. For
+this reason, activists who wish to use large numbers to galvanize support for
+anti-X activities will gravitate towards using the broader concept.
+
+Furthermore, in order to count cases, we need a precise definition of what it
+is to be at risk of X, but that will be defined by those doing the counting.
+Also, the definition of a vague concept such as "at risk of X" is more open to
+manipulation than that of a more precise concept such as X itself. Assuming
+that the definition doesn't provide a large enough number to scare up anti-X
+support, it can always be broadened.
+
+For these reasons, when you see the concept of "at risk for X", whatever X
+happens to be, you should be on your guard. Here are some critical questions
+that should be asked about the use of this concept:
+
+  • Why not count actual cases of X rather than those supposedly at risk of it?
+  • Who is it that defines "at risk for X"?
+  • Do the definers have a motive for exaggerating the riskiness of X?
+  • What, exactly, is the definition of "at risk of X"?
+  • Is it easy to find the definition, or is it concealed?
+  • Does the definition seem reasonable, or are there signs that it has been
+    made broad in order to inflate the numbers?
+
+If you can't answer these questions at all or with reassuring answers, then you
+probably shouldn't rely upon the number of "at risk for X". Now, let's turn to
+the specific issue of "at risk of sexual exploitation" and fact-check the
+fact-checker.
+
+The claim that Kessler fact-checked is that 300,000 American children are at
+risk of commercial sexual exploitation. Here's what Kessler says about the
+provenance of this figure:
+
+    …[T]he 300,000 figure comes from a 2001 report written by Richard J. Estes
+    and Neil Weiner of the University of Pennsylvania. … The report suggested
+    that about 326,000 children were  at risk for commercial sexual
+    exploitation"….
+
+The second claim is correct, but the first is at least dubious, as I pointed
+out in my previous entry on this issue. If the Estes and Weiner (E&W) estimate
+is the source of the number, why would it be rounded down to 300,000? The last
+thing that politicians who are advocating legislation against commercial sexual
+exploitation would want to do is minimize the number of those at risk.
+
+My own research indicated that the estimate came from a previous report from
+the mid-'90s, which means that it's almost twenty years old, and E&W
+specifically rejected all previous estimates as unreliable. However, the E&W
+report may be the proximate source for the 100,000-300,000 estimate, since it
+does mention it if only to reject it. It's mentioned early (p. 4) in a long
+report―over 200 pages―so it's possible that a lazy researcher looking for
+numbers to cite came across it and didn't notice or care that it was not the
+estimate of the report itself, but a previous one rejected by the report.
+Pinocchio
+
+I give Kessler one Pinocchio.
+
+Sources:
+
+  • Glenn Kessler, "The biggest Pinocchios of 2015", The Washington Post, 14/14
+    /2015
+  • Glenn Kessler, "The bogus claim that 300,000 U.S. children are  at risk  of
+    sexual exploitation", The Washington Post, 5/28/2015
+
+Resource: One "myth" that's not quite dead yet, 9/5/2014
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+December 9th, 2015 (Permalink)
+
+Dueling Headlines, Dueling Polls
+
+Ted Cruz takes lead from Donald Trump in new Iowa poll
+
+Trump holds 13-point lead in CNN s Iowa poll
+
+Can both of these polls be right? Trump's 13 percentage point lead over Cruz in
+the CNN/ORC poll is highly significant, so you can't explain this away as
+simply statistical noise.
+
+You might suspect that they were conducted at different times, which would
+certainly explain how two polls could differ so much. However, though they were
+not conducted during exactly the same time period, the polls did overlap: the
+first was conducted by Monmouth University from the 3rd to the 6th of this
+month, whereas the second, CNN/ORC poll ended on the same day but started six
+days earlier. Could the inclusion of some samples from November 28th to
+December 2nd account for such a large difference in results? If public opinion
+can change so much so fast then it's unlikely that any poll this far from the
+caucuses will be of any use in predicting the results.
+
+How about sampling bias, that is, were the samples different in some relevant
+respect? Both polls were aimed at sampling likely voters in the Iowa Republican
+caucuses, but according to The Hill's article:
+
+    Monmouth drew its sample from lists of registered voters who voted in at
+    least one prior state primary, in a recent general election or registered
+    to vote in the past year. CNN drew its sample by asking adults about their
+    past participation patterns and intensions.
+
+One problem with polls aimed at sampling likely voters is that every polling
+organization has its own definition of "likely voter". As a result, each is
+sampling a somewhat different population, which makes it difficult to compare
+polls from different pollsters. If the different results are explained by the
+different definitions, which definition comes closest to capturing the group of
+people who will actually take part in the caucuses? We may have to wait until
+after the caucuses are over to find out.
+
+Sources:
+
+  • "Full results: CNN/ORC poll of Iowa Republicans", CNN, 12/7/2015
+  • "Iowa: Cruz Takes Caucus Lead", Monmouth University, 12/7/2015
+  • Josh Haskell, "Two New Polls Show Ted Cruz, Donald Trump Vie for Lead In
+    Iowa", ABC News, 12/7/2015
+  • Jonathan D. Salant, "Trump trails in new Iowa GOP poll but another has him
+    leading. Here's why", NJ.com, 12/8/2015
+  • Maxwell Tani, "Two new Iowa polls showed wildly different results for
+    Donald Trump", Business Insider, 12/8/2015
+
+Resource: How to Read a Poll
+
+Update (12/13/2015): A newer poll, conducted for Bloomberg Politics and the Des
+Moines Register newspaper, puts Cruz ahead of Trump by ten percentage points,
+which is a significant lead. This suggests that the Monmouth poll showing Cruz
+in the lead was capturing a real surge in support for Cruz. Of course, this
+doesn't explain what happened with the CNN/ORC poll. Perhaps the CNN poll
+missed most of the surge, or maybe it's just that one-in-twenty poll that's
+wrong by more than its margin of error. In any case, if it's true that Cruz has
+risen so much in such a short time, then it appears that the race for support
+in Iowa is highly volatile and could change an equal amount in the month and a
+half left before the caucuses.
+
+Sources:
+
+  • Jennifer Jacobs, "'Big shakeup' in Iowa Poll: Cruz soars to lead", The Des
+    Moines Register, 12/13/2015
+  • John McCormick, "Cruz Soars to Front of the Pack in Iowa Poll; Trump
+    Support Stays Flat", Bloomberg, 12/12/2015
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+December 4th, 2015 (Permalink)
+
+Headline
+
+400-Year-Old Hearts Had Same Diseases As Hearts Of Today
+
+If they're 400 years old they're doing pretty well.
+
+Previous Entry
+
+Amazon.com Widgets
+
+    If like us you love casino games, we recommend to you this excellent online
+    casino guide to play tons of free slots and learn easily all the games'
+    rules and strategies.
+
+    Online dissertation services such as MastersThesisWriting may help with
+    your thesis or dissertation.
+
+    Buy Country Targeted Followers On Twitter
+
+Advertise in The Fallacy Files
+
+The Fallacy Files does not endorse products or services advertised here. Ads
+makes it possible to continue as a free site. You may help keep it free by
+supporting its advertisers. Thank you!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Search The Fallacy Files:
+
+  [                          ]
+  ( ) Web (*) www.fallacyfiles.org
+ 
+  [Google Search] 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Support The Fallacy Files
+
+Donate to The Fallacy Files *
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Email the Fallacist
+
+(C) Copyright 2001-2016: Gary N. Curtis
+
+Permission is granted for non-commercial use and replication of this material
+for educational purposes, provided that appropriate notice is included of both
+its authorship and copyrighted status.
+

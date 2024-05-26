@@ -1,0 +1,548 @@
+Skeptical Software Tools
+
+Applying the power of the programmable web to the purposes of skepticism.
+
+Menu Skip to content
+
+  • Home
+  • About
+  • SkepConGuide
+  • Virtual Skeptics
+  • Skeptic History
+  • What’s the Harm?
+
+[skeptools-circuit-board-header2]
+
+Where to see me at DragonCon 2015
+
+Leave a reply
+
+DragonCon logoI will be attending DragonCon this weekend, as I usually do. It
+is my home-town convention so I always look forward to catching up with my
+sci-fi and skeptic friends during the Labor Day weekend.
+
+DragonCon is pretty gigantic – it spreads across five major hotels and a
+convention center and it has its own custom smartphone app just so attendees
+can manage their schedule. As of this writing even the information in the
+smartphone app is not quite complete, at least for my schedule. So for
+reference, here’s where you can see me speak during the weekend:
+
+Year of the Data Breach
+
+Friday 11:30am – Hilton 201 (EFF Track)
+Sony, Anthem, Home Depot, OPM, and many others. What’s up with corporate
+information security these days? Why are so many companies getting hacked?
+ Other panelists include Blair B. Chintella (moderator), Amie Stepanovich,
+Josh Ruppe, Chris Grayson.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Tuff Topics for Parents
+
+Friday 8:30pm – Marriott A708 (Kaleidoscope Track)
+Well mannered but frank discussion of tough topics including bullying, LGBTQ,
+cyber-bullying, the internet and social topics. Targeted at adults. Ohter
+panelists include Ronald Thomas Garner, Tony Gowell.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Hacking 101
+
+Saturday 7:00pm – Marriott A601-A602 (EFF Track)
+Hacking 101 returns for another glorious year! Just what is a hacker anyway?
+Culture, history, contacts, resources, and pointers for more info. Brought to
+you by se2600.org.  Other panelists include Randal L. Schwartz, Kit Walsh and
+jonny X.
+
+If you are interested in what sorts of topics get covered in the Hacking 101
+session, here’s video of the one from last year, on which I also appeared.
+
+You can watch two other computer technology panels on which I appeared last
+year in this playlist in my YouTube channel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SkepTech
+
+Sunday 1:00pm – Hilton Room 204-207 (Skeptrack)
+Skeptical thinking isn’t always about Bigfeet, Ghosts, and Tarot… Sometimes it
+can be in your tech too!  Other panelists include Tom Merritt and Veronica
+Belmont.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Wrap-Up and Feedback
+
+Monday 1:00pm – Hilton Room 204-207 (Skeptrack)
+Come and join us for a discussion about the past weekend. Discuss the
+highlights, and offer feedback for ideas in 2016!  Other (tentative) panelists
+include James Randi, Richard Carrier, Margaret Downey, Barbara Drescher, Ian
+Harris and Evan Bernstein.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You’ll probably see me in the Skeptrack room at various times during the
+weekend. I’m also using the DragonCon smartphone app to track what other
+sessions I’m attending, if you want to catch up with me send me a friend
+request in the app.
+
+A couple of notes – we are not repeating the Ignite Skepticism program we did
+last year. We had hoped to repeat it this year, but it didn’t come together due
+to various things (such as my wedding in August). It will return in the future.
+
+Also if you are looking for the WiFi guide to DragonCon you can find last
+year’s guide at that link. I didn’t have time to update it this year either –
+if I notice any significant changes I’ll post them on Twitter, so please follow
+me.
+
+Like this post? Share it:
+
+  • Twitter
+  • Facebook
+  • Google
+  • Reddit
+  • Tumblr
+  • Flattr
+  • 
+
+This entry was posted in meta, Skeptic Events on September 1, 2015 by Tim
+Farley.
+
+How to be thorough when you patrol Wikipedia for vandalism
+
+Leave a reply
+
+Wikipedia logoI’ve written several times about patrolling Wikipedia for
+vandalism. It a great way for new editors to get practice with simple editing
+tasks. It is also can be a way for skeptics to demonstrate our impartiality.
+
+It’s important to remember that vandalism on Wikipedia, just as in the real
+world, is often done in sprees. This is important, because it can help you
+avoid overlooking some instances that might be right under your nose.
+
+Consider a piece of Bigfoot-related nonsense I removed from the Ape Canyon
+article recently:
+
+Ape Canyon edit
+
+The edit here (at bottom) was by an anonymous user – you can see it is logged
+to the IP address 50.107.128.28. Looking at the contents of the edit, I found
+it was a made-up species name (“Gigantopithecus sapiens helena”) for the
+cryptid apes that were reported at Ape Canyon. But this name is
+completely fictional, it’s never been assigned by actual scientists. So
+removing it is uncontroversial.
+
+I removed it. Now I could have just patted myself on the back and moved on, but
+remember this edit was logged to an IP address – i.e. an anonymous user. What
+if this was part of a vandalism spree?
+
+It turns out there’s an incredibly easy way to investigate this. Simply click
+the IP address right there in the editing history, and Wikipedia will show you
+the history of edits originating anonymously from that address. In this case,
+this is what came up:
+
+Wikipedia history for IP address 50.107.128.28
+
+Cryptozoology fans will probably recognize all three of those article names.
+Sure enough, this anonymous user had in fact edited three different articles
+about Bigfoot-like cryptids. Sure enough, clicking those “hist” links revealed
+the other two edits were exactly the same sort of thing – insertions of fake
+species names for other varieties of Bigfoot.
+
+None of these edits had any basis in reality, and none belong in an
+encyclopedia. Just a couple clicks later, I had removed all three. But if I
+hadn’t thought to look at the editing history for that IP address, I would have
+only been able to fix one third of the underlying problem!
+
+So next time you’re removing a bogus Wikipedia edit, be it vandalism or
+nonsense, don’t stop there. Take a quick look at the editing history for the
+responsible source – be it a regular user or an IP address. You may have found
+the tip of an iceberg.
+
+Like this post? Share it:
+
+  • Twitter
+  • Facebook
+  • Google
+  • Reddit
+  • Tumblr
+  • Flattr
+  • 
+
+This entry was posted in How To, Wikipedia and tagged vandalism, wikipedia on
+April 2, 2015 by Tim Farley.
+
+Targeted ads for outreach on skeptic topics
+
+1 Reply
+
+HBO premiered the Alex Gibney Scientology documentary “Going Clear” last night.
+It airs many more times on various HBO channels through April and on their
+on-demand service – I encourage you to check it out. It is based on the 2013
+book oGoing Clear by Lawrence Wrightf the same name by Lawrence Wright, which
+detailed many abuses that have gone on in the church. Both the book and the
+documentary feature damning testimony by many ex-members of the church, some of
+whom had very high ranking positions.
+
+The church itself, needless to say, is not amused. In typical fashion it has
+waged a PR war against the film, starting with an expensive full-page ad in the
+New York Times on January 16. It has continued its assault with a series of
+articles printed in their own “Freedom Magazine”. (The material there largely
+consists of a series of ad hominem attacks on the former Scientologists
+interviewed in the film).
+
+But how is the church expecting any of this additional material to be seen by
+the general public? Freedom Magazine is not well known outside church circles,
+and the New York Times ad has not repeated.  Who is going to bother to go to
+this obscure website to read these attacks?
+
+The answer is in online advertising. How the church is using online ads may
+have some interesting lessons for skeptics.
+
+Continue reading →
+
+Like this post? Share it:
+
+  • Twitter
+  • Facebook
+  • Google
+  • Reddit
+  • Tumblr
+  • Flattr
+  • 
+
+This entry was posted in Social Media, Web and tagged AdWords, Google, outreach
+, seo, Twitter on March 30, 2015 by Tim Farley.
+
+I defended Dr. Oz on Wikipedia – and you should too.
+
+4 Replies
+Dr. Oz
+
+Dr. Oz at ServiceNation 2008 by David Berkowitz licensed CC BY 2.0 via
+Wikipedia.
+
+In my how-to series on becoming a Wikipedia editor, I highly recommend spending
+time patrolling for vandalism using a watch list. It’s good practice with the
+software, and it helps you build up a positive editing history.
+
+Vandalism on Wikipedia is unfortunately constant – a side effect of their
+radically open editing policy. This policy allows anyone to anonymously edit
+most articles, logged only by IP address.
+
+Because skeptical topics are often controversial (in some circles at least),
+they can spark strong responses, including sometimes vandalism. As a result, if
+you’re looking for vandalism to fix, skeptic-relevant articles often provide
+plenty of ammunition.
+
+Indeed, over my career as a Wikipedia editor I’ve removed the word “idiot” from
+Australian science communicator Dr. Karl’s biography, undone claims that Indian
+skeptic Prabir Ghosh is a “fake doctor” and excised antisemitic slurs from the
+biography of Professor Michael Barkun.
+
+Defending Everyone Equally
+
+But I don’t reserve my vandalism patrols just for people I consider allies.
+I’ve also removed the word “douchebag” from the biography of Bart Sibrel (famed
+for being hit by Buzz Aldrin). I’ve cut out some rude edits regarding L.Ron
+Hubbard. I’ve even removed some creative writing on Larry King’s biography that
+verges into science fiction.
+
+Because of his current fame, Dr. Oz has been a repeated target for attacks.
+I’ve removed an accusation that he is a bad surgeon, undone some veiled
+anti-Muslim sentiment from his article and removed weasel words about his
+training. I’ve even erased the phrase “quack doctor” from his biography!
+
+Why Defend The Bad Guys?
+
+Some skeptics might wonder, why bother with this? Folks like Dr. Oz are a
+detriment to society, don’t they deserve to take some lumps occasionally? Maybe
+so, but Wikipedia is absolutely the wrong venue for this.
+
+Skeptics already get wrongly accused of many crimes on Wikipedia. This occurs
+in part because Wikipedia’s rules and administration are admittedly pro-science
+. So when we simply enforce the rules, we are perceived as having a pro-skeptic
+bias.
+
+As a result, we need to do everything we can to provide evidence that we are
+not in fact biased. Applying the rules (such as the rules on vandalism to
+biographies) equally to friend and foe is a great way to accomplish this.
+
+Removing vandalism is easy, once you know how. And it demonstrates our lack of
+bias clearly and unambiguously. It is also a good way to help maintain
+Wikipedia’s excellent record for quickly removing vandalism.
+
+Bottom line: skeptics should not tolerate name-calling and bias on Wikipedia,
+whether it is for us or against us. And the editing history will back us up
+when we point this out.
+
+Like this post? Share it:
+
+  • Twitter
+  • Facebook
+  • Google
+  • Reddit
+  • Tumblr
+  • Flattr
+  • 
+
+This entry was posted in Skeptic Activism, Wikipedia and tagged Bart Sibrel,
+Dr. Oz, Guerrilla Skepticism, vandalism, wikipedia on March 23, 2015 by Tim
+Farley.
+
+Online tools are great – until they disappear
+
+8 Replies
+Closed Sign by James Alan, licensed under CC BY-SA 3.0 via Wikipedia
+
+Closed Sign by James Alan, licensed under CC BY-SA 3.0 via Wikipedia
+
+Facebook announced last week that the service FriendFeed would be shut down in
+April. I was a FriendFeed user, I even used to have a link to it here on the
+Skeptic History page – for those who wanted to see the daily history posts
+using that service. But it’s been increasingly less useful as it has been
+supplanted by newer services like Twitter and Facebook itself.
+
+As we use online tools to achieve specific goals, we must be mindful that they
+do disappear like this. It’s always wise to have a good idea what benefit you
+are getting from which tools, and which alternatives are available should one
+disappear.
+
+Let’s take a moment to consider a few tools that have disappeared recently, why
+that happens and some good strategies for might replacing them.
+
+Continue reading →
+
+Like this post? Share it:
+
+  • Twitter
+  • Facebook
+  • Google
+  • Reddit
+  • Tumblr
+  • Flattr
+  • 
+
+This entry was posted in Web, Tools and tagged FriendFeed, TruthMarket,
+Unsourced.org, Trooclick, Izitru, FourMatch, Media Standards Trust, WikiScanner
+, WikiWatchdog, open source, WikiTrust on March 16, 2015 by Tim Farley.
+
+Deepak Chopra’s Twitter Trolling Continues
+
+1 Reply
+
+Deepak Chopra is still trolling people on Twitter, it seems. On February 10th 
+Professor Brian Cox appeared on Conan and related a familiar story about
+Chopra’s behavior. Watch the short clip:
+
+As you may recall, last May I documented Deepak Chopra’s habit of trolling
+well-known skeptics and atheists on Twitter. He repeatedly taunts them, tweets
+links at them and makes snide or insulting remarks.
+
+Among the things that make the behavior so blatant is Chopra includes Daniel
+Dennett and Jerry Coyne in his taunts. Dennett very rarely converses
+with anyone on Twitter, and never with Chopra.  Coyne has specifically stated
+on his blog that he never converses on Twitter at all – he just uses it to as
+an alternate blog feed. Chopra must know this. One can only conclude his
+one-sided conversations are an elaborate show for his own followers.
+
+But some people do respond to Chopra, including Brian Cox as seen in the clip.
+(Their previous Twitter exchanges have been documented by Jerry Coyne on more
+than one occasion).
+
+Incidentally, the angry tweet Cox mentions in the clip appears to have been
+deleted by Chopra. He does that a bit too, in my earlier post I document one
+tweet to me that he deleted. Tracking Chopra’s deleted tweets might be an
+interesting skeptic project.
+
+After the program aired, this bizarre exchange occurred:
+
+    Where is @ProfBrianCox @TeamCoco pic.twitter.com/28Pb6QfUSv
+
+    — Deepak Chopra (@DeepakChopra) February 12, 2015
+
+    What the HOLY JESUS is this? RT @DeepakChopra: Where is @ProfBrianCox @
+    TeamCoco http://t.co/FVKEUDEqH0
+
+    —
+    Dr Adam Rutherford (@AdamRutherford) February 12, 2015
+
+
+    @AdamRutherford @DeepakChopra @TeamCoco I have no idea, but I'm having it
+    made into wallpaper for my under-stairs bathroom.
+
+    —
+    Brian Cox (@ProfBrianCox) February 12, 2015
+
+Like this post? Share it:
+
+  • Twitter
+  • Facebook
+  • Google
+  • Reddit
+  • Tumblr
+  • Flattr
+  • 
+
+This entry was posted in Bad Behavior, Social Media and tagged Brian Cox, Conan
+, Deepak Chopra, troll, Twitter on March 2, 2015 by Tim Farley.
+
+Google promoting trusted health answers in Knowledge Graph
+
+Leave a reply
+
+Google Knowledge graph splash screenIn 2012, Google introduced a feature to
+their search engine they call Knowledge Graph. The company has compiled
+millions of facts into a database, and offers them up on the right-hand side of
+search engine result pages in a handy box. The graph is also the source of many
+of the answers you get in the voice response versions of Google, such as in
+Google’s smartphone apps.
+
+The answers come from many sources including the CIA World Factbook and
+Wikipedia. At the time this was launched, I wrote how skeptic efforts editing
+Wikipedia were paying off in a new way, exposing the public to skeptics and
+skeptical topics in these knowledge graph boxes.
+
+Low back pain on Google Knowledge Graph Feb 2015On February 10 Google announced
+an enhancement to this product, adding a whole new class of data – answers to
+medical questions. As they explained in their introductory blog post:
+
+    We worked with a team of medical doctors (led by our own Dr. Kapil Parakh,
+    M.D., MPH, Ph.D.) to carefully compile, curate, and review this
+    information. All of the gathered facts represent real-life clinical
+    knowledge from these doctors and high-quality medical sources across the
+    web, and the information has been checked by medical doctors at Google and
+    the Mayo Clinic for accuracy.
+
+This has a great potential to combat the infamous “Dr. Google” syndrome. This
+is a popular term for the tendency of incorrect or even pseudoscientific
+information, by virtue of its prominence in the search engine, misleading the
+public. Who can forget the 2007 sound byte from the Oprah Winfrey Show, when
+Jenny McCarthy stated, “The University of Google is where I got my degree from
+“? How many others are out there learning incorrect info from bogus websites
+pushed up into the Google results via SEO techniques?
+
+Many different studies have shown that search engine users rarely move beyond
+the first page of results. Thus the placement of these knowledge graph results
+prominently on the first page of results might have a good effect. It remains
+to be seen whether these knowledge graph boxes will help draw attention from
+potentially dangerous organic search results.
+
+You can recognize the new additions because they typically appear in boxes
+offering separate tabs on general info, symptoms and treatments. They also
+always contain advice to consult a medical doctor for advice. (See diagram).
+
+I searched several medical topics and was pleased that I could not find any in
+which alternative medicine had been included. For instance, the lower back pain
+topic shown here does not offer acupuncture or chiropractic as an option. This
+is a good sign, but skeptics should keep an eye on this feature. I’m sure the
+alternative medicine community will eventually pressure Google to include their
+nonsense.
+
+If you do notice spurious alternative medical information appearing in one of
+these results, you can click the word Feedback at lower right. The box will
+highlight and show a prompt to click on the error. You can then select which
+piece of information is incorrect – you will be prompted to explain why you
+think it is wrong.
+
+Like this post? Share it:
+
+  • Twitter
+  • Facebook
+  • Google
+  • Reddit
+  • Tumblr
+  • Flattr
+  • 
+
+This entry was posted in Web and tagged alternative medicine, Google, knowledge
+graph on February 26, 2015 by Tim Farley.
+
+Post navigation
+
+← Older posts
+My Tweets
+You should follow Tim Farley @krelnik on TwitterFriend Tim Farley @krelnik on
+TwitterCircle Tim Farley on Google+
+
+RSS My latest posts at INSIGHT
+
+  • Newsrooms Building Online Tools Skeptics Can Use February 9, 2015
+  • Obituaries of Skepticism in 2014 December 23, 2014
+  • A Skeptical Maxim (May) Turn 75 This Week November 4, 2014
+
+RSS Upcoming major skeptic events
+
+  • Fort Collins Skepticamp, 23rd January 2016
+  • Surfcoast Summer Skepticamp V, 27th February 2016
+  • Rationalist International Conference, 23rd-24th April 2016
+  • SkepKon 2016, 5th-7th May 2016
+  • SkeptiCamp LA 2016 Skeptics by the Sea at Santa Monica College, 7th May
+    2016
+  • Northeast Conference on Science and Skepticism (NECSS), 12th-15th May 2016
+
+Blogroll
+
+  •    
+  • Churnalism US – find copy-and-pasted content
+  • CONsequence podcast
+  • Debunkatron – links to key skeptical material
+  • Doubtful News – news aggregator
+  • DropKicker – critiques of technical claims in crowdfunding campaigns
+  • Guerrilla Skepticism on Wikipedia – crowdsourced action
+  • Jenny McCarthy
+  • Lanyrd – list of major skeptic events
+  • Meetups – skeptic groups near you
+  • Rational Wiki – specialized wiki for skeptics
+  • RBUTR – find or supply rebuttals for online content
+  • Reality Drop – gamified action against climate change misinformation
+  • Reddit – skeptic content aggregated by crowdsourcing
+  • Secular Directory – find secular groups & events near you
+  • SkepGIT – open source skepticism
+  • SkepticAction – daily skeptic crowdsourcing
+  • SkeptiCamp – open skeptic events
+  • Skepticator – skeptic blog/podcast feed aggregator
+  • Skeptics on the .Net – catalog of skepticism online
+  • SkepTunes – skeptic podcast database
+  • Stack Exchange – skeptic questions & answers
+  • Sylvia Browne
+  • Unsourced – find source behind news articles
+  • Vaccine Watch – University of Connecticut vaccine denialism monitor
+  • Vaccine-Preventable disease outbreak map: 2008-present (CFR)
+  • Virtual Skeptics – video webcast panel show
+  • Web of Trust – site ratings
+  • What’s the Harm?
+  • World Homeopathy Awareness Week
+
+RSS Latest cases added to What’s the Harm:
+
+  • Beverly A. Wunder
+  • Lee Muk-yiu & 2 others
+  • Christine Jessop
+  • Guy Paul Morin
+  • Russell & Ruby Grafton
+  • John Kimani & 2 others
+  • 54 hospital workers
+  • 9 deceased Gabon citizens
+  • "Jane Roe"
+  • Laverne Burrell & 4 others
+  • Robert Faurisson
+  • Steve Crowder & 100 others
+
+The Twenty Twelve Theme. Blog at WordPress.com.
+Skeptical Software Tools
+Blog at WordPress.com. The Twenty Twelve Theme.
+Follow
+
+Follow “Skeptical Software Tools”
+
+Get every new post delivered to your Inbox.
+
+Join 20,019 other followers
+
+[Sign me up]
+
+Build a website with WordPress.com
+[                    ] Post to []
+Cancel [Reblog Post] 
+[b]

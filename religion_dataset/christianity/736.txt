@@ -1,0 +1,29 @@
+bgsound(audio/LOWGRAVE.MID)
+      Image
+      image
+                           image                                                 image
+                           image First Presbyterian Church                image
+
+                                 [church]
+                                 310 S.W. 3rd Street
+                                 Grand Prairie TX 75051
+                                 (972) 262-6676
+
+                                             Worship Services
+                                 Sunday School                    9:30 am
+                                 Sunday Worship                  10:55 am
+                                                                                       image
+                                               [01STAFF-R]
+                                               Jim Reinarz
+                                                  Pastor
+
+                                 Office Hours
+                                 Monday through Friday 9:00 A.M. to 1:00
+                                 P.M.
+
+
+
+
+image
+
+

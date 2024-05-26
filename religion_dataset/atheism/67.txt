@@ -1,0 +1,811 @@
+Skip to main content
+Copyright (C) 2016 By Edge Foundation, Inc. All Rights Reserved.
+Edge.org
+Edge.org
+ 
+ 
+ 
+Get Edge.org by Email
+
+Subscribe to Edge
+
+x
+
+You can subscribe to Edge and receive e-mail versions of EdgeEditions as they
+are published on the web. Fill out the form, below, with your name and e-mail
+address and your subscription will be automatically processed.
+
+Email address *
+Your name * [                    ]
+Country * [                    ]
+[                    ]
+[subscribe]
+NOTE: if you use a spam-filter that uses a challenge/response or authenticated
+e-mail address system, you must include "editor@edge.org" on your list of
+approved senders or you will not receive our e-mail.
+
+unsubscribe
+
+To arrive at the edge of the world's knowledge, seek out the most complex and
+sophisticated minds, put them in a room together, and have them ask each other
+the questions they are asking themselves.
+
+http://edge.org/
+Printed On Sat January 23rd 2016
+Sat, Jan 23, 2016
+
+  • HOME
+  • CONVERSATIONS
+  • VIDEOS
+  • ANNUAL QUESTION
+  • EVENTS
+  • NEWS
+  • LIBRARY
+  • ABOUT
+
+Conversation
+MIND
+
+The Crusade Against Multiple Regression Analysis
+
+A Conversation With Richard Nisbett [1.21.16]
+[Nisbett640]
+
+A huge range of science projects are done with multiple regression analysis.
+The results are often somewhere between meaningless and quite damaging. ...   
+                         
+
+I hope that in the future, if I’m successful in communicating with people about
+this, that there’ll be a kind of upfront warning in New York Times articles:
+These data are based on multiple regression analysis. This would be a sign that
+you probably shouldn’t read the article because you’re quite likely to get
+non-information or misinformation.
+
+RICHARD NISBETT is a professor of psychology and co-director of the Culture and
+Cognition Program at the University of Michigan. He is the author of Mindware:
+Tools for Smart Thinking; and The Geography of Thought. Richard Nisbett's Edge 
+Bio Page.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE CRUSADE AGAINST MULTIPLE REGRESSION ANALYSIS
+
+The thing I’m most interested in right now has become a kind of crusade against
+correlational statistical analysis—in particular, what’s called multiple
+regression analysis. Say you want to find out whether taking Vitamin E is
+associated with lower prostate cancer risk. You look at the correlational
+evidence and indeed it turns out that men who take Vitamin E have lower risk
+for prostate cancer. Then someone says, "Well, let’s see if we do the actual
+experiment, what happens." And what happens when you do the experiment is that
+Vitamin E contributes to the likelihood of prostate cancer. How could there be
+differences? These happen a lot. The correlational—the observational—evidence
+tells you one thing, the experimental evidence tells you something completely
+different.
+
+ 
+
+Continue Reading →
+
+  • Tweet Widget
+  • Facebook Like
+  • Google Plus One
+  • Linkedin Share Button
+  • Share on Facebook
+  • Pinterest
+  • Print Mail logo
+  • Print HTML logo
+
+Annual Question
+
+WHAT DO YOU CONSIDER THE MOST INTERESTING RECENT [SCIENTIFIC] NEWS? WHAT MAKES
+IT IMPORTANT?
+
+"I am both thrilled and frightened." 
+—John C. Mather, Nobel Laureate, Physics
+[double_tul]
+"Double Tulips 2016" by Katinka Matson |  Click to Expand | katinkamatson.com
+
+
+Scientific topics receiving prominent play in newspapers and magazines over the
+past several years include molecular biology, artificial intelligence,
+artificial life, chaos theory, massive parallelism, neural nets, the
+inflationary universe, fractals, complex adaptive systems, superstrings,
+biodiversity, nanotechnology, the human genome, expert systems, punctuated
+equilibrium, cellular automata, fuzzy logic, space biospheres, the Gaia
+hypothesis, virtual reality, cyberspace, and teraflop machines. ... Unlike
+previous intellectual pursuits, the achievements of the third culture are not
+the marginal disputes of a quarrelsome mandarin class: they will affect the
+lives of everybody on the planet.
+
+You might think that the above list of topics is a preamble for the Edge
+Question 2016, but you would be wrong. It was a central point in my essay, "The
+Third Culture," published 25 years ago in The Los Angeles Times, 1991 (see
+below). The essay, a manifesto, was a collaborative effort, with input from
+Stephen Jay Gould, Murray Gell-Mann, Richard Dawkins, Daniel C. Dennett, Jared
+Diamond, Stuart Kauffman, Nicholas Humphrey, among other distinguished
+scientists and thinkers. It proclaimed:
+
+The third culture consists of those scientists and other thinkers in the
+empirical world who, through their work and expository writing, are taking the
+place of the traditional intellectual in rendering visible the deeper meanings
+of our lives, redefining who and what we are.
+
+"The wide appeal of the third-culture thinkers," I wrote, "is not due solely to
+their writing ability; what traditionally has been called 'science' has today
+become 'public culture.' Stewart Brand writes that 'Science is the only news.
+When you scan through a newspaper or magazine, all the human interest stuff is
+the same old he-said-she-said, the politics and economics the same sorry cyclic
+dramas, the fashions a pathetic illusion of newness, and even the technology is
+predictable if you know the science. Human nature doesn't change much; science
+does, and the change accrues, altering the world irreversibly.' We now live in
+a world in which the rate of change is the biggest change." Science has thus
+become a big story, if not the big story: news that will stay news.
+
+This is evident by the continued relevance today of the scientific topics in
+the 1991 essay that were all in play before the Web, social media, mobile
+communications, deep learning, big data. Time for an update. …
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT DO YOU CONSIDER THE MOST INTERESTING RECENT [SCIENTIFIC] NEWS? WHAT MAKES
+IT IMPORTANT?
+
+        "Stellar read! Best of the year already. Truly impressed again by the
+        intellectual firepower of Edge."  —Süddeutsche Zeitung
+
+        "I’ve just treated myself to the first third, roughly, of this year’s 
+        Edge answers. Addictive, fascinating, exciting—even on topics that I
+        already knew quite a lot about. Very high quality."   —Daniel C.
+        Dennett
+
+        "What is the most interesting scientific news? Very, VERY smart
+        people respond." —BoingBoing
+
+        "The Question pushed divergence, and that’s where the wealth of the 
+        Edge network is." —Stewart Brand 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 
+
+ [Contents]   [Manuscript]
+
+John Brockman, Publisher & Editor
+Russell Weinberger, Associate Publisher
+Nina Stegeman, Associate Editor
+Katinka Matson, Co-founder & Resident Artist
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                       
+                                 [EdgeQuesti]
+
+ [ click for full media coverage of the 2016 Edge Question ] 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                       
+                                 [IlSole24NE]
+
+                     The News of Science Have Consequences
+                               By Luca De Biase
+
+n. 510 | Domenica 10 gennaio 2016
+
+[Nova_edgei]
+
+Nova magazine features contributions from Peter Gabriel, Kevin Kelly, and Bill
+Joy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Fazfeature]
+Nineteen reasons why marriages succeed
+
+From Gene-knives and autistic neurons: The Scholars Association "Edge
+Foundation" asked well-known researchers, what is revolutionizing the
+sciences.The result is a fascinating kaleidoscope of new knowledge and methods.
+
+[FAZ_image]
+By Manuela Lenzen
+
+January 21, 2016
+
+The big bang may not have been such a huge thud, as we imagine. Drones
+revolutionize not only the war, but also the research on wild
+animals. Two-thirds of all cancers are due to random mutations. And three
+principles are sufficient to define rationality. All answers to the question
+placed before the scientists of the "Third Culture" of American literary agent
+John Brockman: "What is the most interesting scientific news? And what makes
+them so important?"
+
+For almost twenty years Brockman puts on his online forum edge.org regularly
+such a question: "What do you think is right, even if you can not prove it?"
+(2005), "What do you ask yourself?" (1998), "What is the scientific idea is
+ready for retirement?" (2014). For "Third Culture" is one of Brockman
+researchers from natural sciences and humanities, discuss their findings in a
+larger, multi-disciplinary and social context.
+
+In his this year's question Brockman got 198 very different answers. They range
+from knowledge about the importance of microbes in the digestive tract of new,
+resource-saving battery technologies and 3D printers in the medical technology
+to intelligently networked "green cities". The crisis of psychology, triggered
+by too many non-reproducible results, just missing a little like a study for
+vaccination against Ebola and one of the testing, "autistic neurons" to grow in
+the petri dish. [Continue...]
+
+Read highlighted contributions from: Randolph Nesse, Andy Clark, Thalia
+Wheatley, Thomas Metzinger, Gary Klein, Jared Diamond.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EDGE week in Germany - "the Feuilleton Section of SZ is publishing one
+unabridged text every day this week."[SZ_F_banne]
+[SZ_5]
+Caption: For musician Peter Gabriel it might not take long until we open our
+thoughts as easily as a can.
+
+Day 5: Open Water—The Internet of Visible Thought
+Nr 12, Samstag/Sonntag, 16./17. Januar 2016
+
+Brain scanners are getting better and cheaper. What could this mean for us? A
+vision. By Peter Gabriel
+
+[ English, Edge.org | German Translation ]
+
+ 
+
+Continue Reading →
+
+  • Tweet Widget
+  • Facebook Like
+  • Google Plus One
+  • Linkedin Share Button
+  • Share on Facebook
+  • Pinterest
+  • Print Mail logo
+  • Print HTML logo
+
+Conversation
+CULTURE
+
+What people are reading in Malaysia
+
+Photos from Borders bookstore in Kuala Lumpur Edge Editor [1.13.16]
+
+[intellectu]
+[BordersGar]
+
+ 
+
+Continue Reading →
+
+  • Tweet Widget
+  • Facebook Like
+  • Google Plus One
+  • Linkedin Share Button
+  • Share on Facebook
+  • Pinterest
+  • Print Mail logo
+  • Print HTML logo
+
+Conversation
+Conversations
+
+A MESSAGE FROM PARIS
+
+An EDGE Special Event! by Ian McEwan [11.14.15]
+[ian]
+
+ED. NOTE: Ian McEwan, who is living in France this month, sent the following
+email this afternoon from Paris which he asked us to share with the Edge
+community. And the community is responding - we are pleased to include a
+Reality Club discussion with contributions from: Scott Atran, Daniel L. Everett
+, Dan Sperber, James J. O'Donnell, Lawrence B. Brilliant, Lisa Randall, Lee
+Smolin, John Tooby, Eduardo Salcedo-Albaran. More to come....
+
+JB 
+
+IAN MCEWAN, the award-winning British novelist, is the author of The Child in
+Time (winner of the Whitbread Novel of the Year Award, 1987), Amsterdam (winner
+of the Booker Prize, 1998), Atonement, Sweet Tooth, and The Children Act. He
+lives in London. Ian McEwan's Edge Bio Page. 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The death cult chose its city well—Paris, secular capital of the world, as
+hospitable, diverse and charming a metropolis as was ever devised. And the
+death cult chose its targets in the city with ghoulish, self-damning
+accuracy—everything they loathed stood plainly before them on a happy Friday
+evening: men and women in easy association, wine, free-thinking, laughter,
+tolerance, music—wild and satirical rock and blues. The cultists came armed
+with savage nihilism and a hatred that lies beyond our understanding. Their
+protective armour was the suicide belt, their idea of the ultimate hiding place
+was the virtuous after-life, where the police cannot go. (The jihadist paradise
+is turning out to be one of humanity’s worst ever ideas; slash and burn in this
+life, eternal rest among kitsch in the next).
+
+ 
+
+Continue Reading →
+
+  • Tweet Widget
+  • Facebook Like
+  • Google Plus One
+  • Linkedin Share Button
+  • Share on Facebook
+  • Pinterest
+  • Print Mail logo
+  • Print HTML logo
+
+Conversation
+CULTURE
+
+What is Reputation?
+
+A Conversation With Gloria Origgi [11.5.15]
+[Origgi]
+
+NEW — A Reality Club discussion with responses from: Abbas Raza, William
+Poundstone, Hugo Mercier, Quentin Hardy, Martin Nowak and Roger Highfield, 
+Bruce Schneier, Kai Krause, Sumit Paul-Choudhury, Margaret Levi.
+
+That is basically what interests me—the double question of understanding our
+own biases, but also understanding the potential of using this indirect
+information and these indirect cues of quality of reputation in order to
+navigate this enormous amount of knowledge. What is interesting about Internet,
+and especially about the Web, is that Internet is not only an enormous
+reservoir of information, it is a reputational device. It means that it
+accumulates tons of evaluations of other people, so the information you get is
+pre-evaluated. This makes you go much faster. This is an evolutionary heuristic
+that we have, probably since the birth of the human mind.
+
+Follow the people who know how to treat information. Don't go yourself for the
+solution. Follow those who have the solution. This is a super strong drive—to
+learn faster. Children know very well this drive. And of course it can bring
+you to conformism and have very negative side effects, but also can make you
+know faster. We know faster, not because there is a lot of information around,
+but because the information that is around is evaluated; it has a reputational
+label on it. 
+
+Introduction
+
+This Edge feature is our second foray into the idea of "reputation" in the age
+of the Internet. The first, in December 2004, "Indirect Reciprocity, Assessment
+Hardwiring, And Reputation": A Conversation with Karl Sigmund, occurred in
+another era (or was it another planet): no iPhones, no Facebook, no Twitter. We
+were sending faxes through our PCs and Macs attached to modems, and short
+messages through our pagers.
+
+At that time Sigmund said, "In the early 70s, I read a famous paper by Robert
+Trivers, one of five he wrote as a graduate student at Harvard, in which the
+idea of indirect reciprocity was mentioned obliquely. He spoke of generalized
+altruism, where you are giving back something not to the person you owed it to
+but to somebody else in society. This sentence suggested the possibility that
+generosity may be a consideration of how altruism works in evolutionary
+biology."
+
+"I am often thinking about the different ways of cooperating," he added, "and
+nowadays I'm mostly thinking about the strange aspects of indirect reciprocity.
+Right now it turns out that economists are excited about this idea in the
+context of e-trading and e-commerce. In this case you also have a lot of
+anonymous interactions, not between the same two people but within a hugely
+mixed group where you are unlikely ever to meet the same person again. Here the
+question of trusting the other, the idea of reputation, is particularly
+important. Google Page Rankings, the reputation of eBay buyers and sellers, and
+Amazon reader reviews are all based on trust, and there is a lot of moral
+hazard inherent in these interactions."
+
+Gloria Origgi, whose previous Edge feature, "Who's Afraid Of The Third Culture?
+" appeared in these pages in 2006, is an exemplar of the Third Culture in
+Europe. According to philospher Daniel C. Dennett, she has completely mastered
+everything from philosophy to neuroscience, moving gracefully through the
+conceptual jungles of everything from neuroscience to cognitive science to
+anthropology. A Parisian, she is an antidote to that European genre of French
+thought that creates the illusion of depth and profundity that Dennett calls
+"Eumerdification"*.
+
+In "What Is Reputation?" Origgi talks about "the double question of
+understanding our own biases, but also understanding the potential of using
+this indirect information and these indirect cues of quality of reputation in
+order to navigate this enormous amount of knowledge.
+
+"What is interesting about Internet, and especially about the Web, is that
+Internet is not only an enormous reservoir of information, it is a reputational
+device. It means that it accumulates tons of evaluations of other people, so
+the information you get is pre-evaluated. This makes you go much faster. This
+is an evolutionary heuristic that we have, probably since the birth of the
+human mind.
+
+"Follow the people who know how to treat information. Don't go yourself for
+the solution. Follow those who have the solution. This is a super strong
+drive—to learn faster. Children know very well this drive. And of course it can
+bring you to conformism and have very negative side effects, but also can make
+you know faster. We know faster, not because there is a lot of information
+around, but because the information that is around is evaluated; it has a
+reputational label on it."
+
+GLORIA ORIGGI is a researcher at the Centre Nationale de la Recherche
+Scientifique in Paris and a journalist. She is a best-selling novelist in the
+Italian language, a respected philosopher in French, a cognitive scientist in
+English, and the person you want to sit next to at a dinner party. Her latest
+book, La Reputation, was recently published in France. Gloria Origgi's Edge Bio
+Page.
+
+[* Dennett writes in his book Breaking The Spell: "John Searle once told me
+about a conversation he had with the late Michel Foucault: 'Michel, you're so
+clear in conversation; why is your written work so obscure?' To which Foucault
+replied, 'That's because, in order to be taken seriously by French
+philosophers, twenty-five percent of what you write has to be impenetrable
+nonsense.' I have coined a term for this tactic, in honour of Foucault's
+candor: eumerdification."]
+
+                                                                 —John Brockman
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT IS REPUTATION?
+
+I'm a philosopher and I do some social sciences, but basically I stick to
+philosophy in my method, in my way of tackling questions. I was interested in
+epistemology, in questions about knowledge. At a certain point in the early
+2000s, Internet became such a major phenomenon that I started to be interested
+in transformations of the ways in which we organize, access, produce, and
+distribute knowledge that was dependent on the introduction of Internet in our
+lives.
+
+I was interested in the question of trust. It seems like a paradox. The
+traditional view of knowledge in philosophy and epistemology is that you should
+not trust, and you should be an autonomous thinker. You should have in your own
+mind the means to filter information, and to infer new knowledge from what you
+already know without taking into account the opinion of others. The opinion of
+others is doxa, and episteme—the true knowledge—is the opposite, being an
+autonomous knower. With Internet and this hyperconnectivity in which knowledge
+started to spin around faster than light, I had the feeling that trust was
+becoming a very important aspect of the way in which we acquire knowledge.
+
+ 
+
+Continue Reading →
+
+  • Tweet Widget
+  • Facebook Like
+  • Google Plus One
+  • Linkedin Share Button
+  • Share on Facebook
+  • Pinterest
+  • Print Mail logo
+  • Print HTML logo
+
+Reading List
+
+New Books by Edgies
+
+[12.18.15]
+
+[Newbooks_1]
+
+ 
+
+Continue Reading →
+
+  • Tweet Widget
+  • Facebook Like
+  • Google Plus One
+  • Linkedin Share Button
+  • Share on Facebook
+  • Pinterest
+  • Print Mail logo
+  • Print HTML logo
+
+Reading List
+
+Edge Library
+
+[12.18.15]
+
+[EdgeLibrar]
+
+ 
+
+Continue Reading →
+
+  • Tweet Widget
+  • Facebook Like
+  • Google Plus One
+  • Linkedin Share Button
+  • Share on Facebook
+  • Pinterest
+  • Print Mail logo
+  • Print HTML logo
+
+Subscribe to Front page feed
+
+RECENT CONVERSATIONS AT EDGE.ORG →
+
+[Machines_Cover_lg]
+What to Think About Machines That Think
+Edge Annual Question Series
+Edited by
+John Brockman
+[10.6.15]
+
+People Contributing to Edge.org →
+
+ [pict]
+ [bk_7]
+ [bk_2]
+ [pict]
+ [bk_1]
+ [bk_3]
+ [pict]
+ [bk_7]
+ [bk_3]
+ [bk_4]
+ [pict]
+ [pict]
+ [pict]
+ [pict]
+ [pict]
+ [pict]
+ [bk_4]
+ [bk_2]
+
+LATEST NEWS →
+
+[700_WSJ]
+Notable & Quotable
+Wall Street Journal [11.15.15]
+
+[Rose]
+
+From a blog post, “A Message From Paris,” by British novelist Ian McEwan for
+edge.org, Nov. 14:
+
+The death cult chose its city well—Paris, secular capital of the world, as
+hospitable, diverse and charming a metropolis as was ever devised. And the
+death cult chose its targets in the city with ghoulish, self-damning
+accuracy—everything they loathed stood plainly before them on a happy Friday
+evening: men and women in easy association, wine, free-thinking, laughter,
+tolerance, music—wild and satirical rock and blues. The cultists came armed
+with savage nihilism and a hatred that lies beyond our understanding. Their
+protective armour was the suicide belt, their idea of the ultimate hiding place
+was the virtuous after-life, where the police cannot go. (The jihadist paradise
+is turning out to be one of humanity’s worst ever ideas; slash and burn in this
+life, eternal rest among kitsch in the next).
+
+Paris, dazed and subdued, woke this morning to reflect on its new
+circumstances. ...
+
+Read the full article →
+
+[Edge_McNallys]
+Edge Annual Question Books at McNally's, Canada's Premier Independent Bookstore
+[12.17.15]
+
+Read the full article →
+
+[460_Boston]
+Story Behind the Book: holiday tips from Greater Boston booksellers
+Kate Tuttle, The Boston Globe [12.16.15]
+
+Just about everyone, no matter how tech-enamored or word-weary, appreciates
+receiving a book as a holiday gift. So, we decided to ask local booksellers
+which titles have been flying off their shelves — and see whether they had any
+special recommendations for hidden gems. ...
+
+Jane Stiles at Wellesley Books added that the novels “The Japanese Lover” by
+Isabel Allende and “Avenue of Mysteries” by John Irving were popular gift
+choices this year. At Papercuts J.P., one of the area’s newest bookstores,
+owner Kate Layte said nonfiction has been very popular this year, including
+many of the titles already mentioned, along with Helen MacDonald’s memoir “H Is
+for Hawk.”
+
+In addition, Layte said, “there are some great paperback originals I’ve been
+selling lots of like ‘An Indigenous Peoples’ History of the United States’ by
+Roxanne Dunbar-Ortiz, ‘The Best American Infographics 2015’ — the editor,
+Gareth Cook, lives here in JP — and John Brockman’s new collection of essays,
+‘What to Think About Machines That Think: Today’s Leading Thinkers on the Age
+of Machine Intelligence.’ ” A special favorite in fiction is “Katherine
+Carlyle” by Rupert Thomson. “When folks see the blurbs from James Salter and
+Phillip Pullman, they can rest assured they’re holding a treasure,” she added.
+...
+
+Read the full article →
+
+[Big-Think-log]
+Artificial Intelligence Isn't Nearly 'as Smart as 3-Year Olds.'
+Jag Bhalla, Big Think [12.11.15]
+
+Why should AI scare us? Let’s compare natural vs. artificial intelligence,
+using Edge’s 2015 big question: What to think about machines that think?
+
+... Alison Gopnik feels machines aren’t nearly “as smart as 3-year-olds.” While
+AI sometimes outwits Garry Kasparov, it needs millions of pictures (labeled by
+humans) to learn to recognize cats. Infants need a handful (amazing
+pattern detectors, + see what babies know, butscientists often ignore). ...
+
+Read the full article →
+
+[siliconrepublic]
+This Christmas, gift a book from the lighter side of sci-tech
+Silicon Republic [12.9.15]
+
+Christmas is coming, and the shopping list is getting fat. So we’re here to
+give you a hand with at least the ideas stage.
+
+Here at Siliconrepublic.com, we’ve spent the last few weeks creating lists of
+books that the sci-tech lovers in your life will, well… love.
+
+Our first foray into the world of the must-read saw us pointing you in the
+right direction on books for those who just can’t get their fill of science
+knowledge – a serious look at the world of science and technology, if you will.
+
+With this latest list, we look at the other side of that coin. Plenty of
+knowledge here, too, but with a slightly different flavour.
+
+Compiled by John Brockman, publisher of website Edge.org, This Idea Must Die
+ brings together some of the planet’s leading thinkers and asks them, "What
+scientific idea is ready for retirement?"
+
+Asking the question of 175 of the world’s leading scientists, artists and
+philosophers, Brockman elicited answers from a huge range of people. … The most
+famous book produced from the series is likely This Explains Everything, which
+was published in 2012, while What To Think About Machines That Think has just
+been published.
+
+[This]
+
+Read the full article →
+
+[lanacion_1]
+Superforecasting
+Diego Golombek, La Nacion [12.7.15]
+
+The implications of this research, the methods, and ideas are enormous: imagine
+having the ability to help make political, economic, and educational decisions.
+The interesting thing is that the supers are not geniuses, or experts in
+quantum physics, or macroeconomics, they're common people—filmmakers,
+mechanical or dance teachers,but they are especially vigilant and rational in
+discerning and processing the available evidence. And how does one become a
+superforecaster? Tetlock recently offered a course of 5 classes (available
+whole in edge.org). In these class discussions, the tournaments, counterfactual
+thinking ("what if?"), and what we have learned about human behavior with these
+techniques are discussed. ...
+
+Read the full article →
+
+[boingboing_3]
+What is reputation?
+David Pescovitz, BoingBoing [11.12.15]
+
+On the Web, reputation is a critical currency. But reputation is tricky. The
+way it's measured changes from platform to platform, network to network. And
+the way we evaluate the reputation of people, products, companies, information,
+and even the reputation systems, is affected by our own biases. Big time.
+Gloria Origgi literally wrote the book on reputation, titled La Reputation. A
+researcher at the Centre Nationale de la Recherche Scientifique in Paris,
+Origgi is a philosopher, cognitive scientist, novelist, and journalist. Over at
+my friend John Brockman's essential site EDGE, Origgi tackles the big question
+of "What is reputation?"
+
+Read the full article →
+
+[Loyolan]
+Save the Date for the Week of 10/18
+Amanda Lopez, Los Angeles Loyolan [10.19.15]
+
+Wednesday, Oct. 21: The Loyolan is hosting its second annual "60 Second
+Lectures" event, co-sponsored by the University Honors Program. Professors from
+various schools at LMU will deliver lectures on ideas in their field that "must
+die" in the span of one minute, focusing on the central theme of "This Idea
+Must Die." "60 Second Lectures" will start at 7:15 p.m. in UHALL 1000.
+
+[60seclectu]  [This]
+
+Read the full article →
+
+[Brain-Pickings-Logo_0]
+What to Think About Machines That Think: Leading Thinkers on Artificial
+Intelligence and What It Means to Be Human
+Maria Popova, Brain Pickings [10.13.15]
+
+When Ada Lovelace and Charles Babbage invented the world’s first computer,
+their “Analytical Engine” became the evolutionary progenitor of a new class of
+human extensions — machines that think. A generation later, Alan Turing picked
+up where they left off and, in laying the foundations of artificial
+intelligence with his Turing Test, famously posed the techno-philosophical
+questionof whether a computer could ever enjoy strawberries and cream or compel
+you to fall in love with it.
+
+From its very outset, this new branch of human-machine evolution made it clear
+that any answer to these questions would invariably alter how we answer the
+most fundamental questions of what it means to be human.
+
+That’s what Edge founder John Brockman explores in the 2015 edition of his
+annual question, inviting 192 of today’s most prominent thinkers to tussle with
+these core questions of artificial intelligence and its undergirding human
+dilemmas. ...
+
+What to Think About Machines That Think is an immeasurably stimulating read in
+its entirety, exploring the intersection of science, philosophy, technology,
+ethics, and psychology to unravel some of the most important questions worth
+asking. ...
+
+Read the full article →
+
+[640_NYT]
+Review: ‘Brief Candle in the Dark,’ by Richard Dawkins, Puts Intellect Over
+Intimacy
+Dwight Garner, New York Times [10.6.15]
+
+In Richard Dawkins’s first memoir, An Appetite for Wonder (2013), he described
+losing his virginity, at the somewhat advanced age of 22, to a cellist in
+London.
+
+His writing about this episode was typical of him. First he called upon
+science. “It isn’t difficult for a biologist to explain why nervous systems
+evolved in such a way as to make sexual congress one of the consistently
+greatest experiences life has to offer,” he said. “But explaining it doesn’t
+make it any less wonderful.”
+
+Then he summoned literature and morality, and wrote: “I’ll say no more on the
+subject, and will betray no confidences. It isn’t that kind of autobiography.”
+
+Mr. Dawkins’s sequel to his memoir has arrived, and it isn’t that kind of
+autobiography either. Brief Candle in the Dark: My Life in Science presents a
+public life more than a private one.
+
+This is autobiography as intellectual victory lap. What it lacks in intimacy it
+mostly makes up for with wit and bounce and a sense that this deeply learned
+man is running for mayor of our brains. ...
+
+...Two threads stand out from the many. The first is his longing to bridge the
+divide between science and literary culture. The second is the
+author’s emergence, with his best-selling book The God Delusion (2006), as the
+most famous atheist on Earth.
+
+Mr. Dawkins laments that scientists in fiction, “from Dr. Frankenstein to Dr.
+Strangelove,” are generally portrayed as “heartless eccentrics, gradgrinds,
+psychopaths or worse.”
+
+His favorite evenings are those he calls “third culture,” that is, scientists
+sharing a bottle or two with word people. Living novelists who write well about
+science, he suggests, include Mr. McEwan, A. S. Byatt, Philip Pullman, Barbara
+Kingsolver, Martin Amis and William Boyd. …
+
+[candle_cov]
+
+ 
+
+Read the full article →
+
+GET EDGE.ORG BY EMAIL
+
+You can subscribe to Edge and receive e-mail versions of EdgeEditions as they
+are published on the web. Fill out the form, below, with your name and e-mail
+address and your subscription will be automatically processed.
+Email address * [                         ]
+Your name * [                         ]
+Country * [                         ]
+[subscribe]
+NOTE: if you use a spam-filter that uses a challenge/response or authenticated
+e-mail address system, you must include "editor@edge.org" on your list of
+approved senders or you will not receive our e-mail.
+
+unsubscribe
+
+  • John Brockman, Editor and Publisher
+  • Russell Weinberger, Associate Publisher
+  • Nina Stegeman, Associate Editor
+
+ 
+
+  • Contact Info:editor@edge.org
+  • In the News
+  • Get Edge.org by email
+
+ 
+Edge.org is a nonprofit private operating foundation under Section 501(c)(3) of
+the Internal Revenue Code.
+Copyright (C) 2016 By Edge Foundation, Inc All Rights Reserved.
+
+ 
+

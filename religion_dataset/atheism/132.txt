@@ -1,0 +1,10 @@
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│embed(GraphicsNew/topflash.swf)                                                                  │
+│                                                                                                 │
+│[bottombar]                                                                                      │
+│                                                                  website design by MK Multimedia│
+│                                                                                                 │
+│copyright (C) 2006, FreeThought Radio,             historical image enhancement courtesy of David│
+│FreeThought Network, all rights reserved                             Pearson at Silent-Movies.com│
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+                        embed(GraphicsNew/schedule.swf)

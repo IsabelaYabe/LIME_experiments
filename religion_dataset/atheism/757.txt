@@ -1,0 +1,1077 @@
+skip to main | skip to sidebar
+
+Notes from an Evil Burnee
+
+...because I'll surely roast in Hell
+
+Sunday, 3 January 2016
+
+Life beyond belief: 30 minutes on "Heaven"
+
+BBC Radio 4's Beyond Belief recently covered "Heaven and the Afterlife":
+
+    The question of what happens after we die is central to the world's faith
+    traditions. How has the belief in an afterlife developed across the
+    religions? And what does Heaven mean to people of faith today?
+
+    Ernie Rea discusses the concept of the afterlife with Shaunaka Rishi Das,
+    Director of the Oxford Centre for Hindu Studies; Dr Shuruq Naguib, lecturer
+    in Islamic Studies at Lancaster University; and the writer and broadcaster 
+    Peter Stanford.
+    Producer: Amanda Hancox
+
+[beyond_bel]Ernie Rae's studio guests asserted a great deal about stuff they
+couldn't possibly know, and as usual with this half-hour programme and several
+guests, nothing could be considered very deeply. Just enough time for someone
+to state that "studies have shown" that people who have a belief in an
+afterlife face death more peacefully than those who don't, plus the assumption
+that of course someone who believes in an afterlife will act more morally in
+their life before death.
+
+There was also an inserted interview with resuscitation researcher Dr Sam
+Parnia who claimed that the scientific consensus was that the soul is something
+apart from the brain.
+
+All far too superficial and unsatisfactory — I wonder why they bothered.
+
+UPDATE 2015-01-04: Further comment by Stewart Lee at the Guardian here:
+http://www.theguardian.com/commentisfree/2016/jan/03/
+out-of-the-mouths-of-babes-stewart-lee-nicky-morgan-religious-education
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The mp3 audio of this programme can be downloaded here:
+http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/
+audio-nondrm-download/proto/http/vpid/p03csh25.mp3
+
+Posted by Paul Jenkins at 22:27 ● ●
+Labels: afterlife, Amanda Hancox, BBC Radio 4, Beyond Belief, Ernie Rea, heaven
+, Peter Stanford, Sam Parnia, Shaunaka Rishi Das, Shuruq Naguib, soul
+
+Saturday, 2 January 2016
+
+Complexity, inevitability, and life — Evolution 2.0 on Unbelievable?
+
+[Perry-Marshall-PZ-Myers-Main_article_image]
+Listening to the latest Unbelievable? show from Premier Radio I was struck by
+what appeared to be a failure of imagination on the part of Perry Marshall, who
+was debating evolutionary biologist PZ Myers about the former's recent book,
+Evolution 2.0. Not being a biologist of any kind I'm unable to comment
+authoritatively on the actual mechanisms of evolution, but having followed PZ
+Myers' blog Pharyngula in the past (less so these days) I'm fairly confident he
+knows what he's talking about when it comes to his own subject. Perry
+Marshall's background, however, is in engineering and marketing, which on the
+face of it should make me wary of pronouncements that are outside his field of
+expertise.
+
+Myers rubbished pretty much everything Marshall proposed, and given the above
+I'm prepared to accept that Myers is right and Marshall is wrong. The debate
+was fairly technical, but seemed to me to boil down to Marshall's claim that
+the “random” part of random mutation is insufficient to explain how evolution
+works (notwithstanding other aspects of evolution such as horizontal gene
+transfer).
+
+At one point Marshall stated that the code in DNA could fit on a Compact Disc,
+and that if you eliminated “junk DNA” the code would be merely ten percent of
+what could fit on a CD. The core of his argument appeared to be disbelief that
+such a relatively small amount of information could produce the complexity we
+see in living organisms today. By comparison he cited the amount of code
+required to install modern computer operating systems such as Windows 10 and
+Mac OS X.
+
+Marshall's engineering background has hampered his thinking here. Engineers who
+design systems, be they engines, bridges, or computer operating systems, need
+to specify mechanisms in minute detail (or make use of minutely detailed
+specifications already available) in order to make their systems work. This
+notion of "engineering ex nihilo" is what in my opinion leads to the essential
+failure-of-imagination exhibited by intelligent design proponents and
+creationists (of whom a disproportionately large number are engineers) — “it's
+all so complicated it must have been minutely designed by an intelligence of
+some kind.”
+
+But imagine a software programmer who has never encountered fractals is shown a
+picture of the Mandelbrot set, and is given the task of writing code to
+generate the same picture from scratch. Without knowledge of the simple
+equation that produces fractals the picture could indeed be generated, but I
+suspect the code would be somewhat large. Or imagine a manufacturer of
+breakfast cereal wants its packaging department to come up with a special
+gadget to ensure that each carton of cornflakes contains a gradation of flakes,
+such that the larger flakes are mostly towards the top of the carton and the
+smaller ones mostly towards the bottom. I'm sure such a gadget could be made,
+but it's not actually necessary as the cornflakes tend to sort themselves out
+this way on their own.
+
+Such self-organisation is, in my view, an aspect of the discussion about
+complexity that is often overlooked. If things inevitably organise themselves
+in a particular way, trying to make them happen in other ways, against the
+natural order, will indeed require complex intervention. “Going with the flow”
+on the other hand, will often require no intervention at all. It seems to me
+that much of the complexity we see in nature is there because in a given
+environment, things tend to work out that way rather than any other, just like
+in a packet of cornflakes.
+
+[Mandelbrot_Set-4-SEAHORSE_ZOOM]
+A small part of the Mandelbrot set
+This is applicable in other systems too, such as how you organise your life.
+For instance, it makes sense to keep things you need regularly in designated
+places, so that you don't have to embark on a time-consuming search every time
+you need them. If you need to take something with you when you go out, you
+could set an alarm on your smartphone to remind you to pick it up at the
+appropriate time — or you could simply place the item where you will see it
+when you do go out.
+
+To put this another way: don't expend energy trying to achieve things in spite
+of your environment. Rather, create, encourage and adjust your environment such
+that it allows those things to be achieved automatically. (There you go — who'd
+have thought a debate on evolution would lead to productivity advice and
+life-coaching?)
+
+UPDATE 2016-01-04: Perry Marshall has published online his transcript of the
+debate, along with some restrospective comments:
+http://cosmicfingerprints.com/pz-myers/
+...And here's PZ Myers' response to the comments:
+http://freethoughtblogs.com/pharyngula/2016/01/03/perry-marshall-2-0/
+
+UPDATE 2016-01-10: Looks like this will run and run. Perry Marshall has
+responded to PZ Myers' response to his comments on his transcript:
+http://cosmicfingerprints.com/pz-mcclintock/
+
+UPDATE 2016-01-12: ...and PZ Myers further responds here:
+http://freethoughtblogs.com/pharyngula/2016/01/11/
+everything-existing-in-the-universe-is-the-fruit-of-chance-and-necessity/ 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PZ Myers' blogpost about his encounter with Perry Marshall is here:
+http://freethoughtblogs.com/pharyngula/2016/01/01/
+another-day-another-creationist/
+Posted by Paul Jenkins at 15:37 ● ●
+Labels: complexity, creationism, DNA, engineering, evolution, fractals,
+Intelligent Design, junk DNA, life, Mandelbrot set, Perry Marshall, Pharyngula,
+Premier Christian Radio, PZ Myers, randomness, Unbelievable?
+
+Friday, 1 January 2016
+
+God's gonna buy you a private jet
+
+(From the Friendly Atheist via Marina on Facebook)
+
+After listening to two pastors "explaining" why they all need private jets
+(it's so that they can talk to God without being interrupted), Hemant Mehta has
+a suggestion:
+
+    Here’s an idea: If you’re so famous that you can’t fly everywhere without
+    people stopping you, wear a disguise. Or fly First Class if you must. Or
+    don’t stand up to talk to God like a crazy person when I’m sure God can
+    read your mind just fine even if you’re seated and silent.
+
+Here's the clip he was listening to:
+
+These guys are either (this is my opinion) lying through their teeth, or they
+are seriously delusional.
+
+The whole business puts me in mind of this:
+Posted by Paul Jenkins at 09:11 ● ●
+Labels: Friendly Atheist, God, Hemant Mehta, Hooters, Jesse Duplantis, Kenneth
+Copeland, private jet, satellite
+
+Felicitations for solar orbital repetition!
+
+[IMG_0563-w]
+Happy New Year!
+Posted by Paul Jenkins at 00:00 ● ●
+Labels: fireworks, New Year
+
+Thursday, 31 December 2015
+
+To a better life in 2016 and beyond
+
+Marking the end of one year and the beginning of another, I offer this
+uplifting sentiment: may life be better. Better than what? Better than it was,
+whether it was bad, indifferent or even already pretty good.
+
+[A]
+
+As an original supporter of the Kickstarter campaign for Chris Johnson's book A
+Better Life, I received an email yesterday offering a free download of the film
+he has gone on to produce, based on the book, and also titled A Better Life. I
+watched it last night and found it enjoyable, insightful and uplifting. Like
+the book, it's beautifully produced and photographed, featuring many of the
+people who were in the book.
+
+    There is no God. Now what? If this is the only life we have, how does that
+    affect how we live our lives, how we treat each other, and cope with death.
+    As a follow-up to one of Kickstarter’s most successful publishing projects,
+    photographer and filmmaker Chris Johnson introduces us to some of the many
+    voices from his book. In this fascinating documentary — learn the stories
+    behind the book in interviews with some of our greatest thinkers. Join
+    Chris as he explores issues of joy & meaning and travels around the globe
+    meeting people from all walks of life and backgrounds who challenge the
+    false stereotypes of atheists as immoral and evil. From Daniel Dennett and
+    A.C. Grayling, to Julia Sweeney and Robert Llewellyn — learn the various
+    ways many atheists have left religion to a better life filled with love,
+    compassion, hope, and wonder!
+
+
+
+I got the movie for free, but you can buy it in the form of streaming video, HD
+download, or DVD.
+
+And you can still buy the original book:
+[A]
+
+
+Posted by Paul Jenkins at 20:55 ● ●
+Labels: A Better Life, atheism, Atheist Book, book, Chris Johnson, film,
+Kickstarter, movie
+
+Wednesday, 30 December 2015
+
+Britain is no more a Christian nation than a White nation
+
+[coel_lasilla_small]
+Coel Hellier reflects on what the reaction would be if David Cameron had
+described Britain as a "White country":
+
+Britain is no more a Christian nation than a White nation | coelsblog
+
+    If Britain is a Christian nation then it is also a White nation. The
+    majority of the population is white and our history and cultural heritage
+    are predominantly White. Nearly all of our institutions and our cultural
+    traditions derive from people who were white.
+
+Once again we have a demonstration of why secularism is the obvious way to go.
+Posted by Paul Jenkins at 20:49 ● ●
+Labels: Christianity, Coel Hellier, David Cameron, Prime Minister, secularism,
+white
+
+Wanna buy some 'E'? Sure you do!
+
+No, not that 'E' — this is The Ecstasy of Wilko Johnson, a feature length
+documentary film by Julien Temple, previously shown in BBC1's Imagine series,
+and which until Christmas Eve 2015 was available to view on iPlayer.
+
+Now you can buy it on DVD:
+http://www.amazon.co.uk/Ecstasy-Wilko-Johnson-DVD-y/dp/B017DFEBEK/
+
+[WilkoJohnsonEcstasy1500_]
+
+Anyone who enjoyed the two-part BBC Radio 4 Mastertapes on Wilko Johnson will
+absolutely want to see this extraordinary documentary shown on BBC1 in
+November. Superlatives escape me — this is probably the best biographical
+documentary film about a living artist I have ever seen. Truly brilliant,
+uplifting, and surprising on so many levels.
+Posted by Paul Jenkins at 13:01 ● ●
+Labels: BBC Radio 4, BBC1, documentary, Dr Feelgood, film, Imagine, Julien
+Temple, Wilko Johnson
+Older Posts Home
+Subscribe to: Posts (Atom)
+Related Posts Plugin for WordPress, Blogger...
+●
+●
+Keep Libel Laws out of Science
+●
+●
+[btn] ●
+
+Pages
+
+  • THIS SITE USES COOKIES
+  • Home
+  • Dembski & Licona's Evidence for God
+  • Arguments for Fred*
+  • QED 2012 media links
+  • Reviews for The Fix Online
+
+●
+
+Podcast
+
+Skepticule Podcast
+●
+
+Archive
+
+  • ▼  2016 (4)
+      □ ▼  January (4)
+          ☆ Life beyond belief: 30 minutes on "Heaven"
+          ☆ Complexity, inevitability, and life — Evolution 2....
+          ☆ God's gonna buy you a private jet
+          ☆ Felicitations for solar orbital repetition!
+
+  • ►  2015 (35)
+      □ ►  December (5)
+      □ ►  October (1)
+      □ ►  September (2)
+      □ ►  August (5)
+      □ ►  June (3)
+      □ ►  March (3)
+      □ ►  February (4)
+      □ ►  January (12)
+
+  • ►  2014 (15)
+      □ ►  December (2)
+      □ ►  November (2)
+      □ ►  September (1)
+      □ ►  August (1)
+      □ ►  June (4)
+      □ ►  March (1)
+      □ ►  January (4)
+
+  • ►  2013 (64)
+      □ ►  December (3)
+      □ ►  November (3)
+      □ ►  October (8)
+      □ ►  September (3)
+      □ ►  August (18)
+      □ ►  June (2)
+      □ ►  May (4)
+      □ ►  April (7)
+      □ ►  March (10)
+      □ ►  February (3)
+      □ ►  January (3)
+
+  • ►  2012 (139)
+      □ ►  December (1)
+      □ ►  November (1)
+      □ ►  October (5)
+      □ ►  September (19)
+      □ ►  August (31)
+      □ ►  July (4)
+      □ ►  June (6)
+      □ ►  May (4)
+      □ ►  April (17)
+      □ ►  March (18)
+      □ ►  February (15)
+      □ ►  January (18)
+
+  • ►  2011 (289)
+      □ ►  December (13)
+      □ ►  November (18)
+      □ ►  October (9)
+      □ ►  September (13)
+      □ ►  August (23)
+      □ ►  July (32)
+      □ ►  June (30)
+      □ ►  May (31)
+      □ ►  April (30)
+      □ ►  March (31)
+      □ ►  February (28)
+      □ ►  January (31)
+
+  • ►  2010 (67)
+      □ ►  December (7)
+      □ ►  November (5)
+      □ ►  October (10)
+      □ ►  September (6)
+      □ ►  August (6)
+      □ ►  July (5)
+      □ ►  June (4)
+      □ ►  May (8)
+      □ ►  April (1)
+      □ ►  March (5)
+      □ ►  February (4)
+      □ ►  January (6)
+
+  • ►  2009 (114)
+      □ ►  December (8)
+      □ ►  November (8)
+      □ ►  October (15)
+      □ ►  September (12)
+      □ ►  August (14)
+      □ ►  July (10)
+      □ ►  June (8)
+      □ ►  May (5)
+      □ ►  April (6)
+      □ ►  March (10)
+      □ ►  February (12)
+      □ ►  January (6)
+
+  • ►  2008 (75)
+      □ ►  December (3)
+      □ ►  November (11)
+      □ ►  October (13)
+      □ ►  September (15)
+      □ ►  August (12)
+      □ ►  July (3)
+      □ ►  June (3)
+      □ ►  May (6)
+      □ ►  April (2)
+      □ ►  March (2)
+      □ ►  February (5)
+
+  • ►  2007 (39)
+      □ ►  December (2)
+      □ ►  November (1)
+      □ ►  October (2)
+      □ ►  September (2)
+      □ ►  August (2)
+      □ ►  July (5)
+      □ ►  June (16)
+      □ ►  May (7)
+      □ ►  April (1)
+      □ ►  March (1)
+
+  • ►  2006 (2)
+      □ ►  December (2)
+
+  • ►  2005 (4)
+      □ ►  June (1)
+      □ ►  May (1)
+      □ ►  April (2)
+
+●
+
+About me
+
+[psj_blogge]Paul S. Jenkins, writer, podcaster and tech-enthusiast (and atheist
+and skeptic) lives and works in Hampshire, UK. Notes from an Evil Burnee is his
+blog about things skeptical.
+●
+image
+●
+
+Subscribe
+
+[arrow_drop] [icon_feed1] Posts
+[subscribe-] [subscribe-] [icon_feed1] Atom
+[arrow_drop] [icon_feed1] Posts
+[arrow_drop] [icon_feed1] All Comments
+[subscribe-] [subscribe-] [icon_feed1] Atom
+[arrow_drop] [icon_feed1] All Comments
+●
+
+Followers
+
+●
+
+Blogroll
+
+  • 
+    Center for Inquiry - News & Announcements
+    This feed contains no entries
+    41 minutes ago
+  • 
+    Boing Boing
+    Will the W3C strike a bargain to save the Web from DRM?
+    1 hour ago
+  • 
+    Reason Project: Newsfeed
+    This feed contains no entries
+    1 hour ago
+  • 
+    Pharyngula
+    #astroSH : here we go again!
+    1 hour ago
+  • 
+    Friendly Atheist by Hemant Mehta
+    The One Universal Upside of Computers Running the World
+    2 hours ago
+  • 
+    Skepchick
+    See Me Co-Host Still Untitled: The Adam Savage Project!
+    2 hours ago
+  • 
+    Ahy Evolution Is True
+    Two bears for Tuesday
+    4 hours ago
+  • 
+    Whatever
+    The Big Idea: Jake Kerr
+    6 hours ago
+  • 
+    Almost Diamonds
+    After Cologne: Reflections from a Refugee Neighborhood
+    6 hours ago
+  • 
+    eSkeptic
+    Is It Irrational to Play the Lottery?
+    7 hours ago
+  • 
+    CFI | Free Thinking
+    Big Pharma Conspiracy Debunked
+    7 hours ago
+  • 
+    Freethinker
+    ‘Anti-Christian culture’ is killing the C of E, says Archbishop
+    7 hours ago
+  • 
+    Rant & Reason
+    Film Review: Je Suis Charlie Depicts Harrowing Account of Charlie Hebdo
+    Attacks
+    8 hours ago
+  • 
+    NSS News
+    Church of England collapse strengthens the case for a secular UK
+    8 hours ago
+  • 
+    Merseyside Skeptics Society
+    Aliens: Mr Green and Mr Gray cannot visit us today – Stevyn Colgan
+    8 hours ago
+  • 
+    Atheist Ethicist
+    Trust Your Feelings? A Poor Way to Do Morality
+    9 hours ago
+  • 
+    NeuroLogica
+    Real Scientific Literacy
+    11 hours ago
+  • 
+    Derren Brown Blog
+    Derren Brown – Pushed to the Edge
+    11 hours ago
+  • 
+    James's space
+    A Spat with a SpAd Part 2: Choice? Not if it’s forced it’s not!
+    14 hours ago
+  • 
+    microphilosophy
+    Information as inaction
+    14 hours ago
+  • 
+    Talking Philosophy
+    David Bowie
+    1 day ago
+  • 
+    Jack of Kent
+    David Bowie as a paralegal
+    1 day ago
+  • 
+    Daylight Atheism
+    Jimmy Carter Is Better than the God He Worships
+    1 day ago
+  • 
+    coelsblog
+    Nigel Biggar is wrong on Charlie Hebdo and free speech
+    1 day ago
+  • 
+    New Humanist Blog
+    Sharia law: a question of judgement
+    1 day ago
+  • 
+    Robinince's Blog
+    What Was Your First One? – Bowie Scribblings
+    1 day ago
+  • 
+    Token Skeptic
+    Vale David Bowie – 1947 – 2016
+    1 day ago
+  • 
+    Greta Christina's Blog
+    Blog Break – Finishing My New Book, The Way of the Heathen: Practicing
+    Atheism in Everyday Life
+    1 day ago
+  • 
+    Atheist Experience
+    Open thread for episode 20.02: Matt and Martin
+    1 day ago
+  • 
+    xkcd.com
+    Magnus
+    2 days ago
+  • 
+    Philosophical Disquisitions
+    Is Resistance Futile? Are we already Borg?
+    2 days ago
+  • 
+    Stephen Law
+    God, Evil, and Theodicies
+    2 days ago
+  • 
+    GCU Dancer on the Midway
+    Link blog: aliens, probe, anal, ufo
+    2 days ago
+  • 
+    Mind Hacks
+    Spike activity 08-01-2016
+    3 days ago
+  • 
+    Atheism UK
+    “Evolution & Atheism: Best Friends Forever?” lecture by Jerry Coyne on
+    Darwin Day
+    3 days ago
+  • 
+    Nigel Warburton - virtual philosopher
+    News and Events
+    4 days ago
+  • 
+    From Stars To Stalagmites
+    How to lie about radiometric dating, evolution, and even nuclear physics
+    4 days ago
+  • 
+    BHA news
+    Chairs of four parliamentary select committees write to Education Secretary
+    demanding statutory PSHE and SRE
+    4 days ago
+  • 
+    Jesus and Mo
+    restons
+    5 days ago
+  • 
+    The Non-Prophets
+    The Non Prophets The Non-Prophets 15.01.mp3
+    6 days ago
+  • 
+    Panda's Thumb
+    PT is experiencing Technical Difficulties
+    6 days ago
+  • 
+    Metamagician and the Hellfire Club
+    The Mystery of Moral Authority now published!
+    1 week ago
+  • 
+    Notes from an Evil Burnee
+    Life beyond belief: 30 minutes on "Heaven"
+    1 week ago
+  • 
+    Neil Gaiman's Journal
+    We Thought You Were Dead, with baby photos
+    1 week ago
+  • 
+    lesswrong: What's new
+    Why CFAR's Mission?
+    1 week ago
+  • 
+    Forget What Did
+    24 Doodles - 16 to 24
+    1 week ago
+  • 
+    The Skeptical Probe
+    Richard Dawkins talks with Dr John Huddlestun.
+    2 weeks ago
+  • 
+    Tim Minchin
+    ICYMI – ‘Don’t Dream It’s Over’ with the Sydney Symphony Orchestra for MND
+    Australia – & Thank you!
+    2 weeks ago
+  • 
+    Alethian Worldview
+    Not just Muslims
+    2 weeks ago
+  • 
+    Skepticule
+    Skepticule-107-20151111
+    4 weeks ago
+  • 
+    DC's Improbable Science
+    Placebo effects are weak: regression to the mean is the main reason
+    ineffective treatments appear to work
+    4 weeks ago
+  • 
+    Richard Wiseman's Blog
+    The World’s First Mind Reading Tee Shirt
+    5 weeks ago
+  • 
+    HumanistLife
+    Our humanist High Court win changes everything – except, perhaps, the GCSE
+    1 month ago
+  • 
+    Quackometer
+    4Homeopathy – The Homeopaths Strike Back
+    1 month ago
+  • 
+    Occam's Typewriter
+    Choosing your Path, Seizing Opportunities
+    2 months ago
+  • 
+    Tessera
+    Are You Smarter Than A Chimp?
+    2 months ago
+  • 
+    Bruce M. Hood
+    Speakezee Nite Tickets Go on Sale
+    2 months ago
+  • 
+    Kazim's Korner
+    2016 predictions
+    2 months ago
+  • 
+    Sarah Angliss
+    The Hairy Ape – some early apes and thoughts on noise and industrialisation
+    2 months ago
+  • 
+    Temple of the Future
+    Smash the Closet!
+    3 months ago
+  • 
+    Birmingham Skeptics
+    Skeptical about drug laws – Part 2
+    4 months ago
+  • 
+    Edger
+    ピアスの穴と長茎術
+    4 months ago
+  • 
+    Zotero: The Next-Generation Research Tool
+    Studying the Altmetrics of Zotero Data
+    4 months ago
+  • 
+    Skeptical Software Tools
+    Where to see me at DragonCon 2015
+    4 months ago
+  • 
+    Zeno's Blog
+    Another homeopathy fail
+    4 months ago
+  • 
+    Bad Science
+    So this company Cyagen is paying authors for citations in academic papers.
+    4 months ago
+  • 
+    Andrew Copson
+    The Meaning of Life Revealed on Buzzfeed
+    5 months ago
+  • 
+    Butterflies and Wheels
+    Bags are packed
+    5 months ago
+  • 
+    Choice in Dying
+    Harper does it again … Is this really what the Supreme Court had in mind?
+    5 months ago
+  • 
+    Thought Stash
+    Domino’s Pizza and the Area of a Circle
+    5 months ago
+  • 
+    The Skeptics' Book of Pooh-Pooh
+    Sticking up for science. Whose job is it?
+    5 months ago
+  • 
+    We Are SkeptiXX
+    On Sexism: Barbie Penises and Matchbox Vaginas
+    6 months ago
+  • 
+    The Uncredible HallQ
+    New WordPress blog
+    6 months ago
+  • 
+    Science, Reason and Critical Thinking
+    The Bradford Sisters and the Faith Pyramid
+    6 months ago
+  • 
+    Cruella-blog
+    My shocking column from The Teacher in full.
+    7 months ago
+  • 
+    The Rants of Cherry Black
+    Nepal: A Trip To Dhakalthok
+    7 months ago
+  • 
+    Stephen Fry
+    When Stephen Fry met Jony Ive
+    7 months ago
+  • 
+    Caricature Club & Neil Davies Illustration
+    Recent work
+    7 months ago
+  • 
+    Don't Get Fooled Again
+    Deadly crisis in Burundi – will the European Union act to prevent more
+    deaths?
+    8 months ago
+  • 
+    Centre for Inquiry London
+    Best Dating Sites For Meeting Women While In London
+    8 months ago
+  • 
+    GodlessGirl.com
+    Be the One to Turn On the Light
+    9 months ago
+  • 
+    onegoodmove
+    Taking a Break
+    9 months ago
+  • 
+    Heresy Club
+    Cloud Computing Brings Bright Future To Business Industry
+    9 months ago
+  • 
+    Christian Meets World
+    Please vote for our podcasts in the Podcast Awards!
+    10 months ago
+  • 
+    What If?
+    Sunbeam
+    1 year ago
+  • 
+    Jim Al-Khalili's Website
+    Let There Be Life
+    1 year ago
+  • 
+    British Centre for Science Education
+    Charles Darwin through Christian spectacles
+    1 year ago
+  • 
+    ARIANE SHERINE
+    PROJECT 25%: Day 2
+    1 year ago
+  • 
+    Meming of Life
+    And there you have it
+    1 year ago
+  • 
+    James Randi Educational Foundation
+    Time to retire this website theme, onwards to a fresh new layout...
+    1 year ago
+  • 
+    Hampshire Skeptics Society
+    Aubrey de Grey: Regenerative Medicine For Ageing – Can it be Comprehensive
+    Enough? 25SEP14 at Winchester @SitP @AubreydeGrey
+    1 year ago
+  • 
+    Skepticblog
+    Announcing INSIGHT at Skeptic.com
+    1 year ago
+  • 
+    JREF Swift Blog
+    Last Week on Science Based Medicine
+    1 year ago
+  • 
+    manicstreetpreacher's blog
+    The Holy Bible’s 20th Anniversary
+    1 year ago
+  • 
+    Heresy Corner
+    The Jihadist
+    1 year ago
+  • 
+    The Pod Delusion
+    SUMMER SCIENCE SPECIAL!
+    1 year ago
+  • 
+    educatheist
+    Hobby Lobby
+    1 year ago
+  • 
+    A caricature of an atheist
+    The dangers of 'no free will'?
+    1 year ago
+  • 
+    Common Sense Atheism
+    My new personal blog: LukeMuehlhauser.com
+    1 year ago
+  • 
+    Cectic - The Comic
+    An Alternative Nightmare
+    1 year ago
+  • 
+    RichardDawkins.net
+    James Shapiro goes after natural selection again (twice) on HuffPo - Jerry
+    Coyne - Why Evolution Is True
+    1 year ago
+  • 
+    How good is that?
+    An incredible thing is happening right now in protest of FCC plans to break
+    the internet
+    1 year ago
+  • 
+    Southampton Atheist Society
+    The Hitchhikers Guide to the Galaxy – Film Night
+    1 year ago
+  • 
+    Blag Hag
+    The Jenome is no longer crashing & comments are working!
+    1 year ago
+  • 
+    Unreasonable Faith
+    So Long, And Thanks For All The Memories (From Dan)
+    1 year ago
+  • 
+    Skeptico
+    Why Religion Really Doesn’t Have the Upper Hand over Science
+    1 year ago
+  • 
+    a little place of calm
+    Automated regression testing of Chromecast using Cucumber, JRuby and Rukuli
+    1 year ago
+  • 
+    BBC - BBC Internet Blog
+    BBC iPlayer Radio update
+    1 year ago
+  • 
+    Border of Insanity
+    Oh Expression Web 4, you’re so silly
+    1 year ago
+  • 
+    Rationally Speaking
+    So long, and thanks for all the fish
+    1 year ago
+  • 
+    Dr Petra Boynton
+    When sex is painful
+    1 year ago
+  • 
+    123MacBook.com
+    Apple Releases iTunes 11.1.5 Update
+    1 year ago
+  • 
+    123Macmini.com
+    Apple Releases iTunes 11.1.5 Update
+    1 year ago
+  • 
+    BBC Adam Curtis Blog
+    ONE'S PRIVATE LIFE
+    1 year ago
+  • 
+    The Skeptic (UK)
+    Call for participants: Belief and Causality Relating to Accidents
+    2 years ago
+  • 
+    Furious Purpose
+    Australia, the blokey bloke culture and the taboo of depression
+    2 years ago
+  • 
+    BBC - The BBC Radio Blog
+    Closing the BBC Radio Blog
+    2 years ago
+  • 
+    Skeptic
+    Volume 25 Issue 4: The Monster of Lake Champlain
+    2 years ago
+  • 
+    Thinking Is Dangerous
+    Pod Delusion - Episode 203 - UK, Syria and Chemicals.
+    2 years ago
+  • 
+    Patient and Persistent
+    Majorca was banned to kick out the boozy
+    2 years ago
+  • 
+    anatheistviewpoint
+    Eric Hovind Begs
+    2 years ago
+  • 
+    the a-atheism blog
+    Faked Church Signs from Desperate Atheists
+    2 years ago
+  • 
+    Four Dollars, Almost Five
+    Sye still up to his old tricks - and still talking nonsense
+    2 years ago
+  • 
+    The New Humanism
+    That Old Time Secularism by Hiram Crespo
+    2 years ago
+  • 
+    QED :: Question.Explore.Discover
+    Schedule Update: Ben Goldacre
+    2 years ago
+  • 
+    Julia Sweeney
+     
+    2 years ago
+  • 
+    Steven Carr's Blog
+    Did Pilate have Jesus executed?
+    2 years ago
+  • 
+    The Man Version
+    Thought experiment: Electric cars vs. the environment
+    2 years ago
+  • 
+    mediawatchwatch.org.uk
+    Catholic Church “Opus Dei” decision due Friday
+    2 years ago
+  • 
+    Gods that don't Exist
+    Juanita Berguson
+    2 years ago
+  • 
+    Cosmic Variance
+    Speculating about the Future of Google+
+    2 years ago
+  • 
+    Evolving Thoughts
+     
+    2 years ago
+  • 
+    Flat Earth News
+    Sense of music and crisp treble float is general
+    3 years ago
+  • 
+    Bad Astronomy
+    Thank you
+    3 years ago
+  • 
+    A Tippling Philosopher
+    We have moved!
+    3 years ago
+  • 
+    Wiltshire Phenomena Research
+    Great destinations for a Halloween party
+    3 years ago
+  • 
+    kenanmalik.com
+    Essay:'Moral Compass', New Humanist, July/August 2012
+    3 years ago
+  • 
+    Ups and Downs of a Glasgow Girl
+    In sickness and in health
+    3 years ago
+  • 
+    Bay of Fundie
+    Dog Bites Man
+    3 years ago
+  • 
+    Calamities of Nature
+    Blog - March 19, 2012 - Monday - Additional Notes
+    3 years ago
+  • 
+    Philosophy Bites Daily
+    Michael Dummett (1925 - 2011)
+    4 years ago
+  • 
+    Jourdemayne
+    Jourdemayne.com – the folkore of fear with Deborah Hyde
+    4 years ago
+  • 
+    Struck by Enlightning
+    I Had a Chance to Exercise my Skeptical Chops in Real Life the Other Night
+    4 years ago
+  • 
+    The Indelible Stamp
+    SA Student Magazine Offends Christians
+    6 years ago
+  • 
+    David Allen Green — New Statesman
+  • 
+    steve's posterous
+  • 
+    winscifest's Space
+  • 
+    PodBlack Cat
+  • 
+    Fun Anymore
+  • 
+    Me (and others) vs Creationist
+  • 
+    Trystan Swale
+  • 
+    bengoldacre
+  • 
+    The Gallant Skeptic
+  • 
+    Carmen Gets Around
+
+●
+[logo_small]
+Follow this blog
+●
+
+My last two Twitter updates
+
+My last two Twitter updates
+
+follow me on Twitter
+●
+
+Atheist Bus Campaign
+
+Atheist Bus Campaign
+●
+
+This might surprise you:
+
+embed(http://static.ning.com/socialnetworkmain/widgets/index/swf/badge.swf?v=
+200912171415)
+●
+ 

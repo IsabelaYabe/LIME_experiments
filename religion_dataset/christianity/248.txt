@@ -1,0 +1,34 @@
+bg image(_themes/tabs/tabbkgnd.jpg)
+                      [100X22]           Sign In Sign-Up
+                                       
+Welcome!
+ 
+Close
+Would you like to make this site your homepage? It's fast and easy...
+Yes, Please make this my home page!
+No Thanks
+[ ]
+  Don't show this to me again.
+ 
+Close
+
+church1.jpg                       The North Cohocton
+  (331975                       United Methodist Church
+   bytes)               Celebrating over 150 Years of Caring...           
+     10         Worship Service 11:00 AM
+ University
+  Avenue,       Sunday School:  10:00 AM
+                                             Pastor: Rev.  KathleenGreene
+    North                                          [bd04]Contact Us
+ Cohocton,     Church Office: 716-534-5609
+ NY  14808        Pastor's Home Phone:
+                       716-534-5325         
+ 
+              __________________________________________________________
+
+Encouraging  A Word From The  Announcements      Prayer     Prayer Request
+   Links         Pastor                        Concerns  
+               Newsletters      Calendar         Family     Helping Hands
+                                               Ministries
+
+*

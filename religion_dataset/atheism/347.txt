@@ -1,0 +1,703 @@
+[1427396980]
+
+  • Home
+  • Blog
+  • Philosophy
+  • Publications
+  • Contact
+
+
+
+ZOMBIES AND HELL                                            Archives
+
+12/4/2015                                                   December 2015
+                                                            November 2015
+0 Comments                                                  October 2015
+                                                            September 2015
+                                                            August 2015
+Picture                                                     July 2015
+Jonathan M. S. Pearce's The Problem with “God” (which       May 2015
+I'm currently reading) contains many interesting            April 2015
+arguments and plenty of food for thought. And one of        March 2015
+these arguments – due to Reasonable Doubts' Justin          February 2015
+Schieber – presents a very serious challenge to anyone      January 2015
+who believes both that God knows the future and that        December 2014
+there is a hell.                                            November 2014
+                                                            October 2014
+There is an obvious difficulty for anyone who believes      September 2014
+both of these things. For suppose that we divide            August 2014
+everyone in the world into two groups: A, those who are     July 2014
+saved, and B, those who are damned. If God knows ahead      June 2014
+of time who is going to saved and who isn't, it seems
+he could have created a world with only the members of      Categories
+A in it. So what could possibly justify his creation of
+those destined for hell?                                    All
+                                                            Atheism
+When challenged with this problem, Christian                Creationism
+philosopher William Lane Craig answered that perhaps it     Ethics
+isn't possible for God to create a world with only          Politics
+people who are saved. For let's say God created a world     Presuppositionalism
+with only those in group A. In the actual world, all of
+these people are saved; but it doesn't follow that they     [bg_feed] RSS Feed
+would all be saved in this other world that contains
+only them – for in that other world, things would be
+different, and we cannot say that in their different
+circumstances these individuals would still freely come
+to accept God.
+
+This is obviously a rather weak defense of the
+Christian view. However, for the sake of argument,
+let's say Craig is right and that at least some of the
+people in group A need those in group B to be around in
+order to be saved, so that God had to create group B.
+
+This is where Schieber's argument comes in.
+
+The argument employs the concept of philosophical
+zombies – hypothetical beings that look and act just
+like normal humans but that have no conscious states.
+Such beings aren't plausible, of course, but the point
+is that God could have created them. And though such
+beings would have no conscious experiences of any kind,
+to us they would be indistinguishable from real
+persons. Your best friend could be a zombie and you'd
+never know.
+
+But now, even if it is necessary for the individuals in
+group B to be around to interact with those in group A,
+it's obvious that everyone who is a member of B could
+have been a zombie rather than an actual person. This
+way, they would still provide those in A with the same
+exact circumstances that allows the latter to be saved,
+but – the crucial point – they wouldn't be damned, for
+they wouldn't even be real persons with a soul. So it
+seems hell cannot be justified.
+
+Pearce points out that, as a way out, a Christian could
+conclude that this half-zombie world is what God in
+fact created. Since from the outside one cannot tell a
+human from a zombie, conscious humans like you might be
+surrounded by zombies who merely appear to be conscious
+nonbelievers. (This puts a whole new spin on the claim,
+made by some, that there are no real atheists.) But who
+can seriously entertain the idea that some of the
+individuals around us are zombies?
+
+Moreover, such a Christian would be abandoning the
+concept of hell as a real place – references to it, as
+well as the zombies who act human, would all be part of
+a grand deception on the part of God. And that suggests
+another way for the Christian to reply to this zombie
+argument: God would never create such a world because
+it would involve deception on his part. (On the other
+hand, would such deception really be worse than
+consigning some of his creatures to eternal suffering?)
+
+There is one thing I disagree with Pearce about. He
+claims that, even though a Christian could consistently
+believe that we inhabit a half-zombie world, he himself
+knows that we don't, since he is a nonbeliever and yet
+knows that he is not a zombie. I'll leave it to the
+reader to think about that one. As I said, lots of food
+for thought in this book.
+
+Pearce's book on Amazon
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+0 Comments
+
+DAWKINS ON THE CHURCH OF ENGLAND'S SIDE
+
+11/24/2015
+
+0 Comments
+
+ 
+Richard Dawkins recently criticized some U.K. theater
+chains for refusing to run a Christian ad encouraging
+prayer. More specifically, he objected “to suppressing
+the ads on the grounds that they might ‘offend’ people.
+If anybody is ‘offended’ by something so trivial as a
+prayer, they deserve to be offended.”
+
+I sometimes wonder if Dawkins says these kind of things
+mainly to confound his critics. Nevertheless, I think
+he's right: society has become overly sensitive.
+
+On the other hand, this is not, as the Church's
+communications director said and as Dawkins himself
+initially tweeted, a freedom of speech issue. The
+theater chains are private concerns and have the right
+to whatever policy they deem appropriate. (They
+currently do not run ads of a political or religious
+nature – and so would presumably refuse atheist ones as
+well.) So the theater chains are free to refuse the ad
+if they want. But of course anyone who disagrees with
+their policy also has the right to criticize them.
+
+(Dawkins later retracted his claim that the theaters
+were violating free speech.)
+
+For more, see here.
+
+0 Comments
+
+CAN ONE DERIVE AN “OUGHT” FROM AN “IS”?
+
+11/18/2015
+
+0 Comments
+
+ 
+As mentioned in a recent post, many religious believers
+claim that without God there can be no objective right
+or wrong. This creates an understandable temptation
+among atheists to find an alternative basis for
+objective morality. And because atheists usually look
+for this alternative in science, they often begin by
+rejecting the well-known principle that one cannot
+derive an “ought” from an “is.”
+
+One such atheist is Richard Carrier. He maintains that
+this principle is “not merely illogical, it's
+demonstrably false. We get an 'ought' from an 'is' all
+the time.”
+
+Carrier's basic argument is that there are objective
+facts about what people desire, as well as objective
+facts about how to achieve these desires, and that
+“wherever both are an empirically demonstrated fact,
+the imperative they entail is [also] an empirically
+demonstrated fact.” So, for instance, consider the
+following example:
+
+1. You want your car to run well
+2. In order for your car to run well, its oil must be
+changed with sufficient regularity
+3. Therefore, you ought to change your car's oil with
+sufficient regularity
+
+Here, we have two “is” premises which (we can assume)
+state empirical facts, and an “ought” conclusion. And
+since the conclusion is supposedly derived from factual
+statements, Carrier believes it is “factually true
+independent of human opinion or belief.” He thinks he
+has solved the problem and that therefore the principle
+that one cannot derive an “ought” from an “is” should
+“never be uttered again.”
+
+Well, sorry, but I'm going to utter it once again: One
+cannot derive an “ought” from an “is,” and it isn't
+hard to understand why. In deductive arguments, there
+cannot be anything in the conclusion that isn't already
+contained in the premises: All deduction does is
+“extract” some of the information included in the
+premises; it cannot add anything new. It follows that
+if the premises of a valid argument contain no
+“oughts,” then the conclusion cannot contain any
+“oughts” either (except in a trivial sense which is
+discussed in the note below).
+
+And in fact it's easy to see what's wrong with
+Carrier's argument. That “you ought to change your
+car's oil with sufficient regularity” only follows if
+it is also the case that you ought to want your car to
+run well. In other words, there must already be an
+“ought” in the premises if the conclusion is to follow.
+Compare:
+
+1. Manson wants to kill lots of innocent people
+2. In order to kill lots of innocent people, one needs
+weapons
+3. Therefore, Manson ought to get weapons
+
+Is the conclusion here “factually true independent of
+human opinion or belief”? According to Carrier's
+argument, it is! But who seriously thinks that it is a
+moral truth that Manson should acquire weapons?
+
+Nor is it difficult to come up with a counter-example
+to the first argument. Suppose Mary is an extreme
+environmentalist and disagrees that we ought to want
+our cars to run at all. Can we demonstrate to Mary the
+“fact” that you ought to change your car's oil
+regularly?
+
+No one has ever successfully bridged the is-ought gap.
+If you want to maintain that there are objective moral
+truths, you ought to find some other way.
+
+
+Note:
+For anyone who might be interested, the trivial sense
+in which one can derive a conclusion that contains
+“ought” from premises that do not is as follows: Given
+that from p you can conclude p or q, one can validly
+argue something like,
+
+1. The earth is round
+2. Therefore, the earth is round or you ought to go fly
+a kite.
+
+But this is irrelevant, as it is not a way to derive
+moral principles (the conclusion is true, but it does
+not actually say that you should go fly a kite).
+
+
+​The quotations are from Richard Carrier, “Moral Facts
+Naturally Exist (and Science Could Find Them),” in The
+End of Christianity, ed. John Loftus, pp. 334-335
+
+
+0 Comments
+
+BEN CARSON'S PYRAMID SCHEME
+
+11/12/2015
+
+0 Comments
+
+ 
+
+Ben Carson has been criticized for his bizarre claim
+(made in a commencement speech seventeen years ago)
+that the Egyptian pyramids were used to store grain,
+and rightly so. But there was something else almost as
+bizarre about his claim that is actually more telling,
+and it is something most reports have ignored.
+
+Carson's reason for thinking the pyramids were grain
+silos, in case you don't know, is simple: the Bible
+says that Joseph had the Egyptians store enough grain
+to last them for seven years, and so Carson argues that
+whatever they used to store it in “would have to be
+something awfully big, if you stop and think about it.
+And I don’t think it’d just disappear over the course
+of time...”
+
+But the other thing Carson said about the pyramids is
+what I find even more interesting:
+
+‘‘And when you look at the way that the pyramids are
+made, with many chambers that are hermetically sealed,
+they’d have to be that way for a reason. And various
+scientists have said, ‘Well, you know there were alien
+beings that came down and they had special knowledge
+and that’s how they were...’ – you know, it doesn’t
+require an alien being when God is with you.”
+
+Yes, presidential candidate Ben Carson actually thinks
+that scientists (or at least “various scientists,”
+which is bad enough) believe that aliens were
+responsible for the pyramids. That says a lot about how
+much he understands science.
+​
+0 Comments
+
+RUSH LIMBAUGH ON GOD AND HEAVEN
+
+11/9/2015
+
+0 Comments
+
+ 
+Rush Limbaugh rarely discusses the issue of the
+validity of religious belief, and a good thing, too.
+But today he did and, well, you be the judge:
+
+He was talking about an argument made by his father
+when he, Rush, was a child – an argument that he
+apparently still finds persuasive today. It goes like
+this: A loving God, Rush's dad told him, would not have
+created us with the ability to imagine a place like
+heaven – or eternal life, for that matter – unless it
+were real. For, to create beings capable of imagining
+such a thing if it weren't real would simply be cruel.
+
+(I can't help wondering if he thinks the same thing
+about hell.)
+
+This is almost as bad as the argument he presents in
+his book The Way Things Ought to Be – and which I also
+once heard him make on his show – to demonstrate the
+reasonableness of belief in God: 
+
+“The human mind... is incapable of imagining the size
+of the universe, its origins, or even where it is.
+Although some incredibly arrogant scientists believe
+that they are capable of scientifically unlocking every
+mystery of the universe and of understanding everything
+in purely material terms, I believe there are certain
+things that the mind of man simply cannot discover or
+ascertain. There are certain things we were not meant
+to understand, cannot understand, and must accept on
+faith.” (pp. 153-154, italics in the original)
+
+(I especially like that part about us not knowing where
+the universe is!)
+
+All of this is funny, of course, but what isn't as
+funny is how Rush uses his religion to back up his
+political views. His belief in a creator is, he tells
+us, his principal reason for denying climate change:
+“My views on the environment are rooted in my belief in
+Creation... I don't believe that the earth and her
+ecosystem are fragile...” (p. 153)
+​
+One can certainly have a serious discussion about
+climate change. However, the religious approach of Rush
+and his followers is essentially to not even have a
+discussion, not even look at any evidence, because
+after all, we already “know” that climate change can't
+be true! And that's scary.
+
+
+0 Comments
+
+MORE ON WILLIAM LANE CRAIG'S MORAL ARGUMENT
+
+10/29/2015
+
+2 Comments
+
+ 
+Christian philosopher William Lane Craig maintains that
+atheists very often accept both premises of the
+following argument (while rejecting its conclusion, of
+course):
+
+1. If there is no God, objective moral principles do
+not exist
+2. But objective moral principles do exist
+3. Therefore, there is a God
+
+In particular, he accuses Richard Dawkins of doing
+this. But of course accepting the premises of this
+argument while denying its conclusion would be
+illogical, since the argument is formally valid.
+According to Craig, then, it seems Dawkins and these
+other atheists really are – as the “good book” says –
+fools.
+
+But is there any reason to believe Craig's claim?
+
+As evidence that Dawkins endorses the first premise of
+the argument, Craig quotes a well-known passage from
+River Out of Eden. “The universe that we observe,”
+Dawkins tells us, “has precisely the properties we
+should expect if there is, at bottom, no design, no
+purpose, no evil, no good, nothing but pitiless
+indifference.” However, what Dawkins is obviously
+pointing out here is that the amoral nature of reality
+is evidence of its lack of purpose or design, and hence
+of its lack of a creator. If there were a God who
+supposedly cares about sentient beings, one would not
+expect a universe of “blind physical forces” where
+“some people are going to get hurt, other people are
+going to get lucky, and you won't find any rhyme or
+reason in it, nor any justice” (as he states in the
+passage leading up to the above quote). And that's not
+the same as claiming that there are no objective moral
+principles that apply to human society.
+
+But even if Dawkins did accept the first premise, Craig
+would have to show that he accepts the second one as
+well. And that's where his case is especially weak, for
+his evidence here is simply that Dawkins makes moral
+judgements. That is, Dawkins says that some things are
+right and others wrong, and that, according to Craig,
+shows that he believes in objective moral principles.
+What's more, this is all the evidence Craig presents
+with respect to other atheists who supposedly make the
+same mistake.
+
+But expressing a moral viewpoint isn't the same thing
+as claiming that morality is objective, and Craig
+should know that. He acknowledges that there are moral
+relativists, who maintain that morality is relative to
+culture. And yet a relativist can certainly claim that
+something is right or wrong, even if his claim must be
+made from a particular cultural point of view.
+Similarly, subjectivists – those who say that morality
+is ultimately based on subjective preferences or
+desires – can, and do, express their own moral
+preferences.
+
+Craig therefore has failed to show that Dawkins or any
+other atheist accepts the two premises of the moral
+argument.
+
+
+(For a complete refutation of Craig's argument, see
+chapter 5 of my book, The Truth about God.)
+
+
+2 Comments
+
+IS WILLIAM LANE CRAIG BEING DISHONEST?
+
+10/22/2015
+
+0 Comments
+
+ 
+Well-known Christian philosopher William Lane Craig
+maintains that if there were no God, objective moral
+values would not exist – and as a way of backing up
+this claim, he likes to quote atheists who supposedly
+agree with him. For example, on page 17 of God? A
+Debate between a Christian and an Atheist (co-authored
+with Walter Sinnott-Armstrong), he quotes Bertrand
+Russell and Michael Ruse.
+
+Russell once said that “ethics arises from the
+pressures of the community on the individual,” and made
+many other statements showing that he did not consider
+values to be objective. And Ruse put it even more
+bluntly: “Morality is a biological adaptation,” he
+tells us. “Considered as a rationally justifiable set
+of claims about an objective something, ethics is
+illusory.” Craig then goes on to say that, like Russell
+and Ruse, he doesn't “see any reason to think that in
+the absence of God, the herd morality evolved by homo
+sapiens is objective.” (p. 18)
+
+Does this mean that these two well-known philosophers
+agree that the non-existence of God implies the
+non-existence of objective morality? After all, they
+are both atheists, and they do both say there are no
+objective values.
+
+But the problem is that one can be an atheist and
+reject the objectivity of values without, however,
+agreeing with Craig – and Craig almost certainly knows
+this. So could it be he's being dishonest here?
+
+While it is true that both Russell and Ruse deny the
+objectivity of values, it doesn't follow that they do
+so because of their atheism. Russell most certainly did
+not: his reasons for becoming a subjectivist about
+values had nothing to do with God (in fact, he rejected
+theism long before he abandoned belief in objective
+morality). And I suspect as much in the case of Ruse,
+since most philosophers who disbelieve in objective
+values do not do so as a result of of their atheism.
+
+I for one agree with Russell and Ruse about the nature
+of morality – and I would do so even if I became
+convinced there is a God. When it comes to the nature
+of ethics, God's existence or non-existence is simply
+irrelevant.
+
+(On the next post I will say something about why the
+rejection of moral objectivity does not mean the
+rejection of morality – and why Craig's criticism of
+Dawkins, among others, on this point is therefore all
+wrong.)
+0 Comments
+
+BOOK EXCERPT: OLD TESTAMENT MORALITY, PART 3
+
+10/15/2015
+
+0 Comments
+
+ 
+(The third and final excerpt on Old Testament morality
+from my book The Truth about God. This one picks up
+where yesterday's post ended.)
+
+There is another problem with this attempted solution
+to the savagery promoted in the Bible [see previous
+post]. If worshipping other gods is regarded by Yahweh
+as such a great evil, why is the destruction of rival
+religious traditions no longer commanded by him today?
+What explains the change? One answer, offered by
+Gleason Archer, is that Christians don’t have to behave
+as the ancient Israelites did because, being empowered
+by the Holy Spirit within them, they “possess resources
+for resisting the corrupting influence of unconverted
+worldlings,” and are thus “able to lead [their] lives
+in the midst of a corrupt and degenerate non-Christian
+culture (whether in the Roman Empire or in modern
+secularized Europe or America) and still keep true to
+God.” It is for this reason that they “have no occasion
+as ambassadors for Christ to resort to physical weapons
+to protect [their] faith…” What Archer is maintaining
+here, in other words, is that if it were not for the
+empowering influence of the Holy Spirit, Christians
+would be justified in killing non-Christians! They
+don’t have to, but only because they have an inner
+strength that allows them to remain uncontaminated by
+the evil secularism and pagan religious practices that
+surround them. Such a view, however, is not only highly
+disturbing; it also fails to explain why the ancients
+couldn’t likewise have been given this kind of inner
+strength. ...
+
+​Quoted material: Gleason L. Archer Jr., Encyclopedia
+of Bible Difficulties, Zondervan, 1982, p. 159
+
+
+0 Comments
+
+BOOK EXCERPT: OLD TESTAMENT MORALITY, PART 2 
+
+10/14/2015
+
+0 Comments
+
+ 
+(Another excerpt from my book The Truth about God.)
+
+... At this point, the believer might object that if
+God kills, he must have a good reason for doing so.
+Copan says as much, claiming God may take human life
+for “morally sufficient reasons.”[1] But this changes
+the argument. Copan conflates this idea with the
+previous one, but now it no longer is the case that God
+has the right to kill us because he is our creator;
+rather, his right derives from there being a moral
+justification for killing. What we have here, then, is
+yet another possible reason for the apparently immoral
+events found in the Bible. According to this view, the
+troubling episodes in the Old Testament are not what
+they at first appear to be, for they all have
+underlying reasons, even if we cannot always see what
+they are. We may simply not know, or not have thought
+about, all of the details. In many cases, we may simply
+be failing to keep the big picture in mind. What we
+have to do is take all of the facts into consideration.
+
+Thus, one possible reply with regards to the
+annihilation of conquered tribes is simply to claim
+that it was fully justified by the terrible behavior of
+the people in question. Their “degenerate idolatry and
+moral depravity,”[2] according to some apologists, had
+to be entirely wiped out from the land. Geisler and
+Howe, in their work on Bible difficulties, remind
+readers that the Midianites, for one, had “corrupted
+God’s people by leading them into idolatry at Baal-Peor
+so that 24,000 Israelites died in the plague.”[3]
+ Similarly, they say, it was “necessary to completely
+exterminate any trace of the city [of Jericho] and its
+people. If anything had remained, except that which was
+taken into the treasure house of the Lord, there would
+have always been the threat of heathen influence to
+pull the people away from the pure worship of the Lord.
+[4]” Of course the plague that supposedly occurred as a
+result of idolatry was presumably sent by Yahweh, who
+after all is, by his own admission, an angry and
+jealous God. Moreover, it’s somewhat debatable whether
+worshipping other gods merits being massacred and
+having even your small children put to death. (It is
+also interesting that in the almost complete
+destruction of Jericho an exception was made of the
+silver and gold, so that it could be taken into “the
+treasure house of the Lord”; religion, it seems, never
+changes.)
+​
+Now, it is true that there were many behaviors among
+these conquered peoples which were genuinely bad. They
+apparently engaged in child sacrifice, for example. But
+it should be pointed out, first, that to put a stop to
+child sacrifice by killing everyone involved including
+the children does not seem entirely sensible; and
+second, that early on in their history, the Israelites
+seem to have performed such sacrifices as well. It was
+sadly an all-too-common practice, and, as will be shown
+in the next chapter, there is biblical evidence that
+God’s chosen people were no different from other tribes
+in this respect. But if that is true, then the fact
+that other tribes engaged in this practice could not be
+the reason why God commanded their annihilation. ...
+
+
+[1] Paul Copan, “Are Old Testament Laws Evil?”, in
+William Lane Craig and Chad Meister, eds., God Is
+Great, God Is Good, InterVarsity Press, 2009, p. 148
+
+[2] Gleason L. Archer Jr., Encyclopedia of Bible
+Difficulties, Zondervan, 1982, p. 158
+
+[3] Norman L. Geisler and Thomas Howe, The Big Book of
+Bible Difficulties, Baker Books, 1992, p. 110
+
+[4] Geisler and Howe, p. 138
+
+0 Comments
+
+BOOK EXCERPT: OLD TESTAMENT MORALITY, PART 1
+
+10/13/2015
+
+0 Comments
+
+ 
+(An excerpt from my book The Truth about God – more
+specifically, from the section in chapter two dealing
+with Old Testament morality and the excuses apologists
+make for it. In the following, "Copan" refers to
+Christian philosopher Paul Copan.)
+
+The next explanation of the biblical atrocities is one
+that Copan mentions as well, though many others have
+made the same point. The problem as they see it is that
+the critic of the Bible is appealing to a moral
+standard that applies to human beings. But according to
+defenders of this view, God is not to be judged by such
+standards. God, after all, is the creator, and since he
+gave us life, he has the right to take it away. To
+quote Copan once more: “If God is the author of life –
+the cosmic authority – he is not obligated to give us
+seventy to eighty years of life… God can take Canaanite
+lives indirectly through Israel’s armies – or directly,
+as with Sodom…”* In fact, an argument along these lines
+appears to be all but necessary if one is going to
+justify the most extensive atrocity in the Old
+Testament, the Flood. I have not mentioned that one
+until now because it is so familiar that people usually
+don’t give it a second thought. As a result, it might
+not seem as terrible at first as some of the other
+cruelties described above. But imagine what is supposed
+to have happened: God killed everyone on earth with the
+exception of eight people and a number of animals.
+Countless infants and small children were drowned on
+purpose – a horrible way to die – by the infinitely
+merciful Lord. And yet he is regarded as morally
+perfect. People must be judging him by a different
+standard!
+​
+The idea, then, is that as the one who created us, God
+is perfectly within his rights if he wishes to destroy
+us. The Lord giveth and the Lord taketh away. But is
+that right? Suppose you suddenly found yourself with
+the power to create life. You create an entire
+civilization of miniature beings who think of you as
+their god. You can see from observing them through a
+microscope that they are every bit as complex as
+humans, caring for their loved ones, planning for the
+future, and so on. Does it follow from the mere fact
+that you created them that it would be acceptable for
+you to now destroy them? I hope you agree that the
+answer is no. It would be nothing less than genocide.
+As soon as such creatures are created, it becomes wrong
+to kill them. Likewise, even if God made us, the fact
+is that we are here, sentient beings who care about
+others, who have hopes and dreams, and who are not
+deserving of death and suffering. It would be no more
+morally acceptable for God to kill us than for anyone
+else to do so. It makes no difference who performs the
+act: the end result would be the same.
+
+
+* Paul Copan, “Are Old Testament Laws Evil?”, in
+William Lane Craig and Chad Meister, eds., God Is
+Great, God Is Good, InterVarsity Press, 2009, p. 148
+
+
+0 Comments
+<<Previous
+
+Link to my book, The Truth about God on Amazon
+Quantcast
+✕

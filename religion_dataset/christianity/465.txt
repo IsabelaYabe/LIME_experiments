@@ -1,0 +1,194 @@
+[Search...           ] 
+Sample Sidebar Module
+
+This is a sample module published to the sidebar_top position, using the
+-sidebar module class suffix. There is also a sidebar_bottom position below the
+menu.
+
+Home
+
+About Us
+
+  • Who We Are
+  • Where to find us
+  • Newsletter
+  • Church Staff
+  • Electronic Giving
+
+Worship
+
+  • Music
+  • Sermons
+
+Get Connected
+
+  • Adults
+  • Youth
+  • Children
+  • WATCH Meals
+
+Church Calendar
+
+2020 E. Washington
+
+Sample Sidebar Module
+
+This is a sample module published to the sidebar_bottom position, using the
+-sidebar module class suffix. There is also a sidebar_top position below the
+search.
+Home
+logo
+
+212 S. Independence            
+
+Monticello, IL 61856              
+
+217-762-2579                       
+
+ 
+
+ 
+
+  • Home
+  • About Us
+      □ Who We Are
+      □ Where to find us
+      □ Newsletter
+      □ Church Staff
+      □ Electronic Giving
+  • Worship
+      □ Music
+      □ Sermons
+  • Get Connected
+      □ Adults
+      □ Youth
+      □ Children
+      □ WATCH Meals
+  • Church Calendar
+  • 2020 E. Washington
+
+Welcome to our church
+
+Welcome to the online home for the Monticello United Methodist Church located
+in Monticello IL. Please take your time exploring this site and learning about
+all we have to offer.
+ 
+service times
+ 
+Sunday Morning 8:30 and 11:00
+ 
+edge pic
+ 
+Sunday Evening: The Edge 6:00 pm
+ 
+youth 8509c
+Youth Group Sunday:
+
+Jr High Youth Group 4:30-5:30
+Senior High Youth from 6:00-7:00
+ 
+Youth Bible Study:
+Wednesday 5:20-6:00 pm
+ 
+ 
+ 
+ 
+
+ 
+
+Upcoming Events
+
+Wed Jan 13 @ 5:00PM - 06:00PM
+WaTch Meal
+Wed Jan 13 @ 6:30PM - 07:30PM
+Choir Practice
+Wed Jan 13 @ 7:30PM - 08:30PM
+New Day Practice
+Wed Jan 13 @ 7:30PM - 08:30PM
+Bell Practice
+Sun Jan 17 @ 8:30AM - 09:30AM
+8:30 Worship
+Sun Jan 17 @ 9:45AM - 10:45AM
+Sunday School
+Sun Jan 17 @11:00AM - 12:00PM
+11:00 Worship
+Sun Jan 17 @ 6:00PM - 07:00PM
+The Edge
+“The Monticello United Methodist Church where we exist to make disciples for
+Jesus Christ.”
+
+Learn About Our Church
+
+We exist to connect People with Jesus Christ
+ [Church-PEI]
+
+The United Methodist Church exists to make disciples of Jesus Christ for the
+transformation of the world.  At Monticello UMC, we strive toward this goal
+with the vision of being the body of Christ in the world, offering Christ to
+everyone through worship, prayer, study, mission, and fellowship.
+
+WaTCH Wednesdays
+
+Come enjoy good food and fellowship
+ [churchdinner]
+
+Join us every Wednesday night through out the school year for WaTCH(Wednesday
+at The CHurch). Each week we enjoy a wonderful cooked meal prepare by our own
+cooking team. The cost is $6 per adult, childre 6-12 are $3 and a family pays
+only $15 regardless of how many are in your family. We also have carry outs
+available $ 8 per meal (sorry no family rate on carry outs)
+ 
+Click Here for a upcoming Menues
+
+The Edge
+
+Explore hot topic issues each Sunday Evening
+[edge_pic] 
+
+Hot Topic Issues For The Church To Face. Each Sunday at 6:00 p.m. this Fall.
+This week's topic: Scientology & Christian Science
+LEADING ONE TO CHRIST
+There is a question everyone needs to answer.  Perhaps today is your day and
+this is the BIG QUESTION?:  “If you were to die this very minute do you have
+the assurance the you would go to heaven?”
+
+ 
+
+millikin
+
+Meet Our Pastors
+
+jeff                                                                    
+[stumps]                                                   
+                              Pastor Jeff
+Bealmear                                                                                                                
+Pastor Matt Stump
+                                     Senior
+Pastor                                                                                                                           
+Associate Pastor
+
+
+ 
+
+
+
+
+Copyright (C) 2016. Monticello UMC. Designed by Shape5.com Joomla Templates
+
+Login
+
+Username [                  ]
+Password [                  ]
+Remember Me [ ]
+Log in
+
+  • Forgot your username?
+  • Forgot your password?
+
+Register
+
+You need to enable user registration from User Manager/Options in the backend
+of Joomla before this module will activate.
+ 
+Desktop Version
+ 

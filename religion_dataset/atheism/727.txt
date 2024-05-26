@@ -1,0 +1,328 @@
+Where are we headed?
+
+humanism, atheism, நாத்திகம், am not ok, senseless thoughts, where are we headed?,
+et al
+
+●
+
+Saturday, December 14, 2013
+
+Murder, Bigamy, Adultery, Incest, Theft, Dacoity, etc sections of IPC can be
+repealed too
+
+Good to be back at blogging after 4 years. In fact, i've been forced to come
+back to save time. I'm tired of defending the recent Supreme Court of India
+judgement upholding section 377 of IPC in various forums and finally decided to
+post a blog (a sarcastic one) which can save my time. I need not type my
+opinion on this issue again and again, rather can just quote this as my opinion
+and move on. This is in continuation to my previous 2007-08 posts on Abnormal
+Sexual Behaviour, Adoption by Homosexuals and Sexual Orientation.
+
+[Indian]
+
+
+If Homosexuals can demand exemption of IPC 377 by quoting the ‘perceived’ rare
+homosexuals acts of over 1000 species, then the following provisions of IPC as
+well as many more Statutes can also be scrapped under the same logic, because
+the same 1000 living species are also seen exhibiting the following ‘NATURAL’
+acts:
+
+299 to 304  -  Culpable Homicide and Murder (animals kill often sometimes due
+to injury in fights which is CH and sometimes through planned Murder)
+
+378, 390, 391  - Theft, Robbery and Dacoity (You might think how dacoity? Yes
+Hyenas are known for dacoity. lol)
+
+493, 494, 495 & 497 – Concubine, Bigamy and Adultery (animals are known to have
+multiple partners)
+
+496  -  Fradulent Marriage
+
+And last but not the least, don’t prosecute people for their Incest
+relationship under 376 (there is no separate section for incest), because
+animals are predominantly into incestuous relationships.
+
+Are not the above acts ‘ORIENTATION’ too ;) Too many species are seen
+exhibiting these acts.
+
+If the above sections are taken out of IPC, then the Government can save lots
+of Tax payer money by closing scores of Magistrate courts :)
+
+Apropos, we cannot approve every behaviour that achieves critical mass as
+right. If we do that, as mentioned earlier, we will open the Pandora's Box...
+Posted by Hamilton Alexander at 8:22 PM 4 comments: ●
+Labels: abnormal sex, Adultery, Bigamy, Dacoity, gay adoption, homosexual
+adoption, incest, Murder, sexual orientation, Theft, ஓரினச் சேர்க்கை, ஓரினச்சேர்க்கை
+
+Friday, August 07, 2009
+
+Ban on Bus Advertisements
+
+The Madras (Chennai) High Court recently directed the Tamilnadu Transport
+department to remove all advertisements from the exteriors of all public and
+private transport buses in the state within a timeframe. This was in response
+to a PIL filed which contended that these advts distract vehicle users/drivers
+and affect the normal transmission of light.
+
+[bus]Though the PIL and ruling is in the interest of general public, i have a
+different take on this. As per the recent study, men spend 1 year of their
+lifetime ogling at women. It is now evident that we men (ie vehicle users &
+drivers) tend to look more at beautiful women on the pavements and nearby than
+the advts on the bus :)
+
+Apropos, will the court now direct all the beautiful women to stay away from
+road pavements, so that more accidents can be avoided! Another option is, they
+can be directed to wear burkha when they come out. Also, what about the
+advertisements which are displayed outside the shops. Vehicle users look at
+those advts too.
+
+Advts on bus is a revenue generating activity for the cash-starved transport
+corporations. Rather than banning them outrightly, the court can restrict their
+over exploitation.
+
+previous post >>> Eradicate Black Money & Corruption using IT
+Posted by Hamilton Alexander at 4:05 PM 4 comments: ●
+Labels: advertisements and accidents, am not ok, ban on bus advertisements, bus
+advertisements, dubious court decisions, where are we headed?
+
+Thursday, June 11, 2009
+
+Eradicate Black Money & Corruption using IT
+
+In March 2007, i posted a blog post in which i wrote: the spread of IT would
+one day result in death of currency notes/coins. There i also credicted that
+process resulting in eradication of Black Money. Recently a reader requested me
+to clarify the same. It works like an ERP model. I'll explain the base model
+here:
+
+[networked]
+There should be a Central Registry (like server) managed by the Government,
+which is linked to payroll system of all the employers (govt, pvt, societies,
+etc) & vendor payment system of all businesses.
+
+Suppose a person's salary is One Lakh per month, that value/amount is directly
+credited to that persons bank account. The same model (ie transfer of VALUE in
+electronic form) can be applied for all the transactions (buying/selling). Also
+all the bank accounts of a person should be linked to an Unique Identification
+Number (UIN) and no person can have more than one UIN. Thus, even if a person
+maintains more than one bank account, total assets of that person are
+consolidated through UIN account. Based on that, tax shall be automatically
+calculated for the total amount (using UIN) and debited to the respective
+government accounts.
+
+The same process shall be replicated for vendor payments too. In case of change
+in payment structure, the payroll systems and vendor systems should relay those
+changes automatically to UIN through the central server. Likewise the system is
+linked for every input & output. If there is excess credit (abnormal increase)
+over and above the defined limit (ie eligible payment), then the system should
+generate a report on the same and automatically forward it to the investigation
+department, which shall in turn issue show cause notice.
+
+This system should also have provision for accepting credits as gifts & loans.
+However limit for high value gifts should be defined and the system programmed
+to reject the same (especially those gifts from vendors to decision makers /
+businesses). This will limit corruption to greater extent. Likewise all
+transactions can happen over the electronic medium (even alms payment through
+mobile credits as mentioned in 2007 post), without the use of paper money.
+
+[death]Purchases can be validated through the combination of smart card /
+biometric devices. Thus, when all transactions happen over e-form, all the
+earnings/spending of a person is documented and controlled to near perfection.
+That would pave way for eradication of black money and limit corruption to
+greater extent.
+
+This is just a base model. With better defining and controls at right places,
+this can be made a robust system.
+
+
+previous post >>> Foolproof voting system using EVMs
+Posted by Hamilton Alexander at 7:56 PM 2 comments: ●
+Labels: am not ok, death of currency, eradicate black money, fighting
+corruption, Unique Identification Number, where are we headed?
+
+Wednesday, May 27, 2009
+
+Foolproof Voting System using EVMs
+
+Indian parliamentary elections are just over and few parties & candidates have
+started complaining about the manipulation of Electronic Voting Machines (EVMs)
+to favour certain parties/candidates. During elections, few EVMs developed
+problems and some voters found the red light (confirmation light) glowing near
+other candidates than the one they voted for. This resulted in some believing
+that EVMs are tampered with. Some believed that the EVM software could be
+programmed to favour a particular party.
+
+[foolproof]I have the following suggestions to make the EVM voting process a
+foolproof & reliable one:
+
+- Like ATM, the EVMs can give a confirmation slip with the printed symbol to
+which we voted. That slip should not have any other identification details of
+the voter. ie only the party symbol shall be printed in that slip. That slip
+should be dropped in the ballot box kept nearby. This process will give
+immediate confirmation to the voter that his vote has gone to the right
+candidate. Also in case of future disputes, the ballot box votes can be counted
+and final decision can be arrived at.
+
+- If booth capturing or mass bogus voting is reported from a booth, then for
+that booth alone, don't add the votes polled by that party. ie if A party gets
+121 votes, B party gets 253 votes and others get 75 votes and if A party
+indulges in unfair practices, deduct the 121 votes polled by A party from their
+final count. For the fear of losing these votes, no party would indulge in
+unfair practice.
+
+- At the end of every round, the votes polled by all the candidates of that
+constituency should be displayed in an electronic board kept outside the
+counting center. This step will stop the corrupt officials from meddling with
+the numbers later. Also the general public and media will get instant trends.
+
+- In the long run, biometric system should be used which will make bogus voting
+impossible and indelible ink obsolete.
+
+[biometric]
+previous post >>> Younger Men marrying Older Women
+Posted by Hamilton Alexander at 7:42 PM No comments: ●
+Labels: am not ok, EVMs, foolproof voting system, Indian elections,
+manipulation of electronic voting machines, where are we headed?
+
+Tuesday, March 10, 2009
+
+Younger Men marrying Older Women
+
+The Guardian recently reported that, children born to 20-year-old men scored on
+average three points higher in IQ tests than children whose fathers were 50
+years-old when they were born. The same study also found that children's IQ was
+marginally higher if they were born to older mothers.
+
+[Younger]So how is this 3 points and older mother advantage going to impact the
+marriage equation? May be, we can look forward to more younger men getting
+married to older women in future. LOL!
+
+Previous post >>> Culture Degradation
+Posted by Hamilton Alexander at 2:34 PM 1 comment: ●
+Labels: age factor in marriage, am not ok, family, marriage, older women
+younger men romance, society, where are we headed?
+Older Posts Home
+Subscribe to: Posts (Atom)
+●
+
+About Me
+
+My Photo
+
+Hamilton Alexander
+    a simple wandering soul...
+
+View my complete profile
+●
+
+who CREATED god?
+
+●
+●
+
+Given a chance, i'll effect the following change:
+
+“Fulfillment of INDIVIDUAL desires (one at a time) without affecting another
+individual. The process will be a world (without a savings account), where
+individual desires are fulfilled on continuous basis. If Tom or Dick or Harry,
+need a palatial bungalow, they will get it immediately. If they need a cruise
+liner, they will get that the next moment. But the bungalow will vanish
+immediately. Thus the need is fulfilled immediately without giving room for
+greed/saving. After enjoying everything on earth; Tom, Dick & Harry may reach
+the self-actualization stage one day and opt for death…"
+- ATHEIST
+●
+
+  • Need for God/Religion ?
+
+●
+
+Ads by Google
+
+●
+
+Blog Archive
+
+  • ▼  2013 (1)
+      □ ▼  December (1)
+          ☆ Murder, Bigamy, Adultery, Incest, Theft, Dacoity, ...
+
+  • ►  2009 (6)
+      □ ►  August (1)
+      □ ►  June (1)
+      □ ►  May (1)
+      □ ►  March (1)
+      □ ►  January (2)
+
+  • ►  2008 (17)
+      □ ►  December (2)
+      □ ►  October (1)
+      □ ►  September (3)
+      □ ►  August (2)
+      □ ►  July (1)
+      □ ►  June (1)
+      □ ►  May (2)
+      □ ►  April (1)
+      □ ►  March (1)
+      □ ►  February (2)
+      □ ►  January (1)
+
+  • ►  2007 (41)
+      □ ►  December (2)
+      □ ►  November (1)
+      □ ►  September (7)
+      □ ►  August (5)
+      □ ►  July (5)
+      □ ►  June (2)
+      □ ►  May (3)
+      □ ►  April (7)
+      □ ►  March (9)
+
+  • ►  2005 (11)
+      □ ►  December (2)
+      □ ►  November (4)
+      □ ►  October (5)
+
+●
+
+ClustrMaps
+
+[am-not-ok]
+●
+                                       
+                                 free counter
+                                 online casino
+●
+
+Google Search
+
+Google Enter your search terms [                               ] Submit search
+form [Search] 
+
+●
+
+Links
+
+  • எல்லாம் மாயை !!!
+  • click here to feed the hungry
+  • webbloodbank.org
+
+●
+
+Digg
+
+●
+
+Blogcatalog
+
+Writing Blogs - BlogCatalog Blog Directory
+●
+
+Technorati
+
+View blog top tags
+●
+
+GA
+
+●

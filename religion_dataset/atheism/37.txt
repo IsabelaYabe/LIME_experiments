@@ -1,0 +1,41 @@
+[wildhorsessunsetsearch]
+[dividerbar]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[teaheader]                    [infidelnewsheaderwide]
+                                      [theweeklywestfallsmall]
+ Read The Eloquent Atheist        Marilyn Is Taking a Well-Deserved
+          Webzine                             Vacation
+                               A weekly review of infidel news, edited
+[funforinfidelsheadernarrow]            by Marilyn Westfall.
+   Cartoons ● Well Known                Click here to read...            Marilyn
+        Unbelievers                  Click Here for Back Issues         Westfall
+  Quotations ● Fun Infidel
+          Products              New! The Sermons of Marilyn Westfall
+ Infidel Vacations ● Autos                      New!
+        for Infidels
+[linksheader]
+Other Infidels ● Humanist ●    [featuredinterviewheader]
+          Atheist                             An Interview with Frank Zindler
+ Agnostic ● Freethought ●      [frankzind]               Editor of
+         Pantheist                                American Atheist Press
+     Naturalist ● Other                         By our own Marilyn Westfall
+[infidelsissuesheader]         [randominfidelheader]
+ Secular Positivism ● Mutual                "Rand, Ayn (1905 -1982)
+          Respect                    "Holmes, Oliver Wendell (1809 - 1894)
+  Science Curricula ● The             "Renan, Joseph Ernest (1823 - 1892)
+           Pledge                 "Flammarion, Nicholas Camile (1842 - 1925)
+[uucornerheader]                           (Click Refresh For More)
+  UU History ● UU Infidels
+    The UUI Ribbon ● UUI
+         Newsletter
+     Petition: Keep UUA
+       Deity-Neutral 
+Copies of the UUI Newsletter
+[resourcesheader]
+     Interviews ● Blogs
+     Humanist Education
+   Ministers and Speakers
+          Bureau 
+[bottombar]                                                                                       

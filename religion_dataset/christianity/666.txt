@@ -1,0 +1,175 @@
+bg image(Images/gold-gradient.jpg)
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                 [Logo-09082014]                                                                       ┃
+┃                                                                                                                       ┃
+┃ ┏━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━┯━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━┓  ┃
+┃ ┃  Home  │ Our Church │ St Josaphat │   Pastor's   │    Weekly Bulletin / This Week at    │ Contact Us │ Priest of ┃  ┃
+┃ ┃        │            │             │     Page     │    St Josaphat/Christmas Schedule    │            │ the Month ┃  ┃
+┃ ┗━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━━━┛  ┃
+┠───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┨
+┃                                Mission Statement                                                                      ┃
+┃                                                                                                                       ┃
+┃ We are a Parish belonging to the Roman Catholic Diocese of Buffalo. We are                                            ┃
+┃ under the pastoral authority of the Most Rev. Richard J Malone, Bishop of                                             ┃
+┃ Buffalo, and His Holiness, Pope Francis I. Our Mission is to "to make                                                 ┃
+┃ disciples" (Matthew 28:19). This is accomplished by preaching of God's Word and                                       ┃
+┃ living according to that Word as it is contained in the Sacred Scriptures and                                         ┃
+┃ the Divine Tradition and as it is understood and interpreted by Magisterium of                                        ┃
+┃ the one, holy, Catholic and apostolic Church. We gladly use the power and                                             ┃
+┃ authority that Christ has given to His Catholic Church to make disciples by                                           ┃
+┃ teaching and forming people in the faith (Catechesis), reaching out to others                                         ┃
+┃ seeking the Truth (Evangelization), any by encountering Our Risen Lord Jesus                                          ┃
+┃ Christ in His inspired and inerrant Word and the Holy Sacraments of Baptism,                                          ┃
+┃ Confirmation, the Most Holy Eucharist, Penance, the Anointing of the Sick, and                                        ┃
+┃ Holy Matrimony. We encounter, even in these days the Risen Lord Who died and                                          ┃
+┃ rose for our salvation, and Whom we now experience through these Holy                                                 ┃
+┃ Sacraments, His Word and the fellowship we share. Christ demands that we show                                         ┃
+┃ others the mercy He showed us, and realizing the importance of living out this                                        ┃
+┃ mercy and charity for our neighbor, our Food Pantry provides food and help for                                        ┃
+┃ others in their necessities (Outreach) with the hope that those who show mercy                                        ┃
+┃ will receive mercy (Matthew5:7). Recognizing also, the importance of human                                            ┃
+┃ contact, warmth and fellowship, which are so important to spiritual and human                                         ┃
+┃ growth, we build the bonds of unity and fellowship through parish groups and                                          ┃
+┃ social events in order to promote and strengthen human development,                                                   ┃
+┃ friendships, mutual support and union as brothers and sisters in Christ our God                                       ┃
+┃ .                                                                                                                     ┃
+┠───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┨
+┃ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓        ┃
+┃ ┃ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓                 ┃        ┃
+┃ ┃ ┃ PARISH STAFF:             │ How to Reach Us:                                           ┃                 ┃        ┃
+┃ ┃ ┃ Pastor: Fr. Richard M.    │ Rectory.......................................716-893-1086 ┃                 ┃        ┃
+┃ ┃ ┃ Poblocki                  │ Fax Number................................716-893-1099     ┃                 ┃        ┃
+┃ ┃ ┃ Pastoral Associates:      │ Religious Education......................716-896-1086      ┃                 ┃        ┃
+┃ ┃ ┃ Deacon Bob Badaszewski    │ Email: sjrectory@roadrunner.com                            ┃                 ┃        ┃
+┃ ┃ ┃ Sister Anthonille         │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Tyczkowski, CSSF          │ Rectory Office Location and Hours:                         ┃                 ┃        ┃
+┃ ┃ ┃ Parish Trustees: Richard  │ Our rectory is located on 20 Peoria Ave., in Cheektowaga   ┃                 ┃        ┃
+┃ ┃ ┃ "Chip" Andrzejewski and   │ N.Y. (14206).                                              ┃                 ┃        ┃
+┃ ┃ ┃ Stan Nowacki              │ The Office is open:                                        ┃                 ┃        ┃
+┃ ┃ ┃ Director of Music: Mr.    │ Monday-Friday 9:00 a.m. - 12:00 p.m. and 1:00 p.m. - 3:00  ┃                 ┃        ┃
+┃ ┃ ┃ Steven Quebral            │ p.m.                                                       ┃                 ┃        ┃
+┃ ┃ ┃ Organist: Mr.Lorenzo      │ The Rectory office is CLOSED on Saturday, Sunday, Holy     ┃                 ┃        ┃
+┃ ┃ ┃ Qurbral                   │ Days and Legal Holidays. Sick calls anytime.               ┃                 ┃        ┃
+┃ ┃ ┃ Parish Secretary: Ms.     │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Christine Kalinka         │ Ministry to the Sick & those unable to attens Mass: Our    ┃                 ┃        ┃
+┃ ┃ ┃ Parish Council/Finance    │ Extraordinary Ministers of Holy Communion visit the sick   ┃                 ┃        ┃
+┃ ┃ ┃ Group: Richard “Chip”     │ on a weekly basis. To have someone put on the visitation   ┃                 ┃        ┃
+┃ ┃ ┃ Andrzejewski, Stan        │ list simply call the Rectory! The Priest will make         ┃                 ┃        ┃
+┃ ┃ ┃ Nowacki, Larry            │ hospital or home calls. If the ill person wants            ┃                 ┃        ┃
+┃ ┃ ┃ Bracikowski,              │ Confession, the Sacrament of the Annointing of the Sick,   ┃                 ┃        ┃
+┃ ┃ ┃ Chris Liebler, Pat        │ and Communion (or Viaticum - Communion for the dying).     ┃                 ┃        ┃
+┃ ┃ ┃ Widzinski, Pat Restall,   │ Please DO NOT wait until the person is unconscious or      ┃                 ┃        ┃
+┃ ┃ ┃ Susan Senker, Gary & Joan │ hours away from death before calling the Priest! A sick    ┃                 ┃        ┃
+┃ ┃ ┃ Walters                   │ person receives the maximum benefits of the Sacraments and ┃                 ┃        ┃
+┃ ┃ ┃ Food Pantry Coordinator:  │ Last Rites WHILE THAY ARE STILL CONSCIOUS!                 ┃                 ┃        ┃
+┃ ┃ ┃ Dennis Hughes             │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Parish Catechists: Jude   │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Pachan, Sr. M.            │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Anthonille, CSSF, Jackie  │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Kramer, Kathy             │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Skarupinski, Joanne       │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Wright, Thomas Wright,    │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ and Nancy Sobecki         │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ RCIA Coordinator: Fr.     │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Richard Poblocki          │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Buildings and Grounds:    │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Pat Restall, Susan Senker │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Church Upkeep Committee:  │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Gary Walters & Joan       │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Walters, Sacristans;      │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Marcia Stachewicz,        │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Timothy Jason, Walter &   │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Jeanette Kindzia and      │                                                            ┃                 ┃        ┃
+┃ ┃ ┃ Jackie Kramer             │                                                            ┃                 ┃        ┃
+┃ ┃ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                 ┃        ┃
+┃ ┃ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓                            ┃        ┃
+┃ ┃ ┃ Sunday Masses:                      │ Confessions:                          ┃                            ┃        ┃
+┃ ┃ ┃ Saturday Vigil: 4:00 p.m.           │ Saturday 3:00pm. - 3:55 pm.           ┃                            ┃        ┃
+┃ ┃ ┃ Sunday Masses: 8:00 a.m., 9:30      │ Anytime on request                    ┃                            ┃        ┃
+┃ ┃ ┃ a.m., 11:15 a.m.                    │                                       ┃                            ┃        ┃
+┃ ┃ ┃                                     │ Sacrament of the Anionting of the     ┃                            ┃        ┃
+┃ ┃ ┃ Daily Masses:                       │ Sick: Administered during Mass at     ┃                            ┃        ┃
+┃ ┃ ┃ Monday-Friday 8:30 a.m., Saturday   │ 6:30pm on the first Thursday of every ┃                            ┃        ┃
+┃ ┃ ┃ 12:00 p.m.                          │ month except July/August. Mass of the ┃                            ┃        ┃
+┃ ┃ ┃                                     │ Holy Spirit every second and fourth   ┃                            ┃        ┃
+┃ ┃ ┃ Holy Day of Obligation Masses:      │ Thursday of the month at 6:60pm.      ┃                            ┃        ┃
+┃ ┃ ┃ Vigil of Holy Day: 4:00 p.m. and    │                                       ┃                            ┃        ┃
+┃ ┃ ┃ 6:00 p.m.                           │                                       ┃                            ┃        ┃
+┃ ┃ ┃ Holy Day: 8:30 a.m, 4:30 p.m and    │                                       ┃                            ┃        ┃
+┃ ┃ ┃ 6:30 p.m.                           │                                       ┃                            ┃        ┃
+┃ ┃ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                            ┃        ┃
+┃ ┃ LETTERS OF RECOMMENDATION: These attest to another priest that you are able to                             ┃        ┃
+┃ ┃ be a sponsor for Baptism or Confirmation. To receive a Letter of Recommenation                             ┃        ┃
+┃ ┃ you must: be 16 years of age or older; have made your First Communion, be                                  ┃        ┃
+┃ ┃ Confirmed, be registered at this Parish; attending Mass every week and required                            ┃        ┃
+┃ ┃ Holy Days; and if married: you must be married by a Catholic Priest in a                                   ┃        ┃
+┃ ┃ marriage recognized by the Church.                                                                         ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃ TO HAVE YOUR BABY OR CHILD BAPTIZED: Congratulations on the birth of your new                              ┃        ┃
+┃ ┃ baby or the adoption of your new child! We are always happy to welcome new                                 ┃        ┃
+┃ ┃ members into the Body of Christ. Church law requires a baby to be baptized                                 ┃        ┃
+┃ ┃ within a few weeks of birth. Parents should be registered with the parish and                              ┃        ┃
+┃ ┃ attending Mass weekly and on all required Holy Days. There is a Baptism                                    ┃        ┃
+┃ ┃ preparation meeting for first time parents and those less than diligent in                                 ┃        ┃
+┃ ┃ attending Mass. We will welcome and be happy to work with any sincere person                               ┃        ┃
+┃ ┃ who would really like their children to be baptized. It is no problem to                                   ┃        ┃
+┃ ┃ baptize older children or to receive into the Catholic Church any children you                             ┃        ┃
+┃ ┃ have that may have been baptized in another denomination. We also welcome any                              ┃        ┃
+┃ ┃ adult who wishes to receive Baptism. Call the Rectory to make arrangements, to                             ┃        ┃
+┃ ┃ set up a date or to have your questions answered!                                                          ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃ GETTING MARRIED: Congratulations on getting engaged! Getting started is simple:                            ┃        ┃
+┃ ┃ The Buffalo Diocesan Guidelines require an engaged couple to contact the parish                            ┃        ┃
+┃ ┃ Priests at least six (6) months prior to their intended wedding date. Preparing                            ┃        ┃
+┃ ┃ to get married involves two short meetings with the parish Priest, taking some                             ┃        ┃
+┃ ┃ form of marriage preparation, and since the use of artificial contraception is                             ┃        ┃
+┃ ┃ a Mortal Sin each time it is used, couples are required to take a Natural                                  ┃        ┃
+┃ ┃ Family Planning (NFP) course at one of the local Catholic Hospitals. Couples                               ┃        ┃
+┃ ┃ "living together" risk a higher divorce rate than those not living                                         ┃        ┃
+┃ ┃ together--and so, in certain cases, pre-marital counselling may be suggested.                              ┃        ┃
+┃ ┃ No matter what the situation a couple is in--we welcome and will do all in our                             ┃        ┃
+┃ ┃ power to assist any sincere couple who wishes to enter into a life-long and                                ┃        ┃
+┃ ┃ faithful Marriage.                                                                                         ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃ RELIGIOUS INSTRUCTIONS: Relegious Education classes run from mod-September to                              ┃        ┃
+┃ ┃ mid-May annually.Grades 1–5 meet from 9:00am—10:00am on Saturdays. Grades 6-9                              ┃        ┃
+┃ ┃ meet on Tuesday evenings from 6:30- 7:30pm. Confirmation celebrated in the 10th                            ┃        ┃
+┃ ┃ grade and meets from 6:30-7:30pm on Tuesday evenings. Special Needs Children                               ┃        ┃
+┃ ┃ are Welcome! We have a catechist who works exclusively with special needs kids!                            ┃        ┃
+┃ ┃ Call our Religious Ed. Office for details (893-1086).                                                      ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃ TO REGISTER: We welcome new parishioners! Simply call or visit the Rectory to                              ┃        ┃
+┃ ┃ join. If you are moving, joining another parish, changing your phone number or                             ┃        ┃
+┃ ┃ address, or if there is a change in your marital status - please let us know.                              ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃ BECOMING CATHOLIC IS SIMPLE AND EASY: We welcome all unbaptized adults seeking                             ┃        ┃
+┃ ┃ Baptism, baptized members of Non-catholic Church communities who wish to be                                ┃        ┃
+┃ ┃ received into the Catholic Church; baptized adult Catholics who need to “catch                             ┃        ┃
+┃ ┃ up” on their Sacraments and older children who were baptized in a Non-catholic                             ┃        ┃
+┃ ┃ Church! Baptized Christians of other Churches do not have to wait until the                                ┃        ┃
+┃ ┃ Easter Vigil to be received into the Church - you can be received into the                                 ┃        ┃
+┃ ┃ Church as soon as you are able! Don't hesitate or feel embarrassed-we're                                   ┃        ┃
+┃ ┃ thrilled to be able to welcome you into the Catholic Faith!                                                ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  ┃        ┃
+┃ ┃ ┃           [logo_vatica]            │            [Diocese]             │          [MassTimes]          ┃  ┃        ┃
+┃ ┃ ┃         Vatican Home Page          │   Diocese of Buffalo Home Page   │   Mass times for traveling    ┃  ┃        ┃
+┃ ┃ ┃                                    │                                  │           Catholics           ┃  ┃        ┃
+┃ ┃ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃ tions for traveling Catholics                                                                              ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┃                                                                                                            ┃        ┃
+┃ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+                            Copyright (C) 2003-2015
+                            St. Josaphat RC Church
+                              All rights reserved
+                         Webmaster: David J. Walczak.
+
+                                        
+

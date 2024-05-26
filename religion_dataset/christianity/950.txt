@@ -1,0 +1,1413 @@
+Jump to navigation
+
+Home
+[Enter search terms..] [Search]
+Google Custom Search
+  • About Xenos
+  • Home Groups
+  • Bible Teachings
+  • Classes
+  • Books & Essays
+  • Ministries
+  • Summer Institute
+  • Catalog
+  • Donate
+  • News
+
+Banner image
+
+Early German Lutheran Pietism's Understanding of Justification
+
+Author: 
+Gary DeLashmutt
+
+Download the PDF
+
+Introduction
+
+The purpose of this research project is to examine the early German Lutheran
+Pietists' understanding of justification. Specifically, the teaching of Johann
+Arndt, Philip Jacob Spener and August Hermann Francke will be studied. Three
+specific areas of their view of justification will be examined: the basis of
+justification, the relationship between justification and sanctification, and
+the role of baptism in justification.
+
+An effort has been made to identify and study the primary sources of each of
+the above Pietists in these doctrinal areas. Direct quotation of their works
+accompany and substantiate any assertion concerning their teaching. Secondary
+sources have also been evaluated for additional interaction in the
+interpretation of the primary sources.
+
+Consideration has also been given to the theological and political climate of
+Protestantism during the seventeenth century. This has been done in order to
+assure fairness in evaluating the doctrinal emphases of the Pietists.
+
+The Background of German Pietism
+
+Like all religious movements, German Pietism was, at least in part, a reaction
+to the spiritual and political climate of its day. Any attempt to understand
+the theological emphases of Arndt, Spener and Francke must therefore be
+preceded by an overview of the religious and political climate in which they
+lived.
+
+The Religious Situation
+
+The most important factor in German Lutheranism just prior to the emergence of
+Pietism was its rigid confessionalism, or Verkonfessionalisierung.
+
+After Luther died in 1546, Lutheran scholars tried to precisely formulate the
+doctrines of the Christian faith as they understood them. This was felt to be
+necessary since the Lutherans were experiencing acute doctrinal pressure from
+both aggressive Calvinists and Jesuit Catholics.^1 Two camps developed within
+Lutheranism: the "Philippists", who, following the example of Luther's mentor
+Philip Melanchthon, emphasized the common doctrinal ground that they shared
+with the Calvinists, and the "Gnesio-Lutherans", who held rigidly to Luther's
+main tenets and regarded all other groups with suspicion. It was the
+Gnesio-Lutherans who won out in this struggle for ascendancy.^2 The Formula of
+Concord of 1580 formally resolved the doctrinal disputes within Lutheranism.^3
+
+With its center at the University of Wittenberg^4, the same school from which
+Luther launched the Reformation, Lutheranism lapsed into a rigid orthodoxy and
+sterile scholasticism. Ironically, though Luther had unseated Thomist
+scholasticism from its throne of power over theology, the Lutheran scholars of
+this period consciously reintroduced it in order to formulate their doctrinal
+statements.^5 The University of Wittenberg declared that the resulting creedal
+formulations of Lutheranism "possessed the force of divinely revealed and
+binding truth, not only in matters of doctrine, but in all affairs."^6
+
+This defensive, heavily dogmatic emphasis produced Lutheran Confessionalism--a
+dead orthodoxy that Luther would hardly have desired. Stoeffler describes this
+confessionalism and its effects on how people came to view Christianity.
+
+    It (Verkonfessionalisierung) refers to the rigid confessionalizing of
+    Lutheranism which was undertaken by its seventeenth century theologians.
+    The process was aided by the reappearance of Aristotelianism in German
+    universities and gymnasia early during that century. The result was an
+    unprecedented hardening of Lutheran doctrine. Not only did the guardians of
+    orthodoxy endeavor to keep pure the teachings of the communion but the
+    truth had to be stated in accepted phrases. Any deviation in phraseology
+    was immediately viewed with great suspicion. After John Gerhard the various
+    minutiae of the seventeenth century systems of Lutheran theology had to be
+    treated in proper order and sequence so as not to raise apprehensions of
+    heresy. In this heavily dogmatic atmosphere the essence of Christianity
+    came to be regarded as consisting in a series of rationally ordered
+    propositions. Faith had been largely re-defined so as to consist in
+    personal assent to those propositions. Confessional theology and
+    Christianity were regarded as almost synonymous.^7
+
+Brown is similarly critical in his evaluation of Lutheran Confessionalism,
+viewing it as a virtual reversal of the Reformation:
+
+    Negatively, some have felt that in Protestant Scholasticism we have an
+    "intellectual Pelegianism" in which the good works of the medieval church
+    were exchanged for the works of understanding. Aristotle, who had been
+    thrown out the front door, quickly came in the back. Justification by faith
+    became one of the dogmas instead of the source of dogma. Luther's God, who
+    was a Thou, became an It. The testimony of the Holy Spirit became a mere
+    intellectual process of increasing acquaintance with the truth. Though
+    there was an apotheosis of the Bible, the Scriptures were used primarily as
+    proof texts to verify the creedal dogmas.^8
+
+Spener, writing in Pia Desideria, similarly complained about the scholasticism
+of Lutheran Confessionalism:
+
+    Although by God's grace we still have pure doctrine derived from the Word
+    of God, we cannot deny that much that is alien, useless, and reminiscent of
+    the world's wisdom has here and there been gradually introduced into
+    theology.^9
+
+Since the pastors were being educated in this spiritual climate, it is not
+surprising that their preaching consisted mainly of dogmatic expositions of
+Lutheran doctrine and polemical denunciations of Catholicism and Calvinism,
+rather than applied scripture which would build up the spiritual life of their
+congregations.^10
+
+The Political Situation
+
+The spiritual unhealthy of late sixteenth century Germany was further
+aggravated by the political situation. Two factors in the political situation
+helped stir the spiritual hunger of the people who responded to the Pietists'
+message.
+
+The Thirty Years War
+
+The Thirty Years War lasted from 1609 until 1637, although the Peace of
+Westphalia which formally ended the war was not signed until 1648.^11 This war,
+fought largely because of the religious intolerance between Catholic and
+Protestant rulers, devastated Europe worse than any other war before the
+twentieth century.
+
+The war ended without any genuine resolution. The rulers simply wearied of the
+bloodshed and economic loss caused by it. The Peace of Westphalia granted to
+both rulers and subjects "freedom of religion"--as long as they were Catholic,
+Lutheran or Reformed. Although this increased religious tolerance was an
+improvement, it was not promulgated by the political rulers "out of a deeper
+understanding of Christian love, but rather out of a growing indifference to
+religious matters."^12
+
+This same indifference spread to the common people, whose lives were devastated
+by the war. The war had the effect of weakening the people's moral fiber.
+Cruelty and drunkenness became commonplace among the peasants. Their spiritual
+malaise was further aggravated by the ruthless and uninhibited behavior of both
+rulers and soldiers.^13 "The seemingly interminable war raised religious doubts
+among the laity and generated indifference to moral and spiritual matters."^14
+
+The German State-Church Relationship
+
+For a variety of reasons which lie outside the scope of this project, Luther
+did not sever the state's control over the church at the time of the
+Reformation. This wedding of church and state had a damaging effect on the
+spiritual health of German Lutherans for two reasons.
+
+First, with the church and state under common jurisdiction, the church's power
+to exercise discipline with its members was limited by the agreement of the
+state rulers. As Stoeffler says,
+
+    Under the circumstances no presbyterial element had an opportunity to
+    develop within Lutheranism. In most instances the churches and clergy were
+    at the mercy of territorial rulers, the latter being often dissolute and
+    seldom devout. Even if Lutheranism had developed a concept of church
+    discipline, which it did not, effective discipline would have been
+    difficult under these conditions.^15
+
+Since church discipline is one of the means Christ provided to maintain the
+church's spiritual vitality^16, its absence from German Lutheranism left the
+church much more vulnerable to spiritual decay.
+
+A state-run church tends to lower the collective spirituality of the church in
+another way. Since everyone is supposedly a Christian in a state which is
+"Christian," the society does not tend to rise to the ethical or spiritual
+quality of the church. Rather, the church tends to conform to the society. This
+was certainly the case in seventeenth century Germany.^17
+
+The Resultant Nominalism
+
+The factors described above combined in German Lutheranism in the seventeenth
+century to produce a form of Christianity which was nominal both in practice
+and in doctrine.
+
+Confessional Lutheranism was doctrinally nominal because it defined being a
+Christian almost exclusively in terms of mental affirmation of Lutheran dogma.^
+18 Nicolaus Amsdorf, a theologian of this period, even went so far as to teach
+that good works were hurtful to the Christian life since they could foster a
+doctrine of justification by works!^19 Stoeffler describes this doctrinal
+nominalism:
+
+    When their rigidly objective interpretation of justification was joined to
+    an equally objective interpretation of baptismal regeneration the
+    centrality of the saving relationship was rather effectively eliminated
+    from seventeenth century Lutheran orthodoxy. The Christian was now thought
+    to be a person who interprets the Bible in terms of the Lutheran symbols as
+    the truth of these symbols is expressed in an orthodox system of
+    theology. Fiducia had become assensus, the liberty of the Christian man had
+    given way to the tyranny of scholastic theology, and the Bible had once
+    again become an arsenal of proof texts.^20
+
+This gross distortion of the theology of Paul and (to a lesser extent) Luther
+had the predictable effect of producing a behavioral nominalism that was worse
+than that of other post-Reformation Protestant churches. The laity had little
+appreciation of Christianity as a way of life as well as a series of doctrinal
+beliefs.^21 Though the churches were well attended, there was little evidence
+of ethical transformation which was encouraged and manifested in the New
+Testament church. Personal spiritual devotion was replaced by superficial and
+mechanical religious observance^22 which God, speaking through the Old
+Testament prophets, says He hates.^23 In Arndt, Spener and Francke, a similar
+prophetic voice was sounded.
+
+Early Lutheran Pietists
+
+Johann Arndt (1555-1621) has been widely acknowledged as the theological father
+of German Lutheran Pietism.^24 As a Lutheran pastor and a scholar of Luther's
+writings, his True Christianity (1605) was the first German Pietist work to
+challenge the spiritual maladies of Lutheran orthodoxy.
+
+Philip Jacob Spener (1635-1705) is credited with forging the ideas of Arndt
+into a reform movement within Lutheranism.^25 Like Arndt, he was a Lutheran
+pastor and scholar. He was deeply influenced by True Christianity, and in 1675,
+he wrote a foreword to a new edition of True Christianity. This foreword,
+reissued separately a year later, was entitled Pia Desideria, or Heartfelt
+Desire for a God-pleasing Reform of the True Evangelical Church, Together with
+Several Simple Christian Proposals Looking Toward this End. As the title
+suggests, this work not only critiqued the spiritual state of German
+Lutheranism; it also outlined a plan of reform. It was greeted with an
+enthusiastic response by many German people, but with sharp criticism by much
+of the the clergy. In his subsequent works, Spener continued to outline the
+needed reform of the Lutheran church.
+
+August Hermann Francke (1663-1727) was Spener's disciple and friend. As a
+Lutheran pastor, he found himself in conflict with other Lutheran clergymen
+after undergoing a profound conversion experience. As a result of Spener's
+influence, Francke was invited to become professor of Greek and Oriental
+languages at the newly formed University of Halle. Under his leadership, Halle
+became a key means of Pietist reform as it trained men for the Lutheran
+pastorate who were taught the theology and practice of Arndt, Spener and
+Francke.^26
+
+The Basis of Justification
+
+The critical rediscovery of Luther and the Reformers was the doctrine of
+justification by grace through faith alone. God legally cancels the debt of our
+sins and imputes Christ's righteousness to us when we place our faith in Christ
+and His work on the cross to make us acceptable to God. Arndt, Spener and
+Francke completely agreed with this doctrine. Their impact was the result not
+of a different view of justification, but of a different definition of the
+faith that effects justification.
+
+Justification by Faith Alone
+
+Many Lutheran Confessionalists accused Arndt, Spener and Francke of teaching
+justification by works, or of confusing justification with sanctification.^27
+ However, an examination of their writings proves that all three men believed
+that justification is by grace through faith alone, and that justification must
+precede sanctification.
+
+Because Arndt was aware of the accusations leveled at him, he went out of his
+way to state his Lutheran orthodoxy in this area of theology. The following
+quotes clearly reveal Arndt's view of justification.
+
+    You must take care that you do not connect your works and the virtues that
+    you have begun, or the gifts of the new life, with your justification
+    before God, for none of man's works, merit, gifts, or virtue, however
+    lovely these may be, count for anything. Our justification depends on the
+    exalted, perfect merit of Jesus Christ, received by faith, as it is
+    sufficiently discussed in chapters 5, 19, 34, and 41 of this book, and in
+    the first three chapters of Book II. Take great care, therefore, not to
+    confound the righteousness of faith with the righteousness of the Christian
+    life, but make a clear distinction between them . . . ^28
+
+    Through this faith (in Christ) we receive forgiveness of sins, in no other
+    way than through pure grace without any of our own merits (Eph. 2:8) but
+    only by the merits of Christ . . . Even if it (our faith) is weak and we
+    are still hemmed around with many sins, these are covered over out of grace
+    for Christ's sake . . . From this you can see that works cannot make you
+    righteous. First, you must be established in Christ through faith and be
+    righteous in him before you can do any good work. See to it indeed that
+    your righteousness is the grace and gift of God that comes before all your
+    merit.^29
+
+In like manner, Spener clarified to his accusers the orthodoxy of his view of
+justification. Three passages will suffice to demonstrate this.
+
+    We gladly acknowledge that we must be saved only and alone through faith
+    and that our works or godly life contribute neither much nor little to our
+    salvation, for as a fruit of our faith our works are connected with the
+    gratitude which we owe to God, who has already given us who believe the
+    gift of righteousness and salvation. Far be it from us to depart even a
+    finger's breadth from this teaching, for we would rather give up our life
+    and the whole world than yield the smallest part of it.^30
+
+    I know, believe and teach that as far as our justification is concerned, it
+    takes place out of pure grace for the sake of Christ and is not in the
+    least reflected directly or indirectly by our holiness or righteousness. If
+    anyone should endeavor to mix anything of human worthiness, I would oppose
+    that person from the bottom of my soul . . . none of our works or merits
+    avail anything but only the merits of Christ, not what He has done in us
+    but for us by Him. When we say that faith saves, I understand that such
+    saving is not a work of faith as if it were a virtue that we possessed and
+    therefore belong among works but that one receives justification only by
+    God's grace and Christ's merit alone.^31
+
+    "Ought we not also bring such sacrifices (ourselves and our good works) to
+    God the Lord in order to make atonement for our sins?" No, for Christ alone
+    has made satisfaction for us by his sacrifice, and he who wishes to add to
+    it his own sacrifice for atonement blasphemes the sacrifice of Christ (Heb.
+    10:14).^32
+
+Francke also clearly stated his theology of justification in terms designed to
+disprove all charges of heresy.
+
+    1. We are justified only by faith in the Lord Jesus without merit or the
+    addition of work in that the Heavenly Father because of the perfect
+    satisfaction and the precious merit of his Son judges us free and liberated
+    from all our sins.
+
+    2. Through this justification, which occurs through faith, the justified
+    person becomes completely and totally perfect; indeed, it is seen as the
+    justification of God himself, as St. Paul writes: God made him who knew no
+    sin to be sin for us that we might become the justification of God (2 Cor.
+    5:21). Just as God looks on the Lord Christ as sin (because our sins were
+    reckoned to him), so he sees the sinner as just and completely perfect
+    because he gives to the sinner as the sinner's own the innocence and
+    righteousness of Christ.
+
+    3. He who does not have this perfection cannot become holy. Perfection is
+    nothing other than faith in the Lord Jesus and is not in us or ours but in
+    Christ or of Christ for whose sake we are considered perfect before God and
+    thus his perfection is ours by ascription . . . 
+
+    10. From this it follows that both the following statements are true in a
+    certain sense: We are perfect, and we are not perfect. Namely, we are
+    perfect through Christ and in Christ through our justification and
+    according to the righteousness of Christ ascribed to us. However, we are
+    not and will not be completely perfect in the sense that we will nevermore
+    be able to grow, to set aside evil and to take on good toward
+    sanctification.
+
+    11. The one who does not wish to err in this matter must distinguish well
+    the article concerning justification and that concerning renovation or
+    sanctification. Otherwise he will increasingly become entangled in
+    controversy. . . . ^33 . . . God having thus received me into his grace by
+    faith in his son Jesus, I am not at one time justified and at another time
+    not: but I am always and constantly in God's favor . . . ^34
+
+Faith as Fiducia
+
+One of the the key contributions of the Pietists to Protestantism's view of
+justification was its insistence that justifying faith is fiducia rather than
+assensus.
+
+The Pietists insisted that biblical faith is more than merely mentally
+assenting to doctrinal truths (assensus); it is a personal faith (fiducia)
+which lays hold of the life of Christ and therefore results in regeneration and
+sanctification. To prove that this definition of faith was no doctrinal
+innovation, Spener was fond of quoting Luther's "Preface to Romans, " where he
+says,
+
+    But it (unbiblical faith) is a human imagination an idea that never reaches
+    the depths of the heart, and so nothing comes of it and no betterment
+    follows it. Faith, however, is a divine work in us. It changes us and makes
+    us to be born anew of God (John 1:13). It kills the old Adam and makes
+    altogether different men of us in heart and spirit and mind and powers, and
+    it brings with it the Holy Spirit. O, it is a living, busy, active, mighty
+    thing, this faith, and it is impossible for it not to do good works
+    incessantly. It does not ask whether there are good works to do, but before
+    the question rises it has already done them and is always at the doing of
+    them . . . "^35
+
+Luther did not develop or emphasize this dimension of faith because his primary
+battle was against the works soteriology of Roman Catholicism. But the
+Pietists did develop and emphasize it because their battle was against the dead
+orthodoxy of Confessional Lutheranism.^36 This passage from Luther thus became
+a key part of their defense that they were not overturning the Reformation, but
+merely continuing it.^37
+
+Arndt develops this view of faith as one of his main themes in True
+Christianity.^38
+
+    True Christianity consists, not in words or in external show, but in living
+    faith, from which arise righteous fruits, and all manner of Christian
+    virtues, as from Christ himself.^39
+
+    Note that faith consists in living, consoling trust and not in empty sounds
+    and words . . . This is true knowledge of God, which arises out of
+    experience and consists in living faith. Therefore, the Epistle to the
+    Hebrews calls faith a substance, a being, an undeniable witness (Heb.
+    11:1). This is a piece of the inner, spiritual worship, the knowledge of
+    God, which consists in living faith, and faith is a spiritual, living,
+    heavenly gift, light and power of God.^40
+
+    In the living and working faith and in the following of the holy life of
+    Christ, the true living knowledge of Christ consists.^41
+
+Spener stresses the personal and experiential dimension of biblical faith in
+"Christian Joy."
+
+    The basis of joy (is) the assurance of divine grace. Joy is not without
+    peace; it follows upon justification that is upon forgiveness of sins (Rom.
+    5:1; 1 John 3:21). True faith takes on such assurance; insofar as we are
+    joyous insofar do we believe . . . Ps. 73:18. This faith brings it about
+    that we know the proper good because we have and have grasped it as a
+    present reality. . .^42
+
+In Pia Desideria, Spener stresses the spiritual dimension of biblical faith and
+the moral change it effects.
+
+    Accordingly they (i.e., nominal Lutherans) have such a fleshly illusion of
+    faith (for godly faith does not exist without the Holy Spirit, nor can such
+    faith continue when deliberate sins prevail) in the place of faith that
+    saves . . . So it is that all those who live under the rule of sin, with
+    the consequence that they have no capacity for the Holy Spirit and hence
+    for true faith, can have no other kind of faith than such human delusion."^
+    43
+
+That Francke agreed with Arndt's and Spener's view of true faith is evident
+from his comments in "A Letter to a Friend Concerning the Most Useful Way of
+Preaching."
+
+     . . . let a minister carefully and clearly distinguish . . . between mere
+    morality and true religion, between the moral honest man and the believer
+    who, from a deep conviction of the depravity of his nature and the errors
+    of his life, has learned to hate sin from his heart and lives by the faith
+    of the Son of God . . . to enquire if . . . they can find in themselves the
+    genuine marks of a true conversion to God, and a living faith in
+    Christ . . . ^44
+
+The Relationship Between Justification and Sanctification
+
+It is in their understanding of the relationship between justification and
+sanctification that Arndt, Spener and Francke made their greatest impact on
+Protestantism. Though historians do not deny the fact of their impact in this
+area, they hotly debate the value of it. Some regard German Pietism as a
+terrible aberration of Reformation soteriology.^45 Others regard it as the
+recovery and development of the true soteriological spirit of the Reformation.^
+46 It falls outside the scope of this project to make a detailed study of
+Luther's understanding of the relationship between justification and
+sanctification. Rather, the views of these three German Pietists will be
+surveyed and evaluated.
+
+Justification is Evidenced by Sanctification
+
+It was the emphasis on fiducia that developed German Pietism's view of
+sanctification. The kind of faith which justifies is also the kind of faith
+that regenerates and sanctifies.^47 If there is no evidence of sanctification,
+there is no evidence for regeneration and therefore no evidence for
+justification. Sanctification thus becomes the proof that one has been
+justified.
+
+Passages from True Christianity and The Garden of Paradise suggest that
+although Arndt believed in justification by faith, he saw sanctification as a
+non-optional component of justification to such an extent that sanctification
+is a practical evidence of justification.^48
+
+    Since Christ now lives and dwells in you through faith, his indwelling is
+    not a dead work but a living work . . . it renews you in Christ so that you
+    grow, blossom, and live in him. What is the use of a graft in a stem if it
+    does grow and bring forth fruit?^49
+
+    How can a person who believes on Christ at the same time have a desire to
+    sin, not wish to leave sin, for which Christ had to pay with his blood and
+    death, and with his life? . . . Therefore, all those who call themselves
+    Christians crucify Christ again and hold him up to contempt . . . They
+    cannot partake of the sufferings of Christ for they have tread on the blood
+    of Christ with their feet . . . they must experience the righteous judgment
+    of God . . . ^50
+
+    Christ understood the whole newborn man, the tree with its fruits, renewed
+    through faith, in which Christ lives and dwells through faith. Such faith
+    he will find in few. Where one does not follow Christ in his life through
+    faith, there is neither faith nor Christ, but that one is cast out and
+    denied.^51
+
+    Where Christ is, a holy life exists in man . . . This relationship and
+    unity of Christian faith and life is described in 2 Peter
+    1:5ff. . . . Peter says expressly: The person who does not have such unity
+    and Christian faith does not know Christ; he has lost faith and walks in
+    darkness. That is true faith which renews and makes the whole man alive in
+    Christ so that Christ lives and remains in him and he in Christ.^52
+
+    It is a most false and absurd thing for any one to profess himself a
+    Christian, and yet to lead at the same time an unchristian life; or to
+    pretend to faith and the true church, and yet never produce any of its true
+    and genuine fruits . . . ^53
+
+The passages above show that Arndt wrote in such a way that he left himself
+vulnerable to the false charge of teaching justification by works.^54 Even
+though this charge is refuted by Arndt's affirmation of justification by faith,
+he is in this writer's opinion excessively rigid because he does not describe
+sanctification as a gradual process punctuated by moral lapses.
+
+Spener was also accused of teaching justification by works by many orthodox
+Lutheran theologians of his day.^55 The following statements explain Spener's
+vulnerability to this charge.
+
+     . . . this sin (drunkenness), too, must once and for all be renounced if
+    they are to be children of God . . . unless such sins are earnestly and
+    resolutely rooted out these vicious and unrepentant persons will lose their
+    salvation . . . If some advance the argument that drunkenness cannot be so
+    grave a sin because, if it were, there would be very few true Christians
+    among us, I shall accept the conclusion . . . "^56
+
+    For Godly faith cannot exist without the Holy Spirit, and the Holy Spirit
+    cannot exist along side of premeditated and prevailing sins.^57
+
+    As the faith, which alone justifies us and makes us holy, is inseparable
+    from good works, so no one will be justified other than those who are
+    intent upon sanctification."^58
+
+     . . . pure doctrine and holy living must necessarily be united in the case
+    of those who want to be saved . . . ^59
+
+On the basis of passages like these, Brown is correct when he says that Spener
+saw good works as "a conditio sin quo non, necessary attributes which inhere in
+salvation."^60 He also seems to share Arndt's excessively rigid view of
+sanctification which does not allow for serious moral lapses.
+
+Francke focused on propagating Spener's understanding of Christianity, so it is
+not surprising that we find in his works the same emphasis sanctification as
+the evidence of justification.^61 In Francke's writings, though, there is a
+much greater emphasis on the love of God which motivates sanctification and the
+power of the Holy Spirit which empowers sanctification. Perhaps this emphasis
+was Francke's corrective to the harsh language used by Arndt and Spener
+concerning the necessity of sanctification for those who wish to be justified.
+
+    6. If the newborn Christian acknowledges such sins of the flesh, he strives
+    with all earnestness against the evil which arises in his flesh. And he
+    does so not through his own power and strength, . . . but through the
+    spirit (sic) and he depends on the power of Jesus Christ which is made
+    sanctification for him and conquers the evil in him.
+
+    7. In such sinful habits and crimes the justified man remains, however,
+    never standing in one position, but through the grace of God he sets aside
+    ever more and more the evil, and day to day grows in faith and in
+    love . . . ^62
+
+    Insomuch as I cease from all my workings and am convinced that of myself I
+    can do nothing but sin . . . but depend purely on God's grace . . . my
+    heart begets new strength . . . and the new man, as a good tree, breaks out
+    in blossoms which send forth a sweet odor and bears fruits that are
+    acceptable to God and man. It is not another way by which I have been
+    justified and again another by which I seek to be sanctified, but it is one
+    in the same way, to wit, Christ. . .As I depend on nothing but Christ
+    whenever I pray for forgiveness of sins, so I depend on him alone and turn
+    to his grace and power only whenever I desire to be strengthened in faith,
+    love, and hope. Yes, all that I have to do is to abide by in the grace
+    which I have received . . . Then the work of God will be accomplished in
+    me. For God wants none of my help for the accomplishment of his work. If I
+    do but suffer myself to be prepared by him like a child in the mother's
+    womb, not resisting the operations of his spirit, then he himself will work
+    in me whatever is pleasing to him. Nevertheless it is by no means his will
+    that I should be inattentive; and, instead of true resignation, fall into
+    negligence or seek rest and peace in nature. For thereby I should even
+    imperceptibly lose his workings.^63
+
+     . . . it is a very great moment that a minister not only instruct his
+    hearers what they must do and how they ought to act, but that he also labor
+    fully to apprise and to convince them by the evidence of Scripture of their
+    own native weakness and impotency for all that is spiritually good. And
+    that he further show them, by the same word of truth from which they must
+    look for, and from whom they may hope to receive, all grace and strength,
+    not only to renew their souls in their first conversion but also afterwards
+    to enable them to perform every duty as well of inward religion. They must
+    be told that they can do nothing without Christ, according as he has
+    assured us, Jn. 15:5, "Without me ye can do nothing" . . . Thus the holy
+    apostles preached. These were the topics which they insisted much upon, and
+    if their example is not followed in this matter, it will be no wonder if
+    our modern preaching comes vastly short of the success of theirs. And by
+    this means some of our hearers will be in danger of sinking into a mere
+    legal frame and spirit of bondage while they are pressed to duty and
+    working, but not encouraged by the grace of Christ nor directed where to
+    look for strength to perform it.^64
+
+    The love of Christ ought to be much more insisted on by preachers than what
+    is commonly done, because when we apply ourselves in right manner to his
+    passion, death, and atonement, his merit and that purchase of salvation
+    which he hath made for us, the knowledge of his love to us, and of our
+    pardon and justification through faith in his blood, it is the truest
+    spring and most powerful attraction of our love to him. Now the more we
+    love Christ and that for this very reason, `because he first loved us,' the
+    better will every branch of our religion flourish, every other grace and
+    every duty will flow from its proper fountain. Therefore, the more a
+    minister endeavors to instill this principle of sacred love into the hearts
+    of his hearers, the more comfortable success will he probably see of his
+    labors in their spiritual improvement and growing obedience to the gospel.^
+    65
+
+Evaluation
+
+Arndt, Spener and Francke reestablished the biblical relationship between
+justification and sanctification which had been practically severed by
+Confessionalist Lutheranism. By insisting that those who are justified will
+evidence it by sanctification, they implicitly called into question the
+doctrinal validity of Confessionalism, which did not stress any practical
+connection between justification and sanctification. This is probably the
+reason for the Confessionalist's severe attack on the Pietists.
+
+While this emphasis is the proper corrective to dead orthodoxy^66, it can
+easily lead in practice to a legalistic emphasis on good works which forgets
+that sanctification is a gradual process punctuated by moral lapses.^67 In this
+writer's opinion, Arndt and Spener were vulnerable to this interpretation by
+those who read them. Francke appears to have best understood this danger and
+supplied the corrective to this tendency in his emphasis on God's role in
+sanctification.
+
+The Relationship Between Justification and Water Baptism
+
+It is fair to say that in their doctrinal understanding of the ritual of water
+baptism, Arndt, Spener and Francke agreed with each other and with the doctrine
+of classic German Lutheranism. But they were reacting against what they saw as
+a mechanical view of baptism promoted by their Confessionalist contemporaries.
+
+Their Doctrinal Understanding
+
+Arndt, Spener and Francke agreed with Luther that infant water baptism was a
+means of "prevenient grace" whereby the infant was placed in objective state of
+grace by God.^68 In keeping with Lutheran teaching, they also insisted that
+baptismal grace must be later confirmed by faith in Christ to actually effect
+justification.^69 Because they were accused by the Confessionalists of
+Pelagianism, all three men sought to refute this charge by affirming the
+Lutheran view of baptism.
+
+Arndt expressed his belief that one's objective standing with God was changed
+through infant baptism in all of his important written works. Consider the
+following passages.
+
+    Dear Lord Jesus Christ, you who have. . .instituted the holy sacrament of
+    baptism. . .I thank you from the heart that You have through this sacrament
+    led me into the holy Christian Church and thereby made me a partner of all
+    your heavenly and eternal benefits. . .through baptism you have clothed me
+    with your holy obedience, merit, righteousness, holiness, and innocence.
+    Through the waters of baptism the Holy Spirit has created new life and
+    changed a sinner into one who has been justified. . .You have received me
+    because of your eternal grace and promise and bound me unto Yourself
+    through this means of grace. . .^70
+
+    Through the Holy Spirit's power and activity, man is newborn. The new birth
+    occurs first through the Holy Spirit (Jn. 3:4). This is what the Lord calls
+    "to be born of the Spirit." Secondly, it occurs through faith (I Jn. 5:1).
+    In the third place it occurs through holy baptism (Jn. 3:5).^71
+
+    As a means to it (our salvation), holy baptism is ordered by which we are
+    baptized in the death of Christ so that we might die with Christ to our
+    sins by the power of his death and once again arise from our sins through
+    the power of his resurrection.^72
+
+    Where the Spirit of God is, there also is the Spirit's power, salvation,
+    regeneration, renewal; all this is the work of the Holy Spirit. Therefore
+    we know that we are born again through baptism. . .and cleansed from our
+    sins.^73
+
+Spener was in complete agreement with Arndt in his view of baptism, as is made
+clear in the following citations.
+
+    Nor do I know how to praise Baptism and its power highly enough. I believe
+    that it is the real "washing of regeneration and renewal in the Holy
+    Spirit" (Titus 3:5), or as Luther says in the Catechism, "it effects
+    forgiveness of sins, delivers from death and the devil, and grants (not
+    merely promises) eternal salvation".^74
+
+    "How does Baptism point to it (our obligation to build up other
+    Christians)?" Since by it we are united to Christ, and so all become
+    members of one spiritual body, this communion also imposes the obligation
+    that one member shall, according to his ability, further the best welfare
+    of the other (I Cor. 12:18; Eph. 4:15f.).^75
+
+    In baptism the old man dies so that thereby we testify that we no longer
+    live but what the Lord lives and that the new man is hereafter to live and
+    work in us. In the Holy Communion we eat the body and blood of the Lord so
+    that he is ever closer and increasingly united with us, and that he lives
+    in us much more so than we live in ourselves (Gal. 2:20).^76
+
+    "How do Christians become priests?" As in the Old Testament, priests were
+    not elected but born thereto, so also the new birth in baptism is that
+    which gives us the divine adoption as sons and the spiritual priesthood
+    connected to it.^77
+
+According to Stoeffler, Francke agreed with the position of Arndt and Spener on
+baptism.
+
+    In faithfulness to his Lutheran heritage Francke also spoke at times of
+    baptism as a means toward entering the new life . . . It appears to have
+    been his belief that the baptized infant finds himself in a relation of
+    special divine solicitude. . ."^78
+
+The Necessity of Fiducia
+
+The real difference between Arndt, Spener and Francke and the Lutheran
+Confessionalists was on their insistence that baptismal grace must be confirmed
+by personal faith (fiducia) in Christ rather than mere mental assent (assensus)
+to doctrine if it is to have any lasting value.
+
+The Confessionalists' view of Christianity did not emphasize the necessity of
+making a personal commitment to trust Christ for one's justification. As has
+already been shown, they held that mental assent to the creedal statements was
+sufficient. With such a perspective typically comes a corresponding belief in
+ritual as efficacious in itself.^79 Thus, it was commonly assumed that unless
+someone expressly denied Christ, they had "faith" in Christ and thus remained
+in the state of baptismal grace conferred upon them as an infant. For all
+intents and purposes then, many Germans believed that they permanently entered
+a state of grace at infant baptism.
+
+While the German Pietists did not reject the Lutheran doctrine of baptism, they
+reaffirmed that it could not keep a person in a state of grace unless that
+individual came to personal faith in Christ. By emphasizing the personal nature
+of saving faith and the moral change by which it was evidenced, they rejected
+the validity of mental assent faith. This in turn led them to warn against
+depending upon the abiding efficacy of infant baptism. They saw this negative
+emphasis as necessary in order to call people to genuine faith; one's false
+security in baptism must often first be destroyed before one will come to true
+saving faith.
+
+In True Christianity, Arndt does not expressly state that infant baptism must
+be coupled with personal faith in order to stay in a state of grace. Rather,
+one reaches this conclusion as a logical inference by his emphasis on the
+nature of saving faith and its necessity. As Stoeffler says,
+
+    " . . . Arndt held the historic Lutheran view of baptism. In point of fact,
+    however, he said little about it and put the emphasis on conversion,
+    oneness with Christ, and a holy life." ^80
+
+What was a logical inference from Arndt became an open declaration with Spener.
+Two statements from Pia Desideria make this clear.
+
+    Just as the above illusion of faith as the only means of salvation from our
+    side does great harm, so from the side of the divine means of Word and
+    sacraments the shameful illusion of an opus operatum is added. This is not
+    less harmful to the church, leads many people to damnation, and strengthens
+    the aforementioned false notion of what true faith is. We cannot deny--on
+    the contrary, daily experience convinces us--that there are not a few who
+    think that all that Christianity requires of them (and that having done
+    this, they have done quite enough in their service of God) is that they be
+    baptized, hear the preaching of God's Word, confess and receive absolution,
+    and go to the Lord's Supper, no matter how their hearts are disposed at the
+    time, whether or not there are fruits which follow, provided they at least
+    live in such a way that the civil authorities do not find them liable to
+    punishment . . . It (baptism) will be in vain that you comfort yourself in
+    your Baptism and in its promise of grace and salvation if for your part you
+    do not also remain in the covenant of faith and a good conscience or,
+    having departed therefrom, return to it with sincere repentance.
+    Accordingly if your Baptism is to benefit you, it must remain in constant
+    use throughout your life.^81
+
+    Nor is it enough to be baptized, but the inner man, where we have put on
+    Christ in Baptism, must also keep Christ on and bear witness to him in our
+    outward life.^82
+
+Francke continued Spener's emphasis on the uselessness of baptism unless it was
+accompanied by personal faith.
+
+    Thus you ought not to say, "I am baptized, I go to church, I am a
+    Christian." The hypocrites do the same. There is many a person baptized who
+    yet went back on his oath and was faithless and fell out of his baptismal
+    covenant . . . You must make no decisions (about whether you are justified)
+    because you follow externals (i.e. baptism, church attendance, communion).
+    The Scripture is directed to your heart and indicates how you must find
+    proper certainty and be sealed by the Spirit of God. You must receive the
+    Spirit of God from God and from it you must know how richly you are graced
+    by God. See, there you are commanded, there you might know what happens in
+    the heart of God for your sake, whether God loves you, whether you are his
+    child.^83
+
+Evaluation
+
+Arndt, Spener and Francke held an orthodox Lutheran view of baptism. They saw
+baptism as a means of prevenient grace which must be confirmed in adult life by
+personal faith in Christ in order to have permanent validity. They disagreed,
+however, with both the Confessionalists' and the common people's view of
+baptism who essentially viewed it as a permanent entrance into grace. They
+struggled to maintain the Lutheran view of baptism while stressing the supreme
+importance of personal faith in Christ as the sole assurance of salvation.
+
+It is the opinion of this writer that Arndt, Spener and Francke were struggling
+with a Lutheran doctrine which was logically contradictory and biblically
+unnecessary.
+
+There is an inherent logical tension in the Lutheran doctrine on baptism which
+Arndt, Spener and Francke inherited. On the one hand, Lutheran doctrine affirms
+that baptism effects an objective change in the infant's standing with God,
+placing the infant in the sphere of God's grace. On the other hand, it affirms
+the necessity of exercising faith in Christ in order to be justified. Many have
+noted the difficulty of understanding why faith is necessary if baptism places
+one under grace, or why baptism is effective if faith is what justifies.^84
+
+It is evident from the writings of both Luther and the Lutheran Pietists that
+the source of this "tension" is their interpretation of several New Testament
+passages which teach that "baptism" objectively changes our relationship with
+God.^85 It appears that neither Luther nor the Lutheran Pietists ever seriously
+questioned the Roman Catholic interpretation of these passages as referring to
+Christian water baptism. If it is granted that these passages refer instead to
+the baptism by the Holy Spirit into Christ (I Cor. 12:13), an invisible event
+which occurs at the moment of faith (Eph. 1:13,14), the apparent biblical and
+logical "contradiction" disappears. Water baptism is then understood as an
+outward affirmation of what has already taken place at the moment of personal
+faith in Christ (see Acts 10:44-47).
+
+Rather than challenge the Lutheran doctrine of baptism, the Lutheran Pietists
+simply emphasized the necessity of coupling baptism with personal faith. But
+the tension inherent in Lutheran baptismal doctrine was such that many later
+Pietists wrestled with their views of baptism.^86 The adoption of
+believers-only baptism became one of the distinctives of the Radical Pietists.
+
+Conclusion
+
+Arndt, Spener and Francke were in agreement with Luther and Lutheran orthodoxy
+that justification is a gift of legal righteousness received by faith alone.
+
+They were insistent that the faith that justifies is a living, personal faith (
+fiducia) rather than a barren mental assent to orthodox creeds (assensus). In
+this area, they were more in keeping with the teaching of Luther than their
+Confessionalist contemporaries, though admittedly Luther did not develop this
+theme to a great degree.
+
+Arndt, Spener and Francke were also in agreement with Luther and Lutheran
+orthodoxy about the meaning of baptism as a means of prevenient grace which
+must be later confirmed by personal faith. But their emphasis on fiducia as
+necessary for justification led them to decry the false confidence that many
+Germans had placed in their baptism as an ex oper operato rite.
+
+From their insistence on living faith, they concluded logically, biblically and
+experientially that sanctification will follow and give evidence of
+justification. It was this position that called forth from their
+Confessionalist contemporaries the charge that they were overturning the
+Reformation by reintroducing works as a condition for justification.
+
+Throughout their lives, Arndt, Spener and Francke consistently denied that they
+were overturning the doctrine of the Reformation. They did not even claim to be
+"completing" the Reformation that Luther began, though some have charged that
+they did. Rather, they saw themselves as a reform movement within Lutheranism,
+calling for a return to the spiritual dynamic between justification and
+sanctification that they read in scripture and in Luther, and that they had
+experienced in their own lives.^87
+
+Return to Top
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Bibliography
+
+Arndt, Johann. The Garden of Paradise. London: J. Downing, 1716.
+
+Arndt, Johann. True Christianity. Translated by Peter Erb. New York: Paulist
+Press, 1979.
+
+Brown, Dale. Understanding Pietism. Grand Rapids: Eerdmans Publishing Co.,
+1978.
+
+Deeter, Allan C. "An Historical and Theological Introduction to Phillip Jakob
+Spener's Pia Desideria: A Study in Early German Pietism". Ph.D. dissertation,
+Princeton University, 1963.
+
+Drummond, Andrew L. German Protestantism Since Luther. London: The Epworth
+Press, 1951.
+
+Ensign, David E. "Radical German Pietism (c. 1675 - c. 1760)". Ph.D.
+dissertation, Boston University, 1955.
+
+Erb, Peter C., ed. Pietists: Selected Writings. New York: Paulist Press, 1983.
+
+Erb, Peter C. "Brethren in the Early Eighteenth Century: An Unpublished
+Contemporary Account". Brethren Life and Thought. 22 (Spring 1977):105-112.
+
+Grunberg, Paul. Philipp Jakob Spener. 3 vols. Gottingen: Vandenhoeck und
+Ruprecht, 1893-1906.
+
+Hallbrooks, G. Thomas, ed. Pietism. Nashville: Broadman Press, 1981.
+
+Hickman, James T. "Spener's Pietism: Spiritual Fire". Christianity Today, May
+21,1976 pp. 6-8.
+
+Payne, Richard J., ed. Pietists: Selected Writings. New York: Paulist Pres,
+1983.
+
+Sattler, Gary R. "August Hermann Francke and Mysticism". Covenant Quarterly. 38
+(November 1980):3-17.
+
+Sattler, Gary R. God's Glory, Neighbor's Good. Chicago: Covenant Press, 1982.
+
+Skarsten, Trygve R. "The Doctrine of Justification in Classical Lutheran
+Pietism: A Revisionist Perspective". Trinity Seminary Review. 3 (Fall
+1981):20-28.
+
+Spener, Philip Jacob. Pia Desideria. Translated by Theodore G. Tappert.
+Philadelphia: Fortress Press, 1964.
+
+Spink, George Samuel. "John Arndt's Religious Thought: A Study in German
+Proto-Pietism". Ph.D. dissertation, Temple University, 1970.
+
+Stoeffler, Ernest F. German Pietism During the Eighteenth Century. Leiden: E.
+J. Brill, 1973.
+
+Stoeffler, Ernest F. The Rise of Evangelical Pietism. Leiden: E. J. Brill,
+1965.
+
+Stoffer, Dale R. "Gottfried Arnold's View of the Christian Life". Brethren Life
+and Thought. 26 (Autumn 1981):237-246.
+
+Stoffer, Dale R. "The Life and Thought of Gottfried Arnold". Brethren Life and
+Thought. 26 (Summer 1981):135-151.
+
+Stoffer, Dale R. "The Background and Development of Thought and Practice in the
+German Baptist Brethren (Dunker) and the Brethren (Progressive) Churches (c.
+1650-1979)". Ph.D. dissertation, Fuller Theological Seminary, 1980.
+
+Thompson, Clark A. "Motifs in Eighteenth Century Pietism". Ph.D. dissertation,
+Brown University, 1974.
+
+Toon, Peter. Justification and Sanctification. Westchester, Illinois: Crossway
+Books, 1983.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Footnotes
+
+1. Dale Brown, Understanding Pietism (Grand Rapids: Eerdmans Publishing Co.,
+1978), p. 22.
+
+2. Ernest F. Stoeffler, The Rise of Evangelical Pietism (Leiden: E. J. Brill,
+1965), p. 182.
+
+3. Peter C. Erb, ed., Pietists: Selected Writings (New York: Paulist Press,
+1983), p. 3.
+
+4. Dale Brown, Understanding Pietism, p. 23.
+
+5. Erb says the Lutheran Scholastics got their methodology from Melanchthon,
+who got it from the earlier (Catholic) scholastics. See Peter C. Erb, ed., 
+Pietists: Selected Writings, p. 3.
+
+6. Andrew L. Drummond, German Protestantism Since Luther (London: The Epworth
+Press, 1951), p. 52.
+
+7. Ernest F. Stoeffler, The Rise of Evangelical Pietism , pp. 182,183.
+
+8. Dale Brown, Understanding Pietism, p. 24.
+
+9. Philip Jacob Spener, Pia Desideria, trans. Theodore G. Tappert, p. 51.
+
+10. The practical results of this kind of training were almost solely polemical
+and/or explanatory sermons, emphasis on rhetoric and academic learning, decline
+in catechetical instruction and prayer, priority of study of theology over
+exegesis, and a lifestyle indistinguishable from those who didn't study
+theology. Dale Brown, Understanding Pietism, pp. 24,25.
+
+11. Justo Gonzalez, The Story of Christianity, Vol. 2 (New York: Harper and
+Row, 1984), pp. 135-141.
+
+12. Justo Gonzalez, The Story of Christianity, Vol. 2, p. 140.
+
+13. Ernest F. Stoeffler, The Rise of Evangelical Pietism, pp. 181,182.
+
+14. Ernest F. Stoeffler, The Rise of Evangelical Pietism, p. 186.
+
+15. Ernest F. Stoeffler, The Rise of Evangelical Pietism, p. 185.
+
+16. Paul indicates this in 1 Cor. 5:6-8, where he says that serious sin which
+goes undisciplined is like "leaven" which leavens the rest of the loaf (the
+local church). Properly exercised, it has the ability to restore the spiritual
+vitality of the local church so that the believers walk in "sincerity and
+truth."
+
+17. "Quite as serious is another difficulty which is always associated with a
+territorial church. In such a situation nearly everybody who happens to be
+born, baptized, and confirmed in a particular territory is a member of the
+Church. Under these circumstances the Christian ethic tends to lose itself in a
+commonly accepted folk morality. This is especially true when the emphasis of
+the Church's witness is upon assent to doctrinal truth and when the doctrine of
+the Christian calling is watered down to mean little more than obedience to
+authority and acceptance of the status quo." Ernest F. Stoeffler, The Rise of
+Evangelical Pietism, p. 185.
+
+18. "The basic requirement for being a Christian was to recognize these
+statements of church doctrine as being the authoritative formulations of the
+essence of divine revelation contained in Scripture. All the people had to do
+was accept them. In the meantime, the vitality of the people's faith declined,
+and their spiritual lives suffered." G. Thomas Hallbrooks, ed., Pietism 
+(Nashville: Broadman Press, 1981), p. 149. Stoeffler concurs with this
+evaluation when he says that "the emphasis of the Church's witness (was) upon
+assent to doctrinal truth. . ." Ernest F. Stoeffler, The Rise of Evangelical
+Pietism, p. 185.
+
+19. Ernest F. Stoeffler, The Rise of Evangelical Pietism, p. 183.
+
+20. Ernest F. Stoeffler, The Rise of Evangelical Pietism, pp. 183,184.
+Confessional Lutheranism's usage of the word assensus to define biblical faith
+became a key area of Pietistic criticism as we will see.
+
+21. ". . .the doctrine of the Christian calling (was) watered down to mean
+little more than obedience to authority and acceptance of the status quo."
+Ernest F. Stoeffler, The Rise of Evangelical Pietism, p. 185.
+
+22. "People attended church partly because they were required to do so by law,
+and attendance was sometimes thought of as a good work whose mere performance
+gave them credit in God's sight. Even more was participation in the Lord's
+Supper regarded as an act which had a mechanical effect on one's relation to
+God, and most people were regular communicants, whether once a year, once a
+quarter, or (occasionally) once an month." Philip Jacob Spener, Pia Desideria,
+translation and introduction by Theodore G. Tappert, pp. 7,8.
+
+23. The denunciation of this sin formed one of the major themes of the Old
+Testament prophets. See Is. 1:10-20;29:13,14; Jer. 7:21-23; Amos 5:21-27; Hos.
+6:6; Micah 6:6-8.
+
+24. "The father of Lutheran Pietism is not Spener but John Arndt. . .That
+Lutheran Pietism in the seventeenth century took its rise with Arndt and ended
+with Spener is quite obvious to anyone acquainted with this development."
+Ernest F. Stoeffler, The Rise of Evangelical Pietism, pp. 202,203.
+
+25. See G. Thomas Hallbrooks, ed., Pietism, p. 151.
+
+26. See Peter C. Erb, ed., Pietists: Selected Writings, p. 9.
+
+27. Dale Brown, Understanding Pietism, p. 83.
+
+28. Johann Arndt, True Christianity, trans. Peter Erb (New York: Paulist Press,
+1979), p. 24.
+
+29. Johann Arndt, True Christianity, trans. Peter Erb, p. 45.
+
+30. Philip Jacob Spener, Pia Desideria, trans. Theodore G. Tappert, p. 63.
+
+31. Philip Jacob Spener, Theologische Bedencken (Halle: Waysenhaus, 1702),
+4:435, cited in Trygve R. Skarsten, "The Doctrine of Justification in Classical
+Lutheran Pietism: A Revisionist Perspective", Trinity Seminary Review, 3 (Fall
+1981):27.
+
+32. Philip Jacob Spener: "The Spiritual Priesthood", translated from 
+Hauptschriften, bearbeitet und eingeleitet von Paul Grunberg (Gotha, 1889),
+Peter C. Erb, ed., Pietists: Selected Writings, p. 53.
+
+33. August Hermann Francke, "On Christian Perfection", trans. from Gustav
+Kramer, August Hermann Francke: Ein Lebensbild (Halle, 1880), Peter C. Erb,
+ed., Pietists: Selected Writings, pp. 114,115.
+
+34. August Hermann Francke, The Holy and Sure Way of Faith of an Evangelical
+Christian, cited in G. Thomas Hallbrooks, ed., Pietism, p. 289.
+
+35. Martin Luther, "Preface to the Epistle of Romans," cited in Philip Jacob
+Spener, Pia Desideria, G. Thomas Hallbrooks, ed., Pietism, pp. 219,220. Francke
+also refers to this passage in his Autobiography. See Peter C. Erb, ed., 
+Pietists: Selected Writings, p. 106.
+
+36. ". . .Spener believed that. . .his ministerial colleagues did not have to
+deal (like Luther) with people who wanted to become blessed from good works as
+much as with those who regarded them as unnecessary and impossible." Dale
+Brown, Understanding Pietism, p. 95. "This (the Lutheran orthodoxy of his day)
+caused him to stress the meaning of faith as fiducia rather than the more
+current emphasis on faith as assensus. While Arndt understood and accepted the
+traditional Lutheran teaching of justification by faith alone he desired to
+stress the idea that justification is meaningless from the position of the
+individual who needs salvation unless it is personally appropriated in fiducial
+ commitment." George Samuel Spink, "John Arndt's Religious Thought: A Study in
+German Proto-Pietism" (Ph.D. dissertation, Temple University, 1970), p. 156.
+
+37. "Precisely at a time when Lutherans were understandably intent upon
+defending the heritage of the Reformation. . .Arndt discerned behind the
+theological conclusions of Luther the function of doctrine as the perimeter
+around the experience of penance and salvation; in short, he brought to light
+again the spontaneity of Christian service as the true fruit of a living faith.
+Arndt is entitled to the honor of being the first "Luther scholar" to see,
+underscore, and apply Luther's vision that justification by faith alone does
+not preclude but, to the contrary, unleashes good works in terms of the whole
+Christian, his action in the Church and in the world." Peter C. Erb, ed., 
+Pietists: Selected Writings, preface by Heiko A. Oberman, p. xv.
+
+38. "It (faith) is in essence, he thought, absolute trust in Christ and
+commitment to him. Here he differed markedly from many of his contemporaries to
+whom faith at best was trust in a historic act rather than commitment to a
+person." Ernest F. Stoeffler, The Rise of Evangelical Pietism, pp. 207,208.
+
+39. Johann Arndt, True Christianity, trans. Peter Erb, p. 23.
+
+40. Johann Arndt, True Christianity, trans. Peter Erb, p. 112.
+
+41. Johann Arndt, True Christianity, trans. Peter Erb, p. 277.
+
+42. Philip Jacob Spener, "Christian Joy", Peter C. Erb, ed., Pietists: Selected
+Writings, p. 94.
+
+43. Philip Jacob Spener, Pia Desideria, G. Thomas Hallbrooks, ed., Pietism, pp.
+219,220.
+
+44. August Hermann Francke, "A Letter to a Friend Concerning the Most Useful
+Way of Preaching", Peter C. Erb, ed., Pietists: Selected Writings, p. 118.
+
+45. The most influential example of this negative perspective is Albrecht
+Ritschl, The History of Pietism, 3 Volumes (Bonn, 1880-1886), reprint Berlin,
+1966.
+
+46. "Arndt discerned behind the theological conclusions of Luther the function
+of doctrine as the perimeter around the experience of penance and salvation; in
+short, he brought to light again the spontaneity of Christian service as the
+true fruit of a living faith. Arndt is entitled to the honor of being the first
+`Luther scholar' to see, underscore, and apply Luther's vision that
+justification by faith alone does not preclude but, to the contrary, unleashes
+good works in terms of the whole Christian, his action in the Church and in the
+world." Heiko A. Oberman's preface in Johann Arndt, True Christianity, trans.
+Peter Erb (New York: Paulist Press, 1979), p. xv.
+
+47. "Pietists in general held that the new birth must necessarily manifest
+itself in a new pattern of life. . .Though denying that good works are
+necessary to justification, they put a new stress on them as attributes which
+necessarily follow from an active, living, justifying faith. They saw an
+intimate connection and coordination between justification and sanctification
+due to the conviction that the faith which justifies is also the faith which
+sanctifies." Dale R. Stoffer, "The Background and Development of Thought and
+Practice in the German Baptist Brethren (Dunker) and the Brethren (Progressive)
+Churches (c. 1650-1979)" (Ph.D. dissertation, Fuller Theological Seminary,
+1980), pp. 52,53. Oberman says, "Unlike his Orthodox contemporaries, Spener
+focused more on the subjective appropriation of the believer's redemption than
+on God's objective saving act in history in the incarnation." Peter C. Erb,
+ed., Pietists: Selected Writings, p. 6.
+
+48. "While Arndt thoroughly understood that the blessings of justification are
+obtained solely by the merits of Christ, he insisted that they be accompanied
+by the reality of sanctification. Arndt believed that while it is true that God
+alone knows whether a man possess (sic) valid faith, it is also true, according
+to the teachings of Jesus Christ, that a man's pattern of behavior gives a real
+indication of the genuineness of his faith." George Samuel Spink, "John Arndt's
+Religious Thought: A Study in German Proto-Pietism", p. 163.
+
+49. Johann Arndt, True Christianity, trans. Peter Erb, p. 47.
+
+50. Johann Arndt, True Christianity, trans. Peter Erb, pp. 56,57.
+
+51. Johann Arndt, True Christianity, trans. Peter Erb, p. 60.
+
+52. Johann Arndt, True Christianity, trans. Peter Erb, p. 177.
+
+53. Johann Arndt, The Garden of Paradise, p. ix.
+
+54. "A quick perusal of the contents of. . . . True Christianity . . . .reveals
+a heavy emphasis . . . on the new life in Christ and the fruits that should
+accompany such a walk. One is tempted to weigh the pages devoted to
+sanctification and find what seems to be an inordinate amount of space spent on
+this doctrine and conclude that to be a Christian one must attain to the
+virtues therein described thus confusing law and gospel, justification and
+sanctification. . .It is very easy for the reader to skip over Arndt's
+`Foreword to the Christian Reader'. . .where Arndt explains that he is going to
+write on sanctification. If this is done, the reader can very easily surmise
+that Arndt is talking about justification." Trygve R. Skarsten, "The Doctrine
+of Justification in Classical Lutheran Pietism: A Revisionist Perspective," p.
+26.
+
+55. "The theological faculty of the University of Wittenberg found 284 heresies
+in Spener's work (Pia)." Trygve R. Skarsten, "The Doctrine of Justification in
+Classical Lutheran Pietism: A Revisionist Perspective", p. 27.
+
+56. Philip Jacob Spener, Pia Desideria, trans. Theodore G. Tappert, p. 59. In
+speaking of "losing their salvation," I assume Spener means that the baptismal
+grace that they received as infants will be of no effect because they did not
+couple it with true faith.
+
+57. Allan C. Deeter, translation of Pia Desideria (Ph.D. dissertation,
+Princeton University, 1963), p. 41.
+
+58. Philip Jacob Spener, Erste Geistliche Schrifften, cited in Dale Brown, 
+Understanding Pietism, p. 97.
+
+59. Grunberg, Philipp Jakob Spener (Gottingen: Vandenhoeck und Ruprecht, 1893),
+1:452. This quote is from a sermon given by Spener in 1697.
+
+60. >"Spener went beyond Orthodoxy when he hinted that such works must
+necessarily follow. Although he desired to disassociate himself from the
+formula that good works are necessary for salvation, he practically implied it
+in the way he spoke of the necessity of an active Christianity. He referred to
+good works as a conditio sin qua non, necessary attributes which inhere in
+salvation." Dale Brown, Understanding Pietism, pp. 93,94.
+
+61. "He (Francke) made sure that he absorbed thoroughly the Spenerian
+understanding of Christianity and that he devoted his energies to its
+propagation by word and deed. . .There can be no doubt about the fact that. .
+.the theological insights of Spener were not only conserved but compacted by
+Francke into a clear-cut body of ideas which could be communicated to the
+younger generation with relative ease." Ernest F. Stoeffler, The Rise of
+Evangelical Pietism, p. 6,23.
+
+62. August Hermann Francke, "On Christian Perfection", Peter C. Erb, ed., 
+Pietists: Selected Writings, pp. 115,116.
+
+63. August Hermann Francke, The Holy and Sure Way of Faith of an Evangelical
+Christian, G. Thomas Hallbrooks, ed., Pietism, p. 290.
+
+64. August Hermann Francke, "A Letter to a Friend Concerning the Most Useful
+Way of Preaching", G. Thomas Hallbrooks, ed., Pietism, pp. 295,296.
+
+65. August Hermann Francke, "A Letter to a Friend Concerning the Most Useful
+Way of Preaching", G. Thomas Hallbrooks, ed., Pietism, p. 301.
+
+66. The epistle of James applies this corrective to dead orthodoxy in Jas.
+2:14-26. The fact that neither Arndt, Spener, nor Francke quote James in
+support of their position is probably due to Luther's doubts about its
+canonicity.
+
+67. "In perspective, one beholds consistently in the writings and thought of
+these early Pietist leaders the effort to avoid the appearances and errors of
+moralism. Yet one sees in the teleological test of doctrine a moralistic
+temptation. . .The shift from the judging function of the law and the
+commandments to their role as requirements of Christian life tended toward
+legalism. The application of the sanctification test to the justification
+experience led in many cases to greater subjectivization. The attempted
+classification of people into regenerate and unregenerate contained the
+potential seeds of prideful self-assertion." Dale Brown, Understanding Pietism,
+p. 101.
+
+68. "Luther prized infant baptism precisely as a demonstration of God's
+prevenient grace. . .The benefit of baptism, then is God's gracious covenant
+promise, which is no merely symbolic word about some future effect, but the
+active presence of Christ Himself beginning a new work in us to make us new. .
+.(baptism is) God's attested and operative promise." Julius Bodensieck, ed., 
+The Encyclopedia of the Lutheran Church, (Philadelphia: Fortress Press, 1965),
+Vol. 1, pp.180,183. As long as the necessity of personal faith is not denied,
+Lutherans do not object to speaking of "baptismal regeneration." "Lutherans
+have regarded it (baptism) as regeneration (Tit. 3:5, cf. John 3:5). . ."
+Bodensieck, p. 180.
+
+69. "(Luther effected) a change in understanding the manner in which the
+Sacrament exerts its gracious effect: not by the objective performance of the
+rite (ex opere operato) but only by personal faith." Julius Bodensieck, ed., 
+The Encyclopedia of the Lutheran Church, Vol. 1, p. 179.
+
+70. Johann Arndt, Paradislustgard (Stockholm: F & G Bekjers Forlag, 1875), pp.
+117-118, cited by Trygve R. Skarsten, "The Doctrine of Justification in
+Classical Lutheran Pietism: A Revisionist Perspective", Trinity Seminary Review
+ (Fall 1981):23.
+
+71. Peter C. Erb, ed., Pietists: Selected Writings (New York: Paulist Press,
+1983), pp. 37,38.
+
+72. Peter C. Erb, ed., Pietists: Selected Writings, p. 40.
+
+73. Johann Arndt, Catechismus Predigten (Stuttgart: zu finded bey Johann
+Christoph Betulius, 1771), p. 573, cited by George Samuel Spink, "John Arndt's
+Religious Thought: A Study in German Proto-Pietism" (Ph.D. dissertation, Temple
+University, 1970), p. 175.
+
+74. Philip Jacob Spener, Pia Desideria, trans. Theodore G. Tappert, p. 63.
+
+75. Philip Jacob Spener, The Spiritual Priesthood, included in Peter C. Erb,
+ed., Pietists: Selected Writings, p. 60.
+
+76. Philip Jacob Spener, Die Evangelische Lebens Pflichten In einem Jahrgang
+der Predigten. . . (Franckfurt am Main, 1715), included in Peter C. Erb, ed., 
+Pietists: Selected Writings, p. 85.
+
+77. Philip Jacob Spener, The Spiritual Priesthood, trans. by A. G. Voigt
+(Philadelphia: The Lutheran Publication Society, 1917), p. 15.
+
+78. Ernest F. Stoeffler, The Rise of Evangelical Pietism, p. 17. Though
+Stoeffler cites "Uber die Lehre von der Heilige Taufe" as his source for this
+assertion, I have been unable to find primary source material from Francke on
+this subject.
+
+79. While the Confessionalists themselves did not technically hold to this
+belief, it appears that many of the common people did. Spener held the
+Confessionalists responsible for the spread of this erroneous among the people.
+"Just as the above illusion of faith as the only means of salvation from our
+side does great harm, so from the side of the divine means of Word and
+sacraments the shameful illusion of an opus operatum is added. This is not less
+harmful to the church, leads many people to damnation, and strengthens the
+aforementioned false notion of what true faith is. We cannot deny--on the
+contrary, daily experience convinces us--that there are not a few who think
+that all that Christianity requires of them (and that having done this, they
+have done quite enough in their service of God) is that they be baptized, hear
+the preaching of God's Word, confess and receive absolution, and go to the
+Lord's Supper, no matter how their hearts are disposed at the time, whether or
+not there are fruits which follow, provided they at least live in such a way
+that the civil authorities do not find them liable to punishment." Philip Jacob
+Spener, Pia Desideria, trans. Theodore G. Tappert, p. 65.
+
+80. Ernest F. Stoeffler, The Rise of Evangelical Pietism, p. 208.
+
+81. Philip Jacob Spener, Pia Desideria, trans. Theodore G. Tappert, pp. 65,66.
+
+82. Philip Jacob Spener, Pia Desideria, trans. Theodore G. Tappert, p. 117.
+
+83. August Hermann Francke, "If and How One May Be Certain that One Is a Child
+of God", Predigten Uber die Sonn und Fest-Tags Episteln (Halle, 1741), pp.
+859-882, cited in Peter C. Erb, ed., Pietists: Selected Writings, p. 147. See
+also Stoeffler, "In faithfulness to his Lutheran heritage Francke also spoke at
+times of baptism as a means toward entering the new life. Following Spener,
+however, he made very sure not to introduce any ex opere operato concepts into
+his theology of baptism. For that reason he always speaks of baptism and faith
+together and makes it a special point to say that the promise of salvation is
+not connected with baptism only. It appears to have been his belief that the
+baptized infant finds himself in a relation of special divine solicitude,
+which, however, never precludes the absolute necessity of a personal decision
+for God either on the part of a child or an adult. At some point in the
+maturation of the individual personal faith must be added to baptism." Ernest
+F. Stoeffler, The Rise of Evangelical Pietism, p. 17.
+
+84. Stoeffler agrees: "The difficulty here is that Luther by insisting on
+salvation sola fide and, at the same time, on a rigidly objective
+interpretation of baptism bequeathed to posterity what comes close to a logical
+contradiction. The attempt to deal with this contradiction has perennially
+exercised and often agitated the minds of Lutheran theologians." Ernest F.
+Stoeffler, The Rise of Evangelical Pietism, p. 208.
+
+85. Jn. 3:5; Rom. 6:3,4; 1 Cor. 12:13; Gal. 3:27; Eph 5:26; Titus 3:5; 1 Pet
+3:21 all speak either of "baptism" or of "washing" which unites us with Christ.
+Lutherans typically refer to these verses as speaking of water baptism. See
+Julius Bodensieck, The Encyclopedia of the Lutheran Church, Vol. 1, p. 180.
+
+86. Of Arndt, Stoeffler says that "He thus linked himself definitely with many
+of the later Lutheran Pietists to whom the Lutheran doctrine of baptismal
+regeneration as popularly held was always an occasion of regret or at least of
+embarrassment. . ." Of Spener, he says "He never really rid himself of the
+strongly objective (sacramental) overtones which are inherent (sic) in the
+Lutheran tradition. Accordingly he held that the baptism of an infant
+establishes some sort of objective relationship between the baptized infant and
+God, a relationship in which unbaptized persons do not find themselves. . .It
+evidently did not occur to him that he was holding to two more or less
+radically disparate views of salvation. The one is based on sacramentally
+infused grace, or at least on a sacramentally induced change in God's attitude,
+the other on a personal faith commitment. . .In view of this contradiction it
+is understandable that the doctrine of baptismal regeneration lost more and
+more of its importance for Spener's followers who became progressively aware of
+the difficulties involved." Ernest F. Stoeffler, The Rise of Evangelical
+Pietism, pp. 208,242.
+
+87. "The many allusions, citations and references to Luther and the Book of
+Concord, directly and indirectly, leads one to believe that seventeenth century
+Lutheran Pietism saw itself as a reform movement returning to the dynamic and
+vibrantly alive doctrine of justification that Luther and the Confessions had
+espoused and not a movement bent upon completing the Reformation left
+unfinished by Martin Luther." Trygve R. Skarsten, "The Doctrine of
+Justification in Classical Lutheran Pietism: A Revisionist Perspective", p. 28.
+
+  • Add new comment
+
+Comments
+
+Anonymous (not verified) replied on Thu, 05/14/2015 - 8:52pm Permalink
+
+When was this written
+
+I would like to site your research paper in my paper for my History of
+Christianity II class. When was this written? 
+
+  • reply
+
+Gary (not verified) replied on Mon, 05/18/2015 - 4:20pm Permalink
+
+German Pietism
+
+This paper was written in 1987.
+
+  • reply
+
+Add new comment
+
+Your name [                              ]
+Subject [                                                            ]
+Comment *
+[                                                            ]
+[                                                            ]
+[                                                            ]
+[                                                            ]
+[                                                            ]
+
+More information about text formats
+
+Filtered HTML
+
+  • Web page addresses and e-mail addresses turn into links automatically.
+  • Allowed HTML tags: <a> <em> <strong> <cite> <blockquote> <code> <ul> <ol>
+    <li> <dl> <dt> <dd>
+  • Lines and paragraphs break automatically.
+
+Math question * 7 + 13 = [    ]
+Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
+[Save][Preview]
+Leave this field blank [                    ]
+  • Category Overview
+  • Apologetics: Defense of our Faith
+  • Ecclesiology: Nature of the Christian Church
+  • Old Testament
+  • New Testament
+  • Counseling and Ethics
+  • General Theology
+  • Ministry in Practice
+  • Church Movements in History
+  • World Views
+  • Leadership
+  • Outlines & Charts
+  • Book Reviews
+  • Books by Xenos Leaders
+
+[loving-gods-way]
+Get a fresh look at the One Another passages in Gary DeLashmutt's book, Loving
+God's Way!
+
+Recommended Reading
+
+ 1. What about Medical Marijuana?
+ 2. The Problem of Evil
+ 3. The Mystery Hidden for Aeons Past
+ 4. Propositions on Christ, Culture, and Career
+ 5. No Need For Apologetics? Postmodernism’s Effect on Christian Apologetics
+ 6. Cultivating a Tender Heart
+
+1340 Community Park Dr., Columbus OH 43229 (614) 823-6500
+Questions or Feedback? Contact Us.
+
+© Xenos Christian Fellowship (See our usage guidelines or privacy policy.)
+

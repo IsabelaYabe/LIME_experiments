@@ -1,0 +1,57 @@
+JavaScript is disabled on your browser. Please enable JavaScript to use this
+site.
+
+Skip to Content Skip Main Navigation
+Toggle navigation Be Involved
+
+  • Home
+  • Events
+  • Organizations
+  • Campus Links
+      □ James Madison University
+      □ Office of Student Activities and Involvement
+      □ MY Madison
+      □ Be Involved Website Video
+      □ FAQ and Support
+  • Search
+  • Sign In
+
+Search the Site
+Search [                    ]
+
+  • Organizations
+  • {{ result.DisplayName }}
+  • No Results
+  • Show more
+     
+
+  • Events
+  • {{ result.Name }}
+  • No Results
+  • Show more
+     
+
+  • News
+  • {{ result.Title }}
+  • No Results
+  • Show More
+     
+
+  • No Results
+
+Close Search
+Close
+Involvement Navigation
+
+Well this is awkward...
+
+We couldn't find an organization that matched your request.
+
+However there are lots of other lovely organizations to choose from.
+
+Search the Organization Directory
+Sign In
+
+Powered by CollegiateLink. CollegiateLink is part of Campus Labs. (C) Copyright
+2016 Campus Labs.
+
