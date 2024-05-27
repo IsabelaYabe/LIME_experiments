@@ -42,7 +42,6 @@ def main():
   parser.add_argument('--num_rounds', '-r', type=int, required=True, help='num rounds')
   args = parser.parse_args()
   dataset = args.dataset
-  num_features = args.num_features
   train_data, train_labels, test_data, test_labels, class_names = LoadDataset(dataset)
   vectorizer = CountVectorizer(lowercase=False, binary=True) 
   train_vectors = vectorizer.fit_transform(train_data)

@@ -1,5 +1,6 @@
 import numpy as np
 import scipy as sp
+from scipy import sparse
 import argparse
 import evaluate_explanations
 import sys
@@ -22,9 +23,19 @@ def get_classifier(name, vectorizer):
   if name == 'embforest':
     return embedding_forest.EmbeddingForest(vectorizer)
 class ParzenWindowClassifier:
+
     def __init__(self):
-        #self.kernel = lambda x, sigma : np.exp(-.5 * x.dot(x.T)[0,0] / sigma ** 2) / (np.sqrt(2 * np.pi * sigma **2))
-        self.kernel = lambda x, sigma: np.array(np.exp(-.5 * x.power(2).sum(axis=1) / sigma ** 2) / (np.sqrt(2 * np.pi * sigma **2))).flatten()
+        # Definir o kernel como um método de instância ao invés de um lambda para flexibilidade
+        self.kernel = self.kernel
+    def kernel(self, x, sigma):
+      if sp.sparse.issparse(x):
+        # Para matrizes esparsas, use o método .multiply() e mantenha a esparsidade
+        squared_sum = x.multiply(x).sum(axis=1)
+      else:
+        # Para matrizes densas, use np.power() ou operações equivalentes
+        squared_sum = np.sum(np.power(x, 2), axis=1)
+      return np.exp(-0.5 * squared_sum / (sigma ** 2)) / np.sqrt(2 * np.pi * sigma ** 2)
+
     def fit(self, X, y):
         self.X = X.toarray()
         self.y = y
@@ -32,14 +43,15 @@ class ParzenWindowClassifier:
         self.zeros = y==0
     def predict(self, x):
         b = sp.sparse.csr_matrix(x - self.X)
-        #pr = np.array([self.kernel(z, self.sigma) for z in b])
         pr = self.kernel(b, self.sigma)
         prob = sum(pr[self.ones]) / sum(pr)
         #print prob
         return int(prob > .5)
     def predict_proba(self, x):
+        print('x-shape', x.shape)
+        print('x type', type(x))
+        x = x.toarray()     
         b = sp.sparse.csr_matrix(x - self.X)
-        #pr = np.array([self.kernel(z, self.sigma) for z in b])
         pr = self.kernel(b, self.sigma)
         prob = sum(pr[self.ones]) / sum(pr)
         return np.array([1 - prob, prob])
@@ -61,13 +73,25 @@ class ParzenWindowClassifier:
         print ('Best sigma achieves ', best_mistakes, 'mistakes. Disagreement=', float(best_mistakes) / cv_X.shape[0])
         self.sigma = best_sigma
     def explain_instance(self, x, _, __,num_features,___=None):
+        x = x.toarray()
         print('x-shape', x.shape)
-        print('X-shape', self.X.shape)
+        print('x type', type(x))
         minus = self.X - x
+        print("Foi")
+        print('minus-shape', minus.shape)
+        print('minus type', type(minus))
+        print('minus', minus)
         b = sp.sparse.csr_matrix(minus)
-        ker = self.kernel(b, self.sigma)
-        #ker = np.array([self.kernel(z, self.sigma) for z in b])
-        times = np.multiply(minus, ker[:,np.newaxis])
+        print("tratando segundo erro")
+        ker = np.array([self.kernel(z.toarray().reshape(1, -1), self.sigma) for z in b])
+        print('ker-shape', ker.shape)
+        print('ker type', type(ker))
+        print('ker', ker)
+        print("verificação")
+        
+        ker = ker.reshape(-1, 1) 
+        times = minus * ker
+        
         sumk_0= sum(ker[self.zeros])
         sumk_1= sum(ker[self.ones])
         sumt_0 = sum(times[self.zeros])
@@ -76,7 +100,9 @@ class ParzenWindowClassifier:
         exp = (sumk_0 * sumt_1 - sumk_1 * sumt_0) / (self.sigma **2 * sumk_total ** 2)
         print('exp', exp)
         features = x.nonzero()[1]
-        values = np.array(exp[0, x.nonzero()[1]])[0]
+        print("eita")
+ 
+        values = exp[x.nonzero()[1]]
         return sorted(zip(features, values), key=lambda x:np.abs(x[1]), reverse=True)[:num_features]
 def main():
   parser = argparse.ArgumentParser(description='Visualize some stuff')
