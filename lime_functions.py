@@ -42,7 +42,7 @@ class LimeExplainer:
 
 
 class LimeExplainerSentences:
-    def __init__(self, sigma=0.1, num_samples=15000, K=3, alpha=0.1**(16), p=16,vectorizer=None, model=None, seed=42):
+    def __init__(self, sigma=25**2, num_samples=15000, K=6, alpha=0.1**(16), p=16,vectorizer=None, model=None, seed=42):
         self.sigma = sigma
         self.num_samples = num_samples
         self.K = K
@@ -77,14 +77,14 @@ class LimeExplainerSentences:
         n_x_words = len(x.indices)    
         sample_set = [np.zeros(n) for i in range(self.num_samples-1)]
         sample_set.append(self.binarize(x))
+        weights = x.tocoo().data
+        weights_normalized = weights / weights.sum()
         for i in range(self.num_samples-1):
-            z_line_indices = np.random.randint(2, size=n_x_words)
-            while not np.any(z_line_indices):
-                z_line_indices = np.random.randint(2, size=n_x_words)
-            z_line_indices = np.where(z_line_indices == 1)[0]
-            activated_words = [x_indices[j] for j in z_line_indices]
-            sample_set[i][activated_words] = 1
+            num_words = np.random.randint(1, n_x_words+1)
+            z_line_indices = np.random.choice(x_indices, size=num_words, p=weights_normalized, replace=False)
+            sample_set[i][z_line_indices] = 1
         return sample_set
+    
     
     # Transforma um vetor em uma frase
     def sentences_samples(self, z_line):
