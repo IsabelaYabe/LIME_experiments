@@ -1,5 +1,6 @@
 
 import numpy as np
+import random
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import Lasso
 from sklearn.metrics.pairwise import cosine_similarity
@@ -41,7 +42,7 @@ class LimeExplainer:
 
 
 class LimeExplainerSentences:
-    def __init__(self, sigma=0.1, num_samples=5000, K=3, alpha=0.1**(5), p=1,vectorizer=None, model=None):
+    def __init__(self, sigma=0.1, num_samples=15000, K=3, alpha=0.1**(16), p=16,vectorizer=None, model=None, seed=42):
         self.sigma = sigma
         self.num_samples = num_samples
         self.K = K
@@ -49,7 +50,9 @@ class LimeExplainerSentences:
         self.p = p
         self.model = model
         self.vectorizer = vectorizer
-    
+        np.random.seed(seed)
+        random.seed(42)
+
     # Binarizar vetor de palavras
     def binarize(self, x):
         np.set_printoptions(precision=self.p)
@@ -106,6 +109,7 @@ class LimeExplainerSentences:
 
     # Gerar explicação
     def explain_instance(self, x):
+        np.set_printoptions(precision=self.p)
         w = self.LIME(x)
         abs_valores = np.abs(w)
         indices = np.argsort(abs_valores)[::-1][:self.K]
