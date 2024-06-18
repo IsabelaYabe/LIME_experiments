@@ -39,8 +39,6 @@ class LimeExplainer:
         return X_lime, y_lime,weights, simpler_model.coef_
     
 # Lime para explicação de texto    
-
-
 class LimeExplainerSentences:
     def __init__(self, sigma=25**2, num_samples=15000, K=6, alpha=0.1**(16), p=16,vectorizer=None, model=None, seed=42):
         self.sigma = sigma
@@ -51,11 +49,11 @@ class LimeExplainerSentences:
         self.model = model
         self.vectorizer = vectorizer
         np.random.seed(seed)
-        random.seed(42)
+        np.set_printoptions(precision=self.p)
+        
 
     # Binarizar vetor de palavras
     def binarize(self, x):
-        np.set_printoptions(precision=self.p)
         n = len(self.vectorizer.get_feature_names_out())
         x_bin=np.zeros(n, dtype=int)
         for i in x.indices:
@@ -64,14 +62,14 @@ class LimeExplainerSentences:
 
     # Define a função de kernel 
     def kernel(self, x, z):
-        np.set_printoptions(precision=self.p)
+        
         distance = cosine_similarity(x, z) # Similaridade de cosseno
         weights = np.sqrt(np.exp(-(distance**2) / (self.sigma**2)))  # Kernel 
         return weights
         
     # Gera dados ao redor de x_line
     def samples(self, x):
-        np.set_printoptions(precision=self.p)
+        
         n = len(self.vectorizer.get_feature_names_out())
         x_indices = x.indices
         n_x_words = len(x.indices)    
@@ -88,14 +86,14 @@ class LimeExplainerSentences:
     
     # Transforma um vetor em uma frase
     def sentences_samples(self, z_line):
-        np.set_printoptions(precision=self.p)
+        
         indices = np.where(z_line == 1)[0]
         z=" ".join([self.vectorizer.get_feature_names_out()[indice] for indice in indices])
         return self.vectorizer.transform([z])
 
     # Define o vetor de pesos
     def LIME(self, x):
-        np.set_printoptions(precision=self.p)
+        
         Z_line = self.samples(x)
         Z=[]
         for i in range(len(Z_line)):
@@ -109,7 +107,7 @@ class LimeExplainerSentences:
 
     # Gerar explicação
     def explain_instance(self, x):
-        np.set_printoptions(precision=self.p)
+        
         w = self.LIME(x)
         abs_valores = np.abs(w)
         indices = np.argsort(abs_valores)[::-1][:self.K]

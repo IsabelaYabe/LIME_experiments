@@ -4,6 +4,7 @@ import random
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import Lasso
 from sklearn.metrics.pairwise import cosine_similarity
+
 class SubmodularPick:
     def __init__(self,X_n_vec, X, B=10,lime=None, vectorizer=None):
         self.X_n_vec = X_n_vec
