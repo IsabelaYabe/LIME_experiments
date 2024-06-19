@@ -117,7 +117,7 @@ class LimeExplainerSentences:
     # Transforma um vetor em uma frase
     def sentences_samples(self, Z_line):
         for z_line in Z_line:
-            z=" ".join([self.vectorizer.get_feature_names_out()[indice] for indice in Z_line])
+            z=" ".join([self.vectorizer.get_feature_names_out()[indice] for indice in z_line])
         return self.vectorizer.transform([z])
 
     # Define o vetor de pesos
@@ -127,6 +127,7 @@ class LimeExplainerSentences:
         else:
             Z_line = self.samples_simples
         Z=[]
+        Z_line = Z_line(x)
         for i in range(len(Z_line)):
             Z.append(self.sentences_samples(Z_line[i]))
         Z_pred = np.array([self.model.predict(z)[0] for z in Z])  
@@ -145,3 +146,57 @@ class LimeExplainerSentences:
         for i in indices:
             print(f"{self.vectorizer.get_feature_names_out()[i]}: {w[i]}")    
       
+
+
+# Lê textos
+import numpy as np
+import matplotlib.pyplot as plt
+import sklearn
+from sklearn.model_selection import train_test_split
+import sklearn.neural_network
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+from sklearn.metrics import accuracy_score, classification_report
+from sklearn.neural_network import MLPClassifier
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+
+
+
+# Exemplo de conjunto de dados de resenhas
+dados = pd.read_csv('dados.csv', sep=';')
+
+# Separar as features e o alvo
+X = dados['review']
+y = dados['sentimentos']
+
+# Escolher uma instância para fazer a previsão
+instance_index = 15
+instance = X.iloc[instance_index]
+instance_label = y.iloc[instance_index]
+print('Instância:', instance)
+print('Rótulo:', instance_label)
+
+# Deixar stopwords
+vectorizer = TfidfVectorizer()
+X_vectorized = vectorizer.fit_transform(X)
+x = X_vectorized[instance_index]
+# Separar os dados
+X_train, X_test, y_train, y_test = train_test_split(X_vectorized, y, test_size=0.3, random_state=42)
+
+
+# Treinamento do modelo de floresta aleatória
+rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
+rf_model.fit(X_train, y_train)
+
+# Fazer previsões com o modelo de floresta aleatória
+rf_y_pred = rf_model.predict(X_test)
+
+# Avaliar o modelo de floresta aleatória
+print(f'Random Forest Accuracy: {accuracy_score(y_test, rf_y_pred)}')
+print(classification_report(y_test, rf_y_pred))
+
+LIME = LimeExplainerSentences(vectorizer=vectorizer, model=rf_model)
+LIME.explain_instance(x)
