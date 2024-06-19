@@ -61,15 +61,15 @@ class LimeExplainerSentences:
     def cossine_similarity(self, x, z):
         x = x.todense() # Transforma o vetor em uma matriz densa
         z = z.todense()
-        dot_product = x.dot(z.T)
+        dot_product = np.dot(x, z.T)
         norm_x = np.linalg.norm(x)
         norm_z = np.linalg.norm(z)
-        return (dot_product / (norm_x * norm_z)).getA1()[0]
+        return (dot_product / (norm_x * norm_z)).item() # Similaridade de cosseno
     
     # Define a função de kernel 
     def kernel(self, x, z):
         distance = self.cossine_similarity(x, z) # Similaridade de cosseno
-        weight = np.sqrt(np.exp(-(distance**2) / (self.sigma**2)))  # Kernel exponencial
+        weight = np.exp((-(distance**2) / (self.sigma**2)))  # Kernel exponencial
         return weight
     
     
@@ -81,7 +81,7 @@ class LimeExplainerSentences:
         sample_set.append(self.binarize(x)) # Adiciona a sentença original binarizada
         Z_line_indices = [] # Índices das palavras ativadas
         for i in range(self.num_samples-1): # Gerar amostras aleatórias
-            num_words = np.random.randint(1, n_x_words+1)  # Número de palavras na amostra
+            num_words = np.random.randint(1, n_x_words)  # Número de palavras na amostra
             # Escolhe aleatoriamente as palavras da sentença original
             # size = número de palavras na amostra
             # replace = False, não permite repetição
@@ -89,7 +89,8 @@ class LimeExplainerSentences:
             # Ativa as palavras escolhidas
             sample_set[i][z_line_indices] = 1
             Z_line_indices.append(z_line_indices)
-        return sample_set, z_line_indices
+        Z_line_indices.append(x_indices)
+        return sample_set, Z_line_indices
 
     # Gera dados ao redor de x_line relevancia das palavras
     def samples_opt(self, x):
@@ -102,7 +103,7 @@ class LimeExplainerSentences:
         weights_normalized = weights / weights.sum() # Normaliza os pesos
         Z_line_indices = [] # Índices das palavras ativadas
         for i in range(self.num_samples-1): # Gerar amostras aleatórias
-            num_words = np.random.randint(1, n_x_words+1)  # Número de palavras na amostra
+            num_words = np.random.randint(1, n_x_words)  # Número de palavras na amostra
             # Escolhe aleatoriamente as palavras da sentença original
             # size = número de palavras na amostra
             # p = pesos normalizados, a probabilidade de escolher cada palavra
@@ -111,40 +112,41 @@ class LimeExplainerSentences:
             # Ativa as palavras escolhidas
             sample_set[i][z_line_indices] = 1
             Z_line_indices.append(z_line_indices)
-        return sample_set, z_line_indices
+        Z_line_indices.append(x_indices)
+        return sample_set, Z_line_indices
     
     
     # Transforma um vetor em uma frase
-    def sentences_samples(self, Z_line):
-        for z_line in Z_line:
-            z=" ".join([self.vectorizer.get_feature_names_out()[indice] for indice in z_line])
-        return self.vectorizer.transform([z])
+    def sentences_samples(self, Z_line_indices):
+        Z = []
+        for z_line_indice in Z_line_indices:
+            z=" ".join(self.vectorizer.get_feature_names_out()[z_line_indice])
+            Z.append(self.vectorizer.transform([z]))
+        return Z 
 
     # Define o vetor de pesos
     def LIME(self, x):
         if self.generate == "opt":
-            Z_line = self.samples_opt
+            Z_line, Z_line_indices = self.samples_opt(x)
         else:
-            Z_line = self.samples_simples
-        Z=[]
-        Z_line = Z_line(x)
-        for i in range(len(Z_line)):
-            Z.append(self.sentences_samples(Z_line[i]))
+            Z_line, Z_line_indices = self.samples_simples(x)
+        Z=self.sentences_samples(Z_line_indices)
         Z_pred = np.array([self.model.predict(z)[0] for z in Z])  
-        pi_x = np.array([self.kernel(x, z)[0][0] for z in Z]) 
+        pi_x = np.array([self.kernel(x, z) for z in Z]) 
         lasso = Lasso(alpha=self.alpha)
         lasso.fit(Z_line, Z_pred, sample_weight=pi_x)
         w = lasso.coef_
         return w 
+    
 
     # Gerar explicação
     def explain_instance(self, x):
-        w = self.LIME(x)
-        abs_valores = np.abs(w)
-        indices = np.argsort(abs_valores)[::-1][:self.K]
-        print("Palavras importantes:")
-        for i in indices:
-            print(f"{self.vectorizer.get_feature_names_out()[i]}: {w[i]}")    
+            w = self.LIME(x)
+            abs_valores = np.abs(w)
+            indices = np.argsort(abs_valores)[::-1][:self.K]
+            print("Palavras importantes:")
+            for i in indices:
+                print(f"{self.vectorizer.get_feature_names_out()[i]}: {w[i]}")
 
 class SubmodularPick:
     def __init__(self,X_n_vec, X, B,lime=None, vectorizer=None):
@@ -258,5 +260,10 @@ rf_y_pred = rf_model.predict(X_test)
 print(f'Random Forest Accuracy: {accuracy_score(y_test, rf_y_pred)}')
 print(classification_report(y_test, rf_y_pred))
 
+print("Generator: opt")
 LIME = LimeExplainerSentences(vectorizer=vectorizer, model=rf_model)
+LIME.explain_instance(x)
+
+print("Generator: simples")
+LIME = LimeExplainerSentences(vectorizer=vectorizer, model=rf_model, generate="simple")
 LIME.explain_instance(x)
