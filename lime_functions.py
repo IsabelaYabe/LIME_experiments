@@ -241,29 +241,87 @@ instance_label = y.iloc[instance_index]
 print('Instância:', instance)
 print('Rótulo:', instance_label)
 
-# Deixar stopwords
-vectorizer = TfidfVectorizer()
-X_vectorized = vectorizer.fit_transform(X)
-x = X_vectorized[instance_index]
-# Separar os dados
-X_train, X_test, y_train, y_test = train_test_split(X_vectorized, y, test_size=0.3, random_state=42)
+# Retira stopwords
+stop_words = stopwords.words('portuguese')
+X_sw = X.apply(lambda x: ' '.join([word for word in x.split() if word not in (stop_words)]))
 
+# Vetorização do texto
+vectorizer_sw = TfidfVectorizer()
+X_vectorized_sw = vectorizer_sw.fit_transform(X_sw)
+x_sw = X_vectorized_sw[instance_index]
+# Dividir os dados em conjuntos de treino e teste
+X_train_sw, X_test_sw, y_train_sw, y_test_sw = train_test_split(X_vectorized_sw, y, test_size=0.3, random_state=42)
 
-# Treinamento do modelo de floresta aleatória
-rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
-rf_model.fit(X_train, y_train)
+# Treinamento do modelo de floresta aleatória sem stopwords
+rf_model_sw = RandomForestClassifier(n_estimators=100, random_state=42)
+rf_model_sw.fit(X_train_sw, y_train_sw)
 
-# Fazer previsões com o modelo de floresta aleatória
-rf_y_pred = rf_model.predict(X_test)
+# Fazer previsões com o modelo de floresta aleatória sem stopwords
+rf_y_pred_sw = rf_model_sw.predict(X_test_sw)
 
-# Avaliar o modelo de floresta aleatória
-print(f'Random Forest Accuracy: {accuracy_score(y_test, rf_y_pred)}')
-print(classification_report(y_test, rf_y_pred))
+# Avaliar o modelo de floresta aleatória sem stopwords
+print(f'Random Forest Accuracy (sem stopwords): {accuracy_score(y_test_sw, rf_y_pred_sw)}')
+print(classification_report(y_test_sw, rf_y_pred_sw))
+
+print("RANDOM FOREST")
 
 print("Generator: opt")
-LIME = LimeExplainerSentences(vectorizer=vectorizer, model=rf_model)
-LIME.explain_instance(x)
+LIME = LimeExplainerSentences(vectorizer=vectorizer_sw, model=rf_model_sw, generate="opt")
+LIME.explain_instance(x_sw)
 
 print("Generator: simples")
-LIME = LimeExplainerSentences(vectorizer=vectorizer, model=rf_model, generate="simple")
-LIME.explain_instance(x)
+LIME = LimeExplainerSentences(vectorizer=vectorizer_sw, model=rf_model_sw, generate="simples")
+LIME.explain_instance(x_sw)
+
+print("#########################################")
+
+print("MLP")
+
+# Treinamento do modelo MLP sem stopwords
+mlp_model_sw = MLPClassifier(hidden_layer_sizes=(100,), max_iter=1000, random_state=42)
+mlp_model_sw.fit(X_train_sw, y_train_sw)
+
+# Fazer previsões com o modelo MLP sem stopwords
+mlp_y_pred_sw = mlp_model_sw.predict(X_test_sw)
+
+# Avaliar o modelo MLP sem stopwords
+print(f'MLP Accuracy (sem stopwords): {accuracy_score(y_test_sw, mlp_y_pred_sw)}')
+print(classification_report(y_test_sw, mlp_y_pred_sw))
+
+print("Generator: opt")
+LIME = LimeExplainerSentences(vectorizer=vectorizer_sw, model=mlp_model_sw, generate="opt")
+LIME.explain_instance(x_sw)
+
+print("Generator: simples")
+LIME = LimeExplainerSentences(vectorizer=vectorizer_sw, model=mlp_model_sw, generate="simples")
+LIME.explain_instance(x_sw)
+
+print("#########################################")
+
+print("Gradient Boosting")
+
+# Treinamento do modelo Gradient Boosting sem stopwords
+gb_model_sw = GradientBoostingClassifier(n_estimators=100, random_state=42)
+gb_model_sw.fit(X_train_sw, y_train_sw)
+
+# Fazer previsões com o modelo Gradient Boosting sem stopwords
+gb_y_pred_sw = gb_model_sw.predict(X_test_sw)
+
+# Avaliar o modelo Gradient Boosting sem stopwords
+print(f'Gradient Boosting Accuracy (sem stopwords): {accuracy_score(y_test_sw, gb_y_pred_sw)}')
+
+print(classification_report(y_test_sw, gb_y_pred_sw))
+
+print("Generator: opt")
+
+LIME = LimeExplainerSentences(vectorizer=vectorizer_sw, model=gb_model_sw, generate="opt")
+LIME.explain_instance(x_sw)
+
+print("Generator: simples")
+LIME = LimeExplainerSentences(vectorizer=vectorizer_sw, model=gb_model_sw, generate="simples")
+LIME.explain_instance(x_sw)
+
+print("#########################################")
+
+
+
